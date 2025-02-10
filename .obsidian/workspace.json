@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Pathology - Cell injury and responses 1-2 -  Overview of cell injury, Reversible cell injury (MD).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Pathology - Cell injury and responses 1-2 -  Overview of cell injury, Reversible cell injury (MD)"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "MD1/Lecutures/MD1 - Anatomy 02 - The First 3 Weeks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for MD1 - Anatomy 02 - The First 3 Weeks"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "MD1/Lecutures/MD1 - Anatomy 02 - The First 3 Weeks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from MD1 - Anatomy 02 - The First 3 Weeks"
             }
           },
           {
@@ -127,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -139,13 +142,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "MD1/Lecutures/MD1 - Anatomy 02 - The First 3 Weeks.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of MD1 - Anatomy 02 - The First 3 Weeks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -159,11 +163,135 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
+  },
+  "floating": {
+    "id": "514bdd1adccfca1a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c8315e945710e408",
+        "type": "window",
+        "children": [
+          {
+            "id": "f8f0a0222d7ac451",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4f2177bb4827d03e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1/Lecutures/Anatomy/MD1 - Anatomy 02 - The First 3 Weeks.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MD1 - Anatomy 02 - The First 3 Weeks"
+                }
+              },
+              {
+                "id": "bf57208d871de9e5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "primary yolk sac.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "primary yolk sac"
+                }
+              },
+              {
+                "id": "d025e6b17254347f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "extraembryonic coelom.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "extraembryonic coelom"
+                }
+              },
+              {
+                "id": "526c34de6cde5348",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1/Lecutures/Physiology/Physiology Lecture 3 - Electrophysiology.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Physiology Lecture 3 - Electrophysiology"
+                }
+              },
+              {
+                "id": "cb35edbc056a0aa8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1/Lecutures/Physiology/Physiology Lecture 4 Synaptic Transmission.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Physiology Lecture 4 Synaptic Transmission"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical",
+        "x": 1966,
+        "y": -194,
+        "width": 711,
+        "height": 753,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
   },
   "active": "c2e717a5a97a9261",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "Pathology - Cell injury and responses 1-2 -  Overview of cell injury, Reversible cell injury (MD).md",
+    "MD1/Lecutures/Pathology/Pathology - Cell injury and responses 1-2 -  Overview of cell injury, Reversible cell injury (MD).md",
+    "MD1/Lecutures/Pathology",
+    "MD1/Lecutures/Orientation.md",
+    "MD1/MD1 - Anatomy.md",
+    "People Directory.md",
+    "MD1/Lecutures/Anatomy/MD1 - Anatomy 01 - ANATOMICAL METHODS AND TERMS.md",
+    "MD1/Lecutures/Anatomy/MD1 - Anatomy 02 - The First 3 Weeks.md",
+    "MD1/Lecutures/Physiology/Physiology Lecture 4 Synaptic Transmission.md",
+    "MD1/Lecutures/Physiology/Physiology Lecture 3 - Electrophysiology.md",
+    "MD1/Lecutures/Physiology/Physiology Lecture 2 -  Membrane Transport - 2025-01-28 1100.md",
+    "MD1/Lecutures/Physiology",
+    "System/Templates/lecture (template).md",
+    "MD1/Lecutures/Anatomy",
+    "Therasa Fahey.md",
+    "System/Templates",
+    "System",
+    "extraembryonic coelom.md",
+    "primary yolk sac.md",
+    "Glossary/iatrogenic.md",
+    "Glossary",
+    "MD1 - Clinical Skills Workshop 2.md",
+    "MD1/Topics",
+    "001-Vault Guide.md",
+    "MD1/Lecutures",
+    "MD1"
   ]
 }
