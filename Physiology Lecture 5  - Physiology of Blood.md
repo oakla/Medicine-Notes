@@ -2,11 +2,12 @@
 aliases: 
 tags:
   - Class/Literature-Note/Lecture
-  - Topic/Pathology
+  - Topic/Physioloigy
   - Context/MD1
-Author(s):
-  - "[[Marcus Dabner]]"
-key-terms: 
+Author:
+  - "[[Rob White]]"
+key-terms:
+  - "[[Haematopoiesis]]"
 presentation-datetime:
 ---
 
