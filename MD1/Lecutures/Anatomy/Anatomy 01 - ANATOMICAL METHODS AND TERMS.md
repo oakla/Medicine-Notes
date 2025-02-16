@@ -8,6 +8,9 @@
 ## How to Study
 
 
+## Misc Notes
+The [[Recurrent Laryngeal Nerve]] (RLN) is a good example of why studying anatomy via embryonic development is a good idea. The RLN is a nerve that is unusual in that it does a large detour under the aorta only to travel back up to the neck. This makes much more sense if you understand the developmental timeline that leads to this.
+
 
 ## Anatomical Position and Terms
 ### General Directional Terms
@@ -15,3 +18,6 @@
 ### Absolute Reference Terms
 
 ### Bipeds (Adults) vs Quadrupeds (Embryo/Fetal/ <12 months old)
+
+
+

@@ -17,8 +17,21 @@ presentation-datetime:
 
 ### Goal
 
+### Terms
+#### Key Terms
+
+#### Other Terms
+
 ### Sections
+
+
+## Notes
+
+
 ## Questions
+
+### My Questions
+### Revision Questions
 
 
 

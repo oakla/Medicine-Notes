@@ -5,24 +5,16 @@
       "path": "MD1/Lecutures/Anatomy/Anatomy 02 - The First 3 Weeks.md"
     },
     {
-      "basename": "Mesoderm",
-      "path": "Mesoderm.md"
+      "basename": "Zona Pellucida",
+      "path": "Glossary/Zona Pellucida.md"
     },
     {
-      "basename": "Embryonic Disk",
-      "path": "Embryonic Disk.md"
-    },
-    {
-      "basename": "extraembryonic coelom",
-      "path": "extraembryonic coelom.md"
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
       "basename": "MD1 - Anatomy",
       "path": "MD1/MD1 - Anatomy.md"
-    },
-    {
-      "basename": "Zona Pellucida",
-      "path": "Zona Pellucida.md"
     },
     {
       "basename": "Physiology Lecture 5  - Physiology of Blood",
@@ -31,6 +23,42 @@
     {
       "basename": "lecture (template)",
       "path": "System/Templates/lecture (template).md"
+    },
+    {
+      "basename": "Ectoderm",
+      "path": "Glossary/Ectoderm.md"
+    },
+    {
+      "basename": "Embryonic Disk",
+      "path": "Glossary/Embryonic Disk.md"
+    },
+    {
+      "basename": "primary yolk sac",
+      "path": "Glossary/primary yolk sac.md"
+    },
+    {
+      "basename": "extraembryonic coelom",
+      "path": "Glossary/extraembryonic coelom.md"
+    },
+    {
+      "basename": "Gastrulation",
+      "path": "Glossary/Gastrulation.md"
+    },
+    {
+      "basename": "Anatomy 01 - ANATOMICAL METHODS AND TERMS",
+      "path": "MD1/Lecutures/Anatomy/Anatomy 01 - ANATOMICAL METHODS AND TERMS.md"
+    },
+    {
+      "basename": "Recurrent Laryngeal Nerve",
+      "path": "Glossary/Recurrent Laryngeal Nerve.md"
+    },
+    {
+      "basename": "permanent note (template)",
+      "path": "System/Templates/permanent note (template).md"
+    },
+    {
+      "basename": "Mesoderm",
+      "path": "Glossary/Mesoderm.md"
     },
     {
       "basename": "Physiology Lecture 4 Synaptic Transmission",
@@ -51,10 +79,6 @@
     {
       "basename": "Pathology - Cell injury and responses 1 - Overview of cell injury",
       "path": "MD1/Lecutures/Pathology/Pathology - Cell injury and responses 1 - Overview of cell injury.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     }
   ],
   "omittedPaths": [],
