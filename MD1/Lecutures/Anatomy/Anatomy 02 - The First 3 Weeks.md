@@ -109,22 +109,50 @@ Primary yolk sac moves to the ventral side and leaves part behind referred to as
 
 ### Blood Supply
 
-### Week 3: Gastrulation
-Gastrulation is the formation of the 3 embryonic cells layers
-
 ### Embryonic disk
 - within the primitive node is primitive pit
 - "important to quote the correct part of the primitive streak depending on what you're talking about"
 
+### Week 3: Gastrulation
+Gastrulation is the formation of the 3 embryonic cells layers
+Happens in the primitive streak
+Relative days are kind of important here
+- 1st migration day 14-15
+- 2nd migration day 16
+#### Mesodermal Development
+Four divisions of mesoderm on the embryonic disk
+1. axial - notochord
+2. paraxial - somites
+3. intermediate - paired
+4. lateral plate - heart, body wall, gut tube wall
+
+Notochord 
+- from axial mesoderm
+- grows cranially from the p. pit
+
+### Ectoderm development
+- 
+- neural tube forms
+- one of the key things of being a vertebrate (spinal cord with tube inside it)
+- notochord induces ectoderm to proliferate and differentiate to create
+	- neural plate with future neural crest cells at edges
+	- folds and edges of plate connect to form a tube
+- NT grows 15% in length in 4 days!
+
+
+
 ### Embryonic Mechanisms
-1. Proliferate
-2. Differentiate
-3. Migration
-4. Induction
-5. Combination
+5. Proliferate
+6. Differentiate
+7. Migration
+8. Induction
+9. Combination
 
 
 ## Questions
 
 ### My Questions
+- does endoderm displace *all* the hypoblast? (yes) 
+- where does it all go? 
+- what was it for?
 ### Revision Questions
