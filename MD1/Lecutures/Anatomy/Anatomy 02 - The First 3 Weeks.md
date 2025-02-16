@@ -78,6 +78,7 @@ The path from 2 haploid cells to an "implanted embryo"
 - [[Morula]]
 - [[Blastocoel]]
 - [[Blastocyst]]
+- [[Heuser's Membrane]]
 
 
 ## Notes
@@ -88,6 +89,12 @@ The path from 2 haploid cells to an "implanted embryo"
 Starting from one cell incarcerated in the [[zona pellucida]], cells proliferate to become a [[morula]] which then 'takes a drink' to develop a [[blastocoel]], thus becoming a [[blastocyst]]. This blastocyst escapes from the ZP (ideally) inside the uterus when it becomes implanted into the [[endometrium]].
 
 #### Implantation
+Trophoblast embeds into the endometrium. Syncytiotrophoblast look for nutrients. Cytotrophoblast holds the inner cell mass (ICM) and the blastocoel
+
+### Week 2
+#### Fully Implanted Embryo
+- Primitive germ layers appear: **epiblast** and **hypoblast**
+- Heuser's membrane appears (is not hypoblast)
 
 
 
