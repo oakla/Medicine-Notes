@@ -71,7 +71,8 @@ The path from 2 haploid cells to an "implanted embryo"
 - [[Definitive Yolk Sac]]     
 - [[Placenta]]                
 - [[Chorionic villi]]         
-- [[Embryonic Disk]]          
+- [[Embryonic Disk]]
+- [[Chorionic villi]]
 
 #### Other Terms
 - [[Zona Pellucida]]
@@ -79,7 +80,12 @@ The path from 2 haploid cells to an "implanted embryo"
 - [[Blastocoel]]
 - [[Blastocyst]]
 - [[Heuser's Membrane]]
-
+- [[definitive yolk sac]]
+- [[Hypoblast]]
+- [[Primitive pit]]
+- [[primitive node]]
+- [[primitive groove]]
+- [[primitive streak]]
 
 ## Notes
 - The basic body plan of *any* vertebrate is 'a tube within a tube'. The outer tube is made of [[ectoderm]] and the inner tube is made of [[endoderm]].
@@ -93,9 +99,29 @@ Trophoblast embeds into the endometrium. Syncytiotrophoblast look for nutrients.
 
 ### Week 2
 #### Fully Implanted Embryo
-- Primitive germ layers appear: **epiblast** and **hypoblast**
-- Heuser's membrane appears (is not hypoblast)
+More things appear
+- Primitive germ layers appear: **epiblast** and **hypoblast** from the ICM. (Hypoblast is extraembryonic)
+- **Heuser's membrane** appears (is not hypoblast) surrounding the **yolk sac**
+- EEM. Facilitates formation of the chorionic cavity
+### Week 2: Bilaminar embryo
+Chrorion continues to expand
+Primary yolk sac moves to the ventral side and leaves part behind referred to as the '[[definitive yolk sac]]'
 
+### Blood Supply
+
+### Week 3: Gastrulation
+Gastrulation is the formation of the 3 embryonic cells layers
+
+### Embryonic disk
+- within the primitive node is primitive pit
+- "important to quote the correct part of the primitive streak depending on what you're talking about"
+
+### Embryonic Mechanisms
+1. Proliferate
+2. Differentiate
+3. Migration
+4. Induction
+5. Combination
 
 
 ## Questions
