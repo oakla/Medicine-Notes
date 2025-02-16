@@ -4,6 +4,7 @@ tags:
 ---
 Lectures
 1. [[MD1 - Anatomy 01 - ANATOMICAL METHODS AND TERMS]]
+2. [[Anatomy 02 - The First 3 Weeks]]
 
 
 ## Terminology

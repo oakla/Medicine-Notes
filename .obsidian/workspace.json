@@ -13,6 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "MD1/MD1 - Anatomy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MD1 - Anatomy"
+            }
+          },
+          {
+            "id": "fbd29bab46f95c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD1/Lecutures/Anatomy/Anatomy 02 - The First 3 Weeks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anatomy 02 - The First 3 Weeks"
+            }
+          },
+          {
+            "id": "a079a881183dbc51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embryonic Disk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Embryonic Disk"
+            }
+          },
+          {
+            "id": "b4c0f3f6a41df406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extraembryonic coelom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "extraembryonic coelom"
+            }
+          },
+          {
+            "id": "77f0a0284333e664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Physiology Lecture 5  - Physiology of Blood.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +77,8 @@
               "title": "Physiology Lecture 5  - Physiology of Blood"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,8 +130,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "39ac212c28de7ccf",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD1/Lecutures/MD1 - Anatomy 02 - The First 3 Weeks.md",
+                "file": "Embryonic Disk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MD1 - Anatomy 02 - The First 3 Weeks"
+              "title": "Backlinks for Embryonic Disk"
             }
           },
           {
@@ -142,14 +210,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MD1/Lecutures/MD1 - Anatomy 02 - The First 3 Weeks.md"
+                "file": "Embryonic Disk.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MD1 - Anatomy 02 - The First 3 Weeks"
+              "title": "Outline of Embryonic Disk"
+            }
+          },
+          {
+            "id": "68acc00c7f3041f3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +339,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 46,
-        "y": 0,
+        "x": 2606,
+        "y": 182,
         "width": 712,
         "height": 752,
         "maximize": false,
@@ -264,29 +348,32 @@
       }
     ]
   },
-  "active": "cb35edbc056a0aa8",
+  "active": "a079a881183dbc51",
   "lastOpenFiles": [
+    "extraembryonic coelom.md",
+    "Embryonic Disk.md",
+    "MD1/Lecutures/Anatomy/Anatomy 02 - The First 3 Weeks.md",
+    "MD1/MD1 - Anatomy.md",
+    "Zona Pellucida.md",
     "Physiology Lecture 5  - Physiology of Blood.md",
+    "System/Templates/lecture (template).md",
+    "MD1/Lecutures/Physiology/Physiology Lecture 4 Synaptic Transmission.md",
+    "MD1/Lecutures/Physiology/Physiology Lecture 3 - Electrophysiology.md",
+    "MD1/Lecutures/Physiology/Physiology Lecture 2 -  Membrane Transport - 2025-01-28 1100.md",
     "MD1/Lecutures/Pathology/Pathology - Cell injury and responses 2 - Reversible cell injury.md",
     "MD1/Lecutures/Pathology/Pathology - Cell injury and responses 1 - Overview of cell injury.md",
+    "Untitled.md",
     "Welcome.md",
     "MD1/Lecutures/Pathology/Pathology - Cell injury and responses 1-2 -  Overview of cell injury, Reversible cell injury (MD).md",
     "MD1/Lecutures/Pathology",
     "MD1/Lecutures/Orientation.md",
-    "MD1/MD1 - Anatomy.md",
     "People Directory.md",
     "MD1/Lecutures/Anatomy/MD1 - Anatomy 01 - ANATOMICAL METHODS AND TERMS.md",
-    "MD1/Lecutures/Anatomy/MD1 - Anatomy 02 - The First 3 Weeks.md",
-    "MD1/Lecutures/Physiology/Physiology Lecture 4 Synaptic Transmission.md",
-    "MD1/Lecutures/Physiology/Physiology Lecture 3 - Electrophysiology.md",
-    "MD1/Lecutures/Physiology/Physiology Lecture 2 -  Membrane Transport - 2025-01-28 1100.md",
     "MD1/Lecutures/Physiology",
-    "System/Templates/lecture (template).md",
     "MD1/Lecutures/Anatomy",
     "Therasa Fahey.md",
     "System/Templates",
     "System",
-    "extraembryonic coelom.md",
     "primary yolk sac.md",
     "Glossary/iatrogenic.md",
     "Glossary",
