@@ -51,8 +51,31 @@ The path from 2 haploid cells to an "implanted embryo"
 ### Sections
 - 
 ### Terms
+#### Key Terms
+
+|                             |                      |     |     |
+| --------------------------- | -------------------- | --- | --- |
+| [[Ectoderm]]                | The top layer of the |     |     |
+| [[Mesoderm]]                |                      |     |     |
+| [[Endoderm]]                |                      |     |     |
+| [[Haploid]]                 |                      |     |     |
+| [[Gastrulation]]            |                      |     |     |
+| [[Neurulation]]             |                      |     |     |
+| [[Trophoblast]]             |                      |     |     |
+| [[Cytotrophoblast]]         |                      |     |     |
+| [[Syncytiotrophoblast]]     |                      |     |     |
+| [[Extraembryonic mesoderm]] |                      |     |     |
+| [[Epiblast]]                |                      |     |     |
+| [[Hypoblast]]               |                      |     |     |
+| [[extraembryonic coelom]]   |                      |     |     |
+| [[Definitive Yolk Sac]]     |                      |     |     |
+| [[Placenta]]                |                      |     |     |
+| [[Chorionic villi]]         |                      |     |     |
+| [[Embryonic Disk]]          |                      |     |     |
+
+#### Other Terms
+
 - [[Zona Pellucida]]
 - [[Morula]]
 - [[Blastocoel]]
 - [[Blastocyst]]
-- [[Trophoblast]]

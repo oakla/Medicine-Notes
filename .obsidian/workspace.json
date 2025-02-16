@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embryonic Disk.md",
+                "file": "MD1/Lecutures/Anatomy/Anatomy 02 - The First 3 Weeks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Embryonic Disk"
+              "title": "Backlinks for Anatomy 02 - The First 3 Weeks"
             }
           },
           {
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embryonic Disk.md",
+                "file": "MD1/Lecutures/Anatomy/Anatomy 02 - The First 3 Weeks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Embryonic Disk"
+              "title": "Outline of Anatomy 02 - The First 3 Weeks"
             }
           },
           {
@@ -232,13 +232,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "7f587dc7ba6304a1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,7 +259,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "floating": {
@@ -348,11 +359,12 @@
       }
     ]
   },
-  "active": "a079a881183dbc51",
+  "active": "fbd29bab46f95c43",
   "lastOpenFiles": [
-    "extraembryonic coelom.md",
-    "Embryonic Disk.md",
+    "Mesoderm.md",
     "MD1/Lecutures/Anatomy/Anatomy 02 - The First 3 Weeks.md",
+    "Embryonic Disk.md",
+    "extraembryonic coelom.md",
     "MD1/MD1 - Anatomy.md",
     "Zona Pellucida.md",
     "Physiology Lecture 5  - Physiology of Blood.md",
