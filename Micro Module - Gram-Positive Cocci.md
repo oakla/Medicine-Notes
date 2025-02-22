@@ -35,7 +35,7 @@ learning-outcomes:
 - Gram-positive
 	- refers to a positive result to a dark gram stain 
 	- indicates a think cell wall
-- [[Staphylococcus]], [[Streptococcus]], and [[Enterococcus]] are the most common clinical samples of gram-positive cocci
+- [[Staphylococcus]], [[Streptococcus]], and [[Enterococcus]] are the most common genera of aerobic (or facultative anaerobic) gram-positive cocci found in clinical samples
 - Staphylococcus identification
 	- microscopy: can be visually differentiated (under microscopy) from strep & entero its collective arrangement of individual cells
 	- chemically: staphylococci produce an enzyme that catalyses H202 breakdown. Staphylocci + hydrogen peroxide will vigorously produce gas. 
