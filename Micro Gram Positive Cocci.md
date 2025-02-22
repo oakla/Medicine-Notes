@@ -12,7 +12,8 @@ presentation-datetime:
 
 ## Overview
 ### Learning Outcomes
-
+- List the most clinically important genera of Gram-positive cocci. 
+- Discuss the key methods of classifying Gram-positive cocci.
 ### Outline
 
 ### Goal
