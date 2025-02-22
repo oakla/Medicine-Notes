@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset)",
+      "path": "Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset).md"
+    },
+    {
       "basename": "Micromodule - The Genus Staphylococcus",
-      "path": "Micromodule - The Genus Staphylococcus.md"
+      "path": "MD1/Lecutures/Microbiology/Micromodule - The Genus Staphylococcus.md"
     },
     {
-      "basename": "Micro Module - Gram-Positive Cocci",
-      "path": "Micro Module - Gram-Positive Cocci.md"
-    },
-    {
-      "basename": "MD1.1 Micro",
-      "path": "MD1.1 Micro.md"
+      "basename": "MD1.1 - Micro",
+      "path": "MD1/Topics/MD1.1 - Micro.md"
     },
     {
       "basename": "lecture (template)",
       "path": "System/Templates/lecture (template).md"
     },
     {
-      "basename": "MD1 - Anatomy",
-      "path": "MD1/MD1 - Anatomy.md"
+      "basename": "Micro Module - Gram-Positive Cocci",
+      "path": "MD1/Lecutures/Microbiology/Micro Module - Gram-Positive Cocci.md"
+    },
+    {
+      "basename": "MD1.1 - Anatomy",
+      "path": "MD1/Topics/MD1.1 - Anatomy.md"
     },
     {
       "basename": "Anatomy 02 - The First 3 Weeks",

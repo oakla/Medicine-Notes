@@ -4,7 +4,8 @@ tags:
   - Class/Literature-Note/Lecture
   - Topic/-
   - Context/MD1
-author(s): 
+author(s):
+  - "[[Jo Chua]]"
 key-terms: 
 presentation-datetime: 
 learning-outcomes:
