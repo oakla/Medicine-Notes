@@ -6,6 +6,7 @@
     "terms": "multitext",
     "key-terms": "multitext",
     "presentation-datetime": "datetime",
-    "Author": "multitext"
+    "Author": "multitext",
+    "learning-outcomes": "multitext"
   }
 }

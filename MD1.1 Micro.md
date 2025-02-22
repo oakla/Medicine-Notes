@@ -1,9 +1,8 @@
 Subject overview
 
 ## What to learn 
-
 (outlined in "[Guide to approaching the micromodules](https://drive.google.com/file/d/1035n1t_nWpcC-d0UiCv0Fhk0m66X7lpG/view?usp=drive_link)")
-### Antibiotic application:
+### Antibiotic application to:
 - Staphylococci
 - Streptococci
 - Enterococci

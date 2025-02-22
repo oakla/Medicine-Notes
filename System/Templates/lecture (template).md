@@ -6,7 +6,8 @@ tags:
   - Context/MD1
 author(s): 
 key-terms: 
-presentation-datetime:
+presentation-datetime: 
+learning-outcomes:
 ---
 
 

@@ -271,12 +271,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Micro Gram Positive Cocci.md",
+                    "file": "Micro Module - Gram-Positive Cocci.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Micro Gram Positive Cocci"
+                  "title": "Micro Module - Gram-Positive Cocci"
                 }
               },
               {
@@ -349,30 +349,29 @@
                   "title": "MD1.1 Micro"
                 }
               }
-            ],
-            "currentTab": 5
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 516,
+        "x": 1374,
+        "y": 94,
+        "width": 891,
+        "height": 1131,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "f15b9db0553b29c9",
+  "active": "4f2177bb4827d03e",
   "lastOpenFiles": [
-    "Micro Gram Positive Cocci.md",
     "MD1.1 Micro.md",
+    "Micro Module - Gram-Positive Cocci.md",
+    "System/Templates/lecture (template).md",
     "MD1/MD1 - Anatomy.md",
     "MD1/Lecutures/Anatomy/Anatomy 02 - The First 3 Weeks.md",
     "Glossary/Zona Pellucida.md",
     "Untitled.md",
     "Physiology Lecture 5  - Physiology of Blood.md",
-    "System/Templates/lecture (template).md",
     "Glossary/Ectoderm.md",
     "Glossary/Embryonic Disk.md",
     "Glossary/primary yolk sac.md",
