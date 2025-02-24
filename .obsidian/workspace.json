@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "229490d9e5e76785",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
             "id": "5d8677172fca85a8",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,222 +261,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "514bdd1adccfca1a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c8315e945710e408",
-        "type": "window",
-        "children": [
-          {
-            "id": "6577109ac47ee648",
-            "type": "split",
-            "children": [
-              {
-                "id": "f8f0a0222d7ac451",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "4f2177bb4827d03e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "MD1/Lecutures/Microbiology/Micro Module - Gram-Positive Cocci.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Micro Module - Gram-Positive Cocci"
-                    }
-                  },
-                  {
-                    "id": "bf57208d871de9e5",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "primary yolk sac.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "primary yolk sac"
-                    }
-                  },
-                  {
-                    "id": "d025e6b17254347f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "extraembryonic coelom.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "extraembryonic coelom"
-                    }
-                  },
-                  {
-                    "id": "526c34de6cde5348",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "MD1/Lecutures/Physiology/Physiology Lecture 3 - Electrophysiology.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Physiology Lecture 3 - Electrophysiology"
-                    }
-                  },
-                  {
-                    "id": "cb35edbc056a0aa8",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "MD1/Lecutures/Physiology/Physiology Lecture 4 Synaptic Transmission.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Physiology Lecture 4 Synaptic Transmission"
-                    }
-                  },
-                  {
-                    "id": "f15b9db0553b29c9",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "MD1/Topics/MD1.1 - Micro.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "MD1.1 - Micro"
-                    }
-                  },
-                  {
-                    "id": "01ac3b5592c71c2b",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "MD1/Lecutures/Microbiology/Micromodule - The Genus Staphylococcus.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Micromodule - The Genus Staphylococcus"
-                    }
-                  },
-                  {
-                    "id": "147d9f730b7ebcba",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset).md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset)"
-                    }
-                  },
-                  {
-                    "id": "409ba690b28183f6",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Micro - The Genus Staphylococcus.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Micro - The Genus Staphylococcus"
-                    }
-                  }
-                ],
-                "currentTab": 8
-              },
-              {
-                "id": "e4d2da0200099258",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "2197e1cb4a582385",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Micro - The Genus Staphylococcus.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Micro - The Genus Staphylococcus"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
-          }
-        ],
-        "direction": "vertical",
-        "x": 389,
-        "y": 0,
-        "width": 891,
-        "height": 752,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "afc19a2e07f87999",
-        "type": "window",
-        "children": [
-          {
-            "id": "a080e63aff9abcc0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ab478652a29ce18c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 128,
-        "y": 0,
-        "width": 1024,
-        "height": 752,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2197e1cb4a582385",
+  "active": "229490d9e5e76785",
   "lastOpenFiles": [
-    "Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset).md",
     "Micro - The Genus Staphylococcus.md",
+    "Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset).md",
     "pyogenic.md",
     "MD1/Lecutures/Microbiology/Micromodule - The Genus Staphylococcus.md",
     "MD1/Topics/MD1.1 - Micro.md",
