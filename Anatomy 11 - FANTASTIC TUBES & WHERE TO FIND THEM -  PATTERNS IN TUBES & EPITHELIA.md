@@ -12,6 +12,9 @@ key-terms:
   - "[[Muscularis externa]]"
   - "[[Adventitia]]"
   - "[[Serosa]]"
+  - Tunica intima
+  - Tunica media
+  - Tunica adventitia
 presentation-datetime: 
 learning-outcomes:
   - Define each type of epithelia & describe the respective functions/purpose of each, and describe which embryological germ layer each epithelium/tissue is derived from
@@ -40,7 +43,14 @@ Observe the patterns in tube structures, how it relates to their function & resp
 	- Gut tube
 		- Small intestine
 	- Respiratory tubes
-		- trachea and bronchi
+		- trachea
+		- bronchi
+		- Bronchioles 
+		- Alveoli
+	- Blood vessels
+		- Arteries
+		- Veins
+		- Capillaries
 
 ## Notes
 ### Endodermal tubes
