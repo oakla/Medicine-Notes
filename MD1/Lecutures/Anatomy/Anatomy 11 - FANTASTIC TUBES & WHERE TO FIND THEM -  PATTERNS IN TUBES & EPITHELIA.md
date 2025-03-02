@@ -2,8 +2,8 @@
 aliases: 
 tags:
   - Class/Literature-Note/Lecture
-  - Topic/-
   - Context/MD1
+  - Topic/Anatomy
 author(s): 
 key-terms:
   - "[[Epithelium]]"

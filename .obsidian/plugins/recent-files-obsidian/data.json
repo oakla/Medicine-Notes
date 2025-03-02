@@ -1,40 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Epithelium",
-      "path": "Epithelium.md"
-    },
-    {
-      "basename": "Anatomy 03 - CREATING A BODY  - 'TUBE WITHIN A TUBE'",
-      "path": "Anatomy 03 - CREATING A BODY  - 'TUBE WITHIN A TUBE'.md"
-    },
-    {
-      "basename": "Anatomy 11 - FANTASTIC TUBES & WHERE TO FIND THEM -  PATTERNS IN TUBES & EPITHELIA",
-      "path": "Anatomy 11 - FANTASTIC TUBES & WHERE TO FIND THEM -  PATTERNS IN TUBES & EPITHELIA.md"
-    },
-    {
       "basename": "MD1.1 - Anatomy",
-      "path": "MD1/Topics/MD1.1 - Anatomy.md"
+      "path": "MD1/Subjects/MD1.1 - Anatomy.md"
     },
     {
       "basename": "Micromodule - The Genus Staphylococcus",
       "path": "MD1/Lecutures/Microbiology/Micromodule - The Genus Staphylococcus.md"
     },
     {
+      "basename": "Anatomy 11 - FANTASTIC TUBES & WHERE TO FIND THEM -  PATTERNS IN TUBES & EPITHELIA",
+      "path": "MD1/Lecutures/Anatomy/Anatomy 11 - FANTASTIC TUBES & WHERE TO FIND THEM -  PATTERNS IN TUBES & EPITHELIA.md"
+    },
+    {
+      "basename": "Ectoderm",
+      "path": "Glossary/Ectoderm.md"
+    },
+    {
+      "basename": "People Directory",
+      "path": "People/People Directory.md"
+    },
+    {
       "basename": "Micro - The Genus Staphylococcus",
-      "path": "Micro - The Genus Staphylococcus.md"
+      "path": "MD1/Lecutures/Microbiology/Micro - The Genus Staphylococcus.md"
+    },
+    {
+      "basename": "Anatomy 03 - CREATING A BODY  - 'TUBE WITHIN A TUBE'",
+      "path": "MD1/Lecutures/Anatomy/Anatomy 03 - CREATING A BODY  - 'TUBE WITHIN A TUBE'.md"
+    },
+    {
+      "basename": "Physiology Lecture 5  - Physiology of Blood",
+      "path": "MD1/Lecutures/Physiology/Physiology Lecture 5  - Physiology of Blood.md"
+    },
+    {
+      "basename": "Epithelium",
+      "path": "Glossary/Epithelium.md"
     },
     {
       "basename": "Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset)",
-      "path": "Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset).md"
+      "path": "MD1/Lecutures/Microbiology/Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset).md"
     },
     {
       "basename": "pyogenic",
-      "path": "pyogenic.md"
+      "path": "Glossary/pyogenic.md"
     },
     {
       "basename": "MD1.1 - Micro",
-      "path": "MD1/Topics/MD1.1 - Micro.md"
+      "path": "MD1/Subjects/MD1.1 - Micro.md"
     },
     {
       "basename": "lecture (template)",
@@ -51,18 +63,6 @@
     {
       "basename": "Zona Pellucida",
       "path": "Glossary/Zona Pellucida.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Physiology Lecture 5  - Physiology of Blood",
-      "path": "Physiology Lecture 5  - Physiology of Blood.md"
-    },
-    {
-      "basename": "Ectoderm",
-      "path": "Glossary/Ectoderm.md"
     },
     {
       "basename": "Embryonic Disk",

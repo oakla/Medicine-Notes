@@ -2,10 +2,10 @@
 aliases:
   - Epithelia
 tags:
-  - Class/Permanent-Note
-  - Topic/-
+  - Class/Permanent-Note/Terminology
+  - Topic/Anatomy
 ---
-cells without CT between them
+cells without [[connective tissue]] between them. Epithelium is instead supported by 
 
 
 
