@@ -6,11 +6,11 @@
     },
     {
       "basename": "Micromodule - The Genus Staphylococcus",
-      "path": "MD1/Lecutures/Microbiology/Micromodule - The Genus Staphylococcus.md"
+      "path": "MD1/Content/Microbiology/Micromodule - The Genus Staphylococcus.md"
     },
     {
       "basename": "Anatomy 11 - FANTASTIC TUBES & WHERE TO FIND THEM -  PATTERNS IN TUBES & EPITHELIA",
-      "path": "MD1/Lecutures/Anatomy/Anatomy 11 - FANTASTIC TUBES & WHERE TO FIND THEM -  PATTERNS IN TUBES & EPITHELIA.md"
+      "path": "MD1/Content/Anatomy/Anatomy 11 - FANTASTIC TUBES & WHERE TO FIND THEM -  PATTERNS IN TUBES & EPITHELIA.md"
     },
     {
       "basename": "Ectoderm",
@@ -22,15 +22,15 @@
     },
     {
       "basename": "Micro - The Genus Staphylococcus",
-      "path": "MD1/Lecutures/Microbiology/Micro - The Genus Staphylococcus.md"
+      "path": "MD1/Content/Microbiology/Micro - The Genus Staphylococcus.md"
     },
     {
       "basename": "Anatomy 03 - CREATING A BODY  - 'TUBE WITHIN A TUBE'",
-      "path": "MD1/Lecutures/Anatomy/Anatomy 03 - CREATING A BODY  - 'TUBE WITHIN A TUBE'.md"
+      "path": "MD1/Content/Anatomy/Anatomy 03 - CREATING A BODY  - 'TUBE WITHIN A TUBE'.md"
     },
     {
       "basename": "Physiology Lecture 5  - Physiology of Blood",
-      "path": "MD1/Lecutures/Physiology/Physiology Lecture 5  - Physiology of Blood.md"
+      "path": "MD1/Content/Physiology/Physiology Lecture 5  - Physiology of Blood.md"
     },
     {
       "basename": "Epithelium",
@@ -38,7 +38,7 @@
     },
     {
       "basename": "Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset)",
-      "path": "MD1/Lecutures/Microbiology/Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset).md"
+      "path": "MD1/Content/Microbiology/Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset).md"
     },
     {
       "basename": "pyogenic",
@@ -54,11 +54,11 @@
     },
     {
       "basename": "Micro Module - Gram-Positive Cocci",
-      "path": "MD1/Lecutures/Microbiology/Micro Module - Gram-Positive Cocci.md"
+      "path": "MD1/Content/Microbiology/Micro Module - Gram-Positive Cocci.md"
     },
     {
       "basename": "Anatomy 02 - The First 3 Weeks",
-      "path": "MD1/Lecutures/Anatomy/Anatomy 02 - The First 3 Weeks.md"
+      "path": "MD1/Content/Anatomy/Anatomy 02 - The First 3 Weeks.md"
     },
     {
       "basename": "Zona Pellucida",
@@ -82,7 +82,7 @@
     },
     {
       "basename": "Anatomy 01 - ANATOMICAL METHODS AND TERMS",
-      "path": "MD1/Lecutures/Anatomy/Anatomy 01 - ANATOMICAL METHODS AND TERMS.md"
+      "path": "MD1/Content/Anatomy/Anatomy 01 - ANATOMICAL METHODS AND TERMS.md"
     },
     {
       "basename": "Recurrent Laryngeal Nerve",
@@ -98,23 +98,23 @@
     },
     {
       "basename": "Physiology Lecture 4 Synaptic Transmission",
-      "path": "MD1/Lecutures/Physiology/Physiology Lecture 4 Synaptic Transmission.md"
+      "path": "MD1/Content/Physiology/Physiology Lecture 4 Synaptic Transmission.md"
     },
     {
       "basename": "Physiology Lecture 3 - Electrophysiology",
-      "path": "MD1/Lecutures/Physiology/Physiology Lecture 3 - Electrophysiology.md"
+      "path": "MD1/Content/Physiology/Physiology Lecture 3 - Electrophysiology.md"
     },
     {
       "basename": "Physiology Lecture 2 -  Membrane Transport - 2025-01-28 1100",
-      "path": "MD1/Lecutures/Physiology/Physiology Lecture 2 -  Membrane Transport - 2025-01-28 1100.md"
+      "path": "MD1/Content/Physiology/Physiology Lecture 2 -  Membrane Transport - 2025-01-28 1100.md"
     },
     {
       "basename": "Pathology - Cell injury and responses 2 - Reversible cell injury",
-      "path": "MD1/Lecutures/Pathology/Pathology - Cell injury and responses 2 - Reversible cell injury.md"
+      "path": "MD1/Content/Pathology/Pathology - Cell injury and responses 2 - Reversible cell injury.md"
     },
     {
       "basename": "Pathology - Cell injury and responses 1 - Overview of cell injury",
-      "path": "MD1/Lecutures/Pathology/Pathology - Cell injury and responses 1 - Overview of cell injury.md"
+      "path": "MD1/Content/Pathology/Pathology - Cell injury and responses 1 - Overview of cell injury.md"
     }
   ],
   "omittedPaths": [],
