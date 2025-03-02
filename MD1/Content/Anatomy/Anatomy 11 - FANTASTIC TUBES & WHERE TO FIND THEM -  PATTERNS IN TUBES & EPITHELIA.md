@@ -39,6 +39,7 @@ Observe the patterns in tube structures, how it relates to their function & resp
 #### Other Terms
 - splanchnopleure
 ### Sections
+- Epithelium
 - Splanchnopleure (endodermal) tubes
 	- Gut tube
 		- Small intestine
@@ -53,7 +54,11 @@ Observe the patterns in tube structures, how it relates to their function & resp
 		- Capillaries
 
 ## Notes
-### Endodermal tubes
+
+### Epithelium
+Tissue classification is based on shape of cells closest to lumen
+
+### Splanchnopleure (endodermal) tubes
 have glands
 - Lumen
 - Mucosa
@@ -61,6 +66,19 @@ have glands
 - Muscularis externa
 - Adventitia
 - Serosa
+#### Gut tube
+#### Small intestine
+#### Respiratory tubes
+#### trachea
+#### bronchi
+#### Bronchioles 
+#### Alveoli
+#### Blood vessels
+#### Arteries
+#### Veins
+#### Capillaries
+### Endodermal tubes
+
 
 ## Questions
 

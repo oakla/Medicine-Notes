@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,10 +248,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d196954c52456ff4",
+  "active": "aa82a8753bd21a13",
   "lastOpenFiles": [
-    "MD1/Content/Microbiology/Micromodule - The Genus Staphylococcus.md",
     "MD1/Subjects/MD1.1 - Anatomy.md",
+    "MD1/Content/Microbiology/Micromodule - The Genus Staphylococcus.md",
     "MD1/Content/Anatomy/Anatomy 11 - FANTASTIC TUBES & WHERE TO FIND THEM -  PATTERNS IN TUBES & EPITHELIA.md",
     "Glossary/Ectoderm.md",
     "People/People Directory.md",
