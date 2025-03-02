@@ -104,9 +104,19 @@
               "icon": "lucide-file",
               "title": "Epithelium"
             }
+          },
+          {
+            "id": "8346a7f65d988911",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -291,11 +301,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01ba9358ad63d36a",
+  "active": "8346a7f65d988911",
   "lastOpenFiles": [
+    "Anatomy 03 - CREATING A BODY  - 'TUBE WITHIN A TUBE'.md",
     "Anatomy 11 - FANTASTIC TUBES & WHERE TO FIND THEM -  PATTERNS IN TUBES & EPITHELIA.md",
     "Epithelium.md",
-    "Anatomy 03 - CREATING A BODY  - 'TUBE WITHIN A TUBE'.md",
     "MD1/Topics/MD1.1 - Anatomy.md",
     "MD1/Lecutures/Microbiology/Micromodule - The Genus Staphylococcus.md",
     "Micro - The Genus Staphylococcus.md",
