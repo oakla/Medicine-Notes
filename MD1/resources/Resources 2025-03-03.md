@@ -1,6 +1,12 @@
 
 
 ### Revision material
+recommended by SMSUWA
+- Teach me Anatomy (especially good for labs)
+- Osmosis (good for everything)
+- VisibleBody Suite (3D Anatomy)
+
+
 - Texas Tech U
 	- [Anatomy Practice Questions](https://anatomy.elpaso.ttuhsc.edu/quizzes/quiz_index.html)
 	- [El Paso Texas Tech - Gross Anatomy Resources | AnatomyTOOL](https://anatomytool.org/content/el-paso-texas-tech-gross-anatomy-resources)
