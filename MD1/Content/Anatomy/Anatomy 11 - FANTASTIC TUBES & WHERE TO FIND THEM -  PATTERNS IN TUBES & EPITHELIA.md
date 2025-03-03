@@ -15,6 +15,7 @@ key-terms:
   - Tunica intima
   - Tunica media
   - Tunica adventitia
+  - "[[Pseudostratified]]"
 presentation-datetime: 
 learning-outcomes:
   - Define each type of epithelia & describe the respective functions/purpose of each, and describe which embryological germ layer each epithelium/tissue is derived from
@@ -56,8 +57,17 @@ Observe the patterns in tube structures, how it relates to their function & resp
 ## Notes
 
 ### Epithelium
-Tissue classification is based on shape of cells closest to lumen
 
+Layer classifications:
+- [[Simple]]
+- [[Pseudostratified]]
+- [[Stratified]]
+
+Cell Shape classifications:
+- Squamous (fried egg)
+- Cuboidal (cube)
+- Columnar (rectangle)
+Tissue classification is based on shape of cells closest to lumen
 ### Splanchnopleure (endodermal) tubes
 have glands
 - Lumen
