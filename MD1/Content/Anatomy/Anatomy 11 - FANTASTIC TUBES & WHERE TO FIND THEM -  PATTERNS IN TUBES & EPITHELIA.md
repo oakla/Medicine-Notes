@@ -76,6 +76,8 @@ have glands
 - Muscularis externa
 - Adventitia
 - Serosa
+
+The lumen is typically folded to allow for dilation and contraction of the tube. (Note that the circular muscle layer need not be folded. It can maintain its circular shape even when changing size/width)
 #### Gut tube
 #### Small intestine
 #### Respiratory tubes
