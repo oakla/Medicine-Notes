@@ -28,3 +28,4 @@ Outcome - change in risk of C
 2. Cohort studies
 3. Case-control studies
 
+attrition - solved by 'intention to treat' analysis
