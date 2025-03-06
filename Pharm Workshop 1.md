@@ -4,18 +4,14 @@ tags:
   - Class/Literature-Note/Lecture
   - Topic/Pharmacology
   - Context/MD1
-author(s):
-  - "[[Phil Burcham]]"
-key-terms:
-  - "[[Pharmacokinetics]]"
-  - "[[Xenobiotic-handling]]"
-  - "[[bioavailability]]"
-  - "[[Adventitia]]"
-  - "[[Pro-drug]]"
-presentation-datetime: 2025-03-06T12:15:00
+author(s): 
+key-terms: 
+presentation-datetime: 
 learning-outcomes:
 ---
-
+Topic: 
+- Placebos
+- therapeutic adherence
 
 ## Overview
 ### Learning Outcomes
@@ -33,6 +29,11 @@ learning-outcomes:
 
 
 ## Notes
+
+necessary for complicance:
+- **accept** diagnosis
+- **adhere** (e.g. mini contraceptive pill)
+- **persist**
 
 
 ## Questions
