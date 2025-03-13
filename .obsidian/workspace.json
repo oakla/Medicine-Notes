@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "Behavioural Science - Communicating about mental health"
             }
+          },
+          {
+            "id": "e74894ff1965eef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TBL 1 Dave is feeling dodgy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TBL 1 Dave is feeling dodgy"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -319,8 +333,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a0cafd5cb2163fd",
+  "active": "e74894ff1965eef6",
   "lastOpenFiles": [
+    "TBL 1 Dave is feeling dodgy.md",
     "Behavioural Science - Communicating about mental health.md",
     "Physiology Lecture 7 -  Bone Physiology.md",
     "Pharm Workshop 1.md",
@@ -350,7 +365,6 @@
     "MD1/Content/Microbiology",
     "MD1/Content/Anatomy/Anatomy 02 - The First 3 Weeks.md",
     "Glossary/Zona Pellucida.md",
-    "Glossary/Embryonic Disk.md",
     "MD1/Content/Pathology",
     "MD1/Content/Physiology",
     "MD1/Content/Anatomy",
