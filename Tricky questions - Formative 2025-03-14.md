@@ -18,3 +18,19 @@ A patient has a biopsy that histologically shows an inflammatory infiltrate that
 |\|   \|   \|<br>\|---\|---\|<br>\|Selected Answer:\|![Incorrect](https://lms.uwa.edu.au/images/ci/icons/x.gif)<br><br>Blood vessels\|<br>\|Answers:\|Proximal convoluted tubules\|<br>\|Blood vessels\|<br>\|Skin\|<br>\|![Correct](https://lms.uwa.edu.au/images/ci/icons/check.gif)<br><br>Trachea\||   |-
 
 ---
+
+
+- Centrosomes?
+- Kinetochore
+
+---
+### Question 17
+
+1. Which of the following statements about the cell cycle is **INCORRECT**? 
+    
+    |   |   |   |
+    |---|---|---|
+    |||All cells enter G0 at some stage in the life of the organism.|
+    |||In G0 cells do not divide and usually maintain a constant size.|
+    |||During G1 cells may exit the cell cycle and enter G0.|
+    |||Cells may stay in G0 for an extended period.|
