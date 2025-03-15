@@ -86,6 +86,7 @@ Glycolysis
 - name three key enzymes that catalyze irreversible reactions in glycolysis
 	- Hexokinase
 	- PFK1
+	- Pyruvate Kinase
 - From glucose (6C), 2 x ADP and 2 x NAD+, Glycolysis produces 
 	- 2 x pyruvate (3C)
 	- 2 x ATP
@@ -97,13 +98,14 @@ Transport pyruvate into mitochondria where the TCA cycle happens
 Pyruvate (3C) -> Acetyl CoA (2C) inside mitochondria
 - releases first oxidised O as CO2
 - via Pyruvate Dehydrogenase (PDH)
-	- dehydrogenase therefore *reduction* reaction
+	- dehydrogenase -> therefore *Redox* reaction
 	- highly regulated
 		- controlled by phosphorylation
 		- inputs (Pyruvate, NAD+) turn it on via inactivating Kinase thus allowing Phosphatase to activate PDH
 		- products (Acetyl CoA, NADH) turn it off via 'Kinase' 
 #### TCA cycle
-
+- input: acetyle CoA
+- recycles oxaloacetate -> combines with acetyle CoA to produce citrate which restarts the cycle
 
 
 ## Questions
