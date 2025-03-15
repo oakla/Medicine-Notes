@@ -127,3 +127,7 @@ Which has higher energy NADH or NAD+
 
 Which has higher energy pyruvate or Acetyl CoA?
 - Acetyl CoA
+
+
+Why is lactate produced in anaerobic conditions?
+- it is a biproduct of pyruvate being used to regenerate NAD+ (oxidise NADH back to NAD+)  
