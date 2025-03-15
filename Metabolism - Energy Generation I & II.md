@@ -107,7 +107,11 @@ Pyruvate (3C) -> Acetyl CoA (2C) inside mitochondria
 - input: acetyle CoA
 - recycles oxaloacetate -> combines with acetyle CoA to produce citrate which restarts the cycle
 
-
+Anaerobic energy production
+1. Glycolysis turns glucose into pyruvate (producing ATP along the way)
+2. Pyruvate converted into lactic acid -> NAD+ to continue glycolysis (lactate dehydrogenase)
+3. Lactate is cleared in the liver by converting to pyruvate and then glucose (gluconeogenesis) using lactate dehydrogenase (again)
+4. 
 ## Questions
 
 ### My Questions
@@ -130,4 +134,7 @@ Which has higher energy pyruvate or Acetyl CoA?
 
 
 Why is lactate produced in anaerobic conditions?
-- it is a biproduct of pyruvate being used to regenerate NAD+ (oxidise NADH back to NAD+)  
+- it is a biproduct of pyruvate being used to regenerate NAD+ (oxidise NADH back to NAD+)
+
+How do we clear lactate? 
+- in the Cori Cycle
