@@ -62,21 +62,66 @@ What is the role of **pyruvate kinase** in glycolysis?
 
 ### Sections
 
-
+#### Glycolysis
 #### Anaerobic Glycolysis
 
 ## Notes
 
+"all our carbs can be processed in glycolysis"
+
+ADP and AMP increase enzyme activity
+
+most of the focus is on PFK1
+
+know what hexokinase does
+- traps glucose by giving it a negative charge (from phosphate group) at physiological/neutral Ph
+
 glycolysis
 - pyruvate produced
-aerobic glycolysis
-anaerobic glycolysis
+- aerobic glycolysis
+- anaerobic glycolysis
+
+
+Glycolysis
+- name three key enzymes that catalyze irreversible reactions in glycolysis
+	- Hexokinase
+	- PFK1
+- From glucose (6C), 2 x ADP and 2 x NAD+, Glycolysis produces 
+	- 2 x pyruvate (3C)
+	- 2 x ATP
+	- 2 x NADH
+
+Next step - TCA cycle
+Transport pyruvate into mitochondria where the TCA cycle happens
+
+Pyruvate (3C) -> Acetyl CoA (2C) inside mitochondria
+- releases first oxidised O as CO2
+- via Pyruvate Dehydrogenase (PDH)
+	- dehydrogenase therefore *reduction* reaction
+	- highly regulated
+		- controlled by phosphorylation
+		- inputs (Pyruvate, NAD+) turn it on via inactivating Kinase thus allowing Phosphatase to activate PDH
+		- products (Acetyl CoA, NADH) turn it off via 'Kinase' 
+#### TCA cycle
+
+
 
 ## Questions
 
 ### My Questions
 ### Revision Questions
 
+Glycolysis
+- name three key enzymes that catalyze irreversible reactions in glycolysis
+	- Hexokinase
+	- PFK1
+- From glucose (6C), 2 x ADP and 2 x NAD+, Glycolysis produces 
+	- 2 x pyruvate (3C)
+	- 2 x ATP
+	- 2 x NADH
 
+Which has higher energy NADH or NAD+
+- NADH
 
-
+Which has higher energy pyruvate or Acetyl CoA?
+- Acetyl CoA
