@@ -11,7 +11,7 @@ presentation-datetime:
 learning-outcomes:
 ---
 
-Key words:
+### Key words:
 - controlling enzyme activity
 - allosterism
 - redox reactions
@@ -33,6 +33,18 @@ Key words:
 - alternate pathways of anaerobic metabolism
 - purpose of generating lactate
 - Cori cycle
+
+
+
+
+
+### Got to know
+
+What is the role of **hexokinase** in glycolysis?
+What is the role of **phosphofructokinase 1** in glycolysis?
+What is the role of **pyruvate kinase** in glycolysis?
+
+
 
 
 
