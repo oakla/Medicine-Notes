@@ -63,8 +63,14 @@ What is the role of **pyruvate kinase** in glycolysis?
 ### Sections
 
 
+#### Anaerobic Glycolysis
+
 ## Notes
 
+glycolysis
+- pyruvate produced
+aerobic glycolysis
+anaerobic glycolysis
 
 ## Questions
 
