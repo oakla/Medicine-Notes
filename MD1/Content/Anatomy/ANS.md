@@ -14,7 +14,6 @@ Transverse Section
 - Dorsal ramus of MSN (epimere: epaxial structures )
 - Ventral ramus of MSN (hypomere: Hypaxial structures )
 
-Frontal Section
 - Sympathetic chain ganglion (SCG)
 	- Aka para-vertebral/aortic ganglion
 	- 4 synapse/no-synapse options:
