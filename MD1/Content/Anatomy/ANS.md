@@ -19,7 +19,7 @@ Frontal Section
 	- Aka para-vertebral/aortic ganglion
 	- 4 synapse/no-synapse options:
 		1. No synapse 1: branches to other spinal segments
-			- Reason for no IMLCC in cervical & lower lumbar/sacrum OR
+			- **Reason for no IMLCC** in cervical & lower lumbar/sacrum OR
 			- E.g. T1 nerve goes to T3 SCG before synapsing
 		2. No synapse 2: Abdominal splanchnics: (T5-12)
 			- Synapse in pre-aortic ganglion
