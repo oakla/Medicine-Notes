@@ -21,6 +21,12 @@ toxicity potential explanation for lots of things (get out of jail free)
 - toxicodynamics
 	- toxicity is direct & indirect
 	- PD Antagonism
+- Toxidromes (Poisoning syndromes)
+	- \*Surgical sieves
+	- Anticholinergic
+	- cholinergic
+	- serotonergic
+	- sympathomimetic
 
 ## Overview
 ### Learning Outcomes
