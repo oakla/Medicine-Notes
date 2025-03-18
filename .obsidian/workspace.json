@@ -110,12 +110,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MD1/Content/Anatomy/ANS.md",
+                    "file": "Pharm - Genetics 1.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "ANS"
+                  "title": "Pharm - Genetics 1"
                 }
               }
             ]
@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -308,8 +309,9 @@
   },
   "active": "b8e977cb025174e7",
   "lastOpenFiles": [
-    "Metabolism - Energy Generation I & II.md",
     "MD1/Content/Anatomy/ANS.md",
+    "Pharm - Genetics 1.md",
+    "Metabolism - Energy Generation I & II.md",
     "Untitled 2.md",
     "Tricky questions - Formative 2025-03-14.md",
     "MD1/resources/Resources 2025-03-03.md",
@@ -336,7 +338,6 @@
     "Glossary/Epithelium.md",
     "People",
     "MD1/Content/Microbiology/Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset).md",
-    "Glossary/pyogenic.md",
     "MD1/Content/Microbiology",
     "MD1/Content/Pathology",
     "MD1/Content/Physiology",
