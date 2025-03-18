@@ -5,13 +5,11 @@ tags:
   - Topic/-
   - Context/MD1
 author(s):
-  - "[[Fiona Pixley]]"
+  - "[[Benedict Tan]]"
 key-terms: 
 presentation-datetime: 
 learning-outcomes:
 ---
-
-important connect to G6P in carb met. biochem lectures (pentose phos pathway)
 
 
 ## Overview
