@@ -10,7 +10,17 @@ key-terms:
 presentation-datetime: 
 learning-outcomes:
 ---
+toxicity potential explanation for lots of things (get out of jail free)
 
+- PD + PK vs TD + TK: Similar but different
+- toxicokinetics
+	- absorption
+	- distribution
+	- metabolism
+	- excretion
+- toxicodynamics
+	- toxicity is direct & indirect
+	- PD Antagonism
 
 ## Overview
 ### Learning Outcomes
