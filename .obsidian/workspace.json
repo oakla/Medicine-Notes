@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "Pharm - Dose and effect (II) - Toxicity"
             }
+          },
+          {
+            "id": "6c57e227cc672cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biochem - Metabolism - Carbohydrates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biochem - Metabolism - Carbohydrates"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -320,11 +334,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8aa351b81ca18639",
+  "active": "6c57e227cc672cbc",
   "lastOpenFiles": [
-    "Pharm - Dose and effect (I) - ADRs.md",
-    "Pharm - Dose and effect (II) - Toxicity.md",
     "Pharm - Genetics 1.md",
+    "Pharm - Dose and effect (II) - Toxicity.md",
+    "Biochem - Metabolism - Carbohydrates.md",
+    "Untitled 3.md",
+    "Pharm - Dose and effect (I) - ADRs.md",
     "Metabolism - Energy Generation I & II.md",
     "MD1/Content/Anatomy/ANS.md",
     "Untitled 2.md",
@@ -348,8 +364,6 @@
     "Glossary/Ectoderm.md",
     "People/People Directory.md",
     "MD1/Content/Microbiology/Micro - The Genus Staphylococcus.md",
-    "MD1/Content/Anatomy/Anatomy 03 - CREATING A BODY  - 'TUBE WITHIN A TUBE'.md",
-    "MD1/Content/Physiology/Physiology Lecture 5  - Physiology of Blood.md",
     "People",
     "MD1/Content/Microbiology",
     "MD1/Content/Pathology",

@@ -5,22 +5,11 @@ tags:
   - Topic/-
   - Context/MD1
 author(s):
-  - "[[Fiona Pixley]]"
+  - "[[Liz Quail]]"
 key-terms: 
 presentation-datetime: 
 learning-outcomes:
 ---
-
-important connection to G6P in carb met. biochem lectures (pentose phos pathway)
-
-
-Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency can cause Favism (jaundice and red urine after eating Fava beans)
-- G6PD deficiency often caused by gene variants
-- gene is X-linked recessive
-
-How does G6PD def cause favism?
-- 
-
 
 
 ## Overview
@@ -40,6 +29,10 @@ How does G6PD def cause favism?
 
 ## Notes
 
+### Pentose Phosphate Pathway
+
+- Glucose -> Pentose 5-Phosphate
+- also generates [[NADPH]], an important antioxidant in reducing [[glutathione]]
 
 ## Questions
 
