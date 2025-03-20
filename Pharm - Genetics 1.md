@@ -10,8 +10,10 @@ key-terms:
 presentation-datetime: 
 learning-outcomes:
 ---
+https://drive.google.com/open?id=1EX-K6ANJXxwt5aLpS60IAfRxW1E862ZV&usp=drive_fs
 
-important connection to G6P in carb met. biochem lectures (pentose phos pathway)
+
+important connection to G6P in carb metabolism biochem lectures (pentose phos pathway)
 
 
 Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency can cause Favism (jaundice and red urine after eating Fava beans)
