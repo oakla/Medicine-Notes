@@ -27,18 +27,21 @@ How does G6PD def cause favism?
 
 ## Overview
 ### Learning Outcomes
-
-### Outline
-
-### Goal
-
-### Terms
-#### Key Terms
-
-#### Other Terms
+- Demonstrate an understanding of the concept of personalising drug therapy in response to genetic variation
+- Outline the historical aspects of the study of pharmacogenetics /pharmacogenomics
+- Describe some single gene pharmacogenetic disorders
+- Explain the effect of genetic polymorphisms on drug pharmacokinetics
+- Explain the effect of genetic polymorphisms on drug pharmacodynamics
+- Describe examples of pharmacogenetics in practice
 
 ### Sections
 
+- historic origins of pharmacogenomics
+	- Favism
+- G6PD & oxidative stress
+- 
+- Primaquine
+- 
 
 ## Notes
 
