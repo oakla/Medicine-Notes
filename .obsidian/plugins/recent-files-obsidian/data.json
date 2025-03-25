@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The Pathogenesis of Cancer",
+      "path": "The Pathogenesis of Cancer.md"
+    },
+    {
       "basename": "Pharm - Genetics 1",
       "path": "Pharm - Genetics 1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pathology - Cell injury and responses 2 - Reversible cell injury",
       "path": "MD1/Content/Pathology/Pathology - Cell injury and responses 2 - Reversible cell injury.md"
-    },
-    {
-      "basename": "Pathology - Cell injury and responses 1 - Overview of cell injury",
-      "path": "MD1/Content/Pathology/Pathology - Cell injury and responses 1 - Overview of cell injury.md"
     }
   ],
   "omittedPaths": [],
