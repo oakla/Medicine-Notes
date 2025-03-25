@@ -4,7 +4,8 @@ tags:
   - Class/Literature-Note/Lecture
   - Topic/-
   - Context/MD1
-author(s): 
+author(s):
+  - "[[Fiona Pixley]]"
 key-terms: 
 presentation-datetime: 
 learning-outcomes:
