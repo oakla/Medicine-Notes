@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "W10.4.2 Tumour immunology",
+      "path": "W10.4.2 Tumour immunology.md"
+    },
+    {
       "basename": "W10.2.4-Introduction to Head and neck",
       "path": "W10.2.4-Introduction to Head and neck.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mesoderm",
       "path": "Glossary/Mesoderm.md"
-    },
-    {
-      "basename": "Physiology Lecture 4 Synaptic Transmission",
-      "path": "MD1/Content/Physiology/Physiology Lecture 4 Synaptic Transmission.md"
     }
   ],
   "omittedPaths": [],
