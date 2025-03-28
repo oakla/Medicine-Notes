@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "W03.5.8 Body tissues and their properties",
+      "path": "W03.5.8 Body tissues and their properties.md"
+    },
+    {
       "basename": "W10.4.2 Tumour immunology",
       "path": "W10.4.2 Tumour immunology.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "permanent note (template)",
       "path": "System/Templates/permanent note (template).md"
-    },
-    {
-      "basename": "Mesoderm",
-      "path": "Glossary/Mesoderm.md"
     }
   ],
   "omittedPaths": [],
