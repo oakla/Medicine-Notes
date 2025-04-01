@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "W11.2.3-Platelets and haemostasis",
-      "path": "W11.2.3-Platelets and haemostasis.md"
+      "basename": "W11.2.3-Haematology-Platelets and haemostasis",
+      "path": "W11.2.3-Haematology-Platelets and haemostasis.md"
+    },
+    {
+      "basename": "Physiology Lecture 5  - Physiology of Blood",
+      "path": "MD1/Content/Physiology/Physiology Lecture 5  - Physiology of Blood.md"
+    },
+    {
+      "basename": "W04.1.5-Lipid physiology",
+      "path": "W04.1.5-Lipid physiology.md"
     },
     {
       "basename": "W11.2.2-Outline of Haematology",
@@ -145,10 +153,6 @@
       "path": "MD1/Content/Anatomy/Anatomy 03 - CREATING A BODY  - 'TUBE WITHIN A TUBE'.md"
     },
     {
-      "basename": "Physiology Lecture 5  - Physiology of Blood",
-      "path": "MD1/Content/Physiology/Physiology Lecture 5  - Physiology of Blood.md"
-    },
-    {
       "basename": "Epithelium",
       "path": "Glossary/Epithelium.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Gastrulation",
       "path": "Glossary/Gastrulation.md"
-    },
-    {
-      "basename": "Anatomy 01 - ANATOMICAL METHODS AND TERMS",
-      "path": "MD1/Content/Anatomy/Anatomy 01 - ANATOMICAL METHODS AND TERMS.md"
     }
   ],
   "omittedPaths": [],

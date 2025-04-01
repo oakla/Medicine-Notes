@@ -2,8 +2,8 @@
 aliases: 
 tags:
   - Class/Literature-Note/Lecture
-  - Topic/Physioloigy
   - Context/MD1
+  - Topic/Physiology
 author(s):
   - "[[Rob White]]"
 key-terms:

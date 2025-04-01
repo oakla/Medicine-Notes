@@ -247,12 +247,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W11.2.3-Platelets and haemostasis.md",
+                "file": "W11.2.3-Haematology-Platelets and haemostasis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W11.2.3-Platelets and haemostasis"
+              "title": "W11.2.3-Haematology-Platelets and haemostasis"
             }
           }
         ],
@@ -288,7 +288,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Class/Permanent-Note/Terminology",
+                "query": "tag:Topic/Physioloigy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -319,12 +319,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -444,8 +444,10 @@
   },
   "active": "8d59f34bdcb231e3",
   "lastOpenFiles": [
+    "MD1/Content/Physiology/Physiology Lecture 5  - Physiology of Blood.md",
+    "W04.1.5-Lipid physiology.md",
+    "W11.2.3-Haematology-Platelets and haemostasis.md",
     "W11.2.2-Outline of Haematology.md",
-    "W11.2.3-Platelets and haemostasis.md",
     "Journalling/Daily-notes",
     "Journalling",
     "W03.5.8 Body tissues and their properties.md",
@@ -470,7 +472,6 @@
     "Untitled.md",
     "TBL 1 Dave is feeling dodgy.md",
     "Behavioural Science - Communicating about mental health.md",
-    "Physiology Lecture 7 -  Bone Physiology.md",
     "MD1/Content/Research Skills",
     "MD1/resources",
     "People",
