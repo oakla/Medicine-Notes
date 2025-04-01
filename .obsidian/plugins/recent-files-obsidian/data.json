@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Medical Language",
+      "path": "Medical Language.md"
+    },
+    {
       "basename": "sclerotome",
       "path": "sclerotome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "lecture (template)",
       "path": "System/Templates/lecture (template).md"
-    },
-    {
-      "basename": "Micro Module - Gram-Positive Cocci",
-      "path": "MD1/Content/Microbiology/Micro Module - Gram-Positive Cocci.md"
     }
   ],
   "omittedPaths": [],
