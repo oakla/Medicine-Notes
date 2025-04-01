@@ -24,6 +24,7 @@ key-terms:
   - "[[Placenta]]"
   - "[[Chorionic villi]]"
   - "[[Embryonic Disk]]"
+  - "[[Somite]]"
 presentation-datetime: 2025-01-31T15:00:00
 ---
 

@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "sclerotome",
+      "path": "sclerotome.md"
+    },
+    {
+      "basename": "Somite",
+      "path": "Somite.md"
+    },
+    {
+      "basename": "Untitled 5",
+      "path": "Untitled 5.md"
+    },
+    {
+      "basename": "Micromodule - The Genus Staphylococcus",
+      "path": "MD1/Content/Microbiology/Micromodule - The Genus Staphylococcus.md"
+    },
+    {
+      "basename": "dermamyotome",
+      "path": "dermamyotome.md"
+    },
+    {
+      "basename": "W05.4.3-Anatomy Limb organisation",
+      "path": "W05.4.3-Anatomy Limb organisation.md"
+    },
+    {
+      "basename": "Anatomy 02 - The First 3 Weeks",
+      "path": "MD1/Content/Anatomy/Anatomy 02 - The First 3 Weeks.md"
+    },
+    {
+      "basename": "W10.2.4-Introduction to Head and neck",
+      "path": "W10.2.4-Introduction to Head and neck.md"
+    },
+    {
       "basename": "W11.2.3-Haematology-Platelets and haemostasis",
       "path": "W11.2.3-Haematology-Platelets and haemostasis.md"
     },
@@ -25,20 +57,12 @@
       "path": "W10.4.2 Tumour immunology.md"
     },
     {
-      "basename": "W10.2.4-Introduction to Head and neck",
-      "path": "W10.2.4-Introduction to Head and neck.md"
-    },
-    {
       "basename": "Untitled 4",
       "path": "Untitled 4.md"
     },
     {
       "basename": "W10 Treating Cancer - Classical Chemotherapy",
       "path": "W10 Treating Cancer - Classical Chemotherapy.md"
-    },
-    {
-      "basename": "Micromodule - The Genus Staphylococcus",
-      "path": "MD1/Content/Microbiology/Micromodule - The Genus Staphylococcus.md"
     },
     {
       "basename": "The Pathogenesis of Cancer",
@@ -175,30 +199,6 @@
     {
       "basename": "Micro Module - Gram-Positive Cocci",
       "path": "MD1/Content/Microbiology/Micro Module - Gram-Positive Cocci.md"
-    },
-    {
-      "basename": "Anatomy 02 - The First 3 Weeks",
-      "path": "MD1/Content/Anatomy/Anatomy 02 - The First 3 Weeks.md"
-    },
-    {
-      "basename": "Zona Pellucida",
-      "path": "Glossary/Zona Pellucida.md"
-    },
-    {
-      "basename": "Embryonic Disk",
-      "path": "Glossary/Embryonic Disk.md"
-    },
-    {
-      "basename": "primary yolk sac",
-      "path": "Glossary/primary yolk sac.md"
-    },
-    {
-      "basename": "extraembryonic coelom",
-      "path": "Glossary/extraembryonic coelom.md"
-    },
-    {
-      "basename": "Gastrulation",
-      "path": "Glossary/Gastrulation.md"
     }
   ],
   "omittedPaths": [],
