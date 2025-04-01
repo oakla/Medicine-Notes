@@ -256,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -442,9 +442,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d59f34bdcb231e3",
+  "active": "b1535d4dcfc75613",
   "lastOpenFiles": [
     "W11.2.3-Platelets and haemostasis.md",
+    "Journalling/Daily-notes",
+    "Journalling",
     "W11.2.2-Outline of Haematology.md",
     "W03.5.8 Body tissues and their properties.md",
     "W10.4.2 Tumour immunology.md",
@@ -469,7 +471,6 @@
     "TBL 1 Dave is feeling dodgy.md",
     "Behavioural Science - Communicating about mental health.md",
     "Physiology Lecture 7 -  Bone Physiology.md",
-    "Pharm Workshop 1.md",
     "MD1/Content/Research Skills",
     "MD1/resources",
     "People",
@@ -477,8 +478,6 @@
     "MD1/Content/Pathology",
     "MD1/Content/Physiology",
     "MD1/Content/Anatomy",
-    "System/Templates",
-    "System",
-    "Glossary"
+    "System/Templates"
   ]
 }

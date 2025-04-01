@@ -65,5 +65,14 @@
       ],
       "key": "ArrowLeft"
     }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
   ]
 }
