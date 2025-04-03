@@ -4,7 +4,7 @@
 
 Somites are blocks of **paraxial mesodermal tissue**. They can be divided into 3 components  
 
-1. [[Sclerotome]] => _only_ vertabrae and ribs
+1. [[sclerotome]] => _only_ vertabrae and ribs
 2. Dermatome 
 3. Myotome => body wall & limb muscles
 

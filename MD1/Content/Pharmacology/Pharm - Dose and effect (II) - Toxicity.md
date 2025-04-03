@@ -2,8 +2,8 @@
 aliases: 
 tags:
   - Class/Literature-Note/Lecture
-  - Topic/-
   - Context/MD1
+  - Topic/Pharmacology
 author(s):
   - "[[Benedict Tan]]"
 key-terms: 
