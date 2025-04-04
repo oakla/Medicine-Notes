@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "W10.2.5-The skull"
             }
+          },
+          {
+            "id": "8eeaef8d63e0705d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "W11.5.7-Composition of cranial nerves and ocular autonomics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W11.5.7-Composition of cranial nerves and ocular autonomics"
+            }
+          },
+          {
+            "id": "6da43e0607a96228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "W11.5.8-The anatomy of staring at things.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W11.5.8-The anatomy of staring at things"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +234,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a343d5bd02b52e21",
+  "active": "8eeaef8d63e0705d",
   "lastOpenFiles": [
-    "MD1/Content/Anatomy/Untitled.md",
+    "W11.5.8-The anatomy of staring at things.md",
+    "W11.5.7-Composition of cranial nerves and ocular autonomics.md",
     "W10.2.5-The skull.md",
+    "MD1/Content/Anatomy/Untitled.md",
     "MD1/Content/Biochemistry/Biochem - Metabolism - Carbohydrates.md",
     "MD1/Content/Microbiology/Micromodule - The Genus Staphylococcus.md",
     "Glossary/sclerotome.md",
@@ -235,8 +266,6 @@
     "Glossary/Somite.md",
     "MD1/Content/Anatomy/Anatomy 02 - The First 3 Weeks.md",
     "Untitled 5.md",
-    "dermamyotome.md",
-    "W05.4.3-Anatomy Limb organisation.md",
     "Journalling/Daily-notes",
     "Journalling",
     "MD1/Content/Research Skills",
