@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W11.5.8-The anatomy of staring at things.md",
+                "file": "MD1/Content/Anatomy/W10.2.4-Introduction to Head and neck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W11.5.8-The anatomy of staring at things"
+              "title": "W10.2.4-Introduction to Head and neck"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,7 +234,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8eeaef8d63e0705d",
+  "active": "6da43e0607a96228",
   "lastOpenFiles": [
     "W11.5.8-The anatomy of staring at things.md",
     "W11.5.7-Composition of cranial nerves and ocular autonomics.md",
