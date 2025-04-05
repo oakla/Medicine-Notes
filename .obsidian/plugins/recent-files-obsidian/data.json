@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "fleeting note (template)",
+      "path": "System/Templates/fleeting note (template).md"
+    },
+    {
+      "basename": "Feedback 2025-04-05",
+      "path": "Feedback 2025-04-05.md"
+    },
+    {
       "basename": "W10.2.4-Introduction to Head and neck",
       "path": "MD1/Content/Anatomy/W10.2.4-Introduction to Head and neck.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Micro - The Genus Staphylococcus",
       "path": "MD1/Content/Microbiology/Micro - The Genus Staphylococcus.md"
-    },
-    {
-      "basename": "Anatomy 03 - CREATING A BODY  - 'TUBE WITHIN A TUBE'",
-      "path": "MD1/Content/Anatomy/Anatomy 03 - CREATING A BODY  - 'TUBE WITHIN A TUBE'.md"
-    },
-    {
-      "basename": "Epithelium",
-      "path": "Glossary/Epithelium.md"
     }
   ],
   "omittedPaths": [],

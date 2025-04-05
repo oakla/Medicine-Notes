@@ -1,0 +1,4 @@
+---
+tags:
+  - Class/Fleeting-Note
+---
