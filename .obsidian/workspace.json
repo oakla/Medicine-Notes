@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Templates/fleeting note (template).md",
+                "file": "MD1/Assignments/Research Critique/Research Critique notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fleeting note (template)"
+              "title": "Research Critique notes"
             }
           }
         ],
@@ -250,8 +250,11 @@
   },
   "active": "45836149b2f446fb",
   "lastOpenFiles": [
-    "Feedback 2025-04-05.md",
     "System/Templates/fleeting note (template).md",
+    "MD1/Assignments/Research Critique/Research Critique notes.md",
+    "MD1/Assignments/Research Critique",
+    "MD1/Assignments",
+    "Feedback 2025-04-05.md",
     "MD1/Content/Anatomy/W10.2.4-Introduction to Head and neck.md",
     "W11.5.8-The anatomy of staring at things.md",
     "W11.5.7-Composition of cranial nerves and ocular autonomics.md",
@@ -279,12 +282,9 @@
     "MD1/Content/Anatomy/W03.5.8 Body tissues and their properties.md",
     "MD1/Content/Haematology/W11.2.2-Outline of Haematology.md",
     "MD1/Content/Haematology",
-    "Glossary/Somite.md",
     "Journalling/Daily-notes",
     "Journalling",
     "MD1/Content/Research Skills",
-    "MD1/resources",
-    "People",
-    "MD1/Content/Microbiology"
+    "MD1/resources"
   ]
 }
