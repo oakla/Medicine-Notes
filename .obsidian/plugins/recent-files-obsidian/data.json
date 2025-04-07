@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "W12.1.3-Skin physiology",
+      "path": "W12.1.3-Skin physiology.md"
+    },
+    {
       "basename": "Research Critique notes",
       "path": "MD1/Assignments/Research Critique/Research Critique notes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ectoderm",
       "path": "Glossary/Ectoderm.md"
-    },
-    {
-      "basename": "People Directory",
-      "path": "People/People Directory.md"
     }
   ],
   "omittedPaths": [],
