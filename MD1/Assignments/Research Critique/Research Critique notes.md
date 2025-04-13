@@ -30,6 +30,10 @@ Previous study
 Contribution to literature:
 - does the therapy improve ADHD symptoms by addressing parenting issues ("promoting positive parenting techniques and reducing negative parenting factors in the families") rather reducing ADHD core symptoms themselves
 
+#### Concepts they talk about or raise (inferring they want to investigate)
+- negative parenting factors influence on ADHD symtpoms
+- identifying "what works for whom" (but they never address or answer this question)
+
 ### Measures used:
 
 #### Connors Parent Rating Scale-Revised: Short Form (CPRS-R:S)
