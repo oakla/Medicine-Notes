@@ -8,7 +8,7 @@ Summary of objectives, findings, and contribution to literature:
 
 isolate the degree to which parent-child interactions influence ADHD symptoms and child behavioural problems
 
-Does psychoeducation (1) improve ADHD symptoms, and (2) does it also improvement other, more general, cognitive and behavioural problems, and improve 
+Does psychoeducation (1) improve ADHD symptoms, and (2) does it also improve other, more general, cognitive and behavioural problems in the child, parent-child interactions, and parenting stress levels.
 
 effects were measured via parents, teachers, and clinicians
 - parents: improvement in core symptoms and some sub-domains
