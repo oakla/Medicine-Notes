@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W12.3.2-Skull and extraocular muscles (Lab).md",
+                "file": "MD1/Assignments/Research Critique/Research Critique notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W12.3.2-Skull and extraocular muscles (Lab)"
+              "title": "Research Critique notes"
             }
           }
         ],
@@ -257,12 +257,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,8 +278,8 @@
   },
   "active": "caff78cced9533d9",
   "lastOpenFiles": [
-    "Untitled 7.md",
     "W12.3.2-Skull and extraocular muscles (Lab).md",
+    "Untitled 7.md",
     "MD1/M1.1 Cancer block.md",
     "MD1/Assignments/Research Critique/Research Critique notes.md",
     "W11.5.7-Composition of cranial nerves and ocular autonomics.md",
