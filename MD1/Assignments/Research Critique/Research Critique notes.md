@@ -42,3 +42,11 @@ Contribution to literature:
 #### Clinical Global Impression Scale
 CGI-I and CGI-S subscales exist (I and S stand for improvement and severity respectively)
 - https://pubmed.ncbi.nlm.nih.gov/33600233/
+
+
+
+
+## Other Studies
+
+### Fabiano et al., 2009;
+### Sonuga-Barke et al., 2013b
