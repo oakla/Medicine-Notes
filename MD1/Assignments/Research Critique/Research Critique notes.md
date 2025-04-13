@@ -6,9 +6,17 @@ Randomization by minimization:
 
 Summary of objectives, findings, and contribution to literature:
 
-isolate the degree to which parent-child interactions influence ADHD symptoms and child behavioural problems
+
 
 Does psychoeducation (1) improve ADHD symptoms, and (2) does it also improve other, more general, cognitive and behavioural problems in the child, parent-child interactions, and parenting stress levels.
+Differences to previous study:
+- work to establish external validity of this psychoeducation program by testing in a previously untested population (UK population)
+- uses a 'treatment as usual' control (rather than an active control)
+- previous study 
+	- could 
+		- observe improvement in "pro social" aspects (domain of SDQ)
+	- could not
+		- No significant differences in quality of life or family stress were found
 
 effects were measured via parents, teachers, and clinicians
 - parents: improvement in core symptoms and some sub-domains
@@ -26,12 +34,10 @@ Both previous and current study showed improvements in ADHD core symptoms
 Previous study 
 - showed improvements in "conduct problems"
 - did **not** show improvements in "quality of life and parental well-being"
-
-Contribution to literature:
-- does the therapy improve ADHD symptoms by addressing parenting issues ("promoting positive parenting techniques and reducing negative parenting factors in the families") rather reducing ADHD core symptoms themselves
-
 #### Concepts they talk about or raise (inferring they want to investigate)
-- negative parenting factors influence on ADHD symtpoms
+- negative parenting factors influence on ADHD symptoms
+	- does the therapy improve ADHD symptoms by addressing parenting issues ("promoting positive parenting techniques and reducing negative parenting factors in the families") rather reducing ADHD core symptoms themselves
+	- seems like they want to isolate the degree to which parent-child interactions influence ADHD symptoms and child behavioural problems (but they never do)
 - identifying "what works for whom" (but they never address or answer this question)
 
 ### Measures used:
