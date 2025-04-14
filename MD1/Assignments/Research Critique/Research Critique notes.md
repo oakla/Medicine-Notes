@@ -9,7 +9,7 @@ Summary of objectives, findings, and contribution to literature:
 
 
 Does psychoeducation (1) improve ADHD symptoms, and (2) does it also improve other, more general, cognitive and behavioural problems in the child, parent-child interactions, and parenting stress levels.
-Differences to previous study:
+#### Differences to previous study:
 - work to establish external validity of this psychoeducation program by testing in a previously untested population (UK population)
 - uses a 'treatment as usual' control (rather than an active control)
 - previous study 
@@ -22,6 +22,12 @@ effects were measured via parents, teachers, and clinicians
 - parents: improvement in core symptoms and some sub-domains
 - teachers: no improvement
 - clinicians: improvement in clinical functioning
+
+emotional symptoms
+conduct problems
+hyperactivity
+problems with peers
+pro-social
 
 | Observer | ADHD Core Symptoms | inattention/ cognition | hyperactivity/ impulsivity | oppositional |
 | -------- | ------------------ | ---------------------- | -------------------------- | ------------ |
