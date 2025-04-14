@@ -66,3 +66,7 @@ CGI-I and CGI-S subscales exist (I and S stand for improvement and severity resp
 
 ### Fabiano et al., 2009;
 ### Sonuga-Barke et al., 2013b
+
+
+- Cohen, J. (1992). A power primer. _Psychological Bulletin, 112_(1), 155–159. [https://doi.org/10.1037/0033-2909.112.1.155](https://psycnet.apa.org/doi/10.1037/0033-2909.112.1.155)
+- 
