@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "High Yield",
+      "path": "MD1/High Yield.md"
+    },
+    {
+      "basename": "Medical Language",
+      "path": "Medical Language.md"
+    },
+    {
       "basename": "Research Critique notes",
       "path": "MD1/Assignments/Research Critique/Research Critique notes.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "MD1.1 - Research Skills",
       "path": "MD1/Subjects/MD1.1 - Research Skills.md"
-    },
-    {
-      "basename": "Medical Language",
-      "path": "Medical Language.md"
     },
     {
       "basename": "W10.1.3-Neoplasia I and II",
@@ -195,10 +199,6 @@
     {
       "basename": "Physiology Lecture 7 -  Bone Physiology",
       "path": "Physiology Lecture 7 -  Bone Physiology.md"
-    },
-    {
-      "basename": "Pharm Workshop 1",
-      "path": "Pharm Workshop 1.md"
     }
   ],
   "omittedPaths": [],
