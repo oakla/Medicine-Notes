@@ -5,6 +5,26 @@
       "path": "MD1/High Yield.md"
     },
     {
+      "basename": "Overview of CVS History",
+      "path": "Overview of CVS History.md"
+    },
+    {
+      "basename": "M1.1 Cancer block",
+      "path": "MD1/M1.1 Cancer block.md"
+    },
+    {
+      "basename": "W10.2.4-Introduction to Head and neck",
+      "path": "MD1/Content/Anatomy/W10.2.4-Introduction to Head and neck.md"
+    },
+    {
+      "basename": "W11.5.7-Composition of cranial nerves and ocular autonomics",
+      "path": "W11.5.7-Composition of cranial nerves and ocular autonomics.md"
+    },
+    {
+      "basename": "W10.1.3-Neoplasia I and II",
+      "path": "W10.1.3-Neoplasia I and II.md"
+    },
+    {
       "basename": "Medical Language",
       "path": "Medical Language.md"
     },
@@ -21,24 +41,12 @@
       "path": "Untitled 7.md"
     },
     {
-      "basename": "M1.1 Cancer block",
-      "path": "MD1/M1.1 Cancer block.md"
-    },
-    {
-      "basename": "W11.5.7-Composition of cranial nerves and ocular autonomics",
-      "path": "W11.5.7-Composition of cranial nerves and ocular autonomics.md"
-    },
-    {
       "basename": "W10.2.5-The skull",
       "path": "W10.2.5-The skull.md"
     },
     {
       "basename": "MD1.1 - Research Skills",
       "path": "MD1/Subjects/MD1.1 - Research Skills.md"
-    },
-    {
-      "basename": "W10.1.3-Neoplasia I and II",
-      "path": "W10.1.3-Neoplasia I and II.md"
     },
     {
       "basename": "Untitled 6",
@@ -55,10 +63,6 @@
     {
       "basename": "Feedback 2025-04-05",
       "path": "Feedback 2025-04-05.md"
-    },
-    {
-      "basename": "W10.2.4-Introduction to Head and neck",
-      "path": "MD1/Content/Anatomy/W10.2.4-Introduction to Head and neck.md"
     },
     {
       "basename": "W11.5.8-The anatomy of staring at things",
@@ -195,10 +199,6 @@
     {
       "basename": "Behavioural Science - Communicating about mental health",
       "path": "Behavioural Science - Communicating about mental health.md"
-    },
-    {
-      "basename": "Physiology Lecture 7 -  Bone Physiology",
-      "path": "Physiology Lecture 7 -  Bone Physiology.md"
     }
   ],
   "omittedPaths": [],
