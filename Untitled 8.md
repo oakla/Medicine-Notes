@@ -1,0 +1,127 @@
+---
+aliases: 
+tags:
+  - Class/Literature-Note/Lecture
+  - Topic/-
+  - Context/MD1
+author(s): 
+key-terms: 
+presentation-datetime: 
+learning-outcomes:
+---
+
+
+## Overview
+### Learning Outcomes
+
+### Outline
+
+### Goal
+
+### Terms
+#### Key Terms
+
+#### Other Terms
+
+### Sections
+
+
+
+
+## AI Summary
+Here are the **key takeaways** from the lecture **"The Adult Heart (& Its Chambers of Secrets)" by Thomas Wilson**:
+
+---
+### **1. Heart Orientation**
+
+- **Three tricks to orienting the heart:**
+    
+    1. **Auricles face anteriorly**
+        
+    2. **Arteries dominate the anterior view**; veins are mostly posterior.
+        
+    3. **Right heart dominates the anterior view**
+        
+- When identifying anatomy: ask _“what is missing?”_ and _“what does that tell you?”_
+    
+
+---
+
+### **2. Gross Anatomy**
+
+#### **Right Atrium**
+
+- Inflow: **SVC, IVC, and coronary sinus**
+- Outflow: to **right ventricle via tricuspid valve**
+- Key features:
+    - **Crista terminalis**, **pectinate muscles** (rough areas from primitive atrium)
+    - **Smooth wall** from sinus venosus
+    - **Fossa ovalis** near IVC
+#### **Right Ventricle**
+- Inflow: from **right atrium**
+- Outflow: to **pulmonary trunk via pulmonary valve**
+- Structures:
+    - **Tricuspid valve**, **chordae tendineae**, **papillary muscles**, **trabeculae carneae**
+    - **Moderator band**: part of conduction system
+    - **Infundibulum** (smooth outflow tract) from bulbus cordis
+#### **Left Atrium & Ventricle**
+- LA inflow: **pulmonary veins**
+- LV outflow: **aorta via aortic valve**
+- LA has minor pectinate muscle; **mitral (bicuspid) valve**
+- LV has thicker walls than RV (same volume, higher pressure)
+
+---
+
+### **3. Coronary Circulation**
+#### **Arterial Supply**
+- **Left coronary artery**:
+    - Anterior interventricular (with conal & diagonal branches)
+    - Circumflex (with left marginal and posterior branches)
+- **Right coronary artery**:
+    - Conal, marginal, and posterior interventricular branches
+- **Marginal arteries** do _not_ supply the septum.
+#### **Venous Drainage**
+- Great cardiac (ant. IV), middle cardiac (post. IV), small cardiac, posterior vein of LV, anterior cardiac veins
+- All (except anterior cardiac) drain into **coronary sinus → right atrium**
+- Coronary sinus originates from **left horn of sinus venosus**
+
+---
+
+### **4. Anastomoses vs End Arteries**
+- **Anastomoses**: arteries connect, offer collateral flow
+- **End arteries**: no collateral supply → infarction risk if occluded
+- Small coronary vessels tend to be **end arteries**
+
+---
+
+### **5. Cardiac Conduction System**
+- **SA node** (near SVC) → **AV node** (in septum) → **Bundle of His** → **Purkinje fibers**
+- AV node has **delay** due to slow Ca²⁺ channels (allows ventricular filling)
+- **Moderator band** carries conduction to anterior RV wall
+
+---
+
+### **6. Innervation & Cardiac Pain**
+
+- Heart innervated by **vagus nerve** and **sympathetic trunk**
+    
+- Sympathetic fibers (T1–T5) carry pain signals (e.g. ischemia)
+    
+- **Pericardial pain**:
+    
+    - **Visceral**: same path as cardiac pain (T1–T5)
+        
+    - **Parietal**: via **phrenic nerve (C3–C5)** → referred shoulder pain
+        
+
+## Notes
+
+
+## Questions
+
+### My Questions
+### Revision Questions
+
+
+
+

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD1/High Yield.md",
+                "file": "Untitled 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "High Yield"
+              "title": "Untitled 8"
             }
           }
         ],
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -237,12 +238,13 @@
   },
   "active": "f7b823eb1ea2c6b9",
   "lastOpenFiles": [
+    "MD1/High Yield.md",
+    "Untitled 8.md",
     "Overview of CVS History.md",
     "MD1/M1.1 Cancer block.md",
     "MD1/Content/Anatomy/W10.2.4-Introduction to Head and neck.md",
     "W11.5.7-Composition of cranial nerves and ocular autonomics.md",
     "W10.1.3-Neoplasia I and II.md",
-    "MD1/High Yield.md",
     "Pasted image 20250503124113.png",
     "Medical Language.md",
     "MD1/Assignments/Research Critique/Research Critique notes.md",
@@ -266,7 +268,6 @@
     "MD1/resources/Resources 2025-03-03.md",
     "MD1/Content/Biochemistry/Metabolism - Energy Generation I & II.md",
     "MD1/Content/Biochemistry",
-    "MD1/Content/Pharmacology/Pharm - Genetics 1.md",
     "MD1/Content/Pharmacology",
     "MD1/Content/Immunology",
     "MD1/Content/Haematology",
