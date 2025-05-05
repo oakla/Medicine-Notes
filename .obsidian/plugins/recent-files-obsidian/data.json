@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Recommended Readings",
+      "path": "Recommended Readings.md"
+    },
+    {
       "basename": "W13.2.2 Development of the heart",
       "path": "W13.2.2 Development of the heart.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "TBL 1 Dave is feeling dodgy",
-      "path": "TBL 1 Dave is feeling dodgy.md"
     }
   ],
   "omittedPaths": [],
