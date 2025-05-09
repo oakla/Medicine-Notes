@@ -5,12 +5,12 @@
       "path": "Study Guidance.md"
     },
     {
-      "basename": "MD1.1 - Anatomy",
-      "path": "MD1/Subjects/MD1.1 - Anatomy.md"
-    },
-    {
       "basename": "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium",
       "path": "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium.md"
+    },
+    {
+      "basename": "MD1.1 - Anatomy",
+      "path": "MD1/Subjects/MD1.1 - Anatomy.md"
     },
     {
       "basename": "Cardiovascular system",
