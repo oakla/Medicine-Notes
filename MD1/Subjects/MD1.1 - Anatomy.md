@@ -3,6 +3,9 @@ tags:
   - class/MOC
   - Context/MD1
 ---
+## Resources
+- [Cardiovascular system  Veterian Key](https://veteriankey.com/cardiovascular-system-4/) - great diagrams showing folding and development of the heart
+
 ## MD 1 Lectures
 1. [[Anatomy 01 - ANATOMICAL METHODS AND TERMS]]
 2. [[Anatomy 02 - The First 3 Weeks]]
