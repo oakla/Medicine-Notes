@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "W15.3.2 - Development of the vasculature.md",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for W15.3.2 - Development of the vasculature"
+              "title": "Backlinks for Untitled 1"
             }
           },
           {
@@ -398,19 +398,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 47,
+        "x": 19,
         "y": 25,
-        "width": 836,
+        "width": 864,
         "height": 977,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "0c7b62b7aad53753",
+  "active": "555e6f013ef176ae",
   "lastOpenFiles": [
-    "Vascular Endothelial Growth Factor.md",
     "W15.3.2 - Development of the vasculature.md",
+    "Vascular Endothelial Growth Factor.md",
     "Untitled 1.canvas",
     "Thomas Wilson.md",
     "Glossary/Somites.md",
