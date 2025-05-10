@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"91c5aa6fc72cc09a","x":-1404,"y":229,"width":1344,"height":762,"color":"1","type":"group","label":"Blood Vessels"},
+		{"id":"bae828e4d8f100f7","type":"file","file":"Glossary/Mesoderm.md","x":-700,"y":-886,"width":280,"height":400},
+		{"id":"8eb36ea75bf938e0","type":"file","file":"Lateral Plate Mesoderm.md","x":-1040,"y":-600,"width":280,"height":360},
+		{"id":"b04d11332d60875f","x":-700,"y":-1200,"width":280,"height":200,"type":"file","file":"Vasculogenesis.md"},
+		{"id":"d7ae7ee5322093d6","type":"file","file":"Glossary/Somites.md","x":-320,"y":-600,"width":400,"height":400},
+		{"id":"f8c04b5c90131b54","x":-633,"y":249,"width":213,"height":201,"type":"file","file":"Aorta.md"},
+		{"id":"cf6fd5f64dcb62ee","x":-1040,"y":-114,"width":320,"height":180,"type":"file","file":"Splanchnopleure.md"},
+		{"id":"6cb2165c559f0a61","type":"file","file":"Somatopleure.md","x":-1480,"y":-114,"width":259,"height":180},
+		{"id":"addaeb491a807b84","x":-320,"y":350,"width":240,"height":200,"type":"file","file":"Paired Glands.md"},
+		{"id":"0c28d0203efbaa2e","x":-1384,"y":629,"width":184,"height":251,"type":"file","file":"Limbs.md"},
+		{"id":"96da7448822859d8","x":-1151,"y":755,"width":222,"height":216,"type":"file","file":"Body Wall.md"},
+		{"id":"88e320fe42de979c","x":-1047,"y":350,"width":236,"height":187,"type":"file","file":"Gut Tube.md"}
+	],
+	"edges":[
+		{"id":"e6023db577676258","fromNode":"bae828e4d8f100f7","fromSide":"bottom","toNode":"8eb36ea75bf938e0","toSide":"right"},
+		{"id":"4219e1e6d7da49fc","fromNode":"8eb36ea75bf938e0","fromSide":"bottom","toNode":"6cb2165c559f0a61","toSide":"top"},
+		{"id":"c183cd357c91e61e","fromNode":"bae828e4d8f100f7","fromSide":"bottom","toNode":"d7ae7ee5322093d6","toSide":"left"},
+		{"id":"ecc2639c824c02d5","fromNode":"b04d11332d60875f","fromSide":"bottom","toNode":"bae828e4d8f100f7","toSide":"top"},
+		{"id":"92f5bbbe0c70f154","fromNode":"8eb36ea75bf938e0","fromSide":"bottom","toNode":"cf6fd5f64dcb62ee","toSide":"top"},
+		{"id":"6b8944d26d9fdb9f","fromNode":"d7ae7ee5322093d6","fromSide":"bottom","toNode":"f8c04b5c90131b54","toSide":"top"},
+		{"id":"dac05460b60c128e","fromNode":"f8c04b5c90131b54","fromSide":"bottom","toNode":"addaeb491a807b84","toSide":"left"},
+		{"id":"51c1fc99a7b3fd60","fromNode":"cf6fd5f64dcb62ee","fromSide":"bottom","toNode":"88e320fe42de979c","toSide":"top"},
+		{"id":"8cc367eb12fda8f5","fromNode":"cf6fd5f64dcb62ee","fromSide":"bottom","toNode":"f8c04b5c90131b54","toSide":"top"},
+		{"id":"840dd3d0126948df","fromNode":"f8c04b5c90131b54","fromSide":"bottom","toNode":"88e320fe42de979c","toSide":"right"},
+		{"id":"ea7dbbe329c8fd6c","fromNode":"6cb2165c559f0a61","fromSide":"bottom","toNode":"0c28d0203efbaa2e","toSide":"top"},
+		{"id":"4e58c9f37d68e922","fromNode":"6cb2165c559f0a61","fromSide":"bottom","toNode":"96da7448822859d8","toSide":"top"},
+		{"id":"f9b0ed0de642b89c","fromNode":"f8c04b5c90131b54","fromSide":"bottom","toNode":"96da7448822859d8","toSide":"top"}
+	]
+}

@@ -1,3 +1,9 @@
+---
+aliases:
+  - Somite
+---
+[[Angioblasts]]
+
 - Somite in cross transverse section looks like an ice-cream cone (at least in diagrams)
 	- the cone is the [[sclerotome]], and is deep
 	- the 'ice-cream' bit is the fusion of dermatome and myotome (dermamyotome), and is superficial relative to the sclerotome
