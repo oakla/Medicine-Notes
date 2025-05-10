@@ -11,7 +11,7 @@ learning-outcomes:
 ---
 Related Anatomy Lectures:
 - [[W13.2.2 Development of the heart]]
-- Development of the vasculature
+- [[W15.3.2 - Development of the vasculature]]
 - The adult heart
 - Patterns in the vasculature
 - Mediastinum
