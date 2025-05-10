@@ -90,9 +90,61 @@
               "icon": "lucide-file",
               "title": "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium"
             }
+          },
+          {
+            "id": "555e6f013ef176ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Mesoderm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mesoderm"
+            }
+          },
+          {
+            "id": "30ac2f954f776d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Somites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Somites"
+            }
+          },
+          {
+            "id": "9dc669483da01168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lateral Plate Mesoderm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lateral Plate Mesoderm"
+            }
+          },
+          {
+            "id": "7ef759dd8af17cea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -176,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD1/MD1 - Anatomy.md",
+                "file": "Somites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +238,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MD1 - Anatomy"
+              "title": "Backlinks for Somites"
             }
           },
           {
@@ -257,13 +309,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,10 +367,14 @@
       }
     ]
   },
-  "active": "f7b823eb1ea2c6b9",
+  "active": "30ac2f954f776d8a",
   "lastOpenFiles": [
-    "W17 Anatomy Lab - CVS - Heart, Mediastinum, & Vessels of the Trunk.md",
+    "Somites.md",
+    "Glossary/Mesoderm.md",
+    "Lateral Plate Mesoderm.md",
+    "Somatopleure.md",
     "W13.2.2 Development of the heart.md",
+    "W17 Anatomy Lab - CVS - Heart, Mediastinum, & Vessels of the Trunk.md",
     "Recommended Readings.md",
     "Renin-angiotensin aldosterone system.md",
     "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium.md",
@@ -342,11 +396,7 @@
     "Overview of CVS History.md",
     "MD1/M1.1 Cancer block.md",
     "MD1/Content/Anatomy/W10.2.4-Introduction to Head and neck.md",
-    "W11.5.7-Composition of cranial nerves and ocular autonomics.md",
-    "W10.1.3-Neoplasia I and II.md",
     "Pasted image 20250503124113.png",
-    "Medical Language.md",
-    "MD1/Assignments/Research Critique/Research Critique notes.md",
     "MD1/Assignments/Research Critique",
     "MD1/Assignments",
     "MD1/Content/Biochemistry",
