@@ -10,7 +10,7 @@ presentation-datetime:
 learning-outcomes:
 ---
 Related Anatomy Lectures:
-- Development of the heart
+- [[W13.2.2 Development of the heart]]
 - Development of the vasculature
 - The adult heart
 - Patterns in the vasculature
