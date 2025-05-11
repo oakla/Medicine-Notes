@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "W17 Physiology Lab - CVS",
       "path": "W17 Physiology Lab - CVS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pharm - Genetics 1",
       "path": "MD1/Content/Pharmacology/Pharm - Genetics 1.md"
-    },
-    {
-      "basename": "Pharm - Dose and effect (I) - ADRs",
-      "path": "MD1/Content/Pharmacology/Pharm - Dose and effect (I) - ADRs.md"
     }
   ],
   "omittedPaths": [],

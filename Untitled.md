@@ -1,0 +1,54 @@
+---
+aliases: 
+tags:
+  - Class/Literature-Note/Lecture
+  - Topic/-
+  - Context/MD1
+author(s): 
+key-terms: 
+presentation-datetime: 
+learning-outcomes:
+---
+
+Extracellular Ca is more important than in Skeletal Muscle
+Calcium Channels & Pumps
+- dihydropyridine receptor (DHPR)
+	- present on cell membrane
+	- L-type (i.e. slow type => open for ~300ms)
+- Ryanodine receptors
+	- present on the sarcomere
+	- triggered by Ca presence => releases Ca from sarcoplasmic reticulum
+- SERCA (sarcoendoplasmic reticulum calcium ATPase)
+	- Calcium pump
+	- present on cell membrane
+- Ca exchanger
+	- secondary active transport
+	- Na/Ca exchange
+	- target of a lot of pharmacology
+
+## Overview
+### Learning Outcomes
+
+### Outline
+
+### Goal
+
+### Terms
+#### Key Terms
+
+#### Other Terms
+
+### Sections
+
+
+## Notes
+
+
+## Questions
+
+### My Questions
+### Revision Questions
+
+
+
+
