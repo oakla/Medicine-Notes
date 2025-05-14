@@ -1,7 +1,6 @@
 ---
 aliases:
-  - Vegf
+  - EPO
 tags:
   - key-concept
 ---
-
