@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "W17.3.3-Bacteremia & Septicaemia (Sepsis)",
+      "path": "W17.3.3-Bacteremia & Septicaemia (Sepsis).md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "W19.1.2-Vasculature of the Head, neck, & limbs",
       "path": "W19.1.2-Vasculature of the Head, neck, & limbs.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Biochem - Metabolism - Carbohydrates",
       "path": "MD1/Content/Biochemistry/Biochem - Metabolism - Carbohydrates.md"
-    },
-    {
-      "basename": "Micromodule - The Genus Staphylococcus",
-      "path": "MD1/Content/Microbiology/Micromodule - The Genus Staphylococcus.md"
-    },
-    {
-      "basename": "sclerotome",
-      "path": "Glossary/sclerotome.md"
     }
   ],
   "omittedPaths": [],
