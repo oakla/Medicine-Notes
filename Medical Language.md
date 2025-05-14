@@ -1,4 +1,12 @@
-	
+---
+aliases:
+  - Medical Terms
+---
+
+
+
+
+iatrogenic	
 
 | Term    | Meaning       |
 | ------- | ------------- |

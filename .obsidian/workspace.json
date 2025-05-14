@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "W17.5.7-Predictive Testing for CVS Risk.md",
+                "file": "W17 Anatomy Lab - CVS - Heart, Mediastinum, & Vessels of the Trunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for W17.5.7-Predictive Testing for CVS Risk"
+              "title": "Backlinks for W17 Anatomy Lab - CVS - Heart, Mediastinum, & Vessels of the Trunk"
             }
           },
           {
@@ -357,56 +357,13 @@
                   "icon": "lucide-file",
                   "title": "W17 Anatomy Lab - CVS - Heart, Mediastinum, & Vessels of the Trunk"
                 }
-              },
-              {
-                "id": "68bb60aa2de582c1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "W17 Physiology Lab - CVS.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "W17 Physiology Lab - CVS"
-                }
-              },
-              {
-                "id": "44a49cc9f218a05f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "W13.2.4-Heart as pump and electrical activity.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "W13.2.4-Heart as pump and electrical activity"
-                }
-              },
-              {
-                "id": "918003b4b2d8c0ce",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "W10.4.4-Non-invasive Pre-natal Testing.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "W10.4.4-Non-invasive Pre-natal Testing"
-                }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 47,
+        "x": -1280,
+        "y": -114,
         "width": 1280,
         "height": 705,
         "maximize": false,
@@ -456,8 +413,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 36,
+        "x": -1280,
+        "y": -125,
         "width": 713,
         "height": 716,
         "maximize": false,
@@ -489,8 +446,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 457,
-        "y": 1,
+        "x": -823,
+        "y": -160,
         "width": 823,
         "height": 751,
         "maximize": false,
@@ -537,45 +494,45 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 583,
-        "height": 752,
+        "x": 5,
+        "y": 36,
+        "width": 901,
+        "height": 678,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "f824d02f87a02a88",
+  "active": "85a1179863dbc438",
   "lastOpenFiles": [
-    "W17.3.3-Bacteremia & Septicaemia (Sepsis).md",
+    "W17 Physiology Lab - CVS.md",
+    "W13.2.4-Heart as pump and electrical activity.md",
+    "Medical Language.md",
+    "Glossary/Somites.md",
+    "MD1/Content/Anatomy/Anatomy 01 - ANATOMICAL METHODS AND TERMS.md",
+    "W10.4.4-Non-invasive Pre-natal Testing.md",
     "W17.5.7-Predictive Testing for CVS Risk.md",
+    "W17.3.3-Bacteremia & Septicaemia (Sepsis).md",
     "Pasted image 20250514101017.png",
     "Untitled.md",
     "W19.1.2-Vasculature of the Head, neck, & limbs.md",
     "W10.1.3-Neoplasia I and II.md",
-    "W10.4.4-Non-invasive Pre-natal Testing.md",
     "W16.5.8-CVS epidemiology.md",
     "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium.md",
-    "W13.2.4-Heart as pump and electrical activity.md",
     "temp.md",
     "MD1/M1.1 Cancer block.md",
     "W15.3.2 - Development of the vasculature.md",
     "somatic vs autonomic innervation (comparrison).md",
     "Untitled 1.canvas",
-    "W17 Physiology Lab - CVS.md",
     "W17 Anatomy Lab - CVS - Heart, Mediastinum, & Vessels of the Trunk.md",
     "Vascular Endothelial Growth Factor.md",
     "Thomas Wilson.md",
-    "Glossary/Somites.md",
     "Body Wall.md",
     "Limbs.md",
     "Gut Tube.md",
     "Aorta.md",
     "Splanchnopleure.md",
     "Paired Glands.md",
-    "Vasculogenesis.md",
-    "Glossary/Mesoderm.md",
     "Untitled.canvas",
     "Clippings",
     "Pasted image 20250503124113.png",
