@@ -137,16 +137,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W16.3.0-CVS Examination.md",
+                "file": "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W16.3.0-CVS Examination"
+              "title": "W17.4.1-Biomarkers of infarction"
+            }
+          },
+          {
+            "id": "cb240978c9211125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "W13.1.5-Thrombosis, embolus, ischaemia and infarction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W13.1.5-Thrombosis, embolus, ischaemia and infarction"
+            }
+          },
+          {
+            "id": "007f32a64c0fb06d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD1/Content/Haematology/W11.2.3-Haematology-Platelets and haemostasis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W11.2.3-Haematology-Platelets and haemostasis"
+            }
+          },
+          {
+            "id": "912a163a2b15a33f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "embolus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "embolus"
+            }
+          },
+          {
+            "id": "e736ee8b03efcefd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thrombus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "thrombus"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -209,12 +265,12 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -316,7 +372,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,11 +388,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68acc00c7f3041f3",
+  "active": "007f32a64c0fb06d",
   "lastOpenFiles": [
-    "Glossary/CVS/Erythropoietin.md",
-    "W16.3.0-CVS Examination.md",
+    "W13.1.5-Thrombosis, embolus, ischaemia and infarction.md",
+    "MD1/Content/Haematology/W11.2.3-Haematology-Platelets and haemostasis.md",
+    "embolus.md",
+    "thrombus.md",
+    "MD1/M1.1 Cancer block.md",
+    "Study Guidance.md",
     "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md",
+    "W16.3.0-CVS Examination.md",
+    "Glossary/CVS/Erythropoietin.md",
     "Untitled.md",
     "MD1/Navigation/Navigation.md",
     "MD1/Navigation/Adapted Docs Example.md",
@@ -346,8 +409,6 @@
     "MD1/Content/Pathology/W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium.md",
     "Heart failure.md",
     "MD1/Content/Pathology/W17.2.3-Heart Failure and shock.md",
-    "Study Guidance.md",
-    "MD1/M1.1 Cancer block.md",
     "Glossary/CVS/cardiac troponin.md",
     "alkylating agents.md",
     "Cisplatin.md",
@@ -357,10 +418,6 @@
     "Glossary/CVS/The Gibbs-Donnan effect.md",
     "Untitled.canvas",
     "MD1/Navigation",
-    "MD1/Content/Haematology/W11.4.4-Haematinics.md",
-    "MD1/Content/Pathology/W10.1.3-Neoplasia I and II.md",
-    "MD1/Content/Pharmacology/Pharm - Dose and effect (II) - Toxicity.md",
-    "MD1/Content/Anatomy/W17 Anatomy Lab - CVS - Heart, Mediastinum, & Vessels of the Trunk.md",
     "MD1/Content/Genetics",
     "MD1/Content/Clinical",
     "Untitled 1.canvas",
