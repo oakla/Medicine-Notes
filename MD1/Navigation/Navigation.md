@@ -1,6 +1,6 @@
 
 ```dataviewjs
-const filter = '#System-block/CVS'
+const filter = "#System-block/CVS or #Topic/Haematology"
 
 const property = "key_concepts"; // change this to your desired property
 let results = new Set();
