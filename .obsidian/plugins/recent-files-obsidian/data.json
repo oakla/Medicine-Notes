@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "W17.4.1-Biomarkers of infarction",
-      "path": "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md"
-    },
-    {
       "basename": "W16.3.0-CVS Examination",
       "path": "W16.3.0-CVS Examination.md"
+    },
+    {
+      "basename": "Erythropoietin",
+      "path": "Glossary/CVS/Erythropoietin.md"
+    },
+    {
+      "basename": "W17.4.1-Biomarkers of infarction",
+      "path": "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md"
     },
     {
       "basename": "Untitled",
@@ -55,10 +59,6 @@
     {
       "basename": "W10 Treating Cancer - Classical Chemotherapy",
       "path": "MD1/Content/Pharmacology/W10 Treating Cancer - Classical Chemotherapy.md"
-    },
-    {
-      "basename": "Erythropoietin",
-      "path": "Glossary/CVS/Erythropoietin.md"
     },
     {
       "basename": "W04.1.5-Lipid physiology",
