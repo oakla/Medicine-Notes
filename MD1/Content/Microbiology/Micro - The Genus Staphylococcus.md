@@ -5,7 +5,7 @@ tags:
   - Topic/Microbiology
   - Context/MD1
 author(s): 
-key_concept:
+key_concepts:
   - "[[Staphylococcus aureus]]"
   - "[[pyogenic]]"
   - "[[toxic shock syndrome toxins]]"

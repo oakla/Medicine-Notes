@@ -6,7 +6,7 @@ tags:
   - Context/MD1
 author(s):
   - "[[Jo Chua]]"
-key_concept:
+key_concepts:
   - Commensal
   - Antigen
   - Serology

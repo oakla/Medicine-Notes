@@ -1,10 +1,11 @@
 
-
 ```dataviewjs
-const property = "key_concept"; // change this to your desired property
+const filter = '#System-block/CVS'
+
+const property = "key_concepts"; // change this to your desired property
 let results = new Set();
 
-for (let page of dv.pages('#System-block/CVS')) {
+for (let page of dv.pages(filter)) {
     let value = page[property];
     if (Array.isArray(value)) {
         value.forEach(v => results.add(v));
@@ -14,7 +15,7 @@ for (let page of dv.pages('#System-block/CVS')) {
 }
 
 // Display results as a list
-dv.header(2, `All unique values for "${property}"`);
+dv.header(3, `All '${property}' in '${filter}'`);
 dv.list(Array.from(results).sort());
 ```
 

@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD1/Navigation/Untitled 1.md",
+                "file": "MD1/Navigation/Navigation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -56,7 +56,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Navigation"
             }
           },
           {
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD1/Navigation/Untitled 1.md",
+                "file": "MD1/Navigation/Navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for Navigation"
             }
           },
           {
@@ -263,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MD1/Navigation/Untitled 1.md",
+                "file": "MD1/Navigation/Navigation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Navigation"
             }
           },
           {
@@ -476,12 +476,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MD1/Navigation/Adapted Docs Example.md",
+                    "file": "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Adapted Docs Example"
+                  "title": "W17.4.1-Biomarkers of infarction"
                 }
               }
             ]
@@ -499,9 +499,13 @@
   },
   "active": "93b532cbac5419da",
   "lastOpenFiles": [
+    "MD1/Navigation/Adapted Docs Example.md",
+    "MD1/Navigation/Navigation.md",
+    "MD1/Navigation/Untitled.md",
+    "MD1/Navigation/suggestion 2.md",
+    "MD1/Navigation/suggestion 1.md",
     "pericardium.md",
     "MD1/Content/Pathology/W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium.md",
-    "MD1/Navigation/Untitled 1.md",
     "Heart failure.md",
     "MD1/Content/Pathology/W17.2.3-Heart Failure and shock.md",
     "Study Guidance.md",
@@ -510,10 +514,6 @@
     "alkylating agents.md",
     "Cisplatin.md",
     "MD1/Content/Pharmacology/W10 Treating Cancer - Classical Chemotherapy.md",
-    "MD1/Navigation/Untitled.md",
-    "MD1/Navigation/Adapted Docs Example.md",
-    "MD1/Navigation/suggestion 2.md",
-    "MD1/Navigation/suggestion 1.md",
     "Glossary/CVS/Erythropoietin.md",
     "MD1/Content/Physiology/W04.1.5-Lipid physiology.md",
     "MD1/Content/Physiology/W13.2.4-Heart as pump and electrical activity.md",

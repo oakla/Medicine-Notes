@@ -7,6 +7,6 @@
     "presentation-datetime": "datetime",
     "Author": "multitext",
     "learning-outcomes": "multitext",
-    "key_concept": "multitext"
+    "key_concepts": "multitext"
   }
 }

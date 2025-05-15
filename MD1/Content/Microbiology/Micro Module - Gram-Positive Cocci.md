@@ -5,7 +5,7 @@ tags:
   - Topic/-
   - Context/MD1
 author(s): 
-key_concept:
+key_concepts:
   - Gram-positive
   - Staphylococcus
   - Streptococcus

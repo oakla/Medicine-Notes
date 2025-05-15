@@ -6,7 +6,7 @@ tags:
   - Context/MD1
 author(s):
   - Thomas Wilson
-key_concept:
+key_concepts:
   - "[[Ectoderm]]"
   - "[[Mesoderm]]"
   - "[[Endoderm]]"
