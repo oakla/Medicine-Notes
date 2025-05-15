@@ -6,7 +6,7 @@ tags:
   - Context/MD1
 author(s):
   - "[[Phil Burcham]]"
-key-concepts:
+key_concept:
   - "[[Pharmacokinetics]]"
   - "[[Xenobiotic-handling]]"
   - "[[bioavailability]]"

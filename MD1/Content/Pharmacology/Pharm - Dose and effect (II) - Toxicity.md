@@ -6,7 +6,7 @@ tags:
   - Topic/Pharmacology
 author(s):
   - "[[Benedict Tan]]"
-key-concepts: 
+key_concept: 
 presentation-datetime: 
 learning-outcomes:
 ---

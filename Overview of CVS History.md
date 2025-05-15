@@ -6,7 +6,7 @@ tags:
   - Topic/Clinical
   - Topic/CVS
 author(s): 
-key-concepts: 
+key_concept: 
 presentation-datetime: 
 learning-outcomes:
 ---

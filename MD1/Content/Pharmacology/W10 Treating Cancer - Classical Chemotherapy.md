@@ -6,7 +6,7 @@ tags:
   - Topic/Pharmacology
 author(s):
   - "[[Fiona Pixley]]"
-key-concepts:
+key_concept:
   - "[[alkylating agents]]"
   - "[[Cyclophosphamide]]"
   - "[[Cisplatin]]"

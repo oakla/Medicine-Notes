@@ -78,20 +78,6 @@
             }
           },
           {
-            "id": "1b1166f086bf3555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W17.4.1-Biomarkers of infarction"
-            }
-          },
-          {
             "id": "1c436db1818f4128",
             "type": "leaf",
             "state": {
@@ -148,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 200
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -317,7 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -477,14 +463,51 @@
         "height": 752,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "a0c09c548ee98bc4",
+        "type": "window",
+        "children": [
+          {
+            "id": "57217a6e5ef3152b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1b1166f086bf3555",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1/Navigation/Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Untitled"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 518,
+        "height": 752,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "68acc00c7f3041f3",
+  "active": "93b532cbac5419da",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md",
+    "MD1/Navigation/Untitled.md",
+    "MD1/M1.1 Cancer block.md",
+    "MD1/Navigation",
     "MD1/Content/Haematology/W11.4.4-Haematinics.md",
     "Glossary/CVS/Erythropoietin.md",
-    "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md",
     "Glossary/CVS/The Gibbs-Donnan effect.md",
     "MD1/Content/Pathology/W17.2.3-Heart Failure and shock.md",
     "MD1/Content/Pathology/W10.1.3-Neoplasia I and II.md",
@@ -510,17 +533,12 @@
     "Glossary/CVS/cardiac troponin.md",
     "Cartilage.md",
     "Glossary/CVS",
-    "MD1/What to study/High Yield.md",
     "MD1/What to study",
-    "TBL 1 Dave is feeling dodgy.md",
-    "MD1/Content/Anatomy/W12.3.2-Skull and extraocular muscles (Lab).md",
-    "Untitled.canvas",
     "Pasted image 20250514101017.png",
     "Clippings",
     "Pasted image 20250503124113.png",
     "MD1/Assignments/Research Critique",
     "MD1/Assignments",
-    "MD1/Content/Biochemistry",
-    "MD1/Content/Pharmacology"
+    "MD1/Content/Biochemistry"
   ]
 }

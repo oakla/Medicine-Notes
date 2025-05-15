@@ -5,6 +5,14 @@
       "path": "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md"
     },
     {
+      "basename": "Untitled",
+      "path": "MD1/Navigation/Untitled.md"
+    },
+    {
+      "basename": "M1.1 Cancer block",
+      "path": "MD1/M1.1 Cancer block.md"
+    },
+    {
       "basename": "W11.4.4-Haematinics",
       "path": "MD1/Content/Haematology/W11.4.4-Haematinics.md"
     },
@@ -145,10 +153,6 @@
       "path": "Glossary/CVS/troponin.md"
     },
     {
-      "basename": "M1.1 Cancer block",
-      "path": "MD1/M1.1 Cancer block.md"
-    },
-    {
       "basename": "Study Guidance",
       "path": "Study Guidance.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "somatic vs autonomic innervation (comparrison)",
       "path": "somatic vs autonomic innervation (comparrison).md"
-    },
-    {
-      "basename": "Thomas Wilson",
-      "path": "Thomas Wilson.md"
-    },
-    {
-      "basename": "Gut Tube",
-      "path": "Gut Tube.md"
     }
   ],
   "omittedPaths": [],
