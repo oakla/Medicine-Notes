@@ -2,10 +2,10 @@
 	"nodes":[
 		{"id":"91c5aa6fc72cc09a","x":-1404,"y":229,"width":1344,"height":762,"color":"1","type":"group","label":"Blood Vessels"},
 		{"id":"bae828e4d8f100f7","type":"file","file":"Glossary/Mesoderm.md","x":-700,"y":-886,"width":280,"height":400},
-		{"id":"8eb36ea75bf938e0","type":"file","file":"Lateral Plate Mesoderm.md","x":-1040,"y":-600,"width":280,"height":360},
-		{"id":"b04d11332d60875f","x":-700,"y":-1200,"width":280,"height":200,"type":"file","file":"Vasculogenesis.md"},
+		{"id":"8eb36ea75bf938e0","type":"file","file":"Glossary/CVS/Lateral Plate Mesoderm.md","x":-1040,"y":-600,"width":280,"height":360},
+		{"id":"b04d11332d60875f","x":-700,"y":-1200,"width":280,"height":200,"type":"file","file":"Glossary/CVS/Vasculogenesis.md"},
 		{"id":"d7ae7ee5322093d6","type":"file","file":"Glossary/Somites.md","x":-320,"y":-600,"width":400,"height":400},
-		{"id":"f8c04b5c90131b54","x":-633,"y":249,"width":213,"height":201,"type":"file","file":"Aorta.md"},
+		{"id":"f8c04b5c90131b54","x":-633,"y":249,"width":213,"height":201,"type":"file","file":"Glossary/CVS/Aorta.md"},
 		{"id":"cf6fd5f64dcb62ee","x":-1040,"y":-114,"width":320,"height":180,"type":"file","file":"Splanchnopleure.md"},
 		{"id":"6cb2165c559f0a61","type":"file","file":"Somatopleure.md","x":-1480,"y":-114,"width":259,"height":180},
 		{"id":"addaeb491a807b84","x":-320,"y":350,"width":240,"height":200,"type":"file","file":"Paired Glands.md"},

@@ -6,4 +6,4 @@ tags:
 ---
 
 The RLN is common across all animals.
-Branches from the [[vagus nerve]], travels under the [[aorta]], and then back up to the [[larynx]].
+Branches from the [[vagus nerve]], travels under the [[Aorta]], and then back up to the [[larynx]].

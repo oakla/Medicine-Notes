@@ -1,40 +1,120 @@
 {
   "recentFiles": [
     {
+      "basename": "W04.1.5-Lipid physiology",
+      "path": "W04.1.5-Lipid physiology.md"
+    },
+    {
+      "basename": "Aorta",
+      "path": "Glossary/CVS/Aorta.md"
+    },
+    {
+      "basename": "cardiac troponin",
+      "path": "Glossary/CVS/cardiac troponin.md"
+    },
+    {
+      "basename": "Cartilage",
+      "path": "Cartilage.md"
+    },
+    {
+      "basename": "Erythropoietin",
+      "path": "Glossary/CVS/Erythropoietin.md"
+    },
+    {
+      "basename": "High Yield",
+      "path": "MD1/What to study/High Yield.md"
+    },
+    {
+      "basename": "The Gibbs-Donnan effect",
+      "path": "Glossary/CVS/The Gibbs-Donnan effect.md"
+    },
+    {
+      "basename": "Anatomy 02 - The First 3 Weeks",
+      "path": "MD1/Content/Anatomy/Anatomy 02 - The First 3 Weeks.md"
+    },
+    {
+      "basename": "TBL 1 Dave is feeling dodgy",
+      "path": "TBL 1 Dave is feeling dodgy.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.canvas"
+    },
+    {
+      "basename": "W12.3.2-Skull and extraocular muscles (Lab)",
+      "path": "W12.3.2-Skull and extraocular muscles (Lab).md"
+    },
+    {
+      "basename": "W13.2.2 Development of the heart",
+      "path": "W13.2.2 Development of the heart.md"
+    },
+    {
+      "basename": "W13.2.4-Heart as pump and electrical activity",
+      "path": "W13.2.4-Heart as pump and electrical activity.md"
+    },
+    {
+      "basename": "W15.3.2 - Development of the vasculature",
+      "path": "W15.3.2 - Development of the vasculature.md"
+    },
+    {
+      "basename": "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium",
+      "path": "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium.md"
+    },
+    {
+      "basename": "W16.5.8-CVS epidemiology",
+      "path": "W16.5.8-CVS epidemiology.md"
+    },
+    {
+      "basename": "W17 Anatomy Lab - CVS - Heart, Mediastinum, & Vessels of the Trunk",
+      "path": "W17 Anatomy Lab - CVS - Heart, Mediastinum, & Vessels of the Trunk.md"
+    },
+    {
+      "basename": "W17 Physiology Lab - CVS",
+      "path": "W17 Physiology Lab - CVS.md"
+    },
+    {
       "basename": "W17.2.3-Heart Failure and shock",
       "path": "W17.2.3-Heart Failure and shock.md"
     },
     {
-      "basename": "Frank-Starling",
-      "path": "Frank-Starling.md"
+      "basename": "W17.3.3-Bacteremia & Septicaemia (Sepsis)",
+      "path": "W17.3.3-Bacteremia & Septicaemia (Sepsis).md"
     },
     {
       "basename": "W17.4.1-Biomarkers of infarction",
       "path": "W17.4.1-Biomarkers of infarction.md"
     },
     {
+      "basename": "W17.5.7-Predictive Testing for CVS Risk",
+      "path": "W17.5.7-Predictive Testing for CVS Risk.md"
+    },
+    {
+      "basename": "W19.1.2-Vasculature of the Head, neck, & limbs",
+      "path": "W19.1.2-Vasculature of the Head, neck, & limbs.md"
+    },
+    {
+      "basename": "Pharm - Genetics 1",
+      "path": "MD1/Content/Pharmacology/Pharm - Genetics 1.md"
+    },
+    {
+      "basename": "Frank-Starling",
+      "path": "Glossary/CVS/Frank-Starling.md"
+    },
+    {
       "basename": "STEMI",
-      "path": "STEMI.md"
+      "path": "Glossary/CVS/STEMI.md"
     },
     {
       "basename": "acute coronary syndrome",
-      "path": "acute coronary syndrome.md"
+      "path": "Glossary/CVS/acute coronary syndrome.md"
     },
     {
       "basename": "troponin",
-      "path": "troponin.md"
-    },
-    {
-      "basename": "cardiac troponin",
-      "path": "cardiac troponin.md"
+      "path": "Glossary/CVS/troponin.md"
     },
     {
       "basename": "M1.1 Cancer block",
       "path": "MD1/M1.1 Cancer block.md"
-    },
-    {
-      "basename": "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium",
-      "path": "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium.md"
     },
     {
       "basename": "Study Guidance",
@@ -42,7 +122,7 @@
     },
     {
       "basename": "Lateral Plate Mesoderm",
-      "path": "Lateral Plate Mesoderm.md"
+      "path": "Glossary/CVS/Lateral Plate Mesoderm.md"
     },
     {
       "basename": "Somites",
@@ -51,10 +131,6 @@
     {
       "basename": "W10.1.3-Neoplasia I and II",
       "path": "W10.1.3-Neoplasia I and II.md"
-    },
-    {
-      "basename": "W13.2.2 Development of the heart",
-      "path": "W13.2.2 Development of the heart.md"
     },
     {
       "basename": "MD1.1 - Anatomy",
@@ -69,20 +145,8 @@
       "path": "Untitled 1.md"
     },
     {
-      "basename": "Erythropoietin",
-      "path": "Erythropoietin.md"
-    },
-    {
-      "basename": "W15.3.2 - Development of the vasculature",
-      "path": "W15.3.2 - Development of the vasculature.md"
-    },
-    {
       "basename": "Vascular Endothelial Growth Factor",
-      "path": "Vascular Endothelial Growth Factor.md"
-    },
-    {
-      "basename": "W16.5.8-CVS epidemiology",
-      "path": "W16.5.8-CVS epidemiology.md"
+      "path": "Glossary/CVS/Vascular Endothelial Growth Factor.md"
     },
     {
       "basename": "W11.4.4-Haematinics",
@@ -90,19 +154,11 @@
     },
     {
       "basename": "Iron",
-      "path": "Iron.md"
+      "path": "Glossary/CVS/Iron.md"
     },
     {
       "basename": "Medical Language",
       "path": "Medical Language.md"
-    },
-    {
-      "basename": "W19.1.2-Vasculature of the Head, neck, & limbs",
-      "path": "W19.1.2-Vasculature of the Head, neck, & limbs.md"
-    },
-    {
-      "basename": "W17.5.7-Predictive Testing for CVS Risk",
-      "path": "W17.5.7-Predictive Testing for CVS Risk.md"
     },
     {
       "basename": "Pharm - Dose and effect (II) - Toxicity",
@@ -113,18 +169,6 @@
       "path": "temp.md"
     },
     {
-      "basename": "W17 Anatomy Lab - CVS - Heart, Mediastinum, & Vessels of the Trunk",
-      "path": "W17 Anatomy Lab - CVS - Heart, Mediastinum, & Vessels of the Trunk.md"
-    },
-    {
-      "basename": "W17 Physiology Lab - CVS",
-      "path": "W17 Physiology Lab - CVS.md"
-    },
-    {
-      "basename": "W13.2.4-Heart as pump and electrical activity",
-      "path": "W13.2.4-Heart as pump and electrical activity.md"
-    },
-    {
       "basename": "Anatomy 01 - ANATOMICAL METHODS AND TERMS",
       "path": "MD1/Content/Anatomy/Anatomy 01 - ANATOMICAL METHODS AND TERMS.md"
     },
@@ -133,20 +177,8 @@
       "path": "W10.4.4-Non-invasive Pre-natal Testing.md"
     },
     {
-      "basename": "W17.3.3-Bacteremia & Septicaemia (Sepsis)",
-      "path": "W17.3.3-Bacteremia & Septicaemia (Sepsis).md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
       "basename": "somatic vs autonomic innervation (comparrison)",
       "path": "somatic vs autonomic innervation (comparrison).md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.canvas"
     },
     {
       "basename": "Thomas Wilson",
@@ -167,38 +199,6 @@
     {
       "basename": "Paired Glands",
       "path": "Paired Glands.md"
-    },
-    {
-      "basename": "Somatopleure",
-      "path": "Somatopleure.md"
-    },
-    {
-      "basename": "Splanchnopleure",
-      "path": "Splanchnopleure.md"
-    },
-    {
-      "basename": "Aorta",
-      "path": "Aorta.md"
-    },
-    {
-      "basename": "Vasculogenesis",
-      "path": "Vasculogenesis.md"
-    },
-    {
-      "basename": "Mesoderm",
-      "path": "Glossary/Mesoderm.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
-    },
-    {
-      "basename": "Recommended Readings",
-      "path": "Recommended Readings.md"
-    },
-    {
-      "basename": "Renin-angiotensin aldosterone system",
-      "path": "Renin-angiotensin aldosterone system.md"
     }
   ],
   "omittedPaths": [],
