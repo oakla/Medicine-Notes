@@ -5,6 +5,10 @@
       "path": "W17.2.3-Heart Failure and shock.md"
     },
     {
+      "basename": "Frank-Starling",
+      "path": "Frank-Starling.md"
+    },
+    {
       "basename": "W17.4.1-Biomarkers of infarction",
       "path": "W17.4.1-Biomarkers of infarction.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Renin-angiotensin aldosterone system",
       "path": "Renin-angiotensin aldosterone system.md"
-    },
-    {
-      "basename": "Cardiovascular system",
-      "path": "Clippings/Cardiovascular system.md"
     }
   ],
   "omittedPaths": [],
