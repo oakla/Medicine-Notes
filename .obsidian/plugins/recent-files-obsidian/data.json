@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Likely to be assessed",
-      "path": "Likely to be assessed.md"
+      "basename": "W17.4.1-Biomarkers of infarction",
+      "path": "W17.4.1-Biomarkers of infarction.md"
     },
     {
-      "basename": "Erythropoietin",
-      "path": "Erythropoietin.md"
+      "basename": "acute coronary syndrome",
+      "path": "acute coronary syndrome.md"
+    },
+    {
+      "basename": "STEMI",
+      "path": "STEMI.md"
+    },
+    {
+      "basename": "troponin",
+      "path": "troponin.md"
+    },
+    {
+      "basename": "cardiac troponin",
+      "path": "cardiac troponin.md"
+    },
+    {
+      "basename": "M1.1 Cancer block",
+      "path": "MD1/M1.1 Cancer block.md"
+    },
+    {
+      "basename": "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium",
+      "path": "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium.md"
+    },
+    {
+      "basename": "Study Guidance",
+      "path": "Study Guidance.md"
+    },
+    {
+      "basename": "Lateral Plate Mesoderm",
+      "path": "Lateral Plate Mesoderm.md"
     },
     {
       "basename": "Somites",
       "path": "Glossary/Somites.md"
+    },
+    {
+      "basename": "W10.1.3-Neoplasia I and II",
+      "path": "W10.1.3-Neoplasia I and II.md"
+    },
+    {
+      "basename": "W13.2.2 Development of the heart",
+      "path": "W13.2.2 Development of the heart.md"
+    },
+    {
+      "basename": "MD1.1 - Anatomy",
+      "path": "MD1/Subjects/MD1.1 - Anatomy.md"
+    },
+    {
+      "basename": "Likely to be assessed",
+      "path": "Likely to be assessed.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "Erythropoietin",
+      "path": "Erythropoietin.md"
     },
     {
       "basename": "W15.3.2 - Development of the vasculature",
@@ -31,10 +83,6 @@
     {
       "basename": "Iron",
       "path": "Iron.md"
-    },
-    {
-      "basename": "W10.1.3-Neoplasia I and II",
-      "path": "W10.1.3-Neoplasia I and II.md"
     },
     {
       "basename": "Medical Language",
@@ -85,14 +133,6 @@
       "path": "Untitled.md"
     },
     {
-      "basename": "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium",
-      "path": "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium.md"
-    },
-    {
-      "basename": "M1.1 Cancer block",
-      "path": "MD1/M1.1 Cancer block.md"
-    },
-    {
       "basename": "somatic vs autonomic innervation (comparrison)",
       "path": "somatic vs autonomic innervation (comparrison).md"
     },
@@ -133,10 +173,6 @@
       "path": "Aorta.md"
     },
     {
-      "basename": "Lateral Plate Mesoderm",
-      "path": "Lateral Plate Mesoderm.md"
-    },
-    {
       "basename": "Vasculogenesis",
       "path": "Vasculogenesis.md"
     },
@@ -149,10 +185,6 @@
       "path": "Untitled.canvas"
     },
     {
-      "basename": "W13.2.2 Development of the heart",
-      "path": "W13.2.2 Development of the heart.md"
-    },
-    {
       "basename": "Recommended Readings",
       "path": "Recommended Readings.md"
     },
@@ -161,44 +193,12 @@
       "path": "Renin-angiotensin aldosterone system.md"
     },
     {
-      "basename": "Study Guidance",
-      "path": "Study Guidance.md"
-    },
-    {
-      "basename": "MD1.1 - Anatomy",
-      "path": "MD1/Subjects/MD1.1 - Anatomy.md"
-    },
-    {
       "basename": "Cardiovascular system",
       "path": "Clippings/Cardiovascular system.md"
     },
     {
       "basename": "High Yield",
       "path": "MD1/High Yield.md"
-    },
-    {
-      "basename": "Overview of CVS History",
-      "path": "Overview of CVS History.md"
-    },
-    {
-      "basename": "W10.2.4-Introduction to Head and neck",
-      "path": "MD1/Content/Anatomy/W10.2.4-Introduction to Head and neck.md"
-    },
-    {
-      "basename": "W11.5.7-Composition of cranial nerves and ocular autonomics",
-      "path": "W11.5.7-Composition of cranial nerves and ocular autonomics.md"
-    },
-    {
-      "basename": "Research Critique notes",
-      "path": "MD1/Assignments/Research Critique/Research Critique notes.md"
-    },
-    {
-      "basename": "W12.3.2-Skull and extraocular muscles (Lab)",
-      "path": "W12.3.2-Skull and extraocular muscles (Lab).md"
-    },
-    {
-      "basename": "W10.2.5-The skull",
-      "path": "W10.2.5-The skull.md"
     }
   ],
   "omittedPaths": [],

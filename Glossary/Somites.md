@@ -1,6 +1,8 @@
 ---
 aliases:
   - Somite
+tags:
+  - key-concept
 ---
 [[Angioblasts]]
 

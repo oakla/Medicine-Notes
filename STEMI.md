@@ -4,6 +4,4 @@ tags:
   - key-concept
 ---
 
-
-[[Somatopleure]]
-[[Splanchnopleure]]
+ST elevation
