@@ -6,14 +6,14 @@ tags:
   - Context/MD1
 author(s):
   - "[[Rob White]]"
-key-terms: 
+key-concepts: 
 presentation-datetime: 
 learning-outcomes:
-- Discuss the function of bone cells, bone & skeletal system
-- Discuss the composition of bone
-- Describe bone homeostasis (growth and resorption)
-- Understand the importance, distribution and maintenance of Ca2+ in body
-- Discuss the hormonal control of calcium homeostasis
+  - Discuss the function of bone cells, bone & skeletal system
+  - Discuss the composition of bone
+  - Describe bone homeostasis (growth and resorption)
+  - Understand the importance, distribution and maintenance of Ca2+ in body
+  - Discuss the hormonal control of calcium homeostasis
 ---
 
 

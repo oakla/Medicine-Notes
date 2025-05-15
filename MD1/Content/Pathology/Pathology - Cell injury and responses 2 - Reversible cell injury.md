@@ -5,7 +5,7 @@ tags:
   - Topic/-
   - Context/MD1
 author(s): 
-key-terms:
+key-concepts:
   - "[[Hypertrophy]]"
   - "[[Hyperplasia]]"
   - "[[Atrophy]]"

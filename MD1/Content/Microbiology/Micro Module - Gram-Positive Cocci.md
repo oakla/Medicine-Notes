@@ -5,9 +5,9 @@ tags:
   - Topic/-
   - Context/MD1
 author(s): 
-key-terms:
-  -  Gram-positive
-  -  Staphylococcus
+key-concepts:
+  - Gram-positive
+  - Staphylococcus
   - Streptococcus
   - Enterococcus
 presentation-datetime: 

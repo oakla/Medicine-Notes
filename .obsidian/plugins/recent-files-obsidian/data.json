@@ -5,6 +5,18 @@
       "path": "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md"
     },
     {
+      "basename": "W11.4.4-Haematinics",
+      "path": "MD1/Content/Haematology/W11.4.4-Haematinics.md"
+    },
+    {
+      "basename": "Erythropoietin",
+      "path": "Glossary/CVS/Erythropoietin.md"
+    },
+    {
+      "basename": "The Gibbs-Donnan effect",
+      "path": "Glossary/CVS/The Gibbs-Donnan effect.md"
+    },
+    {
       "basename": "W17.2.3-Heart Failure and shock",
       "path": "MD1/Content/Pathology/W17.2.3-Heart Failure and shock.md"
     },
@@ -41,10 +53,6 @@
       "path": "Untitled 1.canvas"
     },
     {
-      "basename": "W11.4.4-Haematinics",
-      "path": "MD1/Content/Haematology/W11.4.4-Haematinics.md"
-    },
-    {
       "basename": "W12.1.3-Skin physiology",
       "path": "MD1/Content/Physiology/W12.1.3-Skin physiology.md"
     },
@@ -65,10 +73,6 @@
       "path": "MD1/Content/Anatomy/Anatomy 02 - The First 3 Weeks.md"
     },
     {
-      "basename": "Erythropoietin",
-      "path": "Glossary/CVS/Erythropoietin.md"
-    },
-    {
       "basename": "Likely to be assessed",
       "path": "Likely to be assessed.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "High Yield",
       "path": "MD1/What to study/High Yield.md"
-    },
-    {
-      "basename": "The Gibbs-Donnan effect",
-      "path": "Glossary/CVS/The Gibbs-Donnan effect.md"
     },
     {
       "basename": "TBL 1 Dave is feeling dodgy",

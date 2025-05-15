@@ -4,9 +4,9 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "terms": "multitext",
-    "key-terms": "multitext",
     "presentation-datetime": "datetime",
     "Author": "multitext",
-    "learning-outcomes": "multitext"
+    "learning-outcomes": "multitext",
+    "key-concepts": "multitext"
   }
 }

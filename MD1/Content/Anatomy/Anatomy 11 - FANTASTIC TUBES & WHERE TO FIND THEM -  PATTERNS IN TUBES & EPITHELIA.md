@@ -5,7 +5,7 @@ tags:
   - Context/MD1
   - Topic/Anatomy
 author(s): 
-key-terms:
+key-concepts:
   - "[[Epithelium]]"
   - "[[Mucosa]]"
   - "[[Submucosa]]"

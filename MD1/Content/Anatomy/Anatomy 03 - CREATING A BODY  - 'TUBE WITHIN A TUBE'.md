@@ -6,14 +6,14 @@ tags:
   - Context/MD1
 author(s):
   - Thomas Wilson
-key-terms: 
+key-concepts: 
 presentation-datetime: 
-learning-outcomes: 
-- Identify embryological structures & cavities, knowing what they are derived from
-- Understand the development & the role played by the notochord
-- Understand & describe how embryonic folding contributes to the formation of body cavities
-- Understand the partitioning of the coelomic cavity into its derivatives
-- Understand the development of septum transversum and the diaphragm
+learning-outcomes:
+  - Identify embryological structures & cavities, knowing what they are derived from
+  - Understand the development & the role played by the notochord
+  - Understand & describe how embryonic folding contributes to the formation of body cavities
+  - Understand the partitioning of the coelomic cavity into its derivatives
+  - Understand the development of septum transversum and the diaphragm
 ---
 
 

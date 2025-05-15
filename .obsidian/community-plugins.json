@@ -3,5 +3,6 @@
   "templater-obsidian",
   "obsidian-linter",
   "recent-files-obsidian",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "dataview"
 ]
