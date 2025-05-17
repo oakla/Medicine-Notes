@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "W13.1.3-Overview of the full blood count in health and disease",
+      "path": "W13.1.3-Overview of the full blood count in health and disease.md"
+    },
+    {
       "basename": "W13.1.2-blood components & haematopoiesis",
       "path": "W13.1.2-blood components & haematopoiesis.md"
+    },
+    {
+      "basename": "Haematopoiesis",
+      "path": "Haematopoiesis.md"
     },
     {
       "basename": "W09.4.0-Cell Signalling I + II",
@@ -191,14 +199,6 @@
     {
       "basename": "Pharm - Genetics 1",
       "path": "MD1/Content/Pharmacology/Pharm - Genetics 1.md"
-    },
-    {
-      "basename": "Frank-Starling",
-      "path": "Glossary/CVS/Frank-Starling.md"
-    },
-    {
-      "basename": "STEMI",
-      "path": "Glossary/CVS/STEMI.md"
     }
   ],
   "omittedPaths": [],
