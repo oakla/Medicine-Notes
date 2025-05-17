@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "W11.2.3-Haematology-Platelets and haemostasis",
-      "path": "MD1/Content/Haematology/W11.2.3-Haematology-Platelets and haemostasis.md"
-    },
-    {
-      "basename": "W17.4.1-Biomarkers of infarction",
-      "path": "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md"
+      "basename": "W09.4.0-Cell Signalling I + II",
+      "path": "W09.4.0-Cell Signalling I + II.md"
     },
     {
       "basename": "Study Guidance",
@@ -15,6 +11,18 @@
     {
       "basename": "Navigation",
       "path": "MD1/Navigation/Navigation.md"
+    },
+    {
+      "basename": "W17.4.1-Biomarkers of infarction",
+      "path": "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md"
+    },
+    {
+      "basename": "W13.1.5-Thrombosis, embolus, ischaemia and infarction",
+      "path": "W13.1.5-Thrombosis, embolus, ischaemia and infarction.md"
+    },
+    {
+      "basename": "W11.2.3-Haematology-Platelets and haemostasis",
+      "path": "MD1/Content/Haematology/W11.2.3-Haematology-Platelets and haemostasis.md"
     },
     {
       "basename": "Cisplatin",
@@ -35,10 +43,6 @@
     {
       "basename": "thrombus",
       "path": "thrombus.md"
-    },
-    {
-      "basename": "W13.1.5-Thrombosis, embolus, ischaemia and infarction",
-      "path": "W13.1.5-Thrombosis, embolus, ischaemia and infarction.md"
     },
     {
       "basename": "M1.1 Cancer block",
@@ -195,10 +199,6 @@
     {
       "basename": "acute coronary syndrome",
       "path": "Glossary/CVS/acute coronary syndrome.md"
-    },
-    {
-      "basename": "troponin",
-      "path": "Glossary/CVS/troponin.md"
     }
   ],
   "omittedPaths": [],
