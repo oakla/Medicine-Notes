@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "W13.1.2-blood components & haematopoiesis",
+      "path": "W13.1.2-blood components & haematopoiesis.md"
+    },
+    {
       "basename": "W09.4.0-Cell Signalling I + II",
       "path": "W09.4.0-Cell Signalling I + II.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "STEMI",
       "path": "Glossary/CVS/STEMI.md"
-    },
-    {
-      "basename": "acute coronary syndrome",
-      "path": "Glossary/CVS/acute coronary syndrome.md"
     }
   ],
   "omittedPaths": [],
