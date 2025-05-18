@@ -5,12 +5,20 @@
       "path": "W13.3.3-Targeted & Immunotherapies.md"
     },
     {
-      "basename": "Study Guidance",
-      "path": "Study Guidance.md"
+      "basename": "Epidermal Growth Factor",
+      "path": "Epidermal Growth Factor.md"
     },
     {
       "basename": "MD1.1 Front Page",
       "path": "MD1/MD1.1 Front Page.md"
+    },
+    {
+      "basename": "Hallmarks of Cancer",
+      "path": "Hallmarks of Cancer.md"
+    },
+    {
+      "basename": "Study Guidance",
+      "path": "Study Guidance.md"
     },
     {
       "basename": "Untitled",
@@ -191,14 +199,6 @@
     {
       "basename": "Anatomy 02 - The First 3 Weeks",
       "path": "MD1/Content/Anatomy/Anatomy 02 - The First 3 Weeks.md"
-    },
-    {
-      "basename": "Likely to be assessed",
-      "path": "Likely to be assessed.md"
-    },
-    {
-      "basename": "Aorta",
-      "path": "Glossary/CVS/Aorta.md"
     }
   ],
   "omittedPaths": [],
