@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "W13.3.3-Targeted & Immunotherapies",
+      "path": "W13.3.3-Targeted & Immunotherapies.md"
+    },
+    {
       "basename": "Study Guidance",
       "path": "Study Guidance.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Aorta",
       "path": "Glossary/CVS/Aorta.md"
-    },
-    {
-      "basename": "Cartilage",
-      "path": "Cartilage.md"
     }
   ],
   "omittedPaths": [],
