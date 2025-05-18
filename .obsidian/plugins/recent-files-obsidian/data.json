@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "MD1/AI Gen/Immunolgy/Untitled.md"
+    },
+    {
       "basename": "W10.2.3 Treating Cancer - Classical Chemotherapy",
       "path": "MD1/Content/Pharmacology/W10.2.3 Treating Cancer - Classical Chemotherapy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cartilage",
       "path": "Cartilage.md"
-    },
-    {
-      "basename": "High Yield",
-      "path": "MD1/What to study/High Yield.md"
     }
   ],
   "omittedPaths": [],

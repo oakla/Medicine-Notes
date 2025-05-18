@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD1/Content/Pharmacology/W10.2.3 Treating Cancer - Classical Chemotherapy.md",
+                "file": "MD1/AI Gen/Immunolgy/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W10.2.3 Treating Cancer - Classical Chemotherapy"
+              "title": "Untitled"
             }
           }
         ],
@@ -291,8 +291,13 @@
   },
   "active": "0914bd910a09f255",
   "lastOpenFiles": [
-    "5-Fluorouracil.md",
     "MD1/Content/Pharmacology/W10.2.3 Treating Cancer - Classical Chemotherapy.md",
+    "MD1/AI Gen/Immunolgy/Untitled.md",
+    "MD1/AI Gen/Immunolgy",
+    "MD1/AI Gen/Quizzes",
+    "MD1/AI Gen",
+    "MD1/Untitled.canvas",
+    "5-Fluorouracil.md",
     "W13.1.4-Chronic Myeloid Disorders.md",
     "W10.2.2-Cancer pathogenesis.md",
     "MD1/What to study/Identified intersections/Myeloid Stuff and Anemia.md",
@@ -317,7 +322,6 @@
     "embolus.md",
     "thrombus.md",
     "MD1/M1.1 Cancer block.md",
-    "W16.3.0-CVS Examination.md",
     "Untitled.canvas",
     "MD1/Navigation",
     "MD1/Content/Genetics",
@@ -327,9 +331,6 @@
     "Glossary/CVS",
     "MD1/What to study",
     "Pasted image 20250514101017.png",
-    "Clippings",
-    "Pasted image 20250503124113.png",
-    "MD1/Assignments/Research Critique",
-    "MD1/Assignments"
+    "Pasted image 20250503124113.png"
   ]
 }
