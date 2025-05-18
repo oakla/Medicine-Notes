@@ -10,3 +10,13 @@ What we need to know (in general)
 - complications, 
 - clinical features 
 - clinical sequelae
+
+---
+8 hall marks of cancer
+
+
+
+receptor tyrosine kinases
+
+
+
