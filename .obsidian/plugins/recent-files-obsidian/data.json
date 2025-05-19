@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "W11.4.1-Introduction to Transplant Immunology",
+      "path": "W11.4.1-Introduction to Transplant Immunology.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "Untitled 2.md"
+    },
+    {
+      "basename": "CVS Pathology Conditions",
+      "path": "CVS Pathology Conditions.md"
+    },
+    {
+      "basename": "Ischaemic vascular disease (cardiac and peripheral)",
+      "path": "Ischaemic vascular disease (cardiac and peripheral).md"
+    },
+    {
+      "basename": "Myeloid Stuff and Anemia",
+      "path": "MD1/What to study/Identified intersections/Myeloid Stuff and Anemia.md"
+    },
+    {
+      "basename": "M1.1 Cancer block",
+      "path": "MD1/M1.1 Cancer block.md"
+    },
+    {
+      "basename": "Study Guidance",
+      "path": "Study Guidance.md"
+    },
+    {
       "basename": "MD1.1 Immunology Concepts",
       "path": "MD1.1 Immunology Concepts.md"
     },
@@ -9,28 +37,8 @@
       "path": "MD1/MD1.1 Front Page.md"
     },
     {
-      "basename": "Study Guidance",
-      "path": "Study Guidance.md"
-    },
-    {
-      "basename": "CVS Pathology Conditions",
-      "path": "CVS Pathology Conditions.md"
-    },
-    {
-      "basename": "M1.1 Cancer block",
-      "path": "MD1/M1.1 Cancer block.md"
-    },
-    {
-      "basename": "Myeloid Stuff and Anemia",
-      "path": "MD1/What to study/Identified intersections/Myeloid Stuff and Anemia.md"
-    },
-    {
       "basename": "Condition Microbio (template)",
       "path": "System/Templates/Condition Microbio (template).md"
-    },
-    {
-      "basename": "Ischaemic vascular disease (cardiac and peripheral)",
-      "path": "Ischaemic vascular disease (cardiac and peripheral).md"
     },
     {
       "basename": "Condition (template)",
@@ -191,14 +199,6 @@
     {
       "basename": "Heart failure",
       "path": "Heart failure.md"
-    },
-    {
-      "basename": "W17.2.3-Heart Failure and shock",
-      "path": "MD1/Content/Pathology/W17.2.3-Heart Failure and shock.md"
-    },
-    {
-      "basename": "W04.1.5-Lipid physiology",
-      "path": "MD1/Content/Physiology/W04.1.5-Lipid physiology.md"
     }
   ],
   "omittedPaths": [],
