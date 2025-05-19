@@ -144,9 +144,36 @@
               "icon": "lucide-file",
               "title": "Epidermal Growth Factor"
             }
+          },
+          {
+            "id": "9d835c9d3c5c3bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "W18.1.1-Malaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W18.1.1-Malaria"
+            }
+          },
+          {
+            "id": "04b5391516f62b99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glucose-6-Phosphate-Dehydrogenase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glucose-6-Phosphate-Dehydrogenase"
+            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -332,13 +359,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4a5544f17d9ccaf",
+  "active": "93b532cbac5419da",
   "lastOpenFiles": [
-    "Epidermal Growth Factor.md",
+    "MD1/M1.1 Cancer block.md",
+    "Study Guidance.md",
+    "W18.1.1-Malaria.md",
+    "MD1/Content/Pharmacology/Pharm - Genetics 1.md",
+    "Glucose-6-Phosphate-Dehydrogenase.md",
+    "g6pd.md",
     "W13.3.3-Targeted & Immunotherapies.md",
+    "Epidermal Growth Factor.md",
     "MD1/MD1.1 Front Page.md",
     "Hallmarks of Cancer.md",
-    "Study Guidance.md",
     "MD1/AI Gen/Immunolgy/Untitled.md",
     "MD1/Content/Pharmacology/W10.2.3 Treating Cancer - Classical Chemotherapy.md",
     "MD1/AI Gen/Immunolgy",
@@ -360,11 +392,6 @@
     "Haematopoiesis.md",
     "W09.4.0-Cell Signalling I + II.md",
     "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md",
-    "W13.1.5-Thrombosis, embolus, ischaemia and infarction.md",
-    "MD1/Content/Haematology/W11.2.3-Haematology-Platelets and haemostasis.md",
-    "Cisplatin.md",
-    "alkylating agents.md",
-    "Glossary/CVS/cardiac troponin.md",
     "Untitled.canvas",
     "MD1/Navigation",
     "MD1/Content/Genetics",

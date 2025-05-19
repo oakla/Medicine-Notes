@@ -6,7 +6,9 @@ tags:
   - Context/MD1
 author(s):
   - "[[Fiona Pixley]]"
-key_concepts: 
+key_concepts:
+  - "[[Glucose-6-Phosphate-Dehydrogenase|g6pd]]"
+  - "[[haemolysis]]"
 presentation-datetime: 
 learning-outcomes:
 ---

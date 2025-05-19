@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "MD1.1 Front Page",
+      "path": "MD1/MD1.1 Front Page.md"
+    },
+    {
+      "basename": "M1.1 Cancer block",
+      "path": "MD1/M1.1 Cancer block.md"
+    },
+    {
+      "basename": "Study Guidance",
+      "path": "Study Guidance.md"
+    },
+    {
+      "basename": "W18.1.1-Malaria",
+      "path": "W18.1.1-Malaria.md"
+    },
+    {
+      "basename": "Pharm - Genetics 1",
+      "path": "MD1/Content/Pharmacology/Pharm - Genetics 1.md"
+    },
+    {
+      "basename": "Glucose-6-Phosphate-Dehydrogenase",
+      "path": "Glucose-6-Phosphate-Dehydrogenase.md"
+    },
+    {
       "basename": "W13.3.3-Targeted & Immunotherapies",
       "path": "W13.3.3-Targeted & Immunotherapies.md"
     },
@@ -9,16 +33,8 @@
       "path": "Epidermal Growth Factor.md"
     },
     {
-      "basename": "MD1.1 Front Page",
-      "path": "MD1/MD1.1 Front Page.md"
-    },
-    {
       "basename": "Hallmarks of Cancer",
       "path": "Hallmarks of Cancer.md"
-    },
-    {
-      "basename": "Study Guidance",
-      "path": "Study Guidance.md"
     },
     {
       "basename": "Untitled",
@@ -113,10 +129,6 @@
       "path": "thrombus.md"
     },
     {
-      "basename": "M1.1 Cancer block",
-      "path": "MD1/M1.1 Cancer block.md"
-    },
-    {
       "basename": "W16.3.0-CVS Examination",
       "path": "W16.3.0-CVS Examination.md"
     },
@@ -183,22 +195,6 @@
     {
       "basename": "Untitled 1",
       "path": "Untitled 1.canvas"
-    },
-    {
-      "basename": "W12.1.3-Skin physiology",
-      "path": "MD1/Content/Physiology/W12.1.3-Skin physiology.md"
-    },
-    {
-      "basename": "W10.2.5-The skull",
-      "path": "MD1/Content/Anatomy/W10.2.5-The skull.md"
-    },
-    {
-      "basename": "W05.4.3-Anatomy Limb organisation",
-      "path": "MD1/Content/Anatomy/W05.4.3-Anatomy Limb organisation.md"
-    },
-    {
-      "basename": "Anatomy 02 - The First 3 Weeks",
-      "path": "MD1/Content/Anatomy/Anatomy 02 - The First 3 Weeks.md"
     }
   ],
   "omittedPaths": [],
