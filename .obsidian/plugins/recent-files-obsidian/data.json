@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "MD1.1 Immunology Concepts",
+      "path": "MD1.1 Immunology Concepts.md"
+    },
+    {
+      "basename": "MD1.1 Front Page",
+      "path": "MD1/MD1.1 Front Page.md"
+    },
+    {
       "basename": "Study Guidance",
       "path": "Study Guidance.md"
+    },
+    {
+      "basename": "CVS Pathology Conditions",
+      "path": "CVS Pathology Conditions.md"
+    },
+    {
+      "basename": "M1.1 Cancer block",
+      "path": "MD1/M1.1 Cancer block.md"
+    },
+    {
+      "basename": "Myeloid Stuff and Anemia",
+      "path": "MD1/What to study/Identified intersections/Myeloid Stuff and Anemia.md"
+    },
+    {
+      "basename": "Condition Microbio (template)",
+      "path": "System/Templates/Condition Microbio (template).md"
+    },
+    {
+      "basename": "Ischaemic vascular disease (cardiac and peripheral)",
+      "path": "Ischaemic vascular disease (cardiac and peripheral).md"
+    },
+    {
+      "basename": "Condition (template)",
+      "path": "System/Templates/Condition (template).md"
+    },
+    {
+      "basename": "W13.1.5-Thrombosis, embolus, ischaemia and infarction",
+      "path": "W13.1.5-Thrombosis, embolus, ischaemia and infarction.md"
     },
     {
       "basename": "W18.1.4-Immunological memory and vaccination",
@@ -17,20 +53,8 @@
       "path": "Untitled 1.md"
     },
     {
-      "basename": "MD1.1 Front Page",
-      "path": "MD1/MD1.1 Front Page.md"
-    },
-    {
       "basename": "Haemolysis",
       "path": "Haemolysis.md"
-    },
-    {
-      "basename": "M1.1 Cancer block",
-      "path": "MD1/M1.1 Cancer block.md"
-    },
-    {
-      "basename": "Myeloid Stuff and Anemia",
-      "path": "MD1/What to study/Identified intersections/Myeloid Stuff and Anemia.md"
     },
     {
       "basename": "W18.1.2-Endocarditis",
@@ -121,10 +145,6 @@
       "path": "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md"
     },
     {
-      "basename": "W13.1.5-Thrombosis, embolus, ischaemia and infarction",
-      "path": "W13.1.5-Thrombosis, embolus, ischaemia and infarction.md"
-    },
-    {
       "basename": "W11.2.3-Haematology-Platelets and haemostasis",
       "path": "MD1/Content/Haematology/W11.2.3-Haematology-Platelets and haemostasis.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "W04.1.5-Lipid physiology",
       "path": "MD1/Content/Physiology/W04.1.5-Lipid physiology.md"
-    },
-    {
-      "basename": "W13.2.4-Heart as pump and electrical activity",
-      "path": "MD1/Content/Physiology/W13.2.4-Heart as pump and electrical activity.md"
-    },
-    {
-      "basename": "The Gibbs-Donnan effect",
-      "path": "Glossary/CVS/The Gibbs-Donnan effect.md"
-    },
-    {
-      "basename": "W10.1.3-Neoplasia I and II",
-      "path": "MD1/Content/Pathology/W10.1.3-Neoplasia I and II.md"
-    },
-    {
-      "basename": "Pharm - Dose and effect (II) - Toxicity",
-      "path": "MD1/Content/Pharmacology/Pharm - Dose and effect (II) - Toxicity.md"
-    },
-    {
-      "basename": "W17 Anatomy Lab - CVS - Heart, Mediastinum, & Vessels of the Trunk",
-      "path": "MD1/Content/Anatomy/W17 Anatomy Lab - CVS - Heart, Mediastinum, & Vessels of the Trunk.md"
     }
   ],
   "omittedPaths": [],
