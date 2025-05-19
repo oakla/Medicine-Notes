@@ -8,9 +8,9 @@ author(s):
   - "[[Fiona Pixley]]"
 key_concepts:
   - "[[Glucose-6-Phosphate-Dehydrogenase|g6pd]]"
-  - "[[haemolysis]]"
+  - "[[Haemolysis]]"
 presentation-datetime: 
-learning-outcomes:
+learning-outcomes: 
 ---
 https://drive.google.com/open?id=1EX-K6ANJXxwt5aLpS60IAfRxW1E862ZV&usp=drive_fs
 

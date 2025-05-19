@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "972df88ca64b37f9",
+            "id": "f03d4816e7c72b4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,24 +55,20 @@
               "state": {
                 "file": "MD1/M1.1 Cancer block.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "M1.1 Cancer block"
-            }
-          },
-          {
-            "id": "94cce38027e9e213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Guidance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Study Guidance"
             }
           },
           {
@@ -90,76 +86,6 @@
             }
           },
           {
-            "id": "1cf7fc124b2932bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W10.2.2-Cancer pathogenesis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W10.2.2-Cancer pathogenesis"
-            }
-          },
-          {
-            "id": "a4a5544f17d9ccaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W13.3.3-Targeted & Immunotherapies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W13.3.3-Targeted & Immunotherapies"
-            }
-          },
-          {
-            "id": "0a7b85e62284d947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epidermal Growth Factor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Epidermal Growth Factor"
-            }
-          },
-          {
-            "id": "9d835c9d3c5c3bec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W18.1.1-Malaria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W18.1.1-Malaria"
-            }
-          },
-          {
-            "id": "04b5391516f62b99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glucose-6-Phosphate-Dehydrogenase.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glucose-6-Phosphate-Dehydrogenase"
-            }
-          },
-          {
             "id": "bea97e3620db8d14",
             "type": "leaf",
             "state": {
@@ -171,6 +97,20 @@
               },
               "icon": "lucide-file",
               "title": "W18.1.2-Endocarditis"
+            }
+          },
+          {
+            "id": "2617fa71515f368e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microbio Exams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microbio Exams"
             }
           }
         ],
@@ -360,20 +300,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1cf7fc124b2932bb",
+  "active": "2617fa71515f368e",
   "lastOpenFiles": [
-    "MD1/Content/Pharmacology/W10.2.3 Treating Cancer - Classical Chemotherapy.md",
-    "MD1/AI Gen/Immunolgy/Untitled.md",
+    "Untitled 1.md",
+    "Microbio Exams.md",
     "MD1/MD1.1 Front Page.md",
-    "Study Guidance.md",
-    "W18.1.2-Endocarditis.md",
+    "Haemolysis.md",
     "MD1/M1.1 Cancer block.md",
-    "W18.1.1-Malaria.md",
-    "MD1/Content/Pharmacology/Pharm - Genetics 1.md",
-    "Glucose-6-Phosphate-Dehydrogenase.md",
-    "g6pd.md",
+    "Study Guidance.md",
+    "MD1/What to study/Identified intersections/Myeloid Stuff and Anemia.md",
+    "W18.1.2-Endocarditis.md",
+    "W10.2.2-Cancer pathogenesis.md",
+    "Six Capabilities of Cancer Cells.md",
     "W13.3.3-Targeted & Immunotherapies.md",
     "Epidermal Growth Factor.md",
+    "W18.1.1-Malaria.md",
+    "Glucose-6-Phosphate-Dehydrogenase.md",
+    "MD1/Content/Pharmacology/W10.2.3 Treating Cancer - Classical Chemotherapy.md",
+    "MD1/AI Gen/Immunolgy/Untitled.md",
+    "MD1/Content/Pharmacology/Pharm - Genetics 1.md",
+    "g6pd.md",
     "Hallmarks of Cancer.md",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",
@@ -381,18 +327,12 @@
     "MD1/Untitled.canvas",
     "5-Fluorouracil.md",
     "W13.1.4-Chronic Myeloid Disorders.md",
-    "W10.2.2-Cancer pathogenesis.md",
-    "MD1/What to study/Identified intersections/Myeloid Stuff and Anemia.md",
     "MD1/Navigation/Navigation.md",
     "W13.1.3-Overview of the full blood count in health and disease.md",
     "MD1/Content/Haematology/W11.4.4-Haematinics.md",
     "MD1/What to study/Identified intersections",
     "Tyrosine Kinase Inhibitor.md",
     "Leucopenia.md",
-    "Leucocytosis.md",
-    "W13.1.2-blood components & haematopoiesis.md",
-    "Haematopoiesis.md",
-    "W09.4.0-Cell Signalling I + II.md",
     "Untitled.canvas",
     "MD1/Navigation",
     "MD1/Content/Genetics",
