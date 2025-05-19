@@ -1,6 +1,7 @@
 ---
 aliases:
   - EGF
-  - Epidermal Growth Factor Receptor (EGFR)
+  - Epidermal Growth Factor Receptor
+  - EGFR
 tags:
 ---

@@ -5,12 +5,16 @@
       "path": "W11.4.1-Introduction to Transplant Immunology.md"
     },
     {
-      "basename": "Untitled 2",
-      "path": "Untitled 2.md"
+      "basename": "Epidermal Growth Factor",
+      "path": "Epidermal Growth Factor.md"
     },
     {
       "basename": "CVS Pathology Conditions",
       "path": "CVS Pathology Conditions.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "Untitled 2.md"
     },
     {
       "basename": "Ischaemic vascular disease (cardiac and peripheral)",
@@ -79,10 +83,6 @@
     {
       "basename": "W13.3.3-Targeted & Immunotherapies",
       "path": "W13.3.3-Targeted & Immunotherapies.md"
-    },
-    {
-      "basename": "Epidermal Growth Factor",
-      "path": "Epidermal Growth Factor.md"
     },
     {
       "basename": "W18.1.1-Malaria",
@@ -195,10 +195,6 @@
     {
       "basename": "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium",
       "path": "MD1/Content/Pathology/W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium.md"
-    },
-    {
-      "basename": "Heart failure",
-      "path": "Heart failure.md"
     }
   ],
   "omittedPaths": [],
