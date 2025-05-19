@@ -12,6 +12,10 @@ What we need to know (in general)
 - clinical sequelae
 
 ---
+Strategies
+- look at/for summary slides
+
+---
 8 hall marks of cancer
 
 
