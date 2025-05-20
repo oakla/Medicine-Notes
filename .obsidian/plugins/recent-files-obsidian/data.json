@@ -5,16 +5,20 @@
       "path": "W16.1.0-Antiarrhythmics.md"
     },
     {
+      "basename": "CVS Pathology Conditions",
+      "path": "CVS Pathology Conditions.md"
+    },
+    {
+      "basename": "Config Preview",
+      "path": "System/Config Preview.md"
+    },
+    {
       "basename": "W11.4.1-Introduction to Transplant Immunology",
       "path": "W11.4.1-Introduction to Transplant Immunology.md"
     },
     {
       "basename": "Epidermal Growth Factor",
       "path": "Epidermal Growth Factor.md"
-    },
-    {
-      "basename": "CVS Pathology Conditions",
-      "path": "CVS Pathology Conditions.md"
     },
     {
       "basename": "Untitled 2",
@@ -195,10 +199,6 @@
     {
       "basename": "pericardium",
       "path": "pericardium.md"
-    },
-    {
-      "basename": "W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium",
-      "path": "MD1/Content/Pathology/W16.5.7 - Cardiomyopathy,  myocarditis and diseases of the pericardium.md"
     }
   ],
   "omittedPaths": [],
