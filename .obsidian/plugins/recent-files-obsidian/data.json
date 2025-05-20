@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Cardiac Cycle",
+      "path": "Cardiac Cycle.md"
+    },
+    {
       "basename": "W16.1.0-Antiarrhythmics",
       "path": "W16.1.0-Antiarrhythmics.md"
+    },
+    {
+      "basename": "W13.2.4-Heart as pump and electrical activity",
+      "path": "MD1/Content/Physiology/W13.2.4-Heart as pump and electrical activity.md"
+    },
+    {
+      "basename": "lecture (template)",
+      "path": "System/Templates/lecture (template).md"
     },
     {
       "basename": "CVS Pathology Conditions",
@@ -187,18 +199,6 @@
     {
       "basename": "W16.3.0-CVS Examination",
       "path": "W16.3.0-CVS Examination.md"
-    },
-    {
-      "basename": "Erythropoietin",
-      "path": "Glossary/CVS/Erythropoietin.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "pericardium",
-      "path": "pericardium.md"
     }
   ],
   "omittedPaths": [],

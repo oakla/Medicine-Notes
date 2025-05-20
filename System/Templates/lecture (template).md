@@ -11,28 +11,21 @@ learning-outcomes:
 ---
 
 
-## Overview
-### Learning Outcomes
+# Overview
+## Learning Outcomes
 
-### Outline
+## Outline/Sections
 
-### Goal
-
-### Terms
-#### Key Terms
-
-#### Other Terms
-
-### Sections
+## Key Terms & Concepts
 
 
-## Notes
+# Notes
 
 
-## Questions
+# Questions
 
-### My Questions
-### Revision Questions
+## My Questions
+## Revision Questions
 
 
 
