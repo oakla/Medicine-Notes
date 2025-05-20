@@ -4,121 +4,164 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa8916c0f53c4cb",
-        "type": "tabs",
+        "id": "b73d1e4f1c5e433f",
+        "type": "split",
         "children": [
           {
-            "id": "93b532cbac5419da",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD1/MD1.1 Front Page.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "5aa8916c0f53c4cb",
+            "type": "tabs",
+            "dimension": 27.71317829457364,
+            "children": [
+              {
+                "id": "93b532cbac5419da",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1/MD1.1 Front Page.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "MD1.1 Front Page"
                 }
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "MD1.1 Front Page"
-            }
+              {
+                "id": "9087a0cc9d0a339c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1.1 Immunology Concepts.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MD1.1 Immunology Concepts"
+                }
+              },
+              {
+                "id": "977df47c4048e7bf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study Guidance.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Study Guidance"
+                }
+              },
+              {
+                "id": "2602172c8a143657",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CVS Pathology Conditions.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "CVS Pathology Conditions"
+                }
+              },
+              {
+                "id": "b22f82cc227d55c4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "W16.1.0-Antiarrhythmics.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "W16.1.0-Antiarrhythmics"
+                }
+              },
+              {
+                "id": "41b38b07bb752bec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "System/Templates/lecture (template).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lecture (template)"
+                }
+              },
+              {
+                "id": "98aec70623d2b21d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Cardiac Cycle.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cardiac Cycle"
+                }
+              }
+            ],
+            "currentTab": 4
           },
           {
-            "id": "9087a0cc9d0a339c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD1.1 Immunology Concepts.md",
-                "mode": "source",
-                "source": false
+            "id": "a0662230ffeba261",
+            "type": "tabs",
+            "dimension": 72.28682170542635,
+            "children": [
+              {
+                "id": "b33ccd9a4279ea8b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "W16.1.0-Antiarrhythmics.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "W16.1.0-Antiarrhythmics"
+                }
               },
-              "icon": "lucide-file",
-              "title": "MD1.1 Immunology Concepts"
-            }
-          },
-          {
-            "id": "977df47c4048e7bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Guidance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Study Guidance"
-            }
-          },
-          {
-            "id": "2602172c8a143657",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CVS Pathology Conditions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CVS Pathology Conditions"
-            }
-          },
-          {
-            "id": "b22f82cc227d55c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W16.1.0-Antiarrhythmics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W16.1.0-Antiarrhythmics"
-            }
-          },
-          {
-            "id": "41b38b07bb752bec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System/Templates/lecture (template).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lecture (template)"
-            }
-          },
-          {
-            "id": "98aec70623d2b21d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cardiac Cycle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cardiac Cycle"
-            }
+              {
+                "id": "519d7e8143de57e6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "catecholamines.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "catecholamines"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 6
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -303,53 +346,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "82b2a58fdd39fe78",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ec960b511c19b52d",
-        "type": "window",
-        "children": [
-          {
-            "id": "41e54dc4c1004bd9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "07183586fea5a7e9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "System/Config Preview.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Config Preview"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 814,
-        "y": 138,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "98aec70623d2b21d",
+  "active": "b33ccd9a4279ea8b",
   "lastOpenFiles": [
-    "Cardiac Cycle.md",
+    "CVS Pathology Conditions.md",
+    "catecholamines.md",
     "W16.1.0-Antiarrhythmics.md",
+    "ligocaine.md",
+    "Cardiac Cycle.md",
+    "System/Config Preview.md",
     "MD1/Content/Physiology/W13.2.4-Heart as pump and electrical activity.md",
     "System/Templates/lecture (template).md",
-    "CVS Pathology Conditions.md",
-    "System/Config Preview.md",
     "W11.4.1-Introduction to Transplant Immunology.md",
     "Epidermal Growth Factor.md",
     "EGFR.md",
@@ -368,8 +374,6 @@
     "Untitled 1.md",
     "Haemolysis.md",
     "W18.1.2-Endocarditis.md",
-    "W10.2.2-Cancer pathogenesis.md",
-    "Six Capabilities of Cancer Cells.md",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",
     "MD1/AI Gen",

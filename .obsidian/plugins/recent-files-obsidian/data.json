@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "W16.1.0-Antiarrhythmics",
+      "path": "W16.1.0-Antiarrhythmics.md"
+    },
+    {
+      "basename": "CVS Pathology Conditions",
+      "path": "CVS Pathology Conditions.md"
+    },
+    {
+      "basename": "catecholamines",
+      "path": "catecholamines.md"
+    },
+    {
+      "basename": "ligocaine",
+      "path": "ligocaine.md"
+    },
+    {
       "basename": "Cardiac Cycle",
       "path": "Cardiac Cycle.md"
     },
     {
-      "basename": "W16.1.0-Antiarrhythmics",
-      "path": "W16.1.0-Antiarrhythmics.md"
+      "basename": "Config Preview",
+      "path": "System/Config Preview.md"
     },
     {
       "basename": "W13.2.4-Heart as pump and electrical activity",
@@ -15,14 +31,6 @@
     {
       "basename": "lecture (template)",
       "path": "System/Templates/lecture (template).md"
-    },
-    {
-      "basename": "CVS Pathology Conditions",
-      "path": "CVS Pathology Conditions.md"
-    },
-    {
-      "basename": "Config Preview",
-      "path": "System/Config Preview.md"
     },
     {
       "basename": "W11.4.1-Introduction to Transplant Immunology",
@@ -191,14 +199,6 @@
     {
       "basename": "embolus",
       "path": "embolus.md"
-    },
-    {
-      "basename": "thrombus",
-      "path": "thrombus.md"
-    },
-    {
-      "basename": "W16.3.0-CVS Examination",
-      "path": "W16.3.0-CVS Examination.md"
     }
   ],
   "omittedPaths": [],
