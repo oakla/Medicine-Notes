@@ -121,9 +121,23 @@
                   "icon": "lucide-file",
                   "title": "W11.4.1-Introduction to Transplant Immunology"
                 }
+              },
+              {
+                "id": "478fe169eaff6ea2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Therapies.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Therapies"
+                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 7
           },
           {
             "id": "a0662230ffeba261",
@@ -390,8 +404,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4d84d06e02fbc6b",
+  "active": "478fe169eaff6ea2",
   "lastOpenFiles": [
+    "Therapies.md",
     "W11.4.1-Introduction to Transplant Immunology.md",
     "C-reactive protein.md",
     "W10.4.2-Tumour immunology.md",
@@ -418,7 +433,6 @@
     "Untitled 2.md",
     "Ischaemic vascular disease (cardiac and peripheral).md",
     "MD1/What to study/Identified intersections/Myeloid Stuff and Anemia.md",
-    "MD1/M1.1 Cancer block.md",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",
     "MD1/AI Gen",

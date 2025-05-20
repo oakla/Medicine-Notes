@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Therapies",
+      "path": "Therapies.md"
+    },
+    {
       "basename": "W11.4.1-Introduction to Transplant Immunology",
       "path": "W11.4.1-Introduction to Transplant Immunology.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "W13.1.2-blood components & haematopoiesis",
       "path": "W13.1.2-blood components & haematopoiesis.md"
-    },
-    {
-      "basename": "Haematopoiesis",
-      "path": "Haematopoiesis.md"
     }
   ],
   "omittedPaths": [],
