@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "W16.1.0-Antiarrhythmics",
-      "path": "W16.1.0-Antiarrhythmics.md"
+      "basename": "W04.3.4-Inflammation",
+      "path": "W04.3.4-Inflammation.md"
     },
     {
-      "basename": "CVS Pathology Conditions",
-      "path": "CVS Pathology Conditions.md"
+      "basename": "Navigation",
+      "path": "MD1/Navigation/Navigation.md"
+    },
+    {
+      "basename": "Key Concepts",
+      "path": "MD1/What to study/Key Concepts.md"
     },
     {
       "basename": "catecholamines",
       "path": "catecholamines.md"
+    },
+    {
+      "basename": "W16.1.0-Antiarrhythmics",
+      "path": "W16.1.0-Antiarrhythmics.md"
+    },
+    {
+      "basename": "MD1.1 Front Page",
+      "path": "MD1/MD1.1 Front Page.md"
+    },
+    {
+      "basename": "C-reactive protein",
+      "path": "C-reactive protein.md"
+    },
+    {
+      "basename": "Study Guidance",
+      "path": "Study Guidance.md"
+    },
+    {
+      "basename": "Likely to be assessed",
+      "path": "Likely to be assessed.md"
+    },
+    {
+      "basename": "High Yield",
+      "path": "MD1/What to study/High Yield.md"
+    },
+    {
+      "basename": "MD1.1 Immunology Concepts",
+      "path": "MD1.1 Immunology Concepts.md"
+    },
+    {
+      "basename": "CVS Pathology Conditions",
+      "path": "CVS Pathology Conditions.md"
     },
     {
       "basename": "ligocaine",
@@ -55,18 +91,6 @@
     {
       "basename": "M1.1 Cancer block",
       "path": "MD1/M1.1 Cancer block.md"
-    },
-    {
-      "basename": "Study Guidance",
-      "path": "Study Guidance.md"
-    },
-    {
-      "basename": "MD1.1 Immunology Concepts",
-      "path": "MD1.1 Immunology Concepts.md"
-    },
-    {
-      "basename": "MD1.1 Front Page",
-      "path": "MD1/MD1.1 Front Page.md"
     },
     {
       "basename": "Condition Microbio (template)",
@@ -141,10 +165,6 @@
       "path": "W13.1.4-Chronic Myeloid Disorders.md"
     },
     {
-      "basename": "Navigation",
-      "path": "MD1/Navigation/Navigation.md"
-    },
-    {
       "basename": "W13.1.3-Overview of the full blood count in health and disease",
       "path": "W13.1.3-Overview of the full blood count in health and disease.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "W17.4.1-Biomarkers of infarction",
       "path": "MD1/Content/Pathology/W17.4.1-Biomarkers of infarction.md"
-    },
-    {
-      "basename": "W11.2.3-Haematology-Platelets and haemostasis",
-      "path": "MD1/Content/Haematology/W11.2.3-Haematology-Platelets and haemostasis.md"
-    },
-    {
-      "basename": "Cisplatin",
-      "path": "Cisplatin.md"
-    },
-    {
-      "basename": "alkylating agents",
-      "path": "alkylating agents.md"
-    },
-    {
-      "basename": "cardiac troponin",
-      "path": "Glossary/CVS/cardiac troponin.md"
-    },
-    {
-      "basename": "embolus",
-      "path": "embolus.md"
     }
   ],
   "omittedPaths": [],

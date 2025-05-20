@@ -10,7 +10,7 @@
           {
             "id": "5aa8916c0f53c4cb",
             "type": "tabs",
-            "dimension": 27.71317829457364,
+            "dimension": 23.357664233576642,
             "children": [
               {
                 "id": "93b532cbac5419da",
@@ -36,20 +36,6 @@
                   "pinned": true,
                   "icon": "lucide-file",
                   "title": "MD1.1 Front Page"
-                }
-              },
-              {
-                "id": "9087a0cc9d0a339c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MD1.1 Immunology Concepts.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "MD1.1 Immunology Concepts"
                 }
               },
               {
@@ -121,14 +107,28 @@
                   "icon": "lucide-file",
                   "title": "Cardiac Cycle"
                 }
+              },
+              {
+                "id": "1bf59526f79e7ad1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "W04.3.4-Inflammation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "W04.3.4-Inflammation"
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 6
           },
           {
             "id": "a0662230ffeba261",
             "type": "tabs",
-            "dimension": 72.28682170542635,
+            "dimension": 76.64233576642336,
             "children": [
               {
                 "id": "b33ccd9a4279ea8b",
@@ -157,8 +157,37 @@
                   "icon": "lucide-file",
                   "title": "catecholamines"
                 }
+              },
+              {
+                "id": "cc49d46c82529133",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "W04.3.4-Inflammation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "W04.3.4-Inflammation"
+                }
+              },
+              {
+                "id": "92b1c05be2808a32",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "C-reactive protein.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "C-reactive protein"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -193,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"cssclasses\"]",
+                "query": "```dat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,7 +253,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -346,11 +376,127 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b33ccd9a4279ea8b",
+  "floating": {
+    "id": "82b2a58fdd39fe78",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1ed8e8e9785522ca",
+        "type": "window",
+        "children": [
+          {
+            "id": "03164d857002b9de",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9087a0cc9d0a339c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1.1 Immunology Concepts.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MD1.1 Immunology Concepts"
+                }
+              },
+              {
+                "id": "14125da54b4a4a76",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1/What to study/High Yield.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "High Yield"
+                }
+              },
+              {
+                "id": "a82de20c61bd220c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1/MD1.1 Front Page.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MD1.1 Front Page"
+                }
+              },
+              {
+                "id": "727e7466a091236a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study Guidance.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Study Guidance"
+                }
+              },
+              {
+                "id": "958150d3670e1f77",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Likely to be assessed.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Likely to be assessed"
+                }
+              },
+              {
+                "id": "9240a2a6681ba8bb",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical",
+        "x": 252,
+        "y": 102,
+        "width": 940,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "cc49d46c82529133",
   "lastOpenFiles": [
-    "CVS Pathology Conditions.md",
+    "MD1/Navigation/Navigation.md",
+    "MD1/What to study/Key Concepts.md",
     "catecholamines.md",
     "W16.1.0-Antiarrhythmics.md",
+    "W04.3.4-Inflammation.md",
+    "MD1/MD1.1 Front Page.md",
+    "C-reactive protein.md",
+    "MD1/What to study/Untitled",
+    "Study Guidance.md",
+    "Likely to be assessed.md",
+    "MD1/What to study/High Yield.md",
+    "MD1.1 Immunology Concepts.md",
+    "CVS Pathology Conditions.md",
     "ligocaine.md",
     "Cardiac Cycle.md",
     "System/Config Preview.md",
@@ -363,17 +509,8 @@
     "Ischaemic vascular disease (cardiac and peripheral).md",
     "MD1/What to study/Identified intersections/Myeloid Stuff and Anemia.md",
     "MD1/M1.1 Cancer block.md",
-    "Study Guidance.md",
-    "MD1.1 Immunology Concepts.md",
-    "MD1/MD1.1 Front Page.md",
     "System/Templates/Condition Microbio (template).md",
     "System/Templates/Condition (template).md",
-    "W13.1.5-Thrombosis, embolus, ischaemia and infarction.md",
-    "W18.1.4-Immunological memory and vaccination.md",
-    "Microbio Exams.md",
-    "Untitled 1.md",
-    "Haemolysis.md",
-    "W18.1.2-Endocarditis.md",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",
     "MD1/AI Gen",
@@ -386,7 +523,6 @@
     "Untitled 1.canvas",
     "MD1/Content/Population Health",
     "Glossary/CVS",
-    "MD1/What to study",
     "Pasted image 20250514101017.png",
     "Pasted image 20250503124113.png"
   ]
