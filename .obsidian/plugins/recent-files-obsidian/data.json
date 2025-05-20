@@ -5,6 +5,10 @@
       "path": "W11.4.2-Principles of commonly used Immunotherapy treatments.md"
     },
     {
+      "basename": "lymphoma",
+      "path": "lymphoma.md"
+    },
+    {
       "basename": "Key Concepts",
       "path": "MD1/What to study/Key Concepts.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Leucopenia",
       "path": "Leucopenia.md"
-    },
-    {
-      "basename": "Leucocytosis",
-      "path": "Leucocytosis.md"
     }
   ],
   "omittedPaths": [],
