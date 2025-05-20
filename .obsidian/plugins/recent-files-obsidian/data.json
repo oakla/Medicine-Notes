@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "W11.4.2-Principles of commonly used Immunotherapy treatments",
+      "path": "W11.4.2-Principles of commonly used Immunotherapy treatments.md"
+    },
+    {
+      "basename": "Key Concepts",
+      "path": "MD1/What to study/Key Concepts.md"
+    },
+    {
       "basename": "Therapies",
       "path": "Therapies.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Navigation",
       "path": "MD1/Navigation/Navigation.md"
-    },
-    {
-      "basename": "Key Concepts",
-      "path": "MD1/What to study/Key Concepts.md"
     },
     {
       "basename": "catecholamines",
@@ -195,10 +199,6 @@
     {
       "basename": "Leucocytosis",
       "path": "Leucocytosis.md"
-    },
-    {
-      "basename": "W13.1.2-blood components & haematopoiesis",
-      "path": "W13.1.2-blood components & haematopoiesis.md"
     }
   ],
   "omittedPaths": [],
