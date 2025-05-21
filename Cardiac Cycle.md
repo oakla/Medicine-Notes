@@ -1,3 +1,8 @@
+---
+aliases: [Cardiac Cycle]
+tags: 
+linter-yaml-title-alias: Cardiac Cycle
+---
 
 Related lectures
 - [[W16.1.0-Antiarrhythmics]]

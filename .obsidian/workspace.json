@@ -13,32 +13,6 @@
             "dimension": 56.63322185061316,
             "children": [
               {
-                "id": "93b532cbac5419da",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MD1/MD1.1 Front Page.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "MD1.1 Front Page"
-                }
-              },
-              {
                 "id": "b22f82cc227d55c4",
                 "type": "leaf",
                 "state": {
@@ -60,7 +34,17 @@
                   "state": {
                     "file": "Cardiac Cycle.md",
                     "mode": "source",
-                    "source": false
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
                   "title": "Cardiac Cycle"
@@ -161,7 +145,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "a0662230ffeba261",
@@ -428,13 +412,65 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+  "floating": {
+    "id": "82b2a58fdd39fe78",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ccc86414d2fdbedb",
+        "type": "window",
+        "children": [
+          {
+            "id": "ac05f2e22cfed94a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "93b532cbac5419da",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1/MD1.1 Front Page.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "MD1.1 Front Page"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 196,
+        "y": 98,
+        "width": 709,
+        "height": 819,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "98aec70623d2b21d",
   "lastOpenFiles": [
-    "W16.1.0-Antiarrhythmics.md",
     "MD1/MD1.1 Front Page.md",
+    "Cardiac Cycle.md",
+    "W11.4.2-Principles of commonly used Immunotherapy treatments.md",
+    "W16.1.0-Antiarrhythmics.md",
     "Therapies and Drugs.md",
     "Important Drugs and Therapies.md",
-    "W11.4.2-Principles of commonly used Immunotherapy treatments.md",
     "lymphoma.md",
     "MD1/What to study/Key Concepts.md",
     "W11.4.1-Introduction to Transplant Immunology.md",
@@ -451,7 +487,6 @@
     "MD1.1 Immunology Concepts.md",
     "CVS Pathology Conditions.md",
     "ligocaine.md",
-    "Cardiac Cycle.md",
     "System/Config Preview.md",
     "MD1/Content/Physiology/W13.2.4-Heart as pump and electrical activity.md",
     "System/Templates/lecture (template).md",

@@ -20,6 +20,7 @@
 		- Haematology Conditions
 	- [[MD1.1 Immunology Concepts]]
 	- [[Therapies and Drugs]]
+	- [[Cardiac Cycle]]
 - Integration of concepts
 	- [[Myeloid Stuff and Anemia]]
 	- [[Glucose-6-Phosphate-Dehydrogenase|G6PD]]/[[Haemolysis]]
