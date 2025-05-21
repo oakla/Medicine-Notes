@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Microbio - Introduction to Clinical Microbiology (The Pokemon Mindset)]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/-

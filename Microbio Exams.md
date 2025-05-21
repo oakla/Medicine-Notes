@@ -1,3 +1,7 @@
+---
+aliases: [Microbio Exams]
+tags: 
+---
 
 
 OSPE

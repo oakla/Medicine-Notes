@@ -1,3 +1,7 @@
+---
+aliases: [Orientation]
+tags: 
+---
 
 
 Societies

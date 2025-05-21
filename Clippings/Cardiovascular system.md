@@ -1,4 +1,5 @@
 ---
+aliases: [Cardiovascular system]
 title: Cardiovascular system
 source: https://veteriankey.com/cardiovascular-system-4/
 author:
@@ -10,6 +11,7 @@ tags:
   - clippings
   - Topic/Anatomy/Embryonic-Development
 ---
+
 Chapter 14 Cardiovascular system
 
 In the early stages of development, the respiratory, excretory and nutritional requirements of the embryo are provided by simple diffusion. As the conceptus increases in size, diffusion is inadequate for its nutritional, respiratory and excretory needs. Consequently, the mammalian embryo requires a system for delivering oxygen and nutrients to its tissues and for removing its waste products. These requirements are supplied by the cardiovascular system. As one of the first functional systems to develop in the embryo, the cardiovascular system consists of a central pumping organ, the heart, linked to a set of arteries which convey blood to the tissues. Complementary vessels, called veins, carry blood from the tissues back to the heart. An associated network, the lymphatic system, assists in the return of extracellular fluids to the vasculature.

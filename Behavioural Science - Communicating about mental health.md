@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Behavioural Science - Communicating about mental health]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/Behavioural-Science

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Pathology - Cell injury and responses 2 - Reversible cell injury]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/-

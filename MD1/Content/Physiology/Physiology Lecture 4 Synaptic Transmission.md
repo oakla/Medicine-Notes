@@ -1,3 +1,7 @@
+---
+aliases: [Physiology Lecture 4 Synaptic Transmission]
+tags: 
+---
 
 
 

@@ -1,4 +1,6 @@
 ---
+tags: 
 aliases:
+  - thrombus
   - thrombi
 ---

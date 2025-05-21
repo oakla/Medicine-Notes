@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Pharm - Dose and effect (I) - ADRs]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/-
@@ -10,6 +10,7 @@ key_concepts:
 presentation-datetime: 
 learning-outcomes:
 ---
+
 **Note**: *small \* indicates non-examinable content*  
 
 

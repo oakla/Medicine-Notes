@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Anatomy 02 - The First 3 Weeks]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/Anatomy/Embryonic-Development

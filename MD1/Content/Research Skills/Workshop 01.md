@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Workshop 01]
 tags:
   - Class/Workshop
   - Topic/Research-Skills
@@ -10,6 +10,7 @@ key_concepts:
 presentation-datetime: 2025-03-05T14:00:00
 learning-outcomes:
 ---
+
 ## PICO
 Patient - male
 Intervention - high fat diet

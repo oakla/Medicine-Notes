@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Micro Module - Gram-Positive Cocci]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/-

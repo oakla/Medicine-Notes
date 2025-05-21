@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Overview of CVS History]
 tags:
   - Class/Literature-Note/Lecture
   - Context/MD1

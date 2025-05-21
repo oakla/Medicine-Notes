@@ -1,3 +1,7 @@
+---
+aliases: [Mesoderm]
+tags: 
+---
 
 [[Notochord]]
 [[Paraxial]]

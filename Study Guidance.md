@@ -1,3 +1,7 @@
+---
+aliases: [Study Guidance]
+tags: 
+---
 
 
 Disease

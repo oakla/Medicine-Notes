@@ -1,3 +1,7 @@
+---
+aliases: [somatic vs autonomic innervation (comparrison)]
+tags: 
+---
 
 
 

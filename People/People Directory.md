@@ -1,3 +1,7 @@
+---
+aliases: [People Directory]
+tags: 
+---
 
 
 

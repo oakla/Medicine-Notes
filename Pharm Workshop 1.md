@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Pharm Workshop 1]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/Pharmacology
@@ -9,6 +9,7 @@ key_concepts:
 presentation-datetime: 
 learning-outcomes:
 ---
+
 Topic: 
 - Placebos
 - Therapeutic adherence

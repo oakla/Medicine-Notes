@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Micro - The Genus Staphylococcus]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/Microbiology

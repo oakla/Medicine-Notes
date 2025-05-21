@@ -1,4 +1,5 @@
 ---
+aliases: [Recommended Readings]
 tags: []
 ---
 

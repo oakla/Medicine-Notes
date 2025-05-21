@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [The Pathogenesis of Cancer]
 tags:
   - Class/Literature-Note/Lecture
   - Context/MD1

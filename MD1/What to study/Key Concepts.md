@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Key Concepts]
 tags:
   - Syllabus/MD1-1
 ---
@@ -7,4 +7,4 @@ tags:
 
 [[C-reactive protein]]
 immune checkpoint
-[[lymphoma]]
+[[Lymphoma]]

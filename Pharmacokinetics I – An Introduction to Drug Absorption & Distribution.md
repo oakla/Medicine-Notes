@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Pharmacokinetics I – An Introduction to Drug Absorption & Distribution]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/Pharmacology

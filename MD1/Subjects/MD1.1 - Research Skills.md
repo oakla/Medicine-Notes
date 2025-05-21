@@ -1,3 +1,7 @@
+---
+aliases: [MD1.1 - Research Skills]
+tags: 
+---
 
 
 ## Resources

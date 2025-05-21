@@ -1,3 +1,7 @@
+---
+aliases: [High Yield]
+tags: 
+---
 
 
 ## Clinical

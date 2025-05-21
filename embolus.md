@@ -1,4 +1,6 @@
 ---
+tags: 
 aliases:
+  - embolus
   - embolism
 ---

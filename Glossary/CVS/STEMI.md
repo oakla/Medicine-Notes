@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [STEMI]
 tags:
   - key-concept
 ---

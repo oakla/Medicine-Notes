@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Lateral Plate Mesoderm]
 tags:
   - key-concept
 ---

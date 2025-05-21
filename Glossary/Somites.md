@@ -1,9 +1,11 @@
 ---
 aliases:
+  - Somites
   - Somite
 tags:
   - key-concept
 ---
+
 [[Angioblasts]]
 
 - Somite in cross transverse section looks like an ice-cream cone (at least in diagrams)

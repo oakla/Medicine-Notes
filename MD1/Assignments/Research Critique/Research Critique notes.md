@@ -1,3 +1,7 @@
+---
+aliases: [Research Critique notes]
+tags: 
+---
 
 
 Randomization by minimization: 

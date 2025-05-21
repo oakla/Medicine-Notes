@@ -1,3 +1,7 @@
+---
+aliases: [ANS]
+tags: 
+---
 
 Transverse Section
 - White/grey matter

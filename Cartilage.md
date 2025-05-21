@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Cartilage]
 tags:
   - Class/Permanent-Note
   - Topic/Anatomy

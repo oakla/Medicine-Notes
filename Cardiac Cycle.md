@@ -1,7 +1,6 @@
 ---
 aliases: [Cardiac Cycle]
 tags: 
-linter-yaml-title-alias: Cardiac Cycle
 ---
 
 Related lectures

@@ -1,8 +1,10 @@
 ---
-aliases: 
+aliases:
+  - C-reactive protein
 tags:
   - Class/Permanent-Note
-  - Topic/-
+  - key-concept
 ---
+
 Related Lectures
 - [[W04.3.4-Inflammation]]

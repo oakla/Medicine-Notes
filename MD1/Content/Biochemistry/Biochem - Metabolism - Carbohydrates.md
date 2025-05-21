@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Biochem - Metabolism - Carbohydrates]
 tags:
   - Class/Literature-Note/Lecture
   - Context/MD1

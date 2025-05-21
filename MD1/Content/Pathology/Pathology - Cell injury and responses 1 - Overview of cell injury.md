@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Pathology - Cell injury and responses 1 - Overview of cell injury]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/Pathology

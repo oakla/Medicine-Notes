@@ -1,0 +1,4 @@
+---
+aliases: [Gut Tube]
+tags: 
+---

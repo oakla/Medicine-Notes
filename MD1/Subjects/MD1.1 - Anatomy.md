@@ -1,8 +1,10 @@
 ---
+aliases: [MD1.1 - Anatomy]
 tags:
   - class/MOC
   - Context/MD1
 ---
+
 ## Resources
 - [Cardiovascular system  Veterian Key](https://veteriankey.com/cardiovascular-system-4/) - great diagrams showing folding and development of the heart
 

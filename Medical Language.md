@@ -1,5 +1,7 @@
 ---
+tags: 
 aliases:
+  - Medical Language
   - Medical Terms
 ---
 

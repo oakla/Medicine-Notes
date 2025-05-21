@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Renin-angiotensin aldosterone system
   - RAAS
   - RAS
 tags:

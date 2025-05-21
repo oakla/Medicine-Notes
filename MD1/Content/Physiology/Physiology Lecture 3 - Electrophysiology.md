@@ -1,13 +1,16 @@
 ---
+aliases: [Physiology Lecture 3 - Electrophysiology]
+tags: 
 terms:
   - "[[resting membrane potential]]"
 ---
+
 ## Learning Outcomes
-• Know the composition of different body fluid compartments
-• Explain the ionic basis of membrane potentials
-• Describe & explain the ionic basis of electrical signaling in nerve and muscle cells (action potentials)
-• Explain the process of sensory transduction
-• Describe how action potentials are propagated along membranes
+- Know the composition of different body fluid compartments
+- Explain the ionic basis of membrane potentials
+- Describe & explain the ionic basis of electrical signaling in nerve and muscle cells (action potentials)
+- Explain the process of sensory transduction
+- Describe how action potentials are propagated along membranes
 
 
 Terms

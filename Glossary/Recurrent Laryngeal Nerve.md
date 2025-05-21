@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Recurrent Laryngeal Nerve]
 tags:
   - Class/Permanent-Note
   - Topic/-

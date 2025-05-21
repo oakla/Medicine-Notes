@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Ischaemic vascular disease (cardiac and peripheral)]
 tags:
   - Condition
   - Class/Permanent-Note

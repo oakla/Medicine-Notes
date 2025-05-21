@@ -1,3 +1,7 @@
+---
+aliases: [Anatomy 01 - ANATOMICAL METHODS AND TERMS]
+tags: 
+---
 
 
 ## Lecture Overview

@@ -1,0 +1,4 @@
+---
+aliases: [sclerotome]
+tags: 
+---

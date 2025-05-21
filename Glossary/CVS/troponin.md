@@ -1,4 +1,5 @@
 ---
+aliases: [troponin]
 tags:
   - key-concept
 ---

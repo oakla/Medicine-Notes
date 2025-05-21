@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Pharm - Genetics 1]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/-
@@ -12,6 +12,7 @@ key_concepts:
 presentation-datetime: 
 learning-outcomes: 
 ---
+
 https://drive.google.com/open?id=1EX-K6ANJXxwt5aLpS60IAfRxW1E862ZV&usp=drive_fs
 
 

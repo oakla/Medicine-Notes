@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Anatomy 11 - FANTASTIC TUBES & WHERE TO FIND THEM -  PATTERNS IN TUBES & EPITHELIA]
 tags:
   - Class/Literature-Note/Lecture
   - Context/MD1
@@ -28,10 +28,10 @@ learning-outcomes:
 ### Learning Outcomes
 
 ### Outline
-• Patterns in endodermal tubes
-• Endodermal Epithelia
-	• Gut & Respiratory tubes
-• Structure of blood vessels
+- Patterns in endodermal tubes
+- Endodermal Epithelia
+	- Gut & Respiratory tubes
+- Structure of blood vessels
 ### Goal
 Observe the patterns in tube structures, how it relates to their function & respective embryonic development
 ### Terms

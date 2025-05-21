@@ -1,5 +1,6 @@
 ---
 aliases:
+  - acute coronary syndrome
   - ACS
 tags:
   - key-concept

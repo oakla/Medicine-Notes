@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Gastrulation]
 tags:
   - Class/Permanent-Note
 ---

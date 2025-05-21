@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Metabolism - Energy Generation I & II]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/-

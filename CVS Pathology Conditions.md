@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [CVS Pathology Conditions]
 tags:
   - Syllabus/MD1-1
 ---

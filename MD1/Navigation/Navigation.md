@@ -1,3 +1,7 @@
+---
+aliases: [Navigation]
+tags: 
+---
 
 ```dataviewjs
 const filter = "#System-block/CVS or #Topic/Haematology"

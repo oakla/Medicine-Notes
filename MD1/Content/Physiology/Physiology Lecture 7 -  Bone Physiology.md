@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Physiology Lecture 7 -  Bone Physiology]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/Physiology
