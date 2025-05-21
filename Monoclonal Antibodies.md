@@ -1,13 +1,18 @@
 ---
 aliases:
   - Monoclonal Antibodies
-tags:
+tags: 
+Mentioned in: "[[W11.4.2-Principles of commonly used Immunotherapy treatments]]"
 ---
 
 ## Monoclonal Antibody Therapy (MAT)
 Monoclonal Antibodies are used therapeutically by:
-- suppressing an over active immune system (e.g. CD20 B Cell depletion)
-- impairing activity of cytokines (e.g. in [[Multiple Sclerosis (MS)]])
+- deplete specific cells of the immune system (e.g. CD20 B Cell depletion)
+	- antibodies tag B cells
+- impair the function of immune cells themselves
+- impair the function of immune cell products (eg. cytokines)
+	- e.g. in [[Multiple Sclerosis (MS)]]
+	- 
 - Suppressing Immune checkpoint inhibitors (Immune Checkpoint Blockade)
 	- increasing T Cell activation (e.g. when T cells have be suppressed by cancer)
 
@@ -26,6 +31,10 @@ MAT can be used to treat cancer by
 	- antibody-dependent cell cytotoxicity
 - Immune Checkpoint Blockade
 	- cancers produce signals that suppress T cell activity (i.e. stop T cells from destroying the tumour)
+	- example: Nivolumab - anti-PD1
+		- PD1 receptor creates 'stop' signal in T cells
+		- tumours can express lots of PD1 ligand => activate stop signal
+		- Nivolumab is an antibody that blocks PD1 receptor (i.e. acts as PD1 antagonist)
 	- MAT can inhibit T cell suppression signals from the cancer (e.g. CTLA4 suppression)
 
 ## Related Lectures

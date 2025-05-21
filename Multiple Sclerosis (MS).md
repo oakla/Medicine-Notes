@@ -8,13 +8,10 @@ tags:
 
 
 
-Treatments
-
+## Treatments
 - [[Monoclonal Antibodies]] that impair function of immune cells
 	- e.g.
-		- Natalizumab
-		- Belimumab
-	- "Monoclonal antibodies or synthetic proteins that impair the function of immune cells or their products (eg. cytokines)" [^1]
+		- Natalizumab - decreases leucocyte migration into the brain by blocking receptors on endothelial cells => stops cells from attaching and the migrating through endothelium [^1]
 
 
 

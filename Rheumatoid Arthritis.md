@@ -1,0 +1,4 @@
+---
+aliases: [Rheumatoid Arthritis]
+tags: 
+---
