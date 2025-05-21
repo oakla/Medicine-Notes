@@ -14,8 +14,9 @@ Treatments
 	- e.g.
 		- Natalizumab
 		- Belimumab
-	- - "Monoclonal antibodies or synthetic proteins that impair the function of immune cells or their products (eg. cytokines)" [^1]
+	- "Monoclonal antibodies or synthetic proteins that impair the function of immune cells or their products (eg. cytokines)" [^1]
 
 
 
-[^1]: [[W13.3.3-Targeted & Immunotherapies]]]
+
+[^1]: [[W13.3.3-Targeted & Immunotherapies]]
