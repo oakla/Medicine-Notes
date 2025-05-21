@@ -64,51 +64,9 @@
               "icon": "lucide-file",
               "title": "Multiple Sclerosis (MS)"
             }
-          },
-          {
-            "id": "316805ccca961342",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cancer Concepts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cancer Concepts"
-            }
-          },
-          {
-            "id": "e73a6fe27012cd2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD1.1 Immunology Concepts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MD1.1 Immunology Concepts"
-            }
-          },
-          {
-            "id": "40ac01d82070f68b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chronic Lymphocytic Leukaemi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chronic Lymphocytic Leukaemi"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -336,10 +295,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 196,
-        "y": 98,
-        "width": 709,
-        "height": 819,
+        "x": 130,
+        "y": 0,
+        "width": 710,
+        "height": 752,
         "maximize": false,
         "zoom": 0
       },
@@ -397,31 +356,32 @@
           }
         ],
         "direction": "vertical",
-        "x": 85,
-        "y": 303,
-        "width": 658,
+        "x": 56,
+        "y": 152,
+        "width": 659,
         "height": 600,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "40ac01d82070f68b",
+  "active": "79798c83c0cd026f",
   "lastOpenFiles": [
-    "Chronic Lymphocytic Leukaemi.md",
+    "W13.3.3-Targeted & Immunotherapies.md",
+    "Multiple Sclerosis (MS).md",
+    "Cancer Concepts.md",
     "MD1.1 Immunology Concepts.md",
+    "Chronic Lymphocytic Leukaemi.md",
+    "W04.3.4-Inflammation.md",
+    "MD1/MD1.1 Front Page.md",
     "Therapies and Drugs.md",
     "Monoclonal Antibodies.md",
     "Antibody Dependent Cell Cytotoxicity.md",
-    "Multiple Sclerosis (MS).md",
     "MD1/What to study/Key Concepts.md",
-    "MD1/MD1.1 Front Page.md",
-    "Cancer Concepts.md",
     "Lymphoma.md",
     "Cardiac Cycle.md",
     "W16.1.0-Antiarrhythmics.md",
     "catecholamines.md",
-    "W04.3.4-Inflammation.md",
     "W11.4.2-Principles of commonly used Immunotherapy treatments.md",
     "C-reactive protein.md",
     "Important Drugs and Therapies.md",
@@ -434,7 +394,6 @@
     "Likely to be assessed.md",
     "MD1/What to study/High Yield.md",
     "CVS Pathology Conditions.md",
-    "ligocaine.md",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",
     "MD1/AI Gen",
