@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W18.1.4-Immunological memory and vaccination.md",
+                "file": "W11.4.3-Spleen and non-neoplastic lymph node disorders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W18.1.4-Immunological memory and vaccination"
+              "title": "W11.4.3-Spleen and non-neoplastic lymph node disorders"
             }
           }
         ],
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -238,136 +239,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "82b2a58fdd39fe78",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ccc86414d2fdbedb",
-        "type": "window",
-        "children": [
-          {
-            "id": "ac05f2e22cfed94a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "93b532cbac5419da",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MD1/MD1.1 Front Page.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "MD1.1 Front Page"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 130,
-        "y": 0,
-        "width": 710,
-        "height": 752,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "20e4da464961e638",
-        "type": "window",
-        "children": [
-          {
-            "id": "323ec7b9c0478e8c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cc49d46c82529133",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "W04.3.4-Inflammation.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "W04.3.4-Inflammation"
-                }
-              },
-              {
-                "id": "f4d84d06e02fbc6b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "W11.4.1-Introduction to Transplant Immunology.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "W11.4.1-Introduction to Transplant Immunology"
-                }
-              },
-              {
-                "id": "0be69542ee4f2801",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "W11.4.2-Principles of commonly used Immunotherapy treatments.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "W11.4.2-Principles of commonly used Immunotherapy treatments"
-                }
-              },
-              {
-                "id": "b5cf44166c8a0c2b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "W10.4.2-Tumour immunology.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "W10.4.2-Tumour immunology"
-                }
-              }
-            ],
-            "currentTab": 3
-          }
-        ],
-        "direction": "vertical",
-        "x": 457,
-        "y": 53,
-        "width": 823,
-        "height": 601,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b5cf44166c8a0c2b",
+  "active": "832889d9bffca8db",
   "lastOpenFiles": [
     "W18.1.4-Immunological memory and vaccination.md",
+    "W11.4.3-Spleen and non-neoplastic lymph node disorders.md",
+    "W10.4.2-Tumour immunology.md",
     "Therapies and Drugs.md",
     "Untitled 5.md",
     "Major Histocompatibility Complex.md",
@@ -377,7 +253,6 @@
     "W11.4.1-Introduction to Transplant Immunology.md",
     "T Cells.md",
     "Rheumatoid Arthritis.md",
-    "W10.4.2-Tumour immunology.md",
     "Monoclonal Antibodies.md",
     "Untitled 4.md",
     "MD1/MD1.1 Front Page.md",
@@ -392,7 +267,6 @@
     "Cardiac Cycle.md",
     "W16.1.0-Antiarrhythmics.md",
     "catecholamines.md",
-    "C-reactive protein.md",
     "MD1/What to study/Untitled",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",
