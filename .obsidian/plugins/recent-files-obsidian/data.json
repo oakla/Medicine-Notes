@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "W18.4.5-Valvular heart disease",
+      "path": "W18.4.5-Valvular heart disease.md"
+    },
+    {
+      "basename": "W18.4.3-Rheumatic Heart Disease (Pop Health)",
+      "path": "W18.4.3-Rheumatic Heart Disease (Pop Health).md"
+    },
+    {
+      "basename": "W18.4.2-Rheumatic Heart Disease (Micro)",
+      "path": "W18.4.2-Rheumatic Heart Disease (Micro).md"
+    },
+    {
+      "basename": "MD1.1 Front Page",
+      "path": "MD1/MD1.1 Front Page.md"
+    },
+    {
+      "basename": "Therapies and Drugs",
+      "path": "Therapies and Drugs.md"
+    },
+    {
       "basename": "W11.4.3-Spleen and non-neoplastic lymph node disorders",
       "path": "W11.4.3-Spleen and non-neoplastic lymph node disorders.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "W10.4.2-Tumour immunology",
       "path": "W10.4.2-Tumour immunology.md"
-    },
-    {
-      "basename": "Therapies and Drugs",
-      "path": "Therapies and Drugs.md"
     },
     {
       "basename": "Untitled 5",
@@ -55,10 +71,6 @@
     {
       "basename": "Untitled 4",
       "path": "Untitled 4.md"
-    },
-    {
-      "basename": "MD1.1 Front Page",
-      "path": "MD1/MD1.1 Front Page.md"
     },
     {
       "basename": "Multiple Sclerosis (MS)",
@@ -187,18 +199,6 @@
     {
       "basename": "Untitled 1",
       "path": "Untitled 1.md"
-    },
-    {
-      "basename": "Haemolysis",
-      "path": "Haemolysis.md"
-    },
-    {
-      "basename": "W18.1.2-Endocarditis",
-      "path": "W18.1.2-Endocarditis.md"
-    },
-    {
-      "basename": "W10.2.2-Cancer pathogenesis",
-      "path": "W10.2.2-Cancer pathogenesis.md"
     }
   ],
   "omittedPaths": [],
