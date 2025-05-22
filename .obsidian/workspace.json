@@ -80,13 +80,27 @@
             }
           },
           {
+            "id": "ffb4a986e3f7b35e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Therapies and Drugs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Therapies and Drugs"
+            }
+          },
+          {
             "id": "43cf3313d85c5380",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "W18.4.5-Valvular heart disease.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -136,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -221,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "W16.3.0-CVS Examination.md",
+                "file": "W18.4.5-Valvular heart disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for W16.3.0-CVS Examination"
+              "title": "Backlinks for W18.4.5-Valvular heart disease"
             }
           },
           {
@@ -302,8 +316,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -325,16 +338,16 @@
   },
   "active": "43cf3313d85c5380",
   "lastOpenFiles": [
-    "Medical Language.md",
     "Rheumatic Fever.md",
+    "Therapies and Drugs.md",
+    "W18.4.3-Rheumatic Heart Disease (Pop Health).md",
+    "W18.4.5-Valvular heart disease.md",
+    "Medical Language.md",
     "Definitions.md",
     "MD1/MD1.1 Front Page.md",
-    "W18.4.5-Valvular heart disease.md",
     "Aboriginal health.md",
     "W18.4.2-Rheumatic Heart Disease (Micro).md",
     "W11.4.3-Spleen and non-neoplastic lymph node disorders.md",
-    "W18.4.3-Rheumatic Heart Disease (Pop Health).md",
-    "Therapies and Drugs.md",
     "W18.1.4-Immunological memory and vaccination.md",
     "W10.4.2-Tumour immunology.md",
     "Untitled 5.md",

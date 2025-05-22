@@ -5,12 +5,20 @@
       "path": "W18.4.5-Valvular heart disease.md"
     },
     {
-      "basename": "Medical Language",
-      "path": "Medical Language.md"
-    },
-    {
       "basename": "Rheumatic Fever",
       "path": "Rheumatic Fever.md"
+    },
+    {
+      "basename": "Therapies and Drugs",
+      "path": "Therapies and Drugs.md"
+    },
+    {
+      "basename": "W18.4.3-Rheumatic Heart Disease (Pop Health)",
+      "path": "W18.4.3-Rheumatic Heart Disease (Pop Health).md"
+    },
+    {
+      "basename": "Medical Language",
+      "path": "Medical Language.md"
     },
     {
       "basename": "Definitions",
@@ -31,14 +39,6 @@
     {
       "basename": "W11.4.3-Spleen and non-neoplastic lymph node disorders",
       "path": "W11.4.3-Spleen and non-neoplastic lymph node disorders.md"
-    },
-    {
-      "basename": "W18.4.3-Rheumatic Heart Disease (Pop Health)",
-      "path": "W18.4.3-Rheumatic Heart Disease (Pop Health).md"
-    },
-    {
-      "basename": "Therapies and Drugs",
-      "path": "Therapies and Drugs.md"
     },
     {
       "basename": "W18.1.4-Immunological memory and vaccination",
