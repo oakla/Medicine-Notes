@@ -5,6 +5,22 @@
       "path": "W18.4.5-Valvular heart disease.md"
     },
     {
+      "basename": "Medical Language",
+      "path": "Medical Language.md"
+    },
+    {
+      "basename": "Rheumatic Fever",
+      "path": "Rheumatic Fever.md"
+    },
+    {
+      "basename": "Definitions",
+      "path": "Definitions.md"
+    },
+    {
+      "basename": "MD1.1 Front Page",
+      "path": "MD1/MD1.1 Front Page.md"
+    },
+    {
       "basename": "Aboriginal health",
       "path": "Aboriginal health.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "W18.4.3-Rheumatic Heart Disease (Pop Health)",
       "path": "W18.4.3-Rheumatic Heart Disease (Pop Health).md"
-    },
-    {
-      "basename": "MD1.1 Front Page",
-      "path": "MD1/MD1.1 Front Page.md"
     },
     {
       "basename": "Therapies and Drugs",
@@ -187,18 +199,6 @@
     {
       "basename": "Condition Microbio (template)",
       "path": "System/Templates/Condition Microbio (template).md"
-    },
-    {
-      "basename": "Condition (template)",
-      "path": "System/Templates/Condition (template).md"
-    },
-    {
-      "basename": "W13.1.5-Thrombosis, embolus, ischaemia and infarction",
-      "path": "W13.1.5-Thrombosis, embolus, ischaemia and infarction.md"
-    },
-    {
-      "basename": "Microbio Exams",
-      "path": "Microbio Exams.md"
     }
   ],
   "omittedPaths": [],
