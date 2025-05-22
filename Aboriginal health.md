@@ -1,3 +1,7 @@
+---
+aliases: [Aboriginal health]
+tags: 
+---
 
 
 
