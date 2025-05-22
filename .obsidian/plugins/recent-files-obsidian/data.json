@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Aboriginal health",
+      "path": "Aboriginal health.md"
+    },
+    {
       "basename": "W18.4.2-Rheumatic Heart Disease (Micro)",
       "path": "W18.4.2-Rheumatic Heart Disease (Micro).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Microbio Exams",
       "path": "Microbio Exams.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
     }
   ],
   "omittedPaths": [],
