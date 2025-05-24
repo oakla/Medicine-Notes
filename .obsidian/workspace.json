@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec41866187db8922",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD1/MD1.1 Front Page.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "MD1.1 Front Page"
-            }
-          },
-          {
             "id": "e99fedc925046c9e",
             "type": "leaf",
             "state": {
@@ -136,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -197,6 +181,22 @@
               "state": {},
               "icon": "clock",
               "title": "Recent Files"
+            }
+          },
+          {
+            "id": "ec41866187db8922",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD1/MD1.1 Front Page.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "MD1.1 Front Page"
             }
           }
         ],
@@ -324,16 +324,17 @@
   },
   "active": "a4df67613477b0e3",
   "lastOpenFiles": [
-    "W19 Anatomy Lab Checklist.md",
-    "W18.4.5-Valvular heart disease.md",
     "W19.1.2-Vasculature of the Head, neck, & limbs.md",
+    "W13.1.4-Chronic Myeloid Disorders.md",
+    "Clippings/Veterian key - Cardiovascular system.md",
+    "W18.4.5-Valvular heart disease.md",
+    "Cardiovascular system.md",
+    "MD1.1 Final Exam Prep Highyield Checklist.md",
+    "W19 Anatomy Lab Checklist.md",
     "Anatomy.md",
     "MD1/MD1.1 Front Page.md",
-    "MD1.1 Final Exam Prep Highyield Checklist.md",
     "Definitions.md",
-    "Cardiovascular system.md",
     "Skin.md",
-    "Clippings/Veterian key - Cardiovascular system.md",
     "W11.4.3-Spleen and non-neoplastic lymph node disorders.md",
     "W18.4.2-Rheumatic Heart Disease (Micro).md",
     "W18.4.3-Rheumatic Heart Disease (Pop Health).md",
@@ -349,7 +350,6 @@
     "W13.3.3-Targeted & Immunotherapies.md",
     "Immunology.md",
     "W11.4.1-Introduction to Transplant Immunology.md",
-    "T Cells.md",
     "MD1/What to study/Untitled",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",
