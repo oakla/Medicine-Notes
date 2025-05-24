@@ -1,6 +1,7 @@
 ---
-aliases: [Cardiovascular system]
-title: Cardiovascular system
+aliases:
+  - Veterian key - Cardiovascular system
+title: Veterian key - Cardiovascular system
 source: https://veteriankey.com/cardiovascular-system-4/
 author:
   - "[[UFO Themes]]"

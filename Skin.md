@@ -2,6 +2,7 @@
 aliases: [Skin]
 tags: 
 ---
+
 - [[W12.1.2-Skin anatomy and histology]]
 - [[W12.1.3-Skin physiology]]
 - [[W12.1.4-Common skin and soft tissue infections 1]]

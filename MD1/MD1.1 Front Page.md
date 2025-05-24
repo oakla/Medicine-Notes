@@ -36,9 +36,12 @@ tags:
 ## how to study
 [[Study Guidance]]
 
+---
+[[MD1.1 Final Exam Prep Highyield Checklist]]
 
 ---
 ## Groupings
 Blocks
 - [[M1.1 Cancer block]]
 - [[Skin]]
+- [[Cardiovascular system]]
