@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "W13.1.4-Chronic Myeloid Disorders",
+      "path": "W13.1.4-Chronic Myeloid Disorders.md"
+    },
+    {
       "basename": "W19 Anatomy Lab Checklist",
       "path": "W19 Anatomy Lab Checklist.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Config Preview",
       "path": "System/Config Preview.md"
-    },
-    {
-      "basename": "W13.2.4-Heart as pump and electrical activity",
-      "path": "MD1/Content/Physiology/W13.2.4-Heart as pump and electrical activity.md"
     }
   ],
   "omittedPaths": [],
