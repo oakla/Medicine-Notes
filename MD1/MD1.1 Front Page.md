@@ -41,3 +41,4 @@ tags:
 ## Groupings
 Blocks
 - [[M1.1 Cancer block]]
+- [[Skin]]

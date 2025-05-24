@@ -1,5 +1,9 @@
 ---
-aliases: [Rheumatic Fever]
+aliases:
+  - Rheumatic Fever
+  - Acute Rheumatic Fever
+  - Chronic Rheumatic Fever
+  - AFR
 tags:
   - Condition
   - Class/Permanent-Note
