@@ -180,13 +180,11 @@
               "title": "MD1.1 Front Page"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -303,10 +301,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2513b58253093c16",
+  "floating": {
+    "id": "e498cb9c0df5e74c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "40573e79cab5c530",
+        "type": "window",
+        "children": [
+          {
+            "id": "6d2cb66ac37795e9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "723b9970ab82e686",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Untitled.canvas",
+                    "viewState": {
+                      "x": 229.9608353789476,
+                      "y": -167.21947913555556,
+                      "zoom": -0.11814116158419181
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Untitled"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 162,
+        "y": 0,
+        "width": 960,
+        "height": 746,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "723b9970ab82e686",
   "lastOpenFiles": [
-    "W17.2.2-Blood supply and drainage of the head and neck.md",
     "W17.3.5-Patterns in limb vasculature.md",
+    "Untitled.canvas",
+    "W17.2.2-Blood supply and drainage of the head and neck.md",
     "MD1/Content/Anatomy/W19.1.2-Vasculature of the Head, neck, & limbs.md",
     "W19 Anatomy Lab Checklist.md",
     "MD1/MD1.1 Front Page.md",
@@ -330,14 +371,12 @@
     "Therapies and Drugs.md",
     "Aboriginal health.md",
     "Medical Language.md",
-    "Rheumatic Fever.md",
     "MD1/What to study/Untitled",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",
     "MD1/AI Gen",
     "MD1/Untitled.canvas",
     "MD1/What to study/Identified intersections",
-    "Untitled.canvas",
     "MD1/Navigation",
     "MD1/Content/Genetics",
     "MD1/Content/Clinical",

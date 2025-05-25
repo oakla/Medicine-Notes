@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
       "basename": "W17.3.5-Patterns in limb vasculature",
       "path": "W17.3.5-Patterns in limb vasculature.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "C-reactive protein",
       "path": "C-reactive protein.md"
-    },
-    {
-      "basename": "Untitled 3",
-      "path": "Untitled 3.md"
     }
   ],
   "omittedPaths": [],

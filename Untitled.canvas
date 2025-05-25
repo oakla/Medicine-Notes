@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"e7d6c22340689bca","type":"text","text":"Basilar artery","x":180,"y":-332,"width":148,"height":60},
+		{"id":"25840edfc8e985b5","type":"text","text":"Right internal carotid","x":20,"y":-402,"width":223,"height":60},
+		{"id":"e0ae686796fc5d8a","type":"text","text":"Left internal carotid","x":266,"y":-402,"width":185,"height":60},
+		{"id":"e490d7bf5ced1ac8","type":"text","text":"Circle of willis","x":177,"y":-520,"width":152,"height":60},
+		{"id":"25d586b36019955b","type":"text","text":"Right subclavian artery","x":-200,"y":-149,"width":204,"height":60},
+		{"id":"5736dfd6ea2ade03","type":"text","text":"Left subclavian artery","x":475,"y":-149,"width":200,"height":60},
+		{"id":"fd97e8f1d7f11af9","type":"text","text":"RIght common carotid","x":13,"y":-149,"width":205,"height":60},
+		{"id":"380c05bb0053b588","type":"text","text":"Left common carotid","x":239,"y":-149,"width":210,"height":60},
+		{"id":"4d48a9c21e987183","type":"text","text":"Brachiocephalic trunk","x":-92,"y":-47,"width":208,"height":50},
+		{"id":"ef37abc3bd077588","type":"text","text":"Aortic arch","x":166,"y":33,"width":143,"height":60},
+		{"id":"e830bac02a66135a","type":"text","text":"Right vertebral artery","x":-197,"y":-240,"width":198,"height":60},
+		{"id":"bc0c7fed99f55dca","type":"text","text":"Left vertebral artery","x":475,"y":-240,"width":200,"height":60},
+		{"id":"3960fa1b0322c7e0","type":"text","text":"Right external carotid","x":-220,"y":-400,"width":215,"height":60},
+		{"id":"235393e7bee5891f","type":"text","text":"Left external carotid","x":480,"y":-400,"width":186,"height":60}
+	],
+	"edges":[
+		{"id":"c1f69c7b55ef4263","fromNode":"ef37abc3bd077588","fromSide":"top","toNode":"4d48a9c21e987183","toSide":"bottom","color":"1"},
+		{"id":"32489d9a66dd3852","fromNode":"4d48a9c21e987183","fromSide":"top","toNode":"25d586b36019955b","toSide":"bottom","color":"3"},
+		{"id":"9c33bc4c7a237c8c","fromNode":"e7d6c22340689bca","fromSide":"top","toNode":"e490d7bf5ced1ac8","toSide":"bottom","color":"3"},
+		{"id":"8094b91d9dcfe00b","fromNode":"4d48a9c21e987183","fromSide":"top","toNode":"fd97e8f1d7f11af9","toSide":"bottom","color":"1"},
+		{"id":"4f56d5317f1965af","fromNode":"25840edfc8e985b5","fromSide":"top","toNode":"e490d7bf5ced1ac8","toSide":"bottom","color":"1"},
+		{"id":"69a6da46b60088ab","fromNode":"ef37abc3bd077588","fromSide":"top","toNode":"380c05bb0053b588","toSide":"bottom","color":"1"},
+		{"id":"5589a667dec605b2","fromNode":"fd97e8f1d7f11af9","fromSide":"top","toNode":"25840edfc8e985b5","toSide":"bottom","color":"1"},
+		{"id":"f953d5bcd84d9c66","fromNode":"fd97e8f1d7f11af9","fromSide":"top","toNode":"3960fa1b0322c7e0","toSide":"bottom"},
+		{"id":"ac38105c0aa681a2","fromNode":"380c05bb0053b588","fromSide":"top","toNode":"e0ae686796fc5d8a","toSide":"bottom","color":"1"},
+		{"id":"4d067176d37aee76","fromNode":"e0ae686796fc5d8a","fromSide":"top","toNode":"e490d7bf5ced1ac8","toSide":"bottom","color":"1"},
+		{"id":"9f8be5464b35088a","fromNode":"380c05bb0053b588","fromSide":"top","toNode":"235393e7bee5891f","toSide":"bottom"},
+		{"id":"b56cd46650422e8e","fromNode":"5736dfd6ea2ade03","fromSide":"top","toNode":"bc0c7fed99f55dca","toSide":"bottom","color":"3"},
+		{"id":"1328b3458b9aa6c2","fromNode":"25d586b36019955b","fromSide":"top","toNode":"e830bac02a66135a","toSide":"bottom","color":"3"},
+		{"id":"0a2acd743c825640","fromNode":"e830bac02a66135a","fromSide":"right","toNode":"e7d6c22340689bca","toSide":"bottom","color":"3"},
+		{"id":"bb54edd4ae300e75","fromNode":"bc0c7fed99f55dca","fromSide":"left","toNode":"e7d6c22340689bca","toSide":"bottom","color":"3"},
+		{"id":"e7f77d281ecd5ada","fromNode":"ef37abc3bd077588","fromSide":"top","toNode":"5736dfd6ea2ade03","toSide":"bottom","color":"3"}
+	]
+}
