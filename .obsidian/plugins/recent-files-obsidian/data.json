@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "W17.3.5-Patterns in limb vasculature",
+      "path": "W17.3.5-Patterns in limb vasculature.md"
+    },
+    {
+      "basename": "W17.2.2-Blood supply and drainage of the head and neck",
+      "path": "W17.2.2-Blood supply and drainage of the head and neck.md"
+    },
+    {
+      "basename": "W19.1.2-Vasculature of the Head, neck, & limbs",
+      "path": "MD1/Content/Anatomy/W19.1.2-Vasculature of the Head, neck, & limbs.md"
+    },
+    {
+      "basename": "W19 Anatomy Lab Checklist",
+      "path": "W19 Anatomy Lab Checklist.md"
+    },
+    {
       "basename": "MD1.1 Front Page",
       "path": "MD1/MD1.1 Front Page.md"
     },
     {
       "basename": "Haematology Conditions",
       "path": "Haematology Conditions.md"
-    },
-    {
-      "basename": "W19 Anatomy Lab Checklist",
-      "path": "W19 Anatomy Lab Checklist.md"
     },
     {
       "basename": "Polycythaemia Vera",
@@ -187,18 +199,6 @@
     {
       "basename": "Untitled 3",
       "path": "Untitled 3.md"
-    },
-    {
-      "basename": "Navigation",
-      "path": "MD1/Navigation/Navigation.md"
-    },
-    {
-      "basename": "Study Guidance",
-      "path": "Study Guidance.md"
-    },
-    {
-      "basename": "Likely to be assessed",
-      "path": "Likely to be assessed.md"
     }
   ],
   "omittedPaths": [],

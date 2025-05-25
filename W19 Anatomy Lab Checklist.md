@@ -4,16 +4,7 @@ aliases:
 tags:
 ---
 
-1. layers of cervical fascia and the contents each holds.
-2. describe the pathways blood would travel through ...
-3. dural folds and their respective dural venous sinuses,
-	1. contents of the cavernous sinus, 
-	2. the flow of blood through these sinuses, including how they can communicate with the extracranial blood.
-4. cranial nerves as they pierce the dura, 
-	1. the foramen and spaces each nerve passes through, 
-	2. the functions of each nerve.
-5. Locate and feel the pulses that are listed in these lab pages.
-6. the spaces in which the vessels presented in this lab are found, and if they accompany any specific nerves.
+
 
 
 
