@@ -10,15 +10,45 @@
           {
             "id": "e99fedc925046c9e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anatomy.md",
+                "file": "MD1/MD1.1 Front Page.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "MD1.1 Front Page"
+            }
+          },
+          {
+            "id": "84c2436ae04c85fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haematology Conditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anatomy"
+              "title": "Haematology Conditions"
+            }
+          },
+          {
+            "id": "2b996cbfae91a8ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polycythaemia Vera.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polycythaemia Vera"
             }
           },
           {
@@ -36,91 +66,21 @@
             }
           },
           {
-            "id": "ec78ca83520af53a",
+            "id": "bb4a2f14592cf92f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD1.1 Final Exam Prep Highyield Checklist.md",
+                "file": "W13.3.1-Bone Marrow Failure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MD1.1 Final Exam Prep Highyield Checklist"
-            }
-          },
-          {
-            "id": "d7d49fc85cdf87ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cardiovascular system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cardiovascular system"
-            }
-          },
-          {
-            "id": "43cf3313d85c5380",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W18.4.5-Valvular heart disease.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W18.4.5-Valvular heart disease"
-            }
-          },
-          {
-            "id": "cea678f005ffdd13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Veterian key - Cardiovascular system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Veterian key - Cardiovascular system"
-            }
-          },
-          {
-            "id": "b257843426faa81c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W19.1.2-Vasculature of the Head, neck, & limbs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W19.1.2-Vasculature of the Head, neck, & limbs"
-            }
-          },
-          {
-            "id": "fe78e176065927fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W13.3.3-Targeted & Immunotherapies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W13.3.3-Targeted & Immunotherapies"
+              "title": "W13.3.1-Bone Marrow Failure"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -322,18 +282,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe78e176065927fa",
+  "active": "bb4a2f14592cf92f",
   "lastOpenFiles": [
-    "W13.1.4-Chronic Myeloid Disorders.md",
+    "MD1/MD1.1 Front Page.md",
+    "W19 Anatomy Lab Checklist.md",
+    "Polycythaemia Vera.md",
+    "Haematology Conditions.md",
+    "Haematology.md",
+    "Anatomy.md",
+    "W13.3.1-Bone Marrow Failure.md",
     "W13.3.3-Targeted & Immunotherapies.md",
+    "W13.1.4-Chronic Myeloid Disorders.md",
     "W19.1.2-Vasculature of the Head, neck, & limbs.md",
     "Clippings/Veterian key - Cardiovascular system.md",
     "W18.4.5-Valvular heart disease.md",
     "Cardiovascular system.md",
     "MD1.1 Final Exam Prep Highyield Checklist.md",
-    "W19 Anatomy Lab Checklist.md",
-    "Anatomy.md",
-    "MD1/MD1.1 Front Page.md",
     "Definitions.md",
     "Skin.md",
     "W11.4.3-Spleen and non-neoplastic lymph node disorders.md",
@@ -346,10 +310,6 @@
     "W18.1.4-Immunological memory and vaccination.md",
     "W10.4.2-Tumour immunology.md",
     "Untitled 5.md",
-    "Major Histocompatibility Complex.md",
-    "W11.4.2-Principles of commonly used Immunotherapy treatments.md",
-    "Immunology.md",
-    "W11.4.1-Introduction to Transplant Immunology.md",
     "MD1/What to study/Untitled",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",

@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "W13.3.1-Bone Marrow Failure",
+      "path": "W13.3.1-Bone Marrow Failure.md"
+    },
+    {
+      "basename": "MD1.1 Front Page",
+      "path": "MD1/MD1.1 Front Page.md"
+    },
+    {
+      "basename": "W19 Anatomy Lab Checklist",
+      "path": "W19 Anatomy Lab Checklist.md"
+    },
+    {
+      "basename": "Polycythaemia Vera",
+      "path": "Polycythaemia Vera.md"
+    },
+    {
+      "basename": "Haematology Conditions",
+      "path": "Haematology Conditions.md"
+    },
+    {
+      "basename": "Haematology",
+      "path": "Haematology.md"
+    },
+    {
+      "basename": "Anatomy",
+      "path": "Anatomy.md"
+    },
+    {
       "basename": "W13.3.3-Targeted & Immunotherapies",
       "path": "W13.3.3-Targeted & Immunotherapies.md"
     },
@@ -27,18 +55,6 @@
     {
       "basename": "MD1.1 Final Exam Prep Highyield Checklist",
       "path": "MD1.1 Final Exam Prep Highyield Checklist.md"
-    },
-    {
-      "basename": "W19 Anatomy Lab Checklist",
-      "path": "W19 Anatomy Lab Checklist.md"
-    },
-    {
-      "basename": "Anatomy",
-      "path": "Anatomy.md"
-    },
-    {
-      "basename": "MD1.1 Front Page",
-      "path": "MD1/MD1.1 Front Page.md"
     },
     {
       "basename": "Definitions",
@@ -183,22 +199,6 @@
     {
       "basename": "Likely to be assessed",
       "path": "Likely to be assessed.md"
-    },
-    {
-      "basename": "High Yield",
-      "path": "MD1/What to study/High Yield.md"
-    },
-    {
-      "basename": "CVS Pathology Conditions",
-      "path": "CVS Pathology Conditions.md"
-    },
-    {
-      "basename": "ligocaine",
-      "path": "ligocaine.md"
-    },
-    {
-      "basename": "Config Preview",
-      "path": "System/Config Preview.md"
     }
   ],
   "omittedPaths": [],
