@@ -118,23 +118,9 @@
               "icon": "lucide-file",
               "title": "W13.3.3-Targeted & Immunotherapies"
             }
-          },
-          {
-            "id": "dc022df7eacdf9b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W13.1.4-Chronic Myeloid Disorders.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W13.1.4-Chronic Myeloid Disorders"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -235,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "W13.1.4-Chronic Myeloid Disorders.md",
+                "file": "W13.3.3-Targeted & Immunotherapies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for W13.1.4-Chronic Myeloid Disorders"
+              "title": "Backlinks for W13.3.3-Targeted & Immunotherapies"
             }
           },
           {
@@ -336,11 +322,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc022df7eacdf9b0",
+  "active": "fe78e176065927fa",
   "lastOpenFiles": [
+    "W13.1.4-Chronic Myeloid Disorders.md",
     "W13.3.3-Targeted & Immunotherapies.md",
     "W19.1.2-Vasculature of the Head, neck, & limbs.md",
-    "W13.1.4-Chronic Myeloid Disorders.md",
     "Clippings/Veterian key - Cardiovascular system.md",
     "W18.4.5-Valvular heart disease.md",
     "Cardiovascular system.md",
