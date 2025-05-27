@@ -6,7 +6,6 @@
       {
         "id": "5aa8916c0f53c4cb",
         "type": "tabs",
-        "dimension": 55.45267489711934,
         "children": [
           {
             "id": "e99fedc925046c9e",
@@ -53,35 +52,21 @@
             }
           },
           {
-            "id": "3685152391bb4fcb",
+            "id": "73bb79efd5f238f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W19 Anatomy Lab Checklist.md",
+                "file": "W11.4.3-Spleen and non-neoplastic lymph node disorders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W19 Anatomy Lab Checklist"
+              "title": "W11.4.3-Spleen and non-neoplastic lymph node disorders"
             }
           },
           {
-            "id": "3960c6728713a130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD1/Content/Anatomy/W19.1.2-Vasculature of the Head, neck, & limbs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W19.1.2-Vasculature of the Head, neck, & limbs"
-            }
-          },
-          {
-            "id": "6cb2f448b7a0e46f",
+            "id": "55b235a3c2115eea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,45 +78,19 @@
               "icon": "lucide-file",
               "title": "Study Plan"
             }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "cd377c5bef67e938",
-        "type": "tabs",
-        "dimension": 44.547325102880656,
-        "children": [
-          {
-            "id": "2300d6a4143b17da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W17.2.2-Blood supply and drainage of the head and neck.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W17.2.2-Blood supply and drainage of the head and neck"
-            }
           },
           {
-            "id": "2513b58253093c16",
+            "id": "c28877e447247ec3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W17.3.5-Patterns in limb vasculature.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "W17.3.5-Patterns in limb vasculature"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -331,55 +291,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "e498cb9c0df5e74c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "40573e79cab5c530",
-        "type": "window",
-        "children": [
-          {
-            "id": "6d2cb66ac37795e9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "723b9970ab82e686",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Untitled.canvas",
-                    "viewState": {
-                      "x": 229.9608353789476,
-                      "y": -167.21947913555556,
-                      "zoom": -0.11814116158419181
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Untitled"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1118,
-        "y": 132,
-        "width": 960,
-        "height": 746,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6cb2f448b7a0e46f",
+  "active": "73bb79efd5f238f2",
   "lastOpenFiles": [
     "Study Plan.md",
-    "W17.3.5-Patterns in limb vasculature.md",
     "MD1.1 Final Exam Prep Highyield Checklist.md",
     "MD1/MD1.1 Front Page.md",
-    "Untitled.canvas",
+    "W11.4.3-Spleen and non-neoplastic lymph node disorders.md",
+    "Aorta to Circle of Willis.canvas",
+    "Untitled 1.canvas",
+    "W17.3.5-Patterns in limb vasculature.md",
     "W17.2.2-Blood supply and drainage of the head and neck.md",
     "MD1/Content/Anatomy/W19.1.2-Vasculature of the Head, neck, & limbs.md",
     "W19 Anatomy Lab Checklist.md",
@@ -396,12 +316,10 @@
     "Cardiovascular system.md",
     "Definitions.md",
     "Skin.md",
-    "W11.4.3-Spleen and non-neoplastic lymph node disorders.md",
     "W18.4.2-Rheumatic Heart Disease (Micro).md",
     "W18.4.3-Rheumatic Heart Disease (Pop Health).md",
     "Therapies and Drugs.md",
     "Aboriginal health.md",
-    "Medical Language.md",
     "MD1/What to study/Untitled",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",
@@ -411,7 +329,6 @@
     "MD1/Navigation",
     "MD1/Content/Genetics",
     "MD1/Content/Clinical",
-    "Untitled 1.canvas",
     "MD1/Content/Population Health",
     "Glossary/CVS",
     "Pasted image 20250514101017.png",
