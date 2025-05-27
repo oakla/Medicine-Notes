@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Study Plan",
+      "path": "Study Plan.md"
+    },
+    {
+      "basename": "W17.3.5-Patterns in limb vasculature",
+      "path": "W17.3.5-Patterns in limb vasculature.md"
+    },
+    {
       "basename": "MD1.1 Final Exam Prep Highyield Checklist",
       "path": "MD1.1 Final Exam Prep Highyield Checklist.md"
     },
     {
       "basename": "MD1.1 Front Page",
       "path": "MD1/MD1.1 Front Page.md"
-    },
-    {
-      "basename": "W17.3.5-Patterns in limb vasculature",
-      "path": "W17.3.5-Patterns in limb vasculature.md"
     },
     {
       "basename": "Untitled",
@@ -195,10 +199,6 @@
     {
       "basename": "catecholamines",
       "path": "catecholamines.md"
-    },
-    {
-      "basename": "C-reactive protein",
-      "path": "C-reactive protein.md"
     }
   ],
   "omittedPaths": [],
