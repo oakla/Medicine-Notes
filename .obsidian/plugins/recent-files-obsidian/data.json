@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "W13.3.2-Paediatric anaemia",
-      "path": "W13.3.2-Paediatric anaemia.md"
+      "basename": "W05.1.2-Anatomy lab 1 - Anatomy of the viscera",
+      "path": "W05.1.2-Anatomy lab 1 - Anatomy of the viscera.md"
     },
     {
       "basename": "Study Plan",
       "path": "Study Plan.md"
+    },
+    {
+      "basename": "W13.3.2-Paediatric anaemia",
+      "path": "W13.3.2-Paediatric anaemia.md"
     },
     {
       "basename": "W11.4.3-Spleen and non-neoplastic lymph node disorders",
@@ -195,10 +199,6 @@
     {
       "basename": "Lymphoma",
       "path": "Lymphoma.md"
-    },
-    {
-      "basename": "Cardiac Cycle",
-      "path": "Cardiac Cycle.md"
     }
   ],
   "omittedPaths": [],

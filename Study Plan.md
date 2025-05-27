@@ -19,7 +19,7 @@ Exercises:
 
 *Lectures:*
 - [x] Pathology : Spleen and non-neoplastic lymph node disorders LT
-- [ ] Haematology: Paediatric anaemia
+- [x] Haematology: Paediatric anaemia
 - [ ] Anatomy: Mediastinum 
 - [ ] W15 Physiology: The vascular system
 - [ ] Pathology: Atherosclerosis and ischaemic vascular disease
