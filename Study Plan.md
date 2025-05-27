@@ -18,7 +18,7 @@ Exercises:
 - trace flow of blood (see end of lecture)
 
 *Lectures:*
-- [ ] Pathology : Spleen and non-neoplastic lymph node disorders LT
+- [x] Pathology : Spleen and non-neoplastic lymph node disorders LT
 - [ ] Haematology: Paediatric anaemia
 - [ ] Anatomy: Mediastinum 
 - [ ] W15 Physiology: The vascular system
