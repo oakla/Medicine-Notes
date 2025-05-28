@@ -87,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W16.1.2-Patterns in the vasculature.md",
+                "file": "W16.2.1-Mediastinum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W16.1.2-Patterns in the vasculature"
+              "title": "W16.2.1-Mediastinum"
             }
           }
         ],
@@ -300,6 +300,7 @@
   "active": "27f124c356a90f96",
   "lastOpenFiles": [
     "W16.1.2-Patterns in the vasculature.md",
+    "W16.2.1-Mediastinum.md",
     "Study Plan.md",
     "W13.3.2-Paediatric anaemia.md",
     "W05.1.2-Anatomy lab 1 - Anatomy of the viscera.md",
@@ -326,7 +327,6 @@
     "Definitions.md",
     "Skin.md",
     "W18.4.2-Rheumatic Heart Disease (Micro).md",
-    "W18.4.3-Rheumatic Heart Disease (Pop Health).md",
     "MD1/What to study/Untitled",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",

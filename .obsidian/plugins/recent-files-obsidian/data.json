@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "W16.2.1-Mediastinum",
+      "path": "W16.2.1-Mediastinum.md"
+    },
+    {
       "basename": "W16.1.2-Patterns in the vasculature",
       "path": "W16.1.2-Patterns in the vasculature.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Antibody Dependent Cell Cytotoxicity",
       "path": "Antibody Dependent Cell Cytotoxicity.md"
-    },
-    {
-      "basename": "Key Concepts",
-      "path": "MD1/What to study/Key Concepts.md"
     }
   ],
   "omittedPaths": [],
