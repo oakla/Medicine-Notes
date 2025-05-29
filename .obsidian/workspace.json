@@ -108,9 +108,37 @@
               "icon": "lucide-file",
               "title": "W19.4.2-Heart failure - clinical aspects"
             }
+          },
+          {
+            "id": "f3c3e987efb057d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "W19.4.3-Peripheral vascular disease - clinical aspects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W19.4.3-Peripheral vascular disease - clinical aspects"
+            }
+          },
+          {
+            "id": "6c6877deeb322a4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "W19.4.3 Peripheral venous disease and oedema – clinical aspects (bonus lecture).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W19.4.3 Peripheral venous disease and oedema – clinical aspects (bonus lecture)"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -311,8 +339,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "202743f35ace2753",
+  "active": "6c6877deeb322a4e",
   "lastOpenFiles": [
+    "W19.4.3-Peripheral vascular disease - clinical aspects.md",
+    "W19.4.3 Peripheral venous disease and oedema – clinical aspects (bonus lecture).md",
     "W19.4.2-Heart failure - clinical aspects.md",
     "W16.2.1-Mediastinum.md",
     "W16.1.2-Patterns in the vasculature.md",
@@ -339,8 +369,6 @@
     "Clippings/Veterian key - Cardiovascular system.md",
     "W18.4.5-Valvular heart disease.md",
     "Cardiovascular system.md",
-    "Definitions.md",
-    "Skin.md",
     "MD1/What to study/Untitled",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",
