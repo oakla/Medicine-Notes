@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "W19.4.2-Heart failure - clinical aspects",
+      "path": "W19.4.2-Heart failure - clinical aspects.md"
+    },
+    {
       "basename": "W16.2.1-Mediastinum",
       "path": "W16.2.1-Mediastinum.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Chronic Lymphocytic Leukaemi",
       "path": "Chronic Lymphocytic Leukaemi.md"
-    },
-    {
-      "basename": "Antibody Dependent Cell Cytotoxicity",
-      "path": "Antibody Dependent Cell Cytotoxicity.md"
     }
   ],
   "omittedPaths": [],
