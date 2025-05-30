@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "W12.1.4 Skin and Soft Tissue Infections",
+      "path": "W12.1.4 Skin and Soft Tissue Infections.md"
+    },
+    {
       "basename": "W16.2.1-Mediastinum",
       "path": "W16.2.1-Mediastinum.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "W04.3.4-Inflammation",
       "path": "W04.3.4-Inflammation.md"
-    },
-    {
-      "basename": "Cancer Concepts",
-      "path": "Cancer Concepts.md"
     }
   ],
   "omittedPaths": [],
