@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Skin",
-      "path": "Skin.md"
+      "basename": "W16.1.4-Specialised Circulation Systems",
+      "path": "W16.1.4-Specialised Circulation Systems.md"
+    },
+    {
+      "basename": "Study Plan",
+      "path": "Study Plan.md"
+    },
+    {
+      "basename": "Haematology Conditions",
+      "path": "Haematology Conditions.md"
+    },
+    {
+      "basename": "W11.4.3-Spleen and non-neoplastic lymph node disorders",
+      "path": "W11.4.3-Spleen and non-neoplastic lymph node disorders.md"
+    },
+    {
+      "basename": "W16.2.1-Mediastinum",
+      "path": "W16.2.1-Mediastinum.md"
     },
     {
       "basename": "W12.1.4 Skin and Soft Tissue Infections",
       "path": "W12.1.4 Skin and Soft Tissue Infections.md"
     },
     {
-      "basename": "W16.2.1-Mediastinum",
-      "path": "W16.2.1-Mediastinum.md"
+      "basename": "Skin",
+      "path": "Skin.md"
     },
     {
       "basename": "W19.4.2-Heart failure - clinical aspects",
@@ -29,20 +45,12 @@
       "path": "W16.1.2-Patterns in the vasculature.md"
     },
     {
-      "basename": "Study Plan",
-      "path": "Study Plan.md"
-    },
-    {
       "basename": "W13.3.2-Paediatric anaemia",
       "path": "W13.3.2-Paediatric anaemia.md"
     },
     {
       "basename": "W05.1.2-Anatomy lab 1 - Anatomy of the viscera",
       "path": "W05.1.2-Anatomy lab 1 - Anatomy of the viscera.md"
-    },
-    {
-      "basename": "W11.4.3-Spleen and non-neoplastic lymph node disorders",
-      "path": "W11.4.3-Spleen and non-neoplastic lymph node disorders.md"
     },
     {
       "basename": "MD1.1 Final Exam Prep Highyield Checklist",
@@ -75,10 +83,6 @@
     {
       "basename": "W19 Anatomy Lab Checklist",
       "path": "W19 Anatomy Lab Checklist.md"
-    },
-    {
-      "basename": "Haematology Conditions",
-      "path": "Haematology Conditions.md"
     },
     {
       "basename": "Polycythaemia Vera",
@@ -195,10 +199,6 @@
     {
       "basename": "Multiple Sclerosis (MS)",
       "path": "Multiple Sclerosis (MS).md"
-    },
-    {
-      "basename": "W04.3.4-Inflammation",
-      "path": "W04.3.4-Inflammation.md"
     }
   ],
   "omittedPaths": [],
