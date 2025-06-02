@@ -94,9 +94,23 @@
               "icon": "lucide-file",
               "title": "W16.1.5-Renal control of blood volume"
             }
+          },
+          {
+            "id": "e4bd42e30bf4b27e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "W16.1.3 Lipid lowering therapies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W16.1.3 Lipid lowering therapies"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -297,12 +311,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55b235a3c2115eea",
+  "active": "e4bd42e30bf4b27e",
   "lastOpenFiles": [
+    "W16.1.3 Lipid lowering therapies.md",
+    "Study Plan.md",
     "W16.1.5-Renal control of blood volume.md",
     "Untitled 6.md",
     "W16.1.4-Specialised Circulation Systems.md",
-    "Study Plan.md",
     "Haematology Conditions.md",
     "W11.4.3-Spleen and non-neoplastic lymph node disorders.md",
     "W16.2.1-Mediastinum.md",
@@ -326,7 +341,6 @@
     "W13.3.1-Bone Marrow Failure.md",
     "Haematology.md",
     "Anatomy.md",
-    "W13.3.3-Targeted & Immunotherapies.md",
     "MD1/What to study/Untitled",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",
