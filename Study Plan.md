@@ -48,8 +48,13 @@ Exercises:
 ## Sunday, 1 June 2025
 
 *Lectures:*
-- [ ] W16.1.4-Physiology: Renal control of blood volume (RW) - FJC LT
-- [ ] W16.1.5-Physiology: Specialised Circulation Systems (RW) - FJC LT
+- [x] W16.1.4-Physiology: Renal control of blood volume (RW) - FJC LT
+- [x] W16.1.5-Physiology: Specialised Circulation Systems (RW) - FJC LT
+
+
+## Monday, 2 June 2025
+
+*Lectures:*
 - [ ] W15.2.4-Physiology: Blood pressure regulation (RW) Ross LT
 - [ ] W15.2.5-Physiology: The vascular system (RW) Ross LT
 - [ ] W15.4.4-Pathology: Hypertension
@@ -57,9 +62,16 @@ Exercises:
 - [ ] W13.2.5-Physiology: Cardiac function (RW) - Ross LT
 - [ ] W17.1.4-Physiol CVS Physiology Lab (Lab Group 1)
 - [ ] W19.4.2-Clinical: Heart failure - clinical aspects FJC LT
+- [ ] W16.1.3-Lipid lowering therapies
+
+## Tuesday, 3 June 2025
 
 
-## Monday, 2 June 2025
+*Lectures:*
+- 
+## Wednesday, 4 June 2025
+- skin x ~9
+- microbio quizzes
 
 *Lectures:*
 - [ ] W12.1.3-Physiology: Skin physiology (RW) - FJC LT
@@ -76,17 +88,6 @@ Exercises:
 - [ ] W16.4.1-Clinical: CVS cases
 - [ ] W16.4.3-Clinical: Coronary heart disease and arrhythmias - clinical aspects
 - [ ] W19.4.3-Clinical: Peripheral vascular disease - clinical aspects FJC LT
-
-## Tuesday, 3 June 2025
-
-
-*Lectures:*
-- 
-## Wednesday, 4 June 2025
-- skin x ~9
-- microbio quizzes
-
-*Lectures:*
 - 
 ## Thursday, 5 June 2025
 
