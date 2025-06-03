@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "W13.2.4-Heart as pump and electrical activity",
+      "path": "MD1/Content/Physiology/W13.2.4-Heart as pump and electrical activity.md"
+    },
+    {
       "basename": "W15.2.4-Blood pressure regulation",
       "path": "W15.2.4-Blood pressure regulation.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Immunology",
       "path": "Immunology.md"
-    },
-    {
-      "basename": "W11.4.1-Introduction to Transplant Immunology",
-      "path": "W11.4.1-Introduction to Transplant Immunology.md"
     }
   ],
   "omittedPaths": [],
