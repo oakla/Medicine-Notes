@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Overview]
 tags:
   - Class/Literature-Note/Lecture
   - Topic/-
@@ -21,7 +21,10 @@ learning-outcomes:
 
 # Notes
 
-
+- 13:XX intersegmentals 
+	- are paired because somites are paired
+	- blood supply comes from dorsal aorta (which originates from somites too)
+- 1332: connecting arteries of the thorax
 # Questions
 
 ## My Questions
