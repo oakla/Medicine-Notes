@@ -24,34 +24,6 @@
             }
           },
           {
-            "id": "575bd9c4935d371a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD1.1 Final Exam Prep Highyield Checklist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MD1.1 Final Exam Prep Highyield Checklist"
-            }
-          },
-          {
-            "id": "84c2436ae04c85fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haematology Conditions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Haematology Conditions"
-            }
-          },
-          {
             "id": "55b235a3c2115eea",
             "type": "leaf",
             "pinned": true,
@@ -68,34 +40,6 @@
             }
           },
           {
-            "id": "0be47bc0d86aa04f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W16.1.4-Specialised Circulation Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W16.1.4-Specialised Circulation Systems"
-            }
-          },
-          {
-            "id": "82a908fc86c34cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W16.1.5-Renal control of blood volume.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W16.1.5-Renal control of blood volume"
-            }
-          },
-          {
             "id": "e4bd42e30bf4b27e",
             "type": "leaf",
             "state": {
@@ -107,20 +51,6 @@
               },
               "icon": "lucide-file",
               "title": "W16.1.3 Lipid lowering therapies"
-            }
-          },
-          {
-            "id": "026ec40f510022ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W15.2.4-Blood pressure regulation.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W15.2.4-Blood pressure regulation"
             }
           },
           {
@@ -166,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -367,14 +297,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "daafe63115fba0a8",
+  "active": "92a7226d7b804a2e",
   "lastOpenFiles": [
     "MD1.1 Revision Lecture.md",
     "Study group 2025-06-03.md",
+    "MD1/Content/Physiology/W04.1.5-Lipid physiology.md",
+    "Pasted image 20250603144837.png",
     "MD1/Content/Physiology/W13.2.4-Heart as pump and electrical activity.md",
     "W15.2.4-Blood pressure regulation.md",
     "W16.1.3 Lipid lowering therapies.md",
-    "MD1/Content/Physiology/W04.1.5-Lipid physiology.md",
     "Study Plan.md",
     "W16.1.5-Renal control of blood volume.md",
     "Untitled 6.md",
@@ -396,7 +327,6 @@
     "Untitled 1.canvas",
     "W17.3.5-Patterns in limb vasculature.md",
     "W17.2.2-Blood supply and drainage of the head and neck.md",
-    "MD1/Content/Anatomy/W19.1.2-Vasculature of the Head, neck, & limbs.md",
     "MD1/What to study/Untitled",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",
