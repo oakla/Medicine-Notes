@@ -55,9 +55,9 @@ Exercises:
 ## Monday, 2 June 2025
 
 *Lectures:*
-- [ ] W16.1.3-Lipid lowering therapies
-- [ ] W13.2.4-Physiology: Heart as pump and electrical activity (RW) - Ross LT
-- [ ] W13.2.5-Physiology: Cardiac function (RW) - Ross LT
+- [x] W16.1.3-Lipid lowering therapies
+- [x] W13.2.4-Physiology: Heart as pump and electrical activity (RW) - Ross LT
+- [x] W13.2.5-Physiology: Cardiac function (RW) - Ross LT
 - [ ] W15.2.4-Physiology: Blood pressure regulation (RW) Ross LT
 - [ ] W15.2.5-Physiology: The vascular system (RW) Ross LT
 - [ ] W15.4.4-Pathology: Hypertension
