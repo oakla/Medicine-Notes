@@ -1,0 +1,38 @@
+---
+aliases: 
+tags:
+  - Class/Literature-Note/Lecture
+  - Topic/-
+  - Context/MD1
+author(s): 
+key_concepts: 
+presentation-datetime: 
+learning-outcomes:
+---
+
+
+# Overview
+## Learning Outcomes
+
+## Outline/Sections
+
+## Key Terms & Concepts
+
+
+# Notes
+Why is it a problem?
+1. Arteries are blocked
+	- either partially or completely,
+	- either slowly or suddenly, 
+	which either reduces or completely stops the flow of blood to the tissues that the artery supplies, causing tissue damage.
+2. Artery walls are weakened.
+3. Predisposition to thrombus formation.
+
+# Questions
+
+## My Questions
+## Revision Questions
+
+
+
+
