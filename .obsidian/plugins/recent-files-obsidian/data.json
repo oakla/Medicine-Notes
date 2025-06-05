@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "W12.1.4 Skin and Soft Tissue Infections 1 and 2",
+      "path": "W12.1.4 Skin and Soft Tissue Infections 1 and 2.md"
+    },
+    {
+      "basename": "Skin",
+      "path": "Skin.md"
+    },
+    {
       "basename": "SGL formating for transfer",
       "path": "SGL formating for transfer.md"
     },
@@ -71,14 +79,6 @@
     {
       "basename": "W16.2.1-Mediastinum",
       "path": "W16.2.1-Mediastinum.md"
-    },
-    {
-      "basename": "W12.1.4 Skin and Soft Tissue Infections",
-      "path": "W12.1.4 Skin and Soft Tissue Infections.md"
-    },
-    {
-      "basename": "Skin",
-      "path": "Skin.md"
     },
     {
       "basename": "W19.4.2-Heart failure - clinical aspects",
@@ -191,14 +191,6 @@
     {
       "basename": "Aboriginal health",
       "path": "Aboriginal health.md"
-    },
-    {
-      "basename": "Medical Language",
-      "path": "Medical Language.md"
-    },
-    {
-      "basename": "Rheumatic Fever",
-      "path": "Rheumatic Fever.md"
     }
   ],
   "omittedPaths": [],
