@@ -18,6 +18,15 @@ tags:
 - [[Biochemistry]]
 - [[Aboriginal health]]
 ## What to Study
+- Framework
+	- Aetiology
+	- pathogenesis
+	- pathophysiology
+	- classification
+	- morphological changes
+	- clinical features
+	- clinical sequelae
+	- pharmacology
 - Content Concepts and Conditions
 	- Conditions
 		- [[CVS Pathology Conditions]]
