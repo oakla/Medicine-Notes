@@ -60,7 +60,7 @@ Exercises:
 - [x] W13.2.5-Physiology: Cardiac function (RW) - Ross LT
 - [ ] W15.2.4-Physiology: Blood pressure regulation (RW) Ross LT
 - [ ] W15.2.5-Physiology: The vascular system (RW) Ross LT
-- [ ] W15.4.4-Pathology: Hypertension
+- [x] W15.4.4-Pathology: Hypertension
 - [ ] W17.1.4-Physiol CVS Physiology Lab (Lab Group 1)
 - [ ] W19.4.2-Clinical: Heart failure - clinical aspects FJC LT
 
