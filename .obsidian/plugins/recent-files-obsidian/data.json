@@ -5,6 +5,10 @@
       "path": "SGL formating for transfer.md"
     },
     {
+      "basename": "W11.2.3-Haematology-Platelets and haemostasis",
+      "path": "MD1/Content/Haematology/W11.2.3-Haematology-Platelets and haemostasis.md"
+    },
+    {
       "basename": "Study Plan",
       "path": "Study Plan.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Rheumatic Fever",
       "path": "Rheumatic Fever.md"
-    },
-    {
-      "basename": "W18.1.4-Immunological memory and vaccination",
-      "path": "W18.1.4-Immunological memory and vaccination.md"
     }
   ],
   "omittedPaths": [],

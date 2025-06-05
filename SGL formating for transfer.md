@@ -1,3 +1,7 @@
+---
+aliases: [SGL formating for transfer]
+tags: 
+---
 
 Outline each element of Virchow’s triad and its contribution to the formation of
 thrombi.
