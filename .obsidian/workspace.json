@@ -168,7 +168,7 @@
               "type": "markdown",
               "state": {
                 "file": "MD1/Content/Physiology/W12.1.3-Skin physiology.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -356,8 +356,21 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "a05ccadfe040ac3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "MD1/Content/Physiology/W12.1.3-Skin physiology.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for W12.1.3-Skin physiology"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
