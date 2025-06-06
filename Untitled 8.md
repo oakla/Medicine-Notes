@@ -13,7 +13,7 @@ learning-outcomes:
 
 ## Myocardial infarction 
 ### Questions
-1. What is a myocardial infarction? How does this term relate to the terms ‘stable angina’, ‘unstable angina’ and ‘acute coronary syndrome’?
+1. What is a myocardial infarction?
 2. How does myocardial infarction usually/classically present?
 3. Are there differences between symptoms in males and females?
 4. Are there differences between younger and older people?
@@ -26,3 +26,11 @@ learning-outcomes:
 
 ### Answers
 1. Ischaemia leading to cardiac tissue death or necrosis. Angina is caused by insufficient cardiac tissue perfusion and suggests there is a risk of MI. ACS is the group of conditions involving insufficient cardiac tissue perfusion
+2. 
+	- chest pain (>20 minutes) radiating to neck, jaw, and/or left arm
+	- SOB (dysnopea)
+	- pallor
+3. women are more likely to present with symptoms unrelated to chest pain
+	- unusual fatigue
+	- light headedness
+4. Elderly can present with silent MI
