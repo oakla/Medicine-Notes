@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [W17 SGL Worksheet]
 tags:
   - Topic/-
   - Context/MD1
