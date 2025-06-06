@@ -3,6 +3,7 @@ aliases: [Noradrenaline]
 tags: 
 ---
 
+Receptor in [[Automonic Nervous System]]
 
 - Causes constriction in most vascular smooth muscle
 - Causes relaxation of vascular smooth muscle in skeletal muscles
