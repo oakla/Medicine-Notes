@@ -1,3 +1,7 @@
+---
+aliases: [Core Conditions]
+tags: 
+---
 
 
 

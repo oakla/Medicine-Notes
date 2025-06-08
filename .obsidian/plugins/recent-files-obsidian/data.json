@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "W9.4.0 Cell signalling",
+      "path": "W9.4.0 Cell signalling.md"
+    },
+    {
       "basename": "Core Conditions",
       "path": "Core Conditions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "W18.4.5-Valvular heart disease",
       "path": "W18.4.5-Valvular heart disease.md"
-    },
-    {
-      "basename": "Cardiovascular system",
-      "path": "Cardiovascular system.md"
     }
   ],
   "omittedPaths": [],
