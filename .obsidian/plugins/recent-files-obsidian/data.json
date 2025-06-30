@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2.01.1.13 - Respiratory Anatomy and  Histology",
+      "path": "2.01.1.13 - Respiratory Anatomy and  Histology.md"
+    },
+    {
+      "basename": "Respiratory Block",
+      "path": "Respiratory Block.md"
+    },
+    {
       "basename": "w01.1.4 Physiology Respiration",
       "path": "w01.1.4 Physiology Respiration.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "W13.3.3-Targeted & Immunotherapies",
       "path": "W13.3.3-Targeted & Immunotherapies.md"
-    },
-    {
-      "basename": "W13.1.4-Chronic Myeloid Disorders",
-      "path": "W13.1.4-Chronic Myeloid Disorders.md"
-    },
-    {
-      "basename": "W19.1.2-Vasculature of the Head, neck, & limbs",
-      "path": "W19.1.2-Vasculature of the Head, neck, & limbs.md"
     }
   ],
   "omittedPaths": [],
