@@ -1,3 +1,7 @@
+---
+aliases: [MD1.2 Logistics and Management]
+tags: 
+---
 
 
 

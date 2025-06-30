@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD1.2 Logistics and Management.md",
+                "file": "w01.1.4 Physiology Respiration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MD1.2 Logistics and Management"
+              "title": "w01.1.4 Physiology Respiration"
             }
           }
         ],
@@ -315,7 +315,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -448,6 +449,7 @@
   "active": "b9a33fbcbed9814c",
   "lastOpenFiles": [
     "MD1.2 Logistics and Management.md",
+    "w01.1.4 Physiology Respiration.md",
     "W9.4.0 Cell signalling.md",
     "Core Conditions.md",
     "Study Plan.md",
@@ -474,7 +476,6 @@
     "Pasted image 20250603144837.png",
     "W15.2.4-Blood pressure regulation.md",
     "W16.1.3 Lipid lowering therapies.md",
-    "W16.1.5-Renal control of blood volume.md",
     "Aorta to Circle of Willis.canvas",
     "Untitled 1.canvas",
     "MD1/What to study/Untitled",
