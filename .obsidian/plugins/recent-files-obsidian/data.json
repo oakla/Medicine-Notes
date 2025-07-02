@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "01.03.09 LRTI 1",
+      "path": "01.03.09 LRTI 1.md"
+    },
+    {
       "basename": "01.03.08 - URTIs",
       "path": "01.03.08 - URTIs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Haematology",
       "path": "Haematology.md"
-    },
-    {
-      "basename": "Anatomy",
-      "path": "Anatomy.md"
     }
   ],
   "omittedPaths": [],
