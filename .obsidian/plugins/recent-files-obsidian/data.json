@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "01.03.08 - URTIs",
+      "path": "01.03.08 - URTIs.md"
+    },
+    {
       "basename": "2.01.1.13 - Respiratory Anatomy and  Histology",
       "path": "2.01.1.13 - Respiratory Anatomy and  Histology.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Anatomy",
       "path": "Anatomy.md"
-    },
-    {
-      "basename": "W13.3.3-Targeted & Immunotherapies",
-      "path": "W13.3.3-Targeted & Immunotherapies.md"
     }
   ],
   "omittedPaths": [],
