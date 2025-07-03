@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "External Resources",
+      "path": "External Resources.md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
+    },
+    {
       "basename": "01.03.09 LRTI 1",
       "path": "01.03.09 LRTI 1.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Polycythaemia Vera",
       "path": "Polycythaemia Vera.md"
-    },
-    {
-      "basename": "W13.3.1-Bone Marrow Failure",
-      "path": "W13.3.1-Bone Marrow Failure.md"
-    },
-    {
-      "basename": "Haematology",
-      "path": "Haematology.md"
     }
   ],
   "omittedPaths": [],
