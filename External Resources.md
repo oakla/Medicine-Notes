@@ -1,3 +1,7 @@
+---
+aliases: [External Resources]
+tags: 
+---
 
 ## MD1.2
 ### W01

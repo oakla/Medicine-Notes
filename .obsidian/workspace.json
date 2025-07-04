@@ -24,200 +24,6 @@
             }
           },
           {
-            "id": "55b235a3c2115eea",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Study Plan"
-            }
-          },
-          {
-            "id": "e4bd42e30bf4b27e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W16.1.3 Lipid lowering therapies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W16.1.3 Lipid lowering therapies"
-            }
-          },
-          {
-            "id": "daafe63115fba0a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD1/Content/Physiology/W13.2.4-Heart as pump and electrical activity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W13.2.4-Heart as pump and electrical activity"
-            }
-          },
-          {
-            "id": "033a0ebac0802d1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD1.1 Revision Lecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MD1.1 Revision Lecture"
-            }
-          },
-          {
-            "id": "ee413e02b1f657b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W13.2.5-Cardiac function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W13.2.5-Cardiac function"
-            }
-          },
-          {
-            "id": "f3171a809f9daa14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W15.4.3-Atherosclerosis and hypertension.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W15.4.3-Atherosclerosis and hypertension"
-            }
-          },
-          {
-            "id": "8cfe07bccdf683e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SGL formating for transfer.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SGL formating for transfer"
-            }
-          },
-          {
-            "id": "a9047662089ba5aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W12.1.4 Skin and Soft Tissue Infections 1 and 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W12.1.4 Skin and Soft Tissue Infections 1 and 2"
-            }
-          },
-          {
-            "id": "5f46df20fb8170c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Skin"
-            }
-          },
-          {
-            "id": "930877a8b25e4c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W15.2.5-The vascular system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W15.2.5-The vascular system"
-            }
-          },
-          {
-            "id": "814a73da0ec11c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W17 SGL Worksheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W17 SGL Worksheet"
-            }
-          },
-          {
-            "id": "2573d9c6c626dfbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Conditions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Core Conditions"
-            }
-          },
-          {
-            "id": "1e1483e7aff34698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W9.4.0 Cell signalling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W9.4.0 Cell signalling"
-            }
-          },
-          {
             "id": "b9a33fbcbed9814c",
             "type": "leaf",
             "state": {
@@ -232,31 +38,17 @@
             }
           },
           {
-            "id": "092f8b4858857c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Respiratory Block.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Respiratory Block"
-            }
-          },
-          {
             "id": "325680495adbdf05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.01.1.13 - Respiratory Anatomy and  Histology.md",
+                "file": "01.1.13 - Respiratory Anatomy and  Histology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.01.1.13 - Respiratory Anatomy and  Histology"
+              "title": "01.1.13 - Respiratory Anatomy and  Histology"
             }
           },
           {
@@ -302,16 +94,6 @@
             }
           },
           {
-            "id": "7c5660d98700b8ba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "00907fabd8b3a8e2",
             "type": "leaf",
             "state": {
@@ -326,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -409,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -540,35 +321,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00907fabd8b3a8e2",
+  "active": "325680495adbdf05",
   "lastOpenFiles": [
-    "External Resources.md",
+    "w01.1.4 Physiology Respiration.md",
+    "MD1/MD1.1 Front Page.md",
+    "SGL formating for transfer.md",
+    "Core Conditions.md",
+    "MD1.1 Revision Lecture.md",
+    "W15.4.3-Atherosclerosis and hypertension.md",
+    "W13.2.5-Cardiac function.md",
+    "MD1/Content/Physiology/W13.2.4-Heart as pump and electrical activity.md",
+    "Study Plan.md",
+    "W16.1.3 Lipid lowering therapies.md",
     "MD1.2.md",
+    "System/Templates/Condition Microbio (template).md",
+    "System/Templates/Condition (template).md",
+    "System/Templates/lecture (template).md",
+    "Likely to be assessed.md",
+    "Respiratory Block.md",
+    "01.1.13 - Respiratory Anatomy and  Histology.md",
+    "Skin.md",
+    "W12.1.4 Skin and Soft Tissue Infections 1 and 2.md",
+    "External Resources.md",
     "01.03.09 LRTI 1.md",
     "01.03.08 - URTIs.md",
-    "2.01.1.13 - Respiratory Anatomy and  Histology.md",
-    "Respiratory Block.md",
-    "w01.1.4 Physiology Respiration.md",
     "MD1.2 Logistics and Management.md",
     "W9.4.0 Cell signalling.md",
-    "Core Conditions.md",
-    "Study Plan.md",
-    "SGL formating for transfer.md",
     "W17 SGL Worksheet.md",
     "Pasted image 20250606210806.png",
     "Untitled 7.md",
-    "W15.2.5-The vascular system.md",
-    "Skin.md",
-    "MD1/Content/Physiology/W12.1.3-Skin physiology.md",
-    "Automonic Nervous System.md",
-    "Noradrenaline.md",
-    "W12.1.4 Skin and Soft Tissue Infections 1 and 2.md",
-    "W12.1.5-Common skin and soft tissue infections 2.md",
-    "W12.1.4-Common skin and soft tissue infections 1.md",
-    "MD1/Content/Haematology/W11.2.3-Haematology-Platelets and haemostasis.md",
-    "W15.4.3-Atherosclerosis and hypertension.md",
-    "MD1/MD1.1 Front Page.md",
-    "W13.2.5-Cardiac function.md",
     "Pasted image 20250603144837.png",
     "Aorta to Circle of Willis.canvas",
     "Untitled 1.canvas",
