@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "b9a33fbcbed9814c",
+            "id": "00907fabd8b3a8e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "w01.1.4 Physiology Respiration.md",
+                "file": "External Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "w01.1.4 Physiology Respiration"
+              "title": "External Resources"
             }
           },
           {
@@ -52,21 +52,37 @@
             }
           },
           {
-            "id": "00907fabd8b3a8e2",
+            "id": "a383ea2e51e5da49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD1.2 Front Page.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "MD1.2 Front Page"
+            }
+          },
+          {
+            "id": "4ec131c7b9d3a36d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "External Resources.md",
+                "file": "Physiology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "External Resources"
+              "title": "Physiology"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -280,14 +296,117 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "325680495adbdf05",
+  "floating": {
+    "id": "f6775b98aec83698",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ff1fe3916d930fb7",
+        "type": "window",
+        "children": [
+          {
+            "id": "98ea3ddc3d6af868",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b9a33fbcbed9814c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "w01.1.4 Physiology Respiration.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "w01.1.4 Physiology Respiration"
+                }
+              },
+              {
+                "id": "3dd293a86f937dc1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01.2.4 - Respiratory Mechanics.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "01.2.4 - Respiratory Mechanics"
+                }
+              },
+              {
+                "id": "24b2aa1cf3284375",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01.4.7 - Perfusion.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "01.4.7 - Perfusion"
+                }
+              },
+              {
+                "id": "c3aecd61f7fa608f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01.4.8 - Control of Ventilation (phys).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "01.4.8 - Control of Ventilation (phys)"
+                }
+              },
+              {
+                "id": "01e39b1782e5b878",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Respiratory Block.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Respiratory Block"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical",
+        "x": 1028,
+        "y": 72,
+        "width": 864,
+        "height": 1141,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "01e39b1782e5b878",
   "lastOpenFiles": [
+    "Physiology.md",
+    "Respiratory Block.md",
+    "01.4.8 - Control of Ventilation (phys).md",
+    "w01.1.4 Physiology Respiration.md",
+    "01.4.7 - Perfusion.md",
+    "01.2.4 - Respiratory Mechanics.md",
+    "Untitled 9.md",
+    "MD1.2 Front Page.md",
+    "Untitled 8.md",
+    "01.1.13 - Respiratory Anatomy and  Histology.md",
+    "MD1/MD1.1 Front Page.md",
     "01.03.08 - URTIs.md",
     "01.03.09 LRTI 1.md",
-    "MD1.2.md",
-    "01.1.13 - Respiratory Anatomy and  Histology.md",
-    "w01.1.4 Physiology Respiration.md",
-    "MD1/MD1.1 Front Page.md",
     "SGL formating for transfer.md",
     "Core Conditions.md",
     "MD1.1 Revision Lecture.md",
@@ -300,15 +419,8 @@
     "System/Templates/Condition (template).md",
     "System/Templates/lecture (template).md",
     "Likely to be assessed.md",
-    "Respiratory Block.md",
     "Skin.md",
-    "W12.1.4 Skin and Soft Tissue Infections 1 and 2.md",
-    "External Resources.md",
-    "MD1.2 Logistics and Management.md",
-    "W9.4.0 Cell signalling.md",
-    "W17 SGL Worksheet.md",
     "Pasted image 20250606210806.png",
-    "Untitled 7.md",
     "Pasted image 20250603144837.png",
     "Aorta to Circle of Willis.canvas",
     "Untitled 1.canvas",

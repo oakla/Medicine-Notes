@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Respiratory Block",
+      "path": "Respiratory Block.md"
+    },
+    {
+      "basename": "Physiology",
+      "path": "Physiology.md"
+    },
+    {
+      "basename": "01.4.8 - Control of Ventilation (phys)",
+      "path": "01.4.8 - Control of Ventilation (phys).md"
+    },
+    {
+      "basename": "w01.1.4 Physiology Respiration",
+      "path": "w01.1.4 Physiology Respiration.md"
+    },
+    {
+      "basename": "01.4.7 - Perfusion",
+      "path": "01.4.7 - Perfusion.md"
+    },
+    {
+      "basename": "01.2.4 - Respiratory Mechanics",
+      "path": "01.2.4 - Respiratory Mechanics.md"
+    },
+    {
+      "basename": "Untitled 9",
+      "path": "Untitled 9.md"
+    },
+    {
+      "basename": "MD1.2 Front Page",
+      "path": "MD1.2 Front Page.md"
+    },
+    {
+      "basename": "Untitled 8",
+      "path": "Untitled 8.md"
+    },
+    {
       "basename": "01.1.13 - Respiratory Anatomy and  Histology",
       "path": "01.1.13 - Respiratory Anatomy and  Histology.md"
+    },
+    {
+      "basename": "MD1.1 Front Page",
+      "path": "MD1/MD1.1 Front Page.md"
     },
     {
       "basename": "01.03.08 - URTIs",
@@ -11,18 +51,6 @@
     {
       "basename": "01.03.09 LRTI 1",
       "path": "01.03.09 LRTI 1.md"
-    },
-    {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
-    },
-    {
-      "basename": "w01.1.4 Physiology Respiration",
-      "path": "w01.1.4 Physiology Respiration.md"
-    },
-    {
-      "basename": "MD1.1 Front Page",
-      "path": "MD1/MD1.1 Front Page.md"
     },
     {
       "basename": "SGL formating for transfer",
@@ -71,10 +99,6 @@
     {
       "basename": "Likely to be assessed",
       "path": "Likely to be assessed.md"
-    },
-    {
-      "basename": "Respiratory Block",
-      "path": "Respiratory Block.md"
     },
     {
       "basename": "Skin",
@@ -175,30 +199,6 @@
     {
       "basename": "W16.1.2-Patterns in the vasculature",
       "path": "W16.1.2-Patterns in the vasculature.md"
-    },
-    {
-      "basename": "W13.3.2-Paediatric anaemia",
-      "path": "W13.3.2-Paediatric anaemia.md"
-    },
-    {
-      "basename": "W05.1.2-Anatomy lab 1 - Anatomy of the viscera",
-      "path": "W05.1.2-Anatomy lab 1 - Anatomy of the viscera.md"
-    },
-    {
-      "basename": "MD1.1 Final Exam Prep Highyield Checklist",
-      "path": "MD1.1 Final Exam Prep Highyield Checklist.md"
-    },
-    {
-      "basename": "Aorta to Circle of Willis",
-      "path": "Aorta to Circle of Willis.canvas"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.canvas"
-    },
-    {
-      "basename": "W17.3.5-Patterns in limb vasculature",
-      "path": "W17.3.5-Patterns in limb vasculature.md"
     }
   ],
   "omittedPaths": [],
