@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "02.4.1 Clinical aspects of TB",
+      "path": "02.4.1 Clinical aspects of TB.md"
+    },
+    {
+      "basename": "Physiology",
+      "path": "Physiology.md"
+    },
+    {
       "basename": "Untitled 10",
       "path": "Untitled 10.md"
     },
     {
       "basename": "w01.1.4 Physiology Respiration",
       "path": "w01.1.4 Physiology Respiration.md"
-    },
-    {
-      "basename": "Physiology",
-      "path": "Physiology.md"
     },
     {
       "basename": "Respiratory Block",
@@ -195,10 +199,6 @@
     {
       "basename": "W19.4.3-Peripheral vascular disease - clinical aspects",
       "path": "W19.4.3-Peripheral vascular disease - clinical aspects.md"
-    },
-    {
-      "basename": "W19.4.3 Peripheral venous disease and oedema – clinical aspects (bonus lecture)",
-      "path": "W19.4.3 Peripheral venous disease and oedema – clinical aspects (bonus lecture).md"
     }
   ],
   "omittedPaths": [],
