@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "01.4.4 Restrictive disease (Path)",
+      "path": "01.4.4 Restrictive disease (Path).md"
+    },
+    {
+      "basename": "Untitled 12",
+      "path": "Untitled 12.md"
+    },
+    {
       "basename": "01.4.3 Obstructive disease (Path)",
       "path": "01.4.3 Obstructive disease (Path).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Haematology Conditions",
       "path": "Haematology Conditions.md"
-    },
-    {
-      "basename": "W11.4.3-Spleen and non-neoplastic lymph node disorders",
-      "path": "W11.4.3-Spleen and non-neoplastic lymph node disorders.md"
-    },
-    {
-      "basename": "W16.2.1-Mediastinum",
-      "path": "W16.2.1-Mediastinum.md"
     }
   ],
   "omittedPaths": [],
