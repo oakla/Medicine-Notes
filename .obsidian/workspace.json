@@ -438,10 +438,10 @@
           }
         ],
         "direction": "vertical",
-        "x": -1072,
-        "y": 671,
+        "x": 208,
+        "y": 0,
         "width": 865,
-        "height": 753,
+        "height": 752,
         "maximize": false,
         "zoom": 0
       }
@@ -449,12 +449,12 @@
   },
   "active": "81523fc54509a2e4",
   "lastOpenFiles": [
-    "Untitled 12.md",
+    "w01.1.4 Physiology Respiration.md",
     "01.4.4 Restrictive disease (Path).md",
+    "Untitled 12.md",
     "01.4.3 Obstructive disease (Path).md",
     "Untitled 11.md",
     "02.4.1 Clinical aspects of TB.md",
-    "w01.1.4 Physiology Respiration.md",
     "Physiology.md",
     "Untitled 10.md",
     "Respiratory Block.md",
