@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "01.4.4 Restrictive disease (Path)",
-      "path": "01.4.4 Restrictive disease (Path).md"
+      "basename": "01.2.2 Mechanics of breathing (anat)",
+      "path": "01.2.2 Mechanics of breathing (anat).md"
+    },
+    {
+      "basename": "Respiratory Block",
+      "path": "Respiratory Block.md"
+    },
+    {
+      "basename": "02.3 Behavioural Science - Mental Health Workshop",
+      "path": "02.3 Behavioural Science - Mental Health Workshop.md"
     },
     {
       "basename": "w01.1.4 Physiology Respiration",
       "path": "w01.1.4 Physiology Respiration.md"
+    },
+    {
+      "basename": "01.4.4 Restrictive disease (Path)",
+      "path": "01.4.4 Restrictive disease (Path).md"
     },
     {
       "basename": "Untitled 12",
@@ -27,14 +39,6 @@
     {
       "basename": "Physiology",
       "path": "Physiology.md"
-    },
-    {
-      "basename": "Untitled 10",
-      "path": "Untitled 10.md"
-    },
-    {
-      "basename": "Respiratory Block",
-      "path": "Respiratory Block.md"
     },
     {
       "basename": "01.4.8 - Control of Ventilation (phys)",
@@ -195,10 +199,6 @@
     {
       "basename": "W16.1.4-Specialised Circulation Systems",
       "path": "W16.1.4-Specialised Circulation Systems.md"
-    },
-    {
-      "basename": "Haematology Conditions",
-      "path": "Haematology Conditions.md"
     }
   ],
   "omittedPaths": [],
