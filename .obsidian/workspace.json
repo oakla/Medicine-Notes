@@ -156,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Class/Literature-Note/Lecture",
+                "query": "tag:Topic/Physiology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,12 +203,12 @@
               "title": "MD1.1 Front Page"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -440,12 +440,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Untitled 10.md",
+                    "file": "01.2.4 - Respiratory Mechanics (Physiology).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Untitled 10"
+                  "title": "01.2.4 - Respiratory Mechanics (Physiology)"
                 }
               }
             ],
@@ -453,10 +453,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 40,
-        "y": 30,
-        "width": 856,
-        "height": 1306,
+        "x": 519,
+        "y": 13,
+        "width": 605,
+        "height": 635,
         "maximize": false,
         "zoom": 0
       }
@@ -464,7 +464,7 @@
   },
   "active": "dfdd4a517916681f",
   "lastOpenFiles": [
-    "Untitled 10.md",
+    "01.2.4 - Respiratory Mechanics (Physiology).md",
     "01.2.2 - 02. Mechanics of breathing (anat).md",
     "Respiratory Block.md",
     "02.3 Behavioural Science - Mental Health Workshop.md",
