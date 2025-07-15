@@ -426,12 +426,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01.2.2 Mechanics of breathing (anat).md",
+                    "file": "01.2.2 - 02. Mechanics of breathing (anat).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "01.2.2 Mechanics of breathing (anat)"
+                  "title": "01.2.2 - 02. Mechanics of breathing (anat)"
                 }
               }
             ],
@@ -439,10 +439,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 12,
-        "y": 10,
-        "width": 720,
-        "height": 755,
+        "x": 208,
+        "y": 0,
+        "width": 865,
+        "height": 752,
         "maximize": false,
         "zoom": 0
       }
@@ -450,7 +450,7 @@
   },
   "active": "a60304175cc2c2b4",
   "lastOpenFiles": [
-    "01.2.2 Mechanics of breathing (anat).md",
+    "01.2.2 - 02. Mechanics of breathing (anat).md",
     "Respiratory Block.md",
     "02.3 Behavioural Science - Mental Health Workshop.md",
     "w01.1.4 Physiology Respiration.md",
