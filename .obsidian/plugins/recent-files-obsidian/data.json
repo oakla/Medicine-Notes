@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "03.4.3 - Oxygen (Pharmacology)",
+      "path": "03.4.3 - Oxygen (Pharmacology).md"
+    },
+    {
+      "basename": "03.4.2 - Occupational exposures (Population Health)",
+      "path": "03.4.2 - Occupational exposures (Population Health).md"
+    },
+    {
+      "basename": "03.4.1 - Environment - air pollution (Population Health)",
+      "path": "03.4.1 - Environment - air pollution (Population Health).md"
+    },
+    {
       "basename": "01.2.4 - Respiratory Mechanics (Physiology)",
       "path": "01.2.4 - Respiratory Mechanics (Physiology).md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "W04.1.5-Lipid physiology",
       "path": "MD1/Content/Physiology/W04.1.5-Lipid physiology.md"
-    },
-    {
-      "basename": "W15.2.4-Blood pressure regulation",
-      "path": "W15.2.4-Blood pressure regulation.md"
-    },
-    {
-      "basename": "W16.1.5-Renal control of blood volume",
-      "path": "W16.1.5-Renal control of blood volume.md"
-    },
-    {
-      "basename": "Untitled 6",
-      "path": "Untitled 6.md"
     }
   ],
   "omittedPaths": [],
