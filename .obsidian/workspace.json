@@ -495,10 +495,10 @@
           }
         ],
         "direction": "vertical",
-        "x": -1072,
-        "y": 671,
-        "width": 865,
-        "height": 753,
+        "x": 626,
+        "y": 0,
+        "width": 864,
+        "height": 752,
         "maximize": false,
         "zoom": 0
       }
