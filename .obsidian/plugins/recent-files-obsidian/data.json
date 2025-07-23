@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "01.1.4 - Ventilation & lung volumes (Physiology)",
-      "path": "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md"
+      "basename": "Lung Cancer",
+      "path": "Lung Cancer.md"
     },
     {
       "basename": "Respiratory Block",
       "path": "Respiratory Block.md"
+    },
+    {
+      "basename": "Neoplasm Template",
+      "path": "System/Templates/Neoplasm Template.md"
+    },
+    {
+      "basename": "COPD",
+      "path": "COPD.md"
+    },
+    {
+      "basename": "01.1.4 - Ventilation & lung volumes (Physiology)",
+      "path": "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md"
     },
     {
       "basename": "Obstructive and Restrictive Lung Diseases",
@@ -23,10 +35,6 @@
     {
       "basename": "Environmental lung disease",
       "path": "Environmental lung disease.md"
-    },
-    {
-      "basename": "COPD",
-      "path": "COPD.md"
     },
     {
       "basename": "MD1.2 Test 1 Formative Review",
@@ -191,14 +199,6 @@
     {
       "basename": "02.3 Behavioural Science - Mental Health Workshop",
       "path": "MD1/Sem2/Course Sessions/02.3 Behavioural Science - Mental Health Workshop.md"
-    },
-    {
-      "basename": "02.4.1 Clinical aspects of TB",
-      "path": "MD1/Sem2/Course Sessions/02.4.1 Clinical aspects of TB.md"
-    },
-    {
-      "basename": "01.4.8 - Control of Ventilation (phys)",
-      "path": "MD1/Sem2/Course Sessions/01.4.8 - Control of Ventilation (phys).md"
     }
   ],
   "omittedPaths": [],
