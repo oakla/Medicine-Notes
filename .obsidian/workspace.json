@@ -6,125 +6,87 @@
       {
         "id": "5aa8916c0f53c4cb",
         "type": "tabs",
+        "dimension": 22.992900054614964,
         "children": [
           {
-            "id": "e99fedc925046c9e",
+            "id": "43be8609ee8446fe",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD1/MD1.1 Front Page.md",
+                "file": "Tuberculosis.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "MD1.1 Front Page"
+              "title": "Tuberculosis"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e6bba9f5c93b32a",
+        "type": "tabs",
+        "dimension": 77.00709994538504,
+        "children": [
+          {
+            "id": "9b5af8b6e4a4de33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Environmental lung disease.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Environmental lung disease"
             }
           },
           {
-            "id": "00907fabd8b3a8e2",
+            "id": "1ea12ed32172ded3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "External Resources.md",
+                "file": "COPD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "External Resources"
+              "title": "COPD"
             }
           },
           {
-            "id": "325680495adbdf05",
+            "id": "ae473363237ff06c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.1.13 - Respiratory Anatomy and  Histology.md",
+                "file": "Obstructive and Restrictive Lung Diseases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.1.13 - Respiratory Anatomy and  Histology"
+              "title": "Obstructive and Restrictive Lung Diseases"
             }
           },
           {
-            "id": "a383ea2e51e5da49",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD1.2 Front Page.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "MD1.2 Front Page"
-            }
-          },
-          {
-            "id": "4ec131c7b9d3a36d",
+            "id": "4646b901a1f349f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physiology.md",
+                "file": "Obstructive vs Restrictive Lung Disease (Clipping).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physiology"
-            }
-          },
-          {
-            "id": "c3d63cb6a3f2bfdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.4.1 Clinical aspects of TB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02.4.1 Clinical aspects of TB"
-            }
-          },
-          {
-            "id": "9527dec374d66629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.4.3 Obstructive disease (Path).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.4.3 Obstructive disease (Path)"
-            }
-          },
-          {
-            "id": "81523fc54509a2e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.4.4 Restrictive disease (Path).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.4.4 Restrictive disease (Path)"
+              "title": "Obstructive vs Restrictive Lung Disease (Clipping)"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Topic/Physiology",
+                "query": "recoil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -311,10 +273,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "W9.4.0 Cell signalling.md"
+                "file": "Respiratory Block.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for W9.4.0 Cell signalling"
+              "title": "File properties for Respiratory Block"
             }
           }
         ],
@@ -343,210 +305,248 @@
     "type": "floating",
     "children": [
       {
-        "id": "ff1fe3916d930fb7",
+        "id": "720c8eab0025e662",
         "type": "window",
         "children": [
           {
-            "id": "98ea3ddc3d6af868",
+            "id": "68166a7096d48af5",
+            "type": "tabs",
+            "dimension": 50.82444228903976,
+            "children": [
+              {
+                "id": "34d83142cff830d8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "01.1.4 - Ventilation & lung volumes (Physiology)"
+                }
+              },
+              {
+                "id": "e377879306b11ba6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1/Sem2/Course Sessions/01.1.6 - Respiratory Anatomy and Histology (Anatomy).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "01.1.6 - Respiratory Anatomy and Histology (Anatomy)"
+                }
+              },
+              {
+                "id": "da2935a111573ecb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1/Sem2/Course Sessions/01.4.3 - Obstructive disease (Pathology).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "01.4.3 - Obstructive disease (Pathology)"
+                }
+              },
+              {
+                "id": "d4cc7ca7b9886295",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1.2 Test 1 Formative Review.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MD1.2 Test 1 Formative Review"
+                }
+              }
+            ]
+          },
+          {
+            "id": "105668ca01d0d3e1",
+            "type": "tabs",
+            "dimension": 49.17555771096024,
+            "children": [
+              {
+                "id": "6fd6c36fe987351e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1.2 Test 1 Formative Review.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MD1.2 Test 1 Formative Review"
+                }
+              },
+              {
+                "id": "e112aa96af15f490",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1/Sem2/Course Sessions/01.1.6 - Respiratory Anatomy and Histology (Anatomy).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "01.1.6 - Respiratory Anatomy and Histology (Anatomy)"
+                }
+              },
+              {
+                "id": "5253b5c7a52932a3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "W09.4.4-Immune Hypersensitivity Reactions - Type I-IV.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "W09.4.4-Immune Hypersensitivity Reactions - Type I-IV"
+                }
+              },
+              {
+                "id": "2cc33cd289427c0b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02.4.4 - IgE Hypersensitivities (Immunology).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "02.4.4 - IgE Hypersensitivities (Immunology)"
+                }
+              },
+              {
+                "id": "21c86648550b5384",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04.1.6 - Seminar - Respiratory Cases (Clinical).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "04.1.6 - Seminar - Respiratory Cases (Clinical)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1328,
+        "y": 602,
+        "width": 1036,
+        "height": 752,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "4f7e7275dd384b70",
+        "type": "window",
+        "children": [
+          {
+            "id": "26c017b511df559d",
             "type": "tabs",
             "children": [
               {
-                "id": "b9a33fbcbed9814c",
+                "id": "325680495adbdf05",
                 "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "w01.1.4 Physiology Respiration.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "w01.1.4 Physiology Respiration"
-                }
-              },
-              {
-                "id": "3dd293a86f937dc1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01.2.4 - Respiratory Mechanics.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "01.2.4 - Respiratory Mechanics"
-                }
-              },
-              {
-                "id": "24b2aa1cf3284375",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01.4.7 - Perfusion.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "01.4.7 - Perfusion"
-                }
-              },
-              {
-                "id": "c3aecd61f7fa608f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01.4.8 - Control of Ventilation (phys).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "01.4.8 - Control of Ventilation (phys)"
-                }
-              },
-              {
-                "id": "01e39b1782e5b878",
-                "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Respiratory Block.md",
                     "mode": "source",
-                    "source": false
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
                   "title": "Respiratory Block"
                 }
-              },
-              {
-                "id": "a60304175cc2c2b4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01.2.2 - 02. Mechanics of breathing (anat).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "01.2.2 - 02. Mechanics of breathing (anat)"
-                }
-              },
-              {
-                "id": "dfdd4a517916681f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01.2.4 - Respiratory Mechanics (Physiology).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "01.2.4 - Respiratory Mechanics (Physiology)"
-                }
-              },
-              {
-                "id": "a42b5b3a6b453109",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03.4.1 - Environment - air pollution (Population Health).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "03.4.1 - Environment - air pollution (Population Health)"
-                }
-              },
-              {
-                "id": "7c919d76babe4cb4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03.4.2 - Occupational exposures (Population Health).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "03.4.2 - Occupational exposures (Population Health)"
-                }
-              },
-              {
-                "id": "f11bf09feae7627b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03.4.3 - Oxygen (Pharmacology).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "03.4.3 - Oxygen (Pharmacology)"
-                }
               }
-            ],
-            "currentTab": 9
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 626,
-        "y": 0,
-        "width": 864,
-        "height": 752,
+        "x": 1013,
+        "y": 164,
+        "width": 725,
+        "height": 895,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "f11bf09feae7627b",
+  "active": "34d83142cff830d8",
   "lastOpenFiles": [
-    "03.4.3 - Oxygen (Pharmacology).md",
-    "03.4.2 - Occupational exposures (Population Health).md",
-    "03.4.1 - Environment - air pollution (Population Health).md",
-    "01.2.4 - Respiratory Mechanics (Physiology).md",
-    "01.2.2 - 02. Mechanics of breathing (anat).md",
     "Respiratory Block.md",
-    "02.3 Behavioural Science - Mental Health Workshop.md",
-    "w01.1.4 Physiology Respiration.md",
-    "01.4.4 Restrictive disease (Path).md",
-    "Untitled 12.md",
-    "01.4.3 Obstructive disease (Path).md",
-    "Untitled 11.md",
-    "02.4.1 Clinical aspects of TB.md",
+    "Obstructive and Restrictive Lung Diseases.md",
+    "Obstructive vs Restrictive Lung Disease (Clipping).md",
+    "MD1/Sem2/Course Sessions/01.4.4 - Restrictive disease (Pathology).md",
+    "Environmental lung disease.md",
+    "COPD.md",
+    "MD1.2 Test 1 Formative Review.md",
+    "02.4.4 - IgE Hypersensitivities (Immunology).md",
+    "04.1.6 - Seminar - Respiratory Cases (Clinical).md",
+    "System/Templates/lecture (template).md",
+    "Asthma.md",
+    "MD1/Sem2/Course Sessions/01.1.6 - Respiratory Anatomy and Histology (Anatomy).md",
+    "W09.4.4-Immune Hypersensitivity Reactions - Type I-IV.md",
+    "MD1/Sem2/Course Sessions/01.4.3 - Obstructive disease (Pathology).md",
+    "Tuberculosis.md",
+    "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md",
+    "MD1/Sem2/Course Sessions/01.2.4 - Respiratory Mechanics (Physiology).md",
+    "MD1/Sem2/Course Sessions",
+    "MD1/Sem2/01.2.4 - Respiratory Mechanics.md",
+    "MD1/Sem2/Course Sessions/01.2.2 - Mechanics of breathing (Anatomy).md",
+    "MD1/Key-Concepts/thrombus.md",
+    "MD1/Key-Concepts/Therapies and Drugs.md",
+    "Thomas Wilson.md",
+    "MD1/Sem1/Content/Clinical/TBL 1 Dave is feeling dodgy.md",
+    "Study group 2025-06-03.md",
     "Physiology.md",
-    "01.4.8 - Control of Ventilation (phys).md",
-    "01.4.7 - Perfusion.md",
-    "01.2.4 - Respiratory Mechanics.md",
-    "Untitled 9.md",
-    "MD1.2 Front Page.md",
-    "Untitled 8.md",
-    "01.1.13 - Respiratory Anatomy and  Histology.md",
-    "MD1/MD1.1 Front Page.md",
-    "01.03.08 - URTIs.md",
-    "01.03.09 LRTI 1.md",
-    "SGL formating for transfer.md",
-    "Core Conditions.md",
+    "MD1/Key-Concepts/T Cells.md",
+    "Aorta to Circle of Willis.canvas",
+    "MD1/Sem2",
+    "Untitled 1.canvas",
+    "MD1/Key-Concepts",
+    "MD1/Sem1",
     "Pasted image 20250606210806.png",
     "Pasted image 20250603144837.png",
-    "Aorta to Circle of Willis.canvas",
-    "Untitled 1.canvas",
     "MD1/What to study/Untitled",
     "MD1/AI Gen/Immunolgy",
     "MD1/AI Gen/Quizzes",
     "MD1/AI Gen",
     "MD1/Untitled.canvas",
-    "MD1/What to study/Identified intersections",
+    "MD1/Sem1/What to study/Identified intersections",
     "MD1/Navigation",
-    "MD1/Content/Genetics",
-    "MD1/Content/Clinical",
-    "MD1/Content/Population Health",
-    "Glossary/CVS",
     "Pasted image 20250514101017.png",
     "Pasted image 20250503124113.png"
   ]
