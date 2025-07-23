@@ -18,7 +18,7 @@ tags:
 	- "**surface markings** of the parietal pleura"
 	- where's the base
 - trachea
-- pneumocytes
+- lung cell (pneumocytes) type functions
 - imaging
 
 ## Pop health
@@ -31,7 +31,7 @@ tags:
 ### questions
 
 ### general
-- lung cell (pneumocytes) type functions
+
 - Ventilation-Perfusion Matching
 - blood gas homeostatis/transport
 - breathing homeostasis nervous regulation
