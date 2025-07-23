@@ -32,8 +32,8 @@ tags:
 
 ### general
 - lung cell (pneumocytes) type functions
-- gas transport
-- blood gas homeostatis
+- Ventilation-Perfusion Matching
+- blood gas homeostatis/transport
 - breathing homeostasis nervous regulation
 - nervous control of bronchioles (and other airways)
 ## pharm

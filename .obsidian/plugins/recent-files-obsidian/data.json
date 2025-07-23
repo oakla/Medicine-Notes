@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Neoplasm Template",
-      "path": "System/Templates/Neoplasm Template.md"
+      "basename": "MD1.2 Test 1 Formative Review",
+      "path": "MD1.2 Test 1 Formative Review.md"
+    },
+    {
+      "basename": "Respiratory Block",
+      "path": "Respiratory Block.md"
     },
     {
       "basename": "Lung Cancer",
       "path": "Lung Cancer.md"
     },
     {
-      "basename": "Respiratory Block",
-      "path": "Respiratory Block.md"
+      "basename": "Environmental lung disease",
+      "path": "Environmental lung disease.md"
+    },
+    {
+      "basename": "Neoplasm Template",
+      "path": "System/Templates/Neoplasm Template.md"
+    },
+    {
+      "basename": "Tuberculosis",
+      "path": "Tuberculosis.md"
     },
     {
       "basename": "COPD",
@@ -31,14 +43,6 @@
     {
       "basename": "01.4.4 - Restrictive disease (Pathology)",
       "path": "MD1/Sem2/Course Sessions/01.4.4 - Restrictive disease (Pathology).md"
-    },
-    {
-      "basename": "Environmental lung disease",
-      "path": "Environmental lung disease.md"
-    },
-    {
-      "basename": "MD1.2 Test 1 Formative Review",
-      "path": "MD1.2 Test 1 Formative Review.md"
     },
     {
       "basename": "02.4.4 - IgE Hypersensitivities (Immunology)",
@@ -67,10 +71,6 @@
     {
       "basename": "01.4.3 - Obstructive disease (Pathology)",
       "path": "MD1/Sem2/Course Sessions/01.4.3 - Obstructive disease (Pathology).md"
-    },
-    {
-      "basename": "Tuberculosis",
-      "path": "Tuberculosis.md"
     },
     {
       "basename": "01.2.4 - Respiratory Mechanics (Physiology)",
