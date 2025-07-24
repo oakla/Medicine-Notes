@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Interstitial Lung Disease
   - Pneumoconiosis
 tags:
   - System-block/Respiratory

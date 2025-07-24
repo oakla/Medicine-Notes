@@ -86,6 +86,8 @@ To understand the entities on the previous slides you need to review and underst
 - Bacterial and viral infections, bacteraemia, tuberculosis, immunocompromise
 - Interplay between genetics and environment in aetiology of lung disease
 # Key Concepts
+- haemoptysis
+- paraneoplastic
 ## Overlapping
 - Bronchial tree
 

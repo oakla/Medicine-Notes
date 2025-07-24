@@ -5,16 +5,36 @@
       "path": "Respiratory Block.md"
     },
     {
+      "basename": "Chronic Lung Disease Study Guide",
+      "path": "Chronic Lung Disease Study Guide.md"
+    },
+    {
+      "basename": "🫁 Study Guide - Pulmonary Neoplasia",
+      "path": "🫁 Study Guide - Pulmonary Neoplasia.md"
+    },
+    {
+      "basename": "Respiratory Infections Study Guide",
+      "path": "Respiratory Infections Study Guide.md"
+    },
+    {
+      "basename": "04.1.8 - Wrap up of respiratory disease (Pathology)",
+      "path": "04.1.8 - Wrap up of respiratory disease (Pathology).md"
+    },
+    {
+      "basename": "Lung Cancer",
+      "path": "Lung Cancer.md"
+    },
+    {
+      "basename": "Interstitial Lung Disease",
+      "path": "Interstitial Lung Disease.md"
+    },
+    {
       "basename": "Respiratory Block Summary",
       "path": "Respiratory Block Summary.md"
     },
     {
       "basename": "Obstructive and Restrictive Lung Diseases",
       "path": "Obstructive and Restrictive Lung Diseases.md"
-    },
-    {
-      "basename": "Interstitial Lung Disease",
-      "path": "Interstitial Lung Disease.md"
     },
     {
       "basename": "04.1.6 - Seminar - Respiratory Cases (Clinical)",
@@ -43,14 +63,6 @@
     {
       "basename": "01.1.4 - Ventilation & lung volumes (Physiology)",
       "path": "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md"
-    },
-    {
-      "basename": "04.1.8 - Wrap up of respiratory disease (Pathology)",
-      "path": "04.1.8 - Wrap up of respiratory disease (Pathology).md"
-    },
-    {
-      "basename": "Lung Cancer",
-      "path": "Lung Cancer.md"
     },
     {
       "basename": "COPD",
@@ -187,18 +199,6 @@
     {
       "basename": "Resources 2025-03-03",
       "path": "MD1/resources/Resources 2025-03-03.md"
-    },
-    {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
-    },
-    {
-      "basename": "External Resources",
-      "path": "External Resources.md"
-    },
-    {
-      "basename": "MD1.1 Front Page",
-      "path": "MD1/Sem1/MD1.1 Front Page.md"
     }
   ],
   "omittedPaths": [],
