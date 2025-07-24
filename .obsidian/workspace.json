@@ -481,8 +481,7 @@
                   "title": "MD1.2 Test 1 Formative Review"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "26c017b511df559d",
@@ -531,32 +530,32 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 358,
-        "y": 432,
-        "width": 992,
+        "x": 865,
+        "y": 200,
+        "width": 1087,
         "height": 896,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "fcdd5aa95c1f034d",
+  "active": "51ee7bebe0579fcf",
   "lastOpenFiles": [
+    "COPD.md",
     "Respiratory Block.md",
-    "Lung Cancer.md",
     "Environmental lung disease.md",
+    "Obstructive and Restrictive Lung Diseases.md",
+    "MD1.2 Test 1 Formative Review.md",
+    "Lung Cancer.md",
     "System/Templates/Neoplasm Template.md",
     "Tuberculosis.md",
-    "COPD.md",
     "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md",
-    "Obstructive and Restrictive Lung Diseases.md",
     "Obstructive vs Restrictive Lung Disease (Clipping).md",
     "MD1/Sem2/Course Sessions/01.4.4 - Restrictive disease (Pathology).md",
-    "MD1.2 Test 1 Formative Review.md",
     "02.4.4 - IgE Hypersensitivities (Immunology).md",
     "04.1.6 - Seminar - Respiratory Cases (Clinical).md",
     "System/Templates/lecture (template).md",

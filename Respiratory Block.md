@@ -10,16 +10,24 @@ tags:
 # Tasks
 
 ## From Marcus' wrap up lecture
-[[Environmental lung disease]]
-Chronic lung disease (e.g. COPD, pulmonary fibrosis)
+### [[Environmental lung disease]]
+Includes
+- Mesothelioma
+- Lung cancer
+- COPD/emphysema
+- Occupational lung disease/pnuemoconiosis
+
+Could you
+- Outline some common occupational exposures that can lead to lung disease?
+- Outline and briefly describe the various occupational lung diseases. Examples include - Asbestosis, Malignant Mesothelioma, Occupational Asthma, Silicosis, Coal workers' Pneumoconiosis, Hypersensitivity pneumonitis, Occupational lung cancer?
+### Chronic lung disease (e.g. COPD, pulmonary fibrosis)
 - Compare and contrast [[Obstructive and Restrictive Lung Diseases]]
 	- Recognise and explain obstructive and restrictive patterns based on lung function tests and clinical/pathological findings
 - Define and describe [[COPD]] and the specific diseases that are included in this category
 	- Describe characteristics of COPD in regards to the following:
-	- Patterns of airway obstruction
-	- Main pathological findings
-	- Risk factors and co-morbidities that can contribute to the development of COPD and its exacerbation
-### Restrictive and Obstructive lung diseases ….
+		- Patterns of airway obstruction
+		- Main pathological findings
+		- Risk factors and co-morbidities that can contribute to the development of COPD and its exacerbation
 Minimum:
 - Recognise obstructive pattern and restrictive pattern on LFTs.
 - Know the main diseases for each category.
@@ -111,7 +119,6 @@ To understand the entities on the previous slides you need to review and underst
 - [[01.3.2 - LRTI 1 (Microbiology)]]
 - [[01.3.3 - LRTI 2 (Microbiology)]]
 - [[01.4.2 - Overview of Respiratory Disease (Pathology)]]
-- [[01.4.4 - Restrictive disease (Pathology)]]
 - [[01.4.4 - Restrictive disease (Pathology)]]
 - [[01.4.7 - Perfusion (Physiology)]]
 - [[01.4.8 - Control of Ventilation (Physiology)]]
