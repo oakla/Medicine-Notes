@@ -1,3 +1,7 @@
+---
+aliases: [Potential Anki Questions]
+tags: 
+---
 
 
 Which of the following occupational exposures is most strongly associated with **hypersensitivity pneumonitis**?
