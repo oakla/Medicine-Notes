@@ -1,32 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Lung Cancer",
-      "path": "Lung Cancer.md"
-    },
-    {
-      "basename": "04.1.8 - Wrap up of respiratory disease (Pathology)",
-      "path": "04.1.8 - Wrap up of respiratory disease (Pathology).md"
-    },
-    {
       "basename": "Respiratory Block",
       "path": "Respiratory Block.md"
     },
     {
-      "basename": "COPD",
-      "path": "COPD.md"
-    },
-    {
-      "basename": "Environmental lung disease",
-      "path": "Environmental lung disease.md"
+      "basename": "Respiratory Block Summary",
+      "path": "Respiratory Block Summary.md"
     },
     {
       "basename": "Obstructive and Restrictive Lung Diseases",
       "path": "Obstructive and Restrictive Lung Diseases.md"
     },
     {
+      "basename": "Interstitial Lung Disease",
+      "path": "Interstitial Lung Disease.md"
+    },
+    {
+      "basename": "04.1.6 - Seminar - Respiratory Cases (Clinical)",
+      "path": "04.1.6 - Seminar - Respiratory Cases (Clinical).md"
+    },
+    {
       "basename": "MD1.2 Test 1 Formative Review",
       "path": "MD1.2 Test 1 Formative Review.md"
+    },
+    {
+      "basename": "01.4.3 - Obstructive disease (Pathology)",
+      "path": "MD1/Sem2/Course Sessions/01.4.3 - Obstructive disease (Pathology).md"
+    },
+    {
+      "basename": "Environmental lung disease",
+      "path": "Environmental lung disease.md"
+    },
+    {
+      "basename": "Obstructive vs Restrictive Lung Disease (Clipping)",
+      "path": "Obstructive vs Restrictive Lung Disease (Clipping).md"
+    },
+    {
+      "basename": "01.1.6 - Respiratory Anatomy and Histology (Anatomy)",
+      "path": "MD1/Sem2/Course Sessions/01.1.6 - Respiratory Anatomy and Histology (Anatomy).md"
+    },
+    {
+      "basename": "01.1.4 - Ventilation & lung volumes (Physiology)",
+      "path": "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md"
+    },
+    {
+      "basename": "04.1.8 - Wrap up of respiratory disease (Pathology)",
+      "path": "04.1.8 - Wrap up of respiratory disease (Pathology).md"
+    },
+    {
+      "basename": "Lung Cancer",
+      "path": "Lung Cancer.md"
+    },
+    {
+      "basename": "COPD",
+      "path": "COPD.md"
     },
     {
       "basename": "Neoplasm Template",
@@ -37,24 +65,12 @@
       "path": "Tuberculosis.md"
     },
     {
-      "basename": "01.1.4 - Ventilation & lung volumes (Physiology)",
-      "path": "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md"
-    },
-    {
-      "basename": "Obstructive vs Restrictive Lung Disease (Clipping)",
-      "path": "Obstructive vs Restrictive Lung Disease (Clipping).md"
-    },
-    {
       "basename": "01.4.4 - Restrictive disease (Pathology)",
       "path": "MD1/Sem2/Course Sessions/01.4.4 - Restrictive disease (Pathology).md"
     },
     {
       "basename": "02.4.4 - IgE Hypersensitivities (Immunology)",
       "path": "02.4.4 - IgE Hypersensitivities (Immunology).md"
-    },
-    {
-      "basename": "04.1.6 - Seminar - Respiratory Cases (Clinical)",
-      "path": "04.1.6 - Seminar - Respiratory Cases (Clinical).md"
     },
     {
       "basename": "lecture (template)",
@@ -65,16 +81,8 @@
       "path": "Asthma.md"
     },
     {
-      "basename": "01.1.6 - Respiratory Anatomy and Histology (Anatomy)",
-      "path": "MD1/Sem2/Course Sessions/01.1.6 - Respiratory Anatomy and Histology (Anatomy).md"
-    },
-    {
       "basename": "W09.4.4-Immune Hypersensitivity Reactions - Type I-IV",
       "path": "W09.4.4-Immune Hypersensitivity Reactions - Type I-IV.md"
-    },
-    {
-      "basename": "01.4.3 - Obstructive disease (Pathology)",
-      "path": "MD1/Sem2/Course Sessions/01.4.3 - Obstructive disease (Pathology).md"
     },
     {
       "basename": "01.2.4 - Respiratory Mechanics (Physiology)",
@@ -191,14 +199,6 @@
     {
       "basename": "MD1.1 Front Page",
       "path": "MD1/Sem1/MD1.1 Front Page.md"
-    },
-    {
-      "basename": "03.4.2 - Occupational exposures (Population Health)",
-      "path": "MD1/Sem2/Course Sessions/03.4.2 - Occupational exposures (Population Health).md"
-    },
-    {
-      "basename": "03.4.1 - Environment - air pollution (Population Health)",
-      "path": "MD1/Sem2/Course Sessions/03.4.1 - Environment - air pollution (Population Health).md"
     }
   ],
   "omittedPaths": [],

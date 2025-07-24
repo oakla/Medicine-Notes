@@ -21,7 +21,7 @@ Could you
 - Outline some common occupational exposures that can lead to lung disease?
 - Outline and briefly describe the various occupational lung diseases. Examples include - Asbestosis, Malignant Mesothelioma, Occupational Asthma, Silicosis, Coal workers' Pneumoconiosis, Hypersensitivity pneumonitis, Occupational lung cancer?
 ### Chronic lung disease (e.g. COPD, pulmonary fibrosis)
-- Compare and contrast [[Obstructive and Restrictive Lung Diseases]]
+- Compare and contrast [[Respiratory Block Summary#Obstructive and Restrictive Lung Diseases|Obstructive and Restrictive Lung Diseases]]
 	- Recognise and explain obstructive and restrictive patterns based on lung function tests and clinical/pathological findings
 - Define and describe [[COPD]] and the specific diseases that are included in this category
 	- Describe characteristics of COPD in regards to the following:
@@ -29,7 +29,7 @@ Could you
 		- Main pathological findings
 		- Risk factors and co-morbidities that can contribute to the development of COPD and its exacerbation
 Minimum:
-- Recognise obstructive pattern and restrictive pattern on LFTs.
+- Recognise obstructive pattern and restrictive pattern on lung function tests.
 - Know the main diseases for each category.
 - COPD (CB and emphysema) are common.
 - Asthma is common.
@@ -46,9 +46,9 @@ They all vary in incidence and specific clinical features, radiology, pathology,
 Classificaion: Do you know the following tumours (risk factors, morphology, principles of staging/grading/major subtypes)?
 - Lung: Small cell, Non-small cell (squamous cell Ca, AdenoCa, undifferentiated, other), carcinoid
 - Pleura: Mesothelioma
-- [Other (sarcomas, leukaemia/lymphoma/myeloma, etc)]
+- Other (sarcomas, leukaemia/lymphoma/myeloma, etc)
 Key aspects for diagnosis and management.
-- Symptoms and signs: when to consider lung Ca
+- Symptoms and signs: when to consider lung cancer
 Primary vs metastasis
 - Management and presentation differences for different subtypes
 - Making a diagnosis - testing

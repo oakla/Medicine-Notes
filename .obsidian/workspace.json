@@ -41,26 +41,57 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obstructive and Restrictive Lung Diseases.md",
+                "file": "Respiratory Block.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Obstructive and Restrictive Lung Diseases"
+              "title": "Respiratory Block"
             }
           },
           {
-            "id": "4646b901a1f349f0",
+            "id": "54ee81d151529ba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obstructive vs Restrictive Lung Disease (Clipping).md",
+                "file": "Respiratory Block.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obstructive vs Restrictive Lung Disease (Clipping)"
+              "title": "Respiratory Block"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "32af8074b6725b52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb4de99e70b8e60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Respiratory Block Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Respiratory Block Summary"
             }
           }
         ]
@@ -290,20 +321,6 @@
             "dimension": 50.82444228903976,
             "children": [
               {
-                "id": "34d83142cff830d8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "01.1.4 - Ventilation & lung volumes (Physiology)"
-                }
-              },
-              {
                 "id": "e377879306b11ba6",
                 "type": "leaf",
                 "state": {
@@ -345,7 +362,8 @@
                   "title": "MD1.2 Test 1 Formative Review"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "105668ca01d0d3e1",
@@ -367,48 +385,6 @@
                 }
               },
               {
-                "id": "e112aa96af15f490",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MD1/Sem2/Course Sessions/01.1.6 - Respiratory Anatomy and Histology (Anatomy).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "01.1.6 - Respiratory Anatomy and Histology (Anatomy)"
-                }
-              },
-              {
-                "id": "5253b5c7a52932a3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "W09.4.4-Immune Hypersensitivity Reactions - Type I-IV.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "W09.4.4-Immune Hypersensitivity Reactions - Type I-IV"
-                }
-              },
-              {
-                "id": "2cc33cd289427c0b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02.4.4 - IgE Hypersensitivities (Immunology).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "02.4.4 - IgE Hypersensitivities (Immunology)"
-                }
-              },
-              {
                 "id": "21c86648550b5384",
                 "type": "leaf",
                 "state": {
@@ -421,15 +397,30 @@
                   "icon": "lucide-file",
                   "title": "04.1.6 - Seminar - Respiratory Cases (Clinical)"
                 }
+              },
+              {
+                "id": "f8a1dcee51c620db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Interstitial Lung Disease.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Interstitial Lung Disease"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 1507,
-        "y": 634,
-        "width": 1035,
-        "height": 752,
+        "x": 34,
+        "y": 621,
+        "width": 1036,
+        "height": 753,
         "maximize": false,
         "zoom": 0
       },
@@ -549,44 +540,44 @@
           }
         ],
         "direction": "vertical",
-        "x": 865,
-        "y": 200,
-        "width": 1087,
+        "x": 1312,
+        "y": 62,
+        "width": 1086,
         "height": 896,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "51ee7bebe0579fcf",
+  "active": "ae473363237ff06c",
   "lastOpenFiles": [
+    "Respiratory Block Summary.md",
+    "Respiratory Block.md",
+    "Obstructive and Restrictive Lung Diseases.md",
+    "Interstitial Lung Disease.md",
+    "04.1.6 - Seminar - Respiratory Cases (Clinical).md",
+    "MD1.2 Test 1 Formative Review.md",
+    "MD1/Sem2/Course Sessions/01.4.3 - Obstructive disease (Pathology).md",
+    "Environmental lung disease.md",
+    "Obstructive vs Restrictive Lung Disease (Clipping).md",
+    "MD1/Sem2/Course Sessions/01.1.6 - Respiratory Anatomy and Histology (Anatomy).md",
+    "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md",
     "04.1.8 - Wrap up of respiratory disease (Pathology).md",
     "Lung Cancer.md",
-    "Respiratory Block.md",
     "COPD.md",
-    "Environmental lung disease.md",
-    "Obstructive and Restrictive Lung Diseases.md",
-    "MD1.2 Test 1 Formative Review.md",
     "System/Templates/Neoplasm Template.md",
     "Tuberculosis.md",
-    "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md",
-    "Obstructive vs Restrictive Lung Disease (Clipping).md",
     "MD1/Sem2/Course Sessions/01.4.4 - Restrictive disease (Pathology).md",
     "02.4.4 - IgE Hypersensitivities (Immunology).md",
-    "04.1.6 - Seminar - Respiratory Cases (Clinical).md",
     "System/Templates/lecture (template).md",
     "Asthma.md",
-    "MD1/Sem2/Course Sessions/01.1.6 - Respiratory Anatomy and Histology (Anatomy).md",
     "W09.4.4-Immune Hypersensitivity Reactions - Type I-IV.md",
-    "MD1/Sem2/Course Sessions/01.4.3 - Obstructive disease (Pathology).md",
     "MD1/Sem2/Course Sessions/01.2.4 - Respiratory Mechanics (Physiology).md",
     "MD1/Sem2/Course Sessions",
     "MD1/Sem2/01.2.4 - Respiratory Mechanics.md",
     "MD1/Sem2/Course Sessions/01.2.2 - Mechanics of breathing (Anatomy).md",
     "MD1/Key-Concepts/thrombus.md",
     "MD1/Key-Concepts/Therapies and Drugs.md",
-    "Thomas Wilson.md",
-    "MD1/Sem1/Content/Clinical/TBL 1 Dave is feeling dodgy.md",
     "Aorta to Circle of Willis.canvas",
     "MD1/Sem2",
     "Untitled 1.canvas",
