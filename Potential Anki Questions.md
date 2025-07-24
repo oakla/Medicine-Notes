@@ -23,3 +23,7 @@ How to diagnose	Squamous Cell Carcinoma
 Macro pathological similarity between SCC and TB
 
 What are the most common types of Neuroendocrine lung tumour
+
+Small cell lung carcinoma (SCLC); histology, demographic, prognosis, treatment
+
+why is hilar lymphadenopathy associated with SCC
