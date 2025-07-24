@@ -449,7 +449,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Respiratory Block.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -468,6 +468,20 @@
                 }
               },
               {
+                "id": "1f289dfcf9ab57c6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04.1.8 - Wrap up of respiratory disease (Pathology).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "04.1.8 - Wrap up of respiratory disease (Pathology)"
+                }
+              },
+              {
                 "id": "afaa07e31a30d9cf",
                 "type": "leaf",
                 "state": {
@@ -481,7 +495,8 @@
                   "title": "MD1.2 Test 1 Formative Review"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "26c017b511df559d",
@@ -545,12 +560,13 @@
   },
   "active": "51ee7bebe0579fcf",
   "lastOpenFiles": [
-    "COPD.md",
+    "04.1.8 - Wrap up of respiratory disease (Pathology).md",
+    "Lung Cancer.md",
     "Respiratory Block.md",
+    "COPD.md",
     "Environmental lung disease.md",
     "Obstructive and Restrictive Lung Diseases.md",
     "MD1.2 Test 1 Formative Review.md",
-    "Lung Cancer.md",
     "System/Templates/Neoplasm Template.md",
     "Tuberculosis.md",
     "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md",
@@ -571,7 +587,6 @@
     "MD1/Key-Concepts/Therapies and Drugs.md",
     "Thomas Wilson.md",
     "MD1/Sem1/Content/Clinical/TBL 1 Dave is feeling dodgy.md",
-    "Study group 2025-06-03.md",
     "Aorta to Circle of Willis.canvas",
     "MD1/Sem2",
     "Untitled 1.canvas",

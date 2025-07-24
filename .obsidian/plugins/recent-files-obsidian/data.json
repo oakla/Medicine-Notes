@@ -5,12 +5,16 @@
       "path": "Lung Cancer.md"
     },
     {
-      "basename": "COPD",
-      "path": "COPD.md"
+      "basename": "04.1.8 - Wrap up of respiratory disease (Pathology)",
+      "path": "04.1.8 - Wrap up of respiratory disease (Pathology).md"
     },
     {
       "basename": "Respiratory Block",
       "path": "Respiratory Block.md"
+    },
+    {
+      "basename": "COPD",
+      "path": "COPD.md"
     },
     {
       "basename": "Environmental lung disease",
@@ -195,10 +199,6 @@
     {
       "basename": "03.4.1 - Environment - air pollution (Population Health)",
       "path": "MD1/Sem2/Course Sessions/03.4.1 - Environment - air pollution (Population Health).md"
-    },
-    {
-      "basename": "02.3 Behavioural Science - Mental Health Workshop",
-      "path": "MD1/Sem2/Course Sessions/02.3 Behavioural Science - Mental Health Workshop.md"
     }
   ],
   "omittedPaths": [],
