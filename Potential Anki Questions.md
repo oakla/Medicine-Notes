@@ -16,3 +16,10 @@ A. 1–5 years
 B. 5–10 years  
 C. 10–20 years  
 D. 20–40 years
+
+
+How to diagnose	Squamous Cell Carcinoma
+
+Macro pathological similarity between SCC and TB
+
+What are the most common types of Neuroendocrine lung tumour
