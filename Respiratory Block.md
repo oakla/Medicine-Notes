@@ -91,6 +91,7 @@ To understand the entities on the previous slides you need to review and underst
 - how does α₁-antitrypsin protect lungs?
 - When a person with asthma is exposed to an allergen (e.g. dust mites or pollen), what type of antibody is typically involved in the reaction?
 - What kind of cell does IgE bind to — triggering the release of histamine and other inflammatory mediators during an asthma attack?
+
 ## Overlapping
 - Bronchial tree
 

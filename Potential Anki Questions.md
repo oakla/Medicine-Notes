@@ -1,0 +1,14 @@
+
+
+Which of the following occupational exposures is most strongly associated with **hypersensitivity pneumonitis**?
+
+A. Coal dust  
+B. Organic dusts from mouldy hay or bird droppings  
+C. Asbestos  
+D. Silica dust
+
+What is the **latency period** between asbestos exposure and the development of **malignant mesothelioma**?  
+A. 1–5 years  
+B. 5–10 years  
+C. 10–20 years  
+D. 20–40 years

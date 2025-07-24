@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Potential Anki Questions",
+      "path": "Potential Anki Questions.md"
+    },
+    {
       "basename": "Respiratory Block",
       "path": "Respiratory Block.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "W19.4.3-Peripheral vascular disease - clinical aspects",
       "path": "MD1/Sem1/Content/W19.4.3-Peripheral vascular disease - clinical aspects.md"
-    },
-    {
-      "basename": "Resources 2025-03-03",
-      "path": "MD1/resources/Resources 2025-03-03.md"
     }
   ],
   "omittedPaths": [],
