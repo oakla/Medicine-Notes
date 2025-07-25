@@ -164,14 +164,3 @@ tags:
 * **Croup**: barking cough, stridor (parainfluenza)
 * **Otitis media/externa**: common in children; treat if severe or Indigenous child
 * **Sinusitis**: mostly viral; treat bacterial cases with amoxicillin
-
----
-
-Let me know if you'd like:
-
-* Anki flashcards
-* A multiple-choice quiz
-* A version formatted for Obsidian
-* A visual concept map of pathogens or pathologies
-
-Or anything else to support your study.
