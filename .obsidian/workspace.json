@@ -390,20 +390,20 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 602,
-        "height": 752,
+        "x": -1280,
+        "y": -402,
+        "width": 661,
+        "height": 753,
         "maximize": false,
-        "zoom": 0
+        "zoom": -0.5
       }
     ]
   },
-  "active": "94fe124bbe4f57fe",
+  "active": "ceb4de99e70b8e60",
   "lastOpenFiles": [
     "05.3.3 Absorption (Physiology).md",
     "05.3.2 Digestion (Physiology).md",
