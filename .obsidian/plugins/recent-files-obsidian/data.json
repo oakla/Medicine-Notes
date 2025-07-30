@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "05.3.2 Digestion (Physiology)",
+      "path": "05.3.2 Digestion (Physiology).md"
+    },
+    {
+      "basename": "05.3.3 Absorption (Physiology)",
+      "path": "05.3.3 Absorption (Physiology).md"
+    },
+    {
+      "basename": "lecture (template)",
+      "path": "System/Templates/lecture (template).md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
+    },
+    {
+      "basename": "Respiratory Block Summary",
+      "path": "Respiratory Block Summary.md"
+    },
+    {
+      "basename": "GIT Block (MD1.2)",
+      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
+    },
+    {
+      "basename": "Environmental lung disease",
+      "path": "Environmental lung disease.md"
+    },
+    {
+      "basename": "Respiratory Block",
+      "path": "Respiratory Block.md"
+    },
+    {
+      "basename": "COPD",
+      "path": "COPD.md"
+    },
+    {
       "basename": "Obstructive vs Restrictive Lung Disease (Clipping)",
       "path": "Obstructive vs Restrictive Lung Disease (Clipping).md"
     },
@@ -37,10 +73,6 @@
       "path": "MD1/Sem2/Course Sessions/01.1.6 - Respiratory Anatomy and Histology (Anatomy).md"
     },
     {
-      "basename": "Respiratory Block",
-      "path": "Respiratory Block.md"
-    },
-    {
       "basename": "Potential Anki Questions",
       "path": "Potential Anki Questions.md"
     },
@@ -53,24 +85,12 @@
       "path": "Lung Cancer.md"
     },
     {
-      "basename": "Respiratory Block Summary",
-      "path": "Respiratory Block Summary.md"
-    },
-    {
       "basename": "Obstructive and Restrictive Lung Diseases",
       "path": "Obstructive and Restrictive Lung Diseases.md"
     },
     {
-      "basename": "Environmental lung disease",
-      "path": "Environmental lung disease.md"
-    },
-    {
       "basename": "01.1.4 - Ventilation & lung volumes (Physiology)",
       "path": "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md"
-    },
-    {
-      "basename": "COPD",
-      "path": "COPD.md"
     },
     {
       "basename": "Neoplasm Template",
@@ -87,10 +107,6 @@
     {
       "basename": "02.4.4 - IgE Hypersensitivities (Immunology)",
       "path": "02.4.4 - IgE Hypersensitivities (Immunology).md"
-    },
-    {
-      "basename": "lecture (template)",
-      "path": "System/Templates/lecture (template).md"
     },
     {
       "basename": "Asthma",
@@ -183,22 +199,6 @@
     {
       "basename": "Glucose-6-Phosphate-Dehydrogenase",
       "path": "Glucose-6-Phosphate-Dehydrogenase.md"
-    },
-    {
-      "basename": "Cisplatin",
-      "path": "Cisplatin.md"
-    },
-    {
-      "basename": "C-reactive protein",
-      "path": "C-reactive protein.md"
-    },
-    {
-      "basename": "Aboriginal health",
-      "path": "Aboriginal health.md"
-    },
-    {
-      "basename": "W19.4.3-Peripheral vascular disease - clinical aspects",
-      "path": "MD1/Sem1/Content/W19.4.3-Peripheral vascular disease - clinical aspects.md"
     }
   ],
   "omittedPaths": [],
