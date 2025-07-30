@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Respiratory Block Summary",
-      "path": "Respiratory Block Summary.md"
+      "basename": "05.1.3 Abdominal wall (Anatomy)",
+      "path": "05.1.3 Abdominal wall (Anatomy).md"
     },
     {
       "basename": "05.3.3 Absorption (Physiology)",
       "path": "05.3.3 Absorption (Physiology).md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
+    },
+    {
+      "basename": "Respiratory Block Summary",
+      "path": "Respiratory Block Summary.md"
     },
     {
       "basename": "05.3.2 Digestion (Physiology)",
@@ -15,10 +23,6 @@
     {
       "basename": "lecture (template)",
       "path": "System/Templates/lecture (template).md"
-    },
-    {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
     },
     {
       "basename": "GIT Block (MD1.2)",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 1",
       "path": "Untitled 1.canvas"
-    },
-    {
-      "basename": "Glucose-6-Phosphate-Dehydrogenase",
-      "path": "Glucose-6-Phosphate-Dehydrogenase.md"
     }
   ],
   "omittedPaths": [],
