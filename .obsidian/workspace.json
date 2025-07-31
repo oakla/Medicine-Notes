@@ -403,8 +403,7 @@
                   "title": "lecture (template)"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -417,11 +416,11 @@
       }
     ]
   },
-  "active": "1b3cd7eec6bf8d9d",
+  "active": "082c1e836cb21f7d",
   "lastOpenFiles": [
+    "05.1.3 Abdominal wall (Anatomy).md",
     "05.3.3 Absorption (Physiology).md",
     "MD1.2.md",
-    "05.1.3 Abdominal wall (Anatomy).md",
     "Respiratory Block Summary.md",
     "05.3.2 Digestion (Physiology).md",
     "System/Templates/lecture (template).md",
