@@ -28,4 +28,18 @@ tags:
 - [[05.3.1 Nausea and Vomiting (Pharmacology)]]
 - [[05.3.2 Digestion (Physiology)]]
 - [[05.3.3 Absorption (Physiology)]]
+- [[05.4.2 Overview of GIT pathology (Pathology)]]
+- [[05.5.2 Skills - CVS & Resp Examination: Simulated Patients Groups 1-10 (Clinical)]]
 
+## Week 6
+- [[06.1.2 GIT Blood and Nerve Supply (Anatomy)]]
+- [[06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy)]]
+- [[06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health)]]
+- [[06.1.8 Obesity (Pharmacology)]]
+- [[06.2.2 Abdominal cavity (Anatomy)]]
+- [[06.3.2 Oesophagus (Pathology)]]
+- [[06.3.3 Small bowel disease (Pathology)]]
+- [[06.3.4 Stomach (Pathology)]]
+- [[06.4.2 Seminar - Overview of the Gastrointestinal History with an upper GI focus (Clinical)]]
+- [[06.4.4 Over and undernutrition (Population Health)]]
+- [[06.5.0 Drugs in PUD and GORD (Pharmacology)]]
