@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "06.1.2 GIT Blood and Nerve Supply (Anatomy)",
-      "path": "06.1.2 GIT Blood and Nerve Supply (Anatomy).md"
+      "basename": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health)",
+      "path": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health).md"
     },
     {
       "basename": "MD1.2",
       "path": "MD1.2.md"
+    },
+    {
+      "basename": "lecture (template)",
+      "path": "System/Templates/lecture (template).md"
+    },
+    {
+      "basename": "06.1.2 GIT Blood and Nerve Supply (Anatomy)",
+      "path": "06.1.2 GIT Blood and Nerve Supply (Anatomy).md"
     },
     {
       "basename": "05.1.4 Histological Patterns of the GIT (Anatomy)",
@@ -31,10 +39,6 @@
     {
       "basename": "05.3.2 Digestion (Physiology)",
       "path": "05.3.2 Digestion (Physiology).md"
-    },
-    {
-      "basename": "lecture (template)",
-      "path": "System/Templates/lecture (template).md"
     },
     {
       "basename": "GIT Block (MD1.2)",
@@ -195,10 +199,6 @@
     {
       "basename": "Somatopleure",
       "path": "MD1/Key-Concepts/Somatopleure.md"
-    },
-    {
-      "basename": "Splanchnopleure",
-      "path": "MD1/Key-Concepts/Splanchnopleure.md"
     }
   ],
   "omittedPaths": [],

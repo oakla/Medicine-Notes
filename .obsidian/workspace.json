@@ -330,153 +330,165 @@
         "type": "window",
         "children": [
           {
-            "id": "7fad0b6f722573fb",
-            "type": "split",
+            "id": "0f4ad45d84dbf58a",
+            "type": "tabs",
             "children": [
               {
-                "id": "0f4ad45d84dbf58a",
-                "type": "tabs",
-                "dimension": 37.589928057553955,
-                "children": [
-                  {
-                    "id": "082c1e836cb21f7d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "MD1.2.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "MD1.2"
-                    }
+                "id": "816631a89eca11d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD1.2.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  {
-                    "id": "4ac25f57c5a9e206",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "06.1.2 GIT Blood and Nerve Supply (Anatomy).md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "06.1.2 GIT Blood and Nerve Supply (Anatomy)"
-                    }
-                  },
-                  {
-                    "id": "1b3cd7eec6bf8d9d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "05.1.3 Abdominal wall (Anatomy).md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "05.1.3 Abdominal wall (Anatomy)"
-                    }
-                  },
-                  {
-                    "id": "a6efc34c3c1fc972",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "05.1.4 Histological Patterns of the GIT (Anatomy).md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "05.1.4 Histological Patterns of the GIT (Anatomy)"
-                    }
-                  },
-                  {
-                    "id": "94fe124bbe4f57fe",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "05.3.2 Digestion (Physiology).md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "05.3.2 Digestion (Physiology)"
-                    }
-                  },
-                  {
-                    "id": "b85d06560d1ee9c9",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "05.3.3 Absorption (Physiology).md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "05.3.3 Absorption (Physiology)"
-                    }
-                  },
-                  {
-                    "id": "30dcf9fadffe5bb6",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "System/Templates/lecture (template).md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "lecture (template)"
-                    }
-                  }
-                ],
-                "currentTab": 1
+                  "icon": "lucide-file",
+                  "title": "MD1.2"
+                }
               },
               {
-                "id": "8a7d97a0eb06b3c6",
-                "type": "tabs",
-                "dimension": 62.410071942446045,
-                "children": [
-                  {
-                    "id": "3a0e77acff6a0d26",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "05.1.3 Abdominal wall (Anatomy).md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "05.1.3 Abdominal wall (Anatomy)"
-                    }
+                "id": "082c1e836cb21f7d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health).md",
+                    "mode": "source",
+                    "source": false
                   },
-                  {
-                    "id": "fbe1f5679ccaef75",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "05.1.4 Histological Patterns of the GIT (Anatomy).md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "05.1.4 Histological Patterns of the GIT (Anatomy)"
-                    }
-                  }
-                ],
-                "currentTab": 1
+                  "icon": "lucide-file",
+                  "title": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health)"
+                }
+              },
+              {
+                "id": "5d77db17a65aa6ec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health)"
+                }
+              },
+              {
+                "id": "55ca237ebdb2a592",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health)"
+                }
+              },
+              {
+                "id": "76e5aec51b0391ae",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health)"
+                }
+              },
+              {
+                "id": "4ac25f57c5a9e206",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "06.1.2 GIT Blood and Nerve Supply (Anatomy).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "06.1.2 GIT Blood and Nerve Supply (Anatomy)"
+                }
+              },
+              {
+                "id": "1b3cd7eec6bf8d9d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05.1.3 Abdominal wall (Anatomy).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.1.3 Abdominal wall (Anatomy)"
+                }
+              },
+              {
+                "id": "a6efc34c3c1fc972",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05.1.4 Histological Patterns of the GIT (Anatomy).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.1.4 Histological Patterns of the GIT (Anatomy)"
+                }
+              },
+              {
+                "id": "94fe124bbe4f57fe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05.3.2 Digestion (Physiology).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.3.2 Digestion (Physiology)"
+                }
+              },
+              {
+                "id": "b85d06560d1ee9c9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05.3.3 Absorption (Physiology).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.3.3 Absorption (Physiology)"
+                }
+              },
+              {
+                "id": "30dcf9fadffe5bb6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "System/Templates/lecture (template).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lecture (template)"
+                }
               }
             ],
-            "direction": "horizontal"
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -489,9 +501,11 @@
       }
     ]
   },
-  "active": "4ac25f57c5a9e206",
+  "active": "082c1e836cb21f7d",
   "lastOpenFiles": [
     "MD1.2.md",
+    "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health).md",
+    "System/Templates/lecture (template).md",
     "06.1.2 GIT Blood and Nerve Supply (Anatomy).md",
     "05.1.4 Histological Patterns of the GIT (Anatomy).md",
     "COPD.md",
@@ -499,7 +513,6 @@
     "Respiratory Block Summary.md",
     "05.3.3 Absorption (Physiology).md",
     "05.3.2 Digestion (Physiology).md",
-    "System/Templates/lecture (template).md",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
     "Environmental lung disease.md",
     "MD1/Sem2/System Blocks",
@@ -517,7 +530,6 @@
     "04.1.8 - Wrap up of respiratory disease (Pathology).md",
     "Lung Cancer.md",
     "Obstructive and Restrictive Lung Diseases.md",
-    "MD1/Sem2/Course Sessions/01.1.4 - Ventilation & lung volumes (Physiology).md",
     "MD1/Sem2/Course Sessions",
     "Aorta to Circle of Willis.canvas",
     "MD1/Sem2",
