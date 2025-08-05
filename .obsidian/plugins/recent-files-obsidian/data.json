@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health)",
-      "path": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health).md"
-    },
-    {
-      "basename": "05.1.3 Abdominal wall (Anatomy)",
-      "path": "05.1.3 Abdominal wall (Anatomy).md"
+      "basename": "06.1.8 Obesity (Pharmacology)",
+      "path": "06.1.8 Obesity (Pharmacology).md"
     },
     {
       "basename": "MD1.2",
       "path": "MD1.2.md"
+    },
+    {
+      "basename": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health)",
+      "path": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health).md"
+    },
+    {
+      "basename": "COPD",
+      "path": "COPD.md"
+    },
+    {
+      "basename": "05.1.3 Abdominal wall (Anatomy)",
+      "path": "05.1.3 Abdominal wall (Anatomy).md"
     },
     {
       "basename": "lecture (template)",
@@ -23,10 +31,6 @@
     {
       "basename": "05.1.4 Histological Patterns of the GIT (Anatomy)",
       "path": "05.1.4 Histological Patterns of the GIT (Anatomy).md"
-    },
-    {
-      "basename": "COPD",
-      "path": "COPD.md"
     },
     {
       "basename": "Respiratory Block Summary",
@@ -195,10 +199,6 @@
     {
       "basename": "Recommended Readings",
       "path": "Recommended Readings.md"
-    },
-    {
-      "basename": "Somatopleure",
-      "path": "MD1/Key-Concepts/Somatopleure.md"
     }
   ],
   "omittedPaths": [],
