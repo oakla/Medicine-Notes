@@ -501,8 +501,7 @@
                   "title": "06.3.2 Oesophagus (Pathology)"
                 }
               }
-            ],
-            "currentTab": 10
+            ]
           }
         ],
         "direction": "vertical",
@@ -515,10 +514,10 @@
       }
     ]
   },
-  "active": "5f3988bd911c2a67",
+  "active": "816631a89eca11d9",
   "lastOpenFiles": [
-    "COPD.md",
     "06.3.2 Oesophagus (Pathology).md",
+    "COPD.md",
     "MD1.2.md",
     "06.1.8 Obesity (Pharmacology).md",
     "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health).md",
