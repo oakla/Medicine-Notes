@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
-    },
-    {
-      "basename": "COPD",
-      "path": "COPD.md"
-    },
-    {
       "basename": "06.3.2 Oesophagus (Pathology)",
       "path": "06.3.2 Oesophagus (Pathology).md"
     },
@@ -21,32 +13,44 @@
       "path": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health).md"
     },
     {
-      "basename": "05.1.3 Abdominal wall (Anatomy)",
-      "path": "05.1.3 Abdominal wall (Anatomy).md"
+      "basename": "06.3.3 Small bowel disease (Pathology)",
+      "path": "06.3.3 Small bowel disease (Pathology).md"
     },
     {
-      "basename": "lecture (template)",
-      "path": "System/Templates/lecture (template).md"
-    },
-    {
-      "basename": "06.1.2 GIT Blood and Nerve Supply (Anatomy)",
-      "path": "06.1.2 GIT Blood and Nerve Supply (Anatomy).md"
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
     },
     {
       "basename": "05.1.4 Histological Patterns of the GIT (Anatomy)",
       "path": "05.1.4 Histological Patterns of the GIT (Anatomy).md"
     },
     {
-      "basename": "Respiratory Block Summary",
-      "path": "Respiratory Block Summary.md"
+      "basename": "05.3.2 Digestion (Physiology)",
+      "path": "05.3.2 Digestion (Physiology).md"
     },
     {
       "basename": "05.3.3 Absorption (Physiology)",
       "path": "05.3.3 Absorption (Physiology).md"
     },
     {
-      "basename": "05.3.2 Digestion (Physiology)",
-      "path": "05.3.2 Digestion (Physiology).md"
+      "basename": "lecture (template)",
+      "path": "System/Templates/lecture (template).md"
+    },
+    {
+      "basename": "COPD",
+      "path": "COPD.md"
+    },
+    {
+      "basename": "05.1.3 Abdominal wall (Anatomy)",
+      "path": "05.1.3 Abdominal wall (Anatomy).md"
+    },
+    {
+      "basename": "06.1.2 GIT Blood and Nerve Supply (Anatomy)",
+      "path": "06.1.2 GIT Blood and Nerve Supply (Anatomy).md"
+    },
+    {
+      "basename": "Respiratory Block Summary",
+      "path": "Respiratory Block Summary.md"
     },
     {
       "basename": "GIT Block (MD1.2)",
@@ -195,10 +199,6 @@
     {
       "basename": "Rheumatic Fever",
       "path": "MD1/Key-Concepts/Rheumatic Fever.md"
-    },
-    {
-      "basename": "Polycythaemia Vera",
-      "path": "Polycythaemia Vera.md"
     }
   ],
   "omittedPaths": [],
