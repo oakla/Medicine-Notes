@@ -108,5 +108,23 @@
       "key": "L"
     }
   ],
-  "table-editor-obsidian:table-control-bar": []
+  "table-editor-obsidian:table-control-bar": [],
+  "editor:add-cursor-above": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:add-cursor-below": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ]
 }

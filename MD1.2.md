@@ -16,7 +16,7 @@ tags:
 
 
 ## Weeks 5-12
-- GIT and Renal system blocks
+- [[GIT Block (MD1.2)|GIT]] and Renal system blocks
 - content cover by test 2
 ### Week 5
 - [[05.1.3 Abdominal wall (Anatomy)]]
