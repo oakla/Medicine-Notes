@@ -14,9 +14,9 @@ tags:
 
 | Condition           | Importance (e.g. nSlides) |
 | ------------------- | ------------------------- |
-| [[Coeliac Disease]] |                           |
+| [[Coeliac Disease]] | 10                        |
 
+## Relevant Drugs
 
-
-
+- NS
 

@@ -432,23 +432,23 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 6
           }
         ],
         "direction": "vertical",
-        "x": 7,
-        "y": 0,
-        "width": 596,
-        "height": 752,
+        "x": 39,
+        "y": 17,
+        "width": 807,
+        "height": 980,
         "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "52c4bf4d542e20c8",
+  "active": "e36f415e8f5f84ba",
   "lastOpenFiles": [
-    "06.3.3 Small bowel disease (Pathology).md",
     "06.4.4 Over and undernutrition (Population Health).md",
+    "06.3.3 Small bowel disease (Pathology).md",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
     "COPD.md",
     "MD1.2.md",
