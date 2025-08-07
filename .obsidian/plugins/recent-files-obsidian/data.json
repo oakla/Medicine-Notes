@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "06.4.2 Seminar - Overview of the Gastrointestinal History with an upper GI focus (Clinical)",
-      "path": "06.4.2 Seminar - Overview of the Gastrointestinal History with an upper GI focus (Clinical).md"
+      "basename": "06.4.4 Over and undernutrition (Population Health)",
+      "path": "06.4.4 Over and undernutrition (Population Health).md"
+    },
+    {
+      "basename": "06.3.4 Stomach (Pathology)",
+      "path": "06.3.4 Stomach (Pathology).md"
+    },
+    {
+      "basename": "06.1.2 GIT Blood and Nerve Supply (Anatomy)",
+      "path": "06.1.2 GIT Blood and Nerve Supply (Anatomy).md"
     },
     {
       "basename": "MD1.2",
@@ -11,6 +19,14 @@
     {
       "basename": "05.1.4 Histological Patterns of the GIT (Anatomy)",
       "path": "05.1.4 Histological Patterns of the GIT (Anatomy).md"
+    },
+    {
+      "basename": "06.4.2 Seminar - Overview of the Gastrointestinal History with an upper GI focus (Clinical)",
+      "path": "06.4.2 Seminar - Overview of the Gastrointestinal History with an upper GI focus (Clinical).md"
+    },
+    {
+      "basename": "COPD",
+      "path": "COPD.md"
     },
     {
       "basename": "06.1.8 Obesity (Pharmacology)",
@@ -41,16 +57,8 @@
       "path": "System/Templates/lecture (template).md"
     },
     {
-      "basename": "COPD",
-      "path": "COPD.md"
-    },
-    {
       "basename": "05.1.3 Abdominal wall (Anatomy)",
       "path": "05.1.3 Abdominal wall (Anatomy).md"
-    },
-    {
-      "basename": "06.1.2 GIT Blood and Nerve Supply (Anatomy)",
-      "path": "06.1.2 GIT Blood and Nerve Supply (Anatomy).md"
     },
     {
       "basename": "Respiratory Block Summary",
@@ -191,14 +199,6 @@
     {
       "basename": "001-Vault Guide",
       "path": "001-Vault Guide.md"
-    },
-    {
-      "basename": "03.4.3 - Oxygen (Pharmacology)",
-      "path": "MD1/Sem2/Course Sessions/03.4.3 - Oxygen (Pharmacology).md"
-    },
-    {
-      "basename": "Pharmacokinetics I – An Introduction to Drug Absorption & Distribution",
-      "path": "MD1/Sem1/Content/Pharmacology/Pharmacokinetics I – An Introduction to Drug Absorption & Distribution.md"
     }
   ],
   "omittedPaths": [],
