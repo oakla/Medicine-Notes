@@ -9,6 +9,14 @@
       "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
     },
     {
+      "basename": "GIT Mind Map",
+      "path": "GIT Mind Map.canvas"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "06.4.4 Over and undernutrition (Population Health)",
       "path": "06.4.4 Over and undernutrition (Population Health).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "T Cells",
       "path": "MD1/Key-Concepts/T Cells.md"
-    },
-    {
-      "basename": "Aorta to Circle of Willis",
-      "path": "Aorta to Circle of Willis.canvas"
-    },
-    {
-      "basename": "001-Vault Guide",
-      "path": "001-Vault Guide.md"
     }
   ],
   "omittedPaths": [],

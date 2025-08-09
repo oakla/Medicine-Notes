@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"21ea041d5cfc2743","x":-180,"y":-240,"width":250,"height":60,"type":"text","text":"NSAIDs"},
+		{"id":"1f363ae6622ba950","x":-253,"y":-137,"width":250,"height":60,"type":"text","text":"COX-1"}
+	],
+	"edges":[]
+}

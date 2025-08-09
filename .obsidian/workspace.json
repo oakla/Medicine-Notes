@@ -88,8 +88,7 @@
               "title": "05.3.2 Digestion (Physiology)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "32af8074b6725b52",
@@ -123,8 +122,26 @@
               "icon": "lucide-file",
               "title": "Obstructive vs Restrictive Lung Disease (Clipping)"
             }
+          },
+          {
+            "id": "9f9d1727fd58385c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "GIT Mind Map.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "GIT Mind Map"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -436,8 +453,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 2567,
-        "y": -158,
+        "x": 4273,
+        "y": -159,
         "width": 1024,
         "height": 752,
         "maximize": false,
@@ -448,8 +465,10 @@
   "active": "c69924cc043f2bed",
   "lastOpenFiles": [
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
-    "06.4.4 Over and undernutrition (Population Health).md",
+    "GIT Mind Map.canvas",
+    "Untitled.md",
     "06.3.3 Small bowel disease (Pathology).md",
+    "06.4.4 Over and undernutrition (Population Health).md",
     "COPD.md",
     "MD1.2.md",
     "05.1.4 Histological Patterns of the GIT (Anatomy).md",
@@ -472,8 +491,6 @@
     "Chronic Lung Disease Study Guide.md",
     "Respiratory Infections Study Guide.md",
     "MD1/Sem2/Course Sessions/01.4.3 - Obstructive disease (Pathology).md",
-    "MD1.2 Test 1 Formative Review.md",
-    "Interstitial Lung Disease.md",
     "MD1/Sem2/Course Sessions",
     "Aorta to Circle of Willis.canvas",
     "MD1/Sem2",

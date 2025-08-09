@@ -3,7 +3,8 @@ aliases: [GIT Block (MD1.2)]
 tags: 
 ---
 
-
+## Navigation
+- [[GIT Mind Map.canvas|GIT Mind Map]]
 
 ## Investigation
 
@@ -18,5 +19,5 @@ tags:
 
 ## Relevant Drugs
 
-- NS
+- NSAIDs 
 
