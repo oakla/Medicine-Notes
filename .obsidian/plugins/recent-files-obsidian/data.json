@@ -9,6 +9,10 @@
       "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
     },
     {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
+    },
+    {
       "basename": "06.3.3 Small bowel disease (Pathology)",
       "path": "06.3.3 Small bowel disease (Pathology).md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "COPD",
       "path": "COPD.md"
-    },
-    {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
     },
     {
       "basename": "05.1.4 Histological Patterns of the GIT (Anatomy)",
