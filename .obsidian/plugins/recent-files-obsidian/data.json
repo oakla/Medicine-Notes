@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
+      "basename": "The Gut Tube",
+      "path": "The Gut Tube.md"
     },
     {
       "basename": "GIT Mind Map",
@@ -11,6 +11,10 @@
     {
       "basename": "GIT Block (MD1.2)",
       "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
     },
     {
       "basename": "06.3.3 Small bowel disease (Pathology)",
@@ -195,10 +199,6 @@
     {
       "basename": "Physiology",
       "path": "Physiology.md"
-    },
-    {
-      "basename": "T Cells",
-      "path": "MD1/Key-Concepts/T Cells.md"
     }
   ],
   "omittedPaths": [],
