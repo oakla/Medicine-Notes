@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "The Gut Tube",
-      "path": "The Gut Tube.md"
+      "basename": "Etymology (GI)",
+      "path": "Etymology (GI).md"
+    },
+    {
+      "basename": "Respiratory Block",
+      "path": "Respiratory Block.md"
+    },
+    {
+      "basename": "GIT Block (MD1.2)",
+      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
     },
     {
       "basename": "GIT Mind Map",
       "path": "GIT Mind Map.canvas"
     },
     {
-      "basename": "GIT Block (MD1.2)",
-      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
+      "basename": "The Gut Tube",
+      "path": "The Gut Tube.md"
     },
     {
       "basename": "MD1.2",
@@ -83,10 +91,6 @@
     {
       "basename": "Environmental lung disease",
       "path": "Environmental lung disease.md"
-    },
-    {
-      "basename": "Respiratory Block",
-      "path": "Respiratory Block.md"
     },
     {
       "basename": "Obstructive vs Restrictive Lung Disease (Clipping)",
@@ -195,10 +199,6 @@
     {
       "basename": "Study group 2025-06-03",
       "path": "Study group 2025-06-03.md"
-    },
-    {
-      "basename": "Physiology",
-      "path": "Physiology.md"
     }
   ],
   "omittedPaths": [],
