@@ -4,9 +4,9 @@ tags:
   - Class/Permanent-Note/Etymology
 ---
 
-| Root    | Meaning                            | Examples |
-| ------- | ---------------------------------- | -------- |
-| duodeni | Twelves (as in 12 finger breadths) | Duodenum |
-| Jejunus | Empty, hungry                      | Jegunum  |
-|         |                                    |          |
+| Root    | Meaning                            | Examples                       |
+| ------- | ---------------------------------- | ------------------------------ |
+| duodeni | Twelves (as in 12 finger breadths) | Duodenum                       |
+| Jejunus | Empty, hungry                      | Jegunum                        |
+| Pylorus | Gate Keeper                        | Pyloric Antrum/Canal/Sphincter |
 

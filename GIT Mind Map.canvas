@@ -1,20 +1,29 @@
 {
 	"nodes":[
-		{"id":"62fc38e68be3f531","x":140,"y":-540,"width":400,"height":680,"type":"group","label":"Food Passage"},
-		{"id":"447f7f7e192b643c","x":169,"y":-300,"width":290,"height":371,"type":"group","label":"Tubular Gut"},
+		{"id":"343a22624dc1d409","x":620,"y":-520,"width":520,"height":560,"type":"group","label":"Stomach"},
+		{"id":"62fc38e68be3f531","type":"group","x":140,"y":-540,"width":400,"height":680,"label":"Food Passage"},
+		{"id":"447f7f7e192b643c","type":"group","x":169,"y":-300,"width":290,"height":371,"label":"Tubular Gut"},
+		{"id":"d534d258a2fce1ff","x":665,"y":-323,"width":355,"height":263,"type":"group","label":"Functions"},
 		{"id":"21ea041d5cfc2743","type":"text","text":"NSAIDs","x":-180,"y":-240,"width":250,"height":60},
 		{"id":"1f363ae6622ba950","type":"text","text":"COX-1","x":-253,"y":-137,"width":250,"height":60},
-		{"id":"eacf198b3672c754","x":189,"y":-229,"width":120,"height":60,"type":"text","text":"Stomach"},
-		{"id":"ea0fb7b71eee6ff9","x":189,"y":-169,"width":240,"height":80,"type":"text","text":"Small Intestine (Duodenum => Jejunum => Ileum)"},
-		{"id":"c18721d83933c80f","x":189,"y":-89,"width":250,"height":80,"type":"text","text":"Large Intestine (Caecum/Appendix/Colon/Rectum)"},
-		{"id":"db00c77bba7b6a58","x":189,"y":-9,"width":100,"height":60,"type":"text","text":"Anus"},
-		{"id":"4a19b2f61272d78c","x":189,"y":-289,"width":144,"height":60,"type":"text","text":"Oesophagus"},
-		{"id":"0e1fb9d2ac8b21f0","x":160,"y":-500,"width":250,"height":56,"type":"text","text":"Mouth"},
-		{"id":"7c41e1ed9342b99c","x":160,"y":-440,"width":250,"height":60,"type":"text","text":"Oropharynx"},
-		{"id":"4befd1b215c3fed3","x":-206,"y":-504,"width":250,"height":60,"type":"text","text":"Salivary Glands"}
+		{"id":"eacf198b3672c754","type":"text","text":"Stomach","x":189,"y":-229,"width":120,"height":60},
+		{"id":"ea0fb7b71eee6ff9","type":"text","text":"Small Intestine (Duodenum => Jejunum => Ileum)","x":189,"y":-169,"width":240,"height":80},
+		{"id":"4a19b2f61272d78c","type":"text","text":"Oesophagus","x":189,"y":-289,"width":144,"height":60},
+		{"id":"0e1fb9d2ac8b21f0","type":"text","text":"Mouth","x":160,"y":-500,"width":250,"height":56},
+		{"id":"7c41e1ed9342b99c","type":"text","text":"Oropharynx","x":160,"y":-440,"width":250,"height":60},
+		{"id":"4befd1b215c3fed3","type":"text","text":"Salivary Glands","x":-160,"y":-504,"width":204,"height":60},
+		{"id":"c18721d83933c80f","type":"text","text":"Large Intestine (Caecum/Appendix/Colon/Rectum)","x":189,"y":-89,"width":250,"height":80},
+		{"id":"db00c77bba7b6a58","type":"text","text":"Anus","x":189,"y":-9,"width":100,"height":60},
+		{"id":"9744bc8b08fd8a2b","x":667,"y":-469,"width":170,"height":76,"type":"text","text":""},
+		{"id":"7a25e84cf4004e78","x":681,"y":-307,"width":119,"height":50,"type":"text","text":"Storage\n"},
+		{"id":"275dfe90aacdb0fc","x":680,"y":-253,"width":145,"height":60,"type":"text","text":"Digestion"},
+		{"id":"ad1af78944409ee9","x":720,"y":-188,"width":108,"height":50,"type":"text","text":"Control"},
+		{"id":"54b7f1c72f9e8696","x":740,"y":-140,"width":139,"height":50,"type":"text","text":"Absorption"},
+		{"id":"05a1ca834a98a5ee","x":840,"y":-240,"width":136,"height":50,"type":"text","text":"Protection"}
 	],
 	"edges":[
 		{"id":"97668ac9e38a7d8b","fromNode":"7c41e1ed9342b99c","fromSide":"bottom","toNode":"447f7f7e192b643c","toSide":"top"},
-		{"id":"4da5f5a604849f31","fromNode":"4befd1b215c3fed3","fromSide":"right","toNode":"0e1fb9d2ac8b21f0","toSide":"left"}
+		{"id":"4da5f5a604849f31","fromNode":"4befd1b215c3fed3","fromSide":"right","toNode":"0e1fb9d2ac8b21f0","toSide":"left"},
+		{"id":"4166a4cc82420aaa","fromNode":"eacf198b3672c754","fromSide":"right","toNode":"343a22624dc1d409","toSide":"left"}
 	]
 }

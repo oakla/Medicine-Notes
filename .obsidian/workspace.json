@@ -6,7 +6,7 @@
       {
         "id": "7e6bba9f5c93b32a",
         "type": "tabs",
-        "dimension": 56.434782608695656,
+        "dimension": 45.28535980148883,
         "children": [
           {
             "id": "9b5af8b6e4a4de33",
@@ -108,7 +108,7 @@
       {
         "id": "32af8074b6725b52",
         "type": "tabs",
-        "dimension": 43.56521739130435,
+        "dimension": 54.71464019851117,
         "children": [
           {
             "id": "ceb4de99e70b8e60",
@@ -146,9 +146,9 @@
               "state": {
                 "file": "GIT Mind Map.canvas",
                 "viewState": {
-                  "x": 143.5,
-                  "y": 48.08532110091744,
-                  "zoom": -1.4155337539558308
+                  "x": 515.2857889810771,
+                  "y": -259.5,
+                  "zoom": -0.6666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -499,19 +499,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 2562,
-        "y": -158,
-        "width": 849,
-        "height": 753,
+        "x": 2,
+        "y": 0,
+        "width": 848,
+        "height": 752,
         "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "926f38b9c27eb6b8",
+  "active": "9f9d1727fd58385c",
   "lastOpenFiles": [
-    "Respiratory Block.md",
     "Etymology (GI).md",
+    "Respiratory Block.md",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
     "GIT Mind Map.canvas",
     "The Gut Tube.md",
