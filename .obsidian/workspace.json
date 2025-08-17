@@ -403,7 +403,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -416,10 +416,10 @@
       }
     ]
   },
-  "active": "581703fa6273c24d",
+  "active": "650c0596e97216e9",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "05.1.6 GIT coordination (Physiology).md",
+    "Untitled 1.md",
     "MD1.2.md",
     "05.1.7 Gastric Secretion (Physiology).md",
     "05.1.4 Histological Patterns of the GIT (Anatomy).md",
