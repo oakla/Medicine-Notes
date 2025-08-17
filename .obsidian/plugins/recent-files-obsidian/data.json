@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "GIT Block (MD1.2)",
-      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
+      "basename": "05.1.6 GIT coordination (Physiology)",
+      "path": "05.1.6 GIT coordination (Physiology).md"
     },
     {
       "basename": "MD1.2",
@@ -11,6 +11,10 @@
     {
       "basename": "05.1.4 Histological Patterns of the GIT (Anatomy)",
       "path": "05.1.4 Histological Patterns of the GIT (Anatomy).md"
+    },
+    {
+      "basename": "GIT Block (MD1.2)",
+      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
     },
     {
       "basename": "05.3.3 Absorption (Physiology)",
@@ -191,14 +195,6 @@
     {
       "basename": "Thomas Wilson",
       "path": "Thomas Wilson.md"
-    },
-    {
-      "basename": "TBL 1 Dave is feeling dodgy",
-      "path": "MD1/Sem1/Content/Clinical/TBL 1 Dave is feeling dodgy.md"
-    },
-    {
-      "basename": "Study group 2025-06-03",
-      "path": "Study group 2025-06-03.md"
     }
   ],
   "omittedPaths": [],
