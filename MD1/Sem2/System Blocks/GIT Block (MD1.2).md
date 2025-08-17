@@ -8,6 +8,11 @@ tags:
 - [[The Gut Tube]]
 - [[Etymology (GI)]]
 
+## Random thoughs (to file somewhere later)
+- upper oesophagus and anus have similarities not shared with rest of gut tube
+	- stratified squamous epithelium
+	- skeletal muscle
+
 ## Investigation
 
 ### Most Focused

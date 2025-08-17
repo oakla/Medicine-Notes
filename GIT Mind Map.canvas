@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"343a22624dc1d409","x":620,"y":-520,"width":520,"height":560,"type":"group","label":"Stomach"},
+		{"id":"343a22624dc1d409","type":"group","x":620,"y":-520,"width":1469,"height":1100,"label":"Stomach"},
 		{"id":"62fc38e68be3f531","type":"group","x":140,"y":-540,"width":400,"height":680,"label":"Food Passage"},
+		{"id":"90664e9894aac1a4","type":"group","x":1160,"y":-415,"width":291,"height":482,"label":"Glands"},
+		{"id":"7bfcfd0b382bcf5e","x":1503,"y":-410,"width":376,"height":359,"type":"group","label":"Chemical Secretions"},
 		{"id":"447f7f7e192b643c","type":"group","x":169,"y":-300,"width":290,"height":371,"label":"Tubular Gut"},
-		{"id":"d534d258a2fce1ff","x":665,"y":-323,"width":355,"height":263,"type":"group","label":"Functions"},
+		{"id":"d534d258a2fce1ff","type":"group","x":665,"y":-323,"width":355,"height":263,"label":"Functions"},
 		{"id":"21ea041d5cfc2743","type":"text","text":"NSAIDs","x":-180,"y":-240,"width":250,"height":60},
 		{"id":"1f363ae6622ba950","type":"text","text":"COX-1","x":-253,"y":-137,"width":250,"height":60},
 		{"id":"eacf198b3672c754","type":"text","text":"Stomach","x":189,"y":-229,"width":120,"height":60},
@@ -14,16 +16,30 @@
 		{"id":"4befd1b215c3fed3","type":"text","text":"Salivary Glands","x":-160,"y":-504,"width":204,"height":60},
 		{"id":"c18721d83933c80f","type":"text","text":"Large Intestine (Caecum/Appendix/Colon/Rectum)","x":189,"y":-89,"width":250,"height":80},
 		{"id":"db00c77bba7b6a58","type":"text","text":"Anus","x":189,"y":-9,"width":100,"height":60},
-		{"id":"9744bc8b08fd8a2b","x":667,"y":-469,"width":170,"height":76,"type":"text","text":""},
-		{"id":"7a25e84cf4004e78","x":681,"y":-307,"width":119,"height":50,"type":"text","text":"Storage\n"},
-		{"id":"275dfe90aacdb0fc","x":680,"y":-253,"width":145,"height":60,"type":"text","text":"Digestion"},
-		{"id":"ad1af78944409ee9","x":720,"y":-188,"width":108,"height":50,"type":"text","text":"Control"},
-		{"id":"54b7f1c72f9e8696","x":740,"y":-140,"width":139,"height":50,"type":"text","text":"Absorption"},
-		{"id":"05a1ca834a98a5ee","x":840,"y":-240,"width":136,"height":50,"type":"text","text":"Protection"}
+		{"id":"9744bc8b08fd8a2b","type":"text","text":"","x":667,"y":-469,"width":170,"height":76},
+		{"id":"7a25e84cf4004e78","type":"text","text":"Storage\n","x":681,"y":-307,"width":119,"height":50},
+		{"id":"275dfe90aacdb0fc","type":"text","text":"Digestion","x":680,"y":-253,"width":145,"height":50},
+		{"id":"ad1af78944409ee9","type":"text","text":"Control","x":720,"y":-188,"width":108,"height":50},
+		{"id":"54b7f1c72f9e8696","type":"text","text":"Absorption","x":740,"y":-140,"width":139,"height":50},
+		{"id":"05a1ca834a98a5ee","type":"text","text":"Protection","x":840,"y":-240,"width":136,"height":50},
+		{"id":"90fcdac5db4b9e74","x":1170,"y":-408,"width":125,"height":50,"type":"text","text":"Chief cells"},
+		{"id":"3ddf3fe4fc3d0744","x":1529,"y":-244,"width":121,"height":50,"type":"text","text":"Gastrin"},
+		{"id":"49b304d7a3893c91","x":1629,"y":-391,"width":182,"height":50,"type":"text","text":"Pepsinogen"},
+		{"id":"65c72fffe47acc6e","x":1522,"y":-341,"width":98,"height":50,"type":"text","text":"HCl"},
+		{"id":"d02f8bf59d77096d","x":1264,"y":-335,"width":144,"height":50,"type":"text","text":"parietal cells"},
+		{"id":"dee5b9a2b5d88912","type":"text","text":"G-cells","x":1302,"y":-150,"width":120,"height":50},
+		{"id":"212031ff8e0ce773","type":"text","text":"D-cells","x":1307,"y":-51,"width":111,"height":35},
+		{"id":"e9fa035c5b8ad183","x":1587,"y":-128,"width":142,"height":60,"type":"text","text":"somatostatin"}
 	],
 	"edges":[
 		{"id":"97668ac9e38a7d8b","fromNode":"7c41e1ed9342b99c","fromSide":"bottom","toNode":"447f7f7e192b643c","toSide":"top"},
 		{"id":"4da5f5a604849f31","fromNode":"4befd1b215c3fed3","fromSide":"right","toNode":"0e1fb9d2ac8b21f0","toSide":"left"},
-		{"id":"4166a4cc82420aaa","fromNode":"eacf198b3672c754","fromSide":"right","toNode":"343a22624dc1d409","toSide":"left"}
+		{"id":"4166a4cc82420aaa","fromNode":"eacf198b3672c754","fromSide":"right","toNode":"343a22624dc1d409","toSide":"left"},
+		{"id":"b68779798fbb207b","fromNode":"90fcdac5db4b9e74","fromSide":"right","toNode":"49b304d7a3893c91","toSide":"left","label":"secrete"},
+		{"id":"903666f3be159f4f","fromNode":"d02f8bf59d77096d","fromSide":"right","toNode":"65c72fffe47acc6e","toSide":"left","label":"secrete"},
+		{"id":"e7a7e32580a650db","fromNode":"3ddf3fe4fc3d0744","fromSide":"left","toNode":"d02f8bf59d77096d","toSide":"bottom","label":"triggers"},
+		{"id":"3819c3730472af5e","fromNode":"65c72fffe47acc6e","fromSide":"right","toNode":"49b304d7a3893c91","toSide":"bottom","label":"activates"},
+		{"id":"85f1039b879b4fac","fromNode":"dee5b9a2b5d88912","fromSide":"right","toNode":"3ddf3fe4fc3d0744","toSide":"bottom"},
+		{"id":"2d2d0f63493cb6b4","fromNode":"212031ff8e0ce773","fromSide":"right","toNode":"e9fa035c5b8ad183","toSide":"left"}
 	]
 }

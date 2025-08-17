@@ -50,41 +50,14 @@
               "title": "05.3.2 Digestion (Physiology)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "32af8074b6725b52",
         "type": "tabs",
         "dimension": 54.71464019851117,
         "children": [
-          {
-            "id": "ceb4de99e70b8e60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Respiratory Block Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Respiratory Block Summary"
-            }
-          },
-          {
-            "id": "8d5b0e0202bc8097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obstructive vs Restrictive Lung Disease (Clipping).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obstructive vs Restrictive Lung Disease (Clipping)"
-            }
-          },
           {
             "id": "9f9d1727fd58385c",
             "type": "leaf",
@@ -93,17 +66,16 @@
               "state": {
                 "file": "GIT Mind Map.canvas",
                 "viewState": {
-                  "x": 515.2857889810771,
-                  "y": -259.5,
-                  "zoom": -0.6666666666666666
+                  "x": 1494.6431822874272,
+                  "y": -154.7972150948297,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "GIT Mind Map"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -341,20 +313,6 @@
                 }
               },
               {
-                "id": "ab600b4d63109a26",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The Gut Tube.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Gut Tube"
-                }
-              },
-              {
                 "id": "c69924cc043f2bed",
                 "type": "leaf",
                 "state": {
@@ -409,14 +367,28 @@
                   "icon": "lucide-file",
                   "title": "05.1.4 Histological Patterns of the GIT (Anatomy)"
                 }
+              },
+              {
+                "id": "ab600b4d63109a26",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Gut Tube.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Gut Tube"
+                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 1580,
-        "y": 104,
+        "x": 1228,
+        "y": 0,
         "width": 848,
         "height": 752,
         "maximize": false,
@@ -424,15 +396,19 @@
       }
     ]
   },
-  "active": "a6efc34c3c1fc972",
+  "active": "a9c160b6142183af",
   "lastOpenFiles": [
-    "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
-    "The Gut Tube.md",
+    "MD1.2.md",
     "05.1.4 Histological Patterns of the GIT (Anatomy).md",
+    "05.3.3 Absorption (Physiology).md",
+    "The Gut Tube.md",
+    "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
+    "05.3.2 Digestion (Physiology).md",
     "GIT Mind Map.canvas",
+    "Obstructive vs Restrictive Lung Disease (Clipping).md",
+    "Respiratory Block Summary.md",
     "Respiratory Block.md",
     "Etymology (GI).md",
-    "MD1.2.md",
     "06.3.3 Small bowel disease (Pathology).md",
     "Untitled.md",
     "06.4.4 Over and undernutrition (Population Health).md",
@@ -446,12 +422,8 @@
     "06.1.8 Obesity (Pharmacology).md",
     "06.3.2 Oesophagus (Pathology).md",
     "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health).md",
-    "05.3.2 Digestion (Physiology).md",
-    "05.3.3 Absorption (Physiology).md",
-    "Respiratory Block Summary.md",
     "Environmental lung disease.md",
     "MD1/Sem2/System Blocks",
-    "Obstructive vs Restrictive Lung Disease (Clipping).md",
     "Chronic Lung Disease Study Guide.md",
     "MD1/Sem2/Course Sessions",
     "Aorta to Circle of Willis.canvas",
