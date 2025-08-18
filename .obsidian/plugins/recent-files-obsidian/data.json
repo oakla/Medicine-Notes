@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "05.2.5 Foregut Development (Anatomy)",
+      "path": "05.2.5 Foregut Development (Anatomy).md"
+    },
+    {
       "basename": "05.1.7 Gastric Secretion (Physiology)",
       "path": "05.1.7 Gastric Secretion (Physiology).md"
     },
@@ -9,12 +13,16 @@
       "path": "05.1.6 GIT coordination (Physiology).md"
     },
     {
-      "basename": "GIT Block (MD1.2)",
-      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
+      "basename": "05.1.3 Abdominal wall (Anatomy)",
+      "path": "05.1.3 Abdominal wall (Anatomy).md"
     },
     {
       "basename": "MD1.2",
       "path": "MD1.2.md"
+    },
+    {
+      "basename": "GIT Block (MD1.2)",
+      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
     },
     {
       "basename": "05.3.3 Absorption (Physiology)",
@@ -27,10 +35,6 @@
     {
       "basename": "06.3.4 Stomach (Pathology)",
       "path": "06.3.4 Stomach (Pathology).md"
-    },
-    {
-      "basename": "05.1.3 Abdominal wall (Anatomy)",
-      "path": "05.1.3 Abdominal wall (Anatomy).md"
     },
     {
       "basename": "05.1.4 Histological Patterns of the GIT (Anatomy)",
@@ -195,10 +199,6 @@
     {
       "basename": "Therapies and Drugs",
       "path": "MD1/Key-Concepts/Therapies and Drugs.md"
-    },
-    {
-      "basename": "Thomas Wilson",
-      "path": "Thomas Wilson.md"
     }
   ],
   "omittedPaths": [],
