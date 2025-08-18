@@ -5,6 +5,10 @@
       "path": "05.2.5 Foregut Development (Anatomy).md"
     },
     {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
+    },
+    {
       "basename": "05.1.7 Gastric Secretion (Physiology)",
       "path": "05.1.7 Gastric Secretion (Physiology).md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "05.1.3 Abdominal wall (Anatomy)",
       "path": "05.1.3 Abdominal wall (Anatomy).md"
-    },
-    {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
     },
     {
       "basename": "GIT Block (MD1.2)",
