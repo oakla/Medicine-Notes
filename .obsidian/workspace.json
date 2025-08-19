@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recoil",
+                "query": "tag:#Overview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -297,7 +297,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "05.2.5 Foregut Development (Anatomy).md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -336,16 +336,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 1016,
-        "y": 28,
+        "x": 917,
+        "y": 4,
         "width": 574,
-        "height": 1121,
+        "height": 1032,
         "maximize": false,
         "zoom": -1
       }
     ]
   },
-  "active": "cd5a58319d3c343f",
+  "active": "cf827df16697fd7c",
   "lastOpenFiles": [
     "MD1.2.md",
     "05.2.5 Foregut Development (Anatomy).md",
