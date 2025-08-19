@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
+      "basename": "05.2.6 Midgut and Hindgut Development, Omenta and Sacs (Anatomy)",
+      "path": "05.2.6 Midgut and Hindgut Development, Omenta and Sacs (Anatomy).md"
     },
     {
       "basename": "05.2.5 Foregut Development (Anatomy)",
       "path": "05.2.5 Foregut Development (Anatomy).md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
     },
     {
       "basename": "05.1.7 Gastric Secretion (Physiology)",
@@ -195,10 +199,6 @@
     {
       "basename": "thrombus",
       "path": "MD1/Key-Concepts/thrombus.md"
-    },
-    {
-      "basename": "Therapies and Drugs",
-      "path": "MD1/Key-Concepts/Therapies and Drugs.md"
     }
   ],
   "omittedPaths": [],
