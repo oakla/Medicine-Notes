@@ -393,10 +393,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 428,
-        "y": 0,
+        "x": 856,
+        "y": 97,
         "width": 734,
-        "height": 752,
+        "height": 1121,
         "maximize": false,
         "zoom": -1
       }
@@ -404,11 +404,12 @@
   },
   "active": "e1543df3e7e8dcba",
   "lastOpenFiles": [
+    "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy).md",
+    "06.1.2 GIT Blood and Nerve Supply (Anatomy).md",
     "05.1.4 Histological Patterns of the GIT (Anatomy).md",
     "MD1.2.md",
     "06.2.2 Abdominal cavity (Anatomy).md",
     "05.2.6 Midgut and Hindgut Development, Omenta and Sacs (Anatomy).md",
-    "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy).md",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
     "05.3.3 Absorption (Physiology).md",
     "GIT Mind Map.canvas",
@@ -429,7 +430,6 @@
     "06.4.4 Over and undernutrition (Population Health).md",
     "COPD.md",
     "System/Templates/lecture (template).md",
-    "06.1.2 GIT Blood and Nerve Supply (Anatomy).md",
     "06.4.2 Seminar - Overview of the Gastrointestinal History with an upper GI focus (Clinical).md",
     "MD1/Sem2/System Blocks",
     "MD1/Sem2/Course Sessions",
