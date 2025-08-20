@@ -80,7 +80,8 @@
               "title": "GIT Mind Map"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -351,32 +352,32 @@
           }
         ],
         "direction": "vertical",
-        "x": 733,
-        "y": 2,
+        "x": 1016,
+        "y": 28,
         "width": 574,
-        "height": 1032,
+        "height": 1121,
         "maximize": false,
         "zoom": -1
       }
     ]
   },
-  "active": "f9d5b2797744ff43",
+  "active": "9b5af8b6e4a4de33",
   "lastOpenFiles": [
-    "05.2.5 Foregut Development (Anatomy).md",
-    "05.2.6 Midgut and Hindgut Development, Omenta and Sacs (Anatomy).md",
+    "05.3.3 Absorption (Physiology).md",
+    "GIT Mind Map.canvas",
     "MD1.2.md",
+    "05.2.6 Midgut and Hindgut Development, Omenta and Sacs (Anatomy).md",
+    "05.2.5 Foregut Development (Anatomy).md",
     "05.1.7 Gastric Secretion (Physiology).md",
     "05.1.6 GIT coordination (Physiology).md",
     "05.1.3 Abdominal wall (Anatomy).md",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
-    "05.3.3 Absorption (Physiology).md",
     "06.3.3 Small bowel disease (Pathology).md",
     "06.3.4 Stomach (Pathology).md",
     "05.1.4 Histological Patterns of the GIT (Anatomy).md",
     "The Gut Tube.md",
     "Untitled 1.md",
     "05.3.2 Digestion (Physiology).md",
-    "GIT Mind Map.canvas",
     "Obstructive vs Restrictive Lung Disease (Clipping).md",
     "Respiratory Block Summary.md",
     "Respiratory Block.md",
@@ -388,7 +389,6 @@
     "06.1.2 GIT Blood and Nerve Supply (Anatomy).md",
     "06.4.2 Seminar - Overview of the Gastrointestinal History with an upper GI focus (Clinical).md",
     "Helen Wilcox.md",
-    "06.1.8 Obesity (Pharmacology).md",
     "MD1/Sem2/System Blocks",
     "MD1/Sem2/Course Sessions",
     "Aorta to Circle of Willis.canvas",

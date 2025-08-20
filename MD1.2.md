@@ -6,7 +6,9 @@ tags:
 
 
 # Timeline
-## Week1
+
+## Weeks 1-4 (Resp)
+### Week1
 ### Sessions
 1. [[01.1.4 - Ventilation & lung volumes (Physiology)]]
 2. [[01.1.6 - Respiratory Anatomy and Histology (Anatomy)]]
