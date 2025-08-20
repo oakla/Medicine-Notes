@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "06.1.2 GIT Blood and Nerve Supply (Anatomy)",
+      "path": "06.1.2 GIT Blood and Nerve Supply (Anatomy).md"
+    },
+    {
+      "basename": "05.1.4 Histological Patterns of the GIT (Anatomy)",
+      "path": "05.1.4 Histological Patterns of the GIT (Anatomy).md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
+    },
+    {
+      "basename": "05.2.6 Midgut and Hindgut Development, Omenta and Sacs (Anatomy)",
+      "path": "05.2.6 Midgut and Hindgut Development, Omenta and Sacs (Anatomy).md"
+    },
+    {
       "basename": "GIT Block (MD1.2)",
       "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
     },
@@ -11,14 +27,6 @@
     {
       "basename": "GIT Mind Map",
       "path": "GIT Mind Map.canvas"
-    },
-    {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
-    },
-    {
-      "basename": "05.2.6 Midgut and Hindgut Development, Omenta and Sacs (Anatomy)",
-      "path": "05.2.6 Midgut and Hindgut Development, Omenta and Sacs (Anatomy).md"
     },
     {
       "basename": "05.2.5 Foregut Development (Anatomy)",
@@ -43,10 +51,6 @@
     {
       "basename": "06.3.4 Stomach (Pathology)",
       "path": "06.3.4 Stomach (Pathology).md"
-    },
-    {
-      "basename": "05.1.4 Histological Patterns of the GIT (Anatomy)",
-      "path": "05.1.4 Histological Patterns of the GIT (Anatomy).md"
     },
     {
       "basename": "The Gut Tube",
@@ -87,10 +91,6 @@
     {
       "basename": "lecture (template)",
       "path": "System/Templates/lecture (template).md"
-    },
-    {
-      "basename": "06.1.2 GIT Blood and Nerve Supply (Anatomy)",
-      "path": "06.1.2 GIT Blood and Nerve Supply (Anatomy).md"
     },
     {
       "basename": "06.4.2 Seminar - Overview of the Gastrointestinal History with an upper GI focus (Clinical)",
@@ -195,10 +195,6 @@
     {
       "basename": "01.2.2 - Mechanics of breathing (Anatomy)",
       "path": "MD1/Sem2/Course Sessions/01.2.2 - Mechanics of breathing (Anatomy).md"
-    },
-    {
-      "basename": "thrombus",
-      "path": "MD1/Key-Concepts/thrombus.md"
     }
   ],
   "omittedPaths": [],
