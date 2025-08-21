@@ -26,16 +26,18 @@ Tissue and cell types[^1]
 - Immune tissue (MALT, lymph nodes, lymphatics)
 - Connective tissue (fat, fibrous tissue, skeletal muscle)
 
-## Investigation
+## Investigations
 
 ### Most Focused
 - endoscopy (small bowel/intestine)
 
 ## Conditions
 
-| Condition           | Importance (e.g. nSlides) |
-| ------------------- | ------------------------- |
-| [[Coeliac Disease]] | 10                        |
+| Condition              | Importance (e.g. nSlides) |
+| ---------------------- | ------------------------- |
+| [[Coeliac Disease]]    | 10                        |
+| [[Ascites]]            |                           |
+| [[Acute appendicitis]] |                           |
 
 ## Relevant Drugs
 
