@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "05.4.2 Overview of GIT pathology (Pathology)",
-      "path": "05.4.2 Overview of GIT pathology (Pathology).md"
-    },
-    {
-      "basename": "05.1.3 Abdominal wall (Anatomy)",
-      "path": "05.1.3 Abdominal wall (Anatomy).md"
+      "basename": "08.4.3 Managing outbreaks and infectious disease emergencies (Population Health)",
+      "path": "08.4.3 Managing outbreaks and infectious disease emergencies (Population Health).md"
     },
     {
       "basename": "GIT Mind Map",
       "path": "GIT Mind Map.canvas"
     },
     {
-      "basename": "08.4.3 Managing outbreaks and infectious disease emergencies (Population Health)",
-      "path": "08.4.3 Managing outbreaks and infectious disease emergencies (Population Health).md"
+      "basename": "Acute appendicitis",
+      "path": "Acute appendicitis.md"
+    },
+    {
+      "basename": "Condition (template)",
+      "path": "System/Templates/Condition (template).md"
+    },
+    {
+      "basename": "05.4.2 Overview of GIT pathology (Pathology)",
+      "path": "05.4.2 Overview of GIT pathology (Pathology).md"
+    },
+    {
+      "basename": "05.1.3 Abdominal wall (Anatomy)",
+      "path": "05.1.3 Abdominal wall (Anatomy).md"
     },
     {
       "basename": "MD1.2",
@@ -191,14 +199,6 @@
     {
       "basename": "01.4.4 - Restrictive disease (Pathology)",
       "path": "MD1/Sem2/Course Sessions/01.4.4 - Restrictive disease (Pathology).md"
-    },
-    {
-      "basename": "02.4.4 - IgE Hypersensitivities (Immunology)",
-      "path": "02.4.4 - IgE Hypersensitivities (Immunology).md"
-    },
-    {
-      "basename": "Asthma",
-      "path": "Asthma.md"
     }
   ],
   "omittedPaths": [],
