@@ -5,6 +5,7 @@ tags:
 
 ## Navigation
 - [[GIT Mind Map.canvas|GIT Mind Map]]
+- [[GIT MD1.2 Content.canvas|GIT MD1.2 Content]]
 - [[The Gut Tube]]
 - [[Etymology (GI)]]
 
