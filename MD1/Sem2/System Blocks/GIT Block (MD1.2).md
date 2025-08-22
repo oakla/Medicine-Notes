@@ -26,6 +26,26 @@ Tissue and cell types[^1]
 - Immune tissue (MALT, lymph nodes, lymphatics)
 - Connective tissue (fat, fibrous tissue, skeletal muscle)
 
+### Clinical
+#### Terminology
+- Asterixis
+
+#### Conditions
+Describe the clinical features (symptoms and signs) of the following:
+- Gastro-oesophageal reflux disease
+- Peptic ulcer disease
+- Biliary disease
+- Gastrointestinal obstruction
+- Gastrointestinal perforation
+- Gastrointestinal malignancy
+- Malabsorption
+- Appendicitis
+- Diverticulitis
+- Pancreatitis
+- Colitis
+- Hepatitis
+- Hepatic failure
+- Portal hypertension
 ## Investigations
 
 ### Most Focused
