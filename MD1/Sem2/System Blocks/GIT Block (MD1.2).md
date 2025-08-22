@@ -9,9 +9,7 @@ tags:
 - [[The Gut Tube]]
 - [[Etymology (GI)]]
 
-## 
-
-### Random thoughts (to file somewhere later)
+## Random thoughts (to file somewhere later)
 - upper oesophagus and anus have similarities not shared with rest of gut tube
 	- stratified squamous epithelium
 	- skeletal muscle
@@ -25,6 +23,9 @@ Tissue and cell types[^1]
 - Blood vessels (veins, arteries, lymphatics)
 - Immune tissue (MALT, lymph nodes, lymphatics)
 - Connective tissue (fat, fibrous tissue, skeletal muscle)
+
+### Physiology
+- vago-vagal reflexes[^2]
 
 ### Clinical
 #### Terminology
@@ -65,3 +66,4 @@ Describe the clinical features (symptoms and signs) of the following:
 # Footnotes
 
 [^1]: [[05.4.2 Overview of GIT pathology (Pathology)]]
+[^2]: [[05.1.6 GIT coordination (Physiology)]]
