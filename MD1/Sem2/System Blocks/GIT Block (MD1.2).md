@@ -30,6 +30,10 @@ Tissue and cell types[^1]
 ### Clinical
 #### Terminology
 - Asterixis
+- [[Gynecomastia]]
+- Spider naevi
+- Melena/malena
+- Tenesmus
 
 #### Conditions
 Describe the clinical features (symptoms and signs) of the following:

@@ -7,6 +7,11 @@ tags:
 lectures:
 ---
 
+tamoxifen is a drug that blocks the effects of estrogen. 
+- Usually use to reduce risk of estrogen-receptor-positive breast cancer 
+- Can also be used to prevent gynecomastia, and often taken by atheletes taking analobic steroids
+
+## Prompt
 Do you know:
 - aetiology, 
 	- VITAMIN CDE

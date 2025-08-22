@@ -51,7 +51,8 @@
 		{"id":"05a1ca834a98a5ee","type":"text","text":"Protection","x":434,"y":-817,"width":136,"height":50},
 		{"id":"65c72fffe47acc6e","type":"text","text":"HCl","x":1116,"y":-918,"width":98,"height":50},
 		{"id":"e9fa035c5b8ad183","type":"text","text":"somatostatin","x":1181,"y":-705,"width":142,"height":60},
-		{"id":"49b304d7a3893c91","type":"text","text":"Pepsinogen => Pepsin","x":1223,"y":-968,"width":182,"height":50}
+		{"id":"49b304d7a3893c91","type":"text","text":"Pepsinogen => Pepsin","x":1223,"y":-968,"width":182,"height":50},
+		{"id":"6d01333d0f814250","x":772,"y":382,"width":250,"height":60,"type":"text","text":"Plicae circularis"}
 	],
 	"edges":[
 		{"id":"97668ac9e38a7d8b","fromNode":"7c41e1ed9342b99c","fromSide":"bottom","toNode":"447f7f7e192b643c","toSide":"top"},

@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "29e39caf2236b62b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08.5.4 TBL - Doug's Discomfort (Clinical).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08.5.4 TBL - Doug's Discomfort (Clinical)"
+            }
+          },
+          {
             "id": "0d27ac24e2a7dffa",
             "type": "leaf",
             "state": {
@@ -33,20 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "05.1.6 GIT coordination (Physiology)"
-            }
-          },
-          {
-            "id": "daa11bec24544915",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08.4.7 Seminar Radiology- Radiology of the Abdomen (Clinical).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08.4.7 Seminar Radiology- Radiology of the Abdomen (Clinical)"
             }
           },
           {
@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "GIT Block (MD1.2)"
             }
+          },
+          {
+            "id": "5b44854a9b75fc78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gynecomastia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gynecomastia"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
+                "file": "08.5.4 TBL - Doug's Discomfort (Clinical).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GIT Block (MD1.2)"
+              "title": "Outline of 08.5.4 TBL - Doug's Discomfort (Clinical)"
             }
           },
           {
@@ -170,7 +184,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -309,9 +324,9 @@
                   "state": {
                     "file": "GIT Mind Map.canvas",
                     "viewState": {
-                      "x": 631.2093167132952,
-                      "y": 537.4653895314369,
-                      "zoom": -0.2959847820327623
+                      "x": 758.3481398155176,
+                      "y": 581.2687763164558,
+                      "zoom": -0.3526514486994288
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -331,13 +346,17 @@
       }
     ]
   },
-  "active": "209d2d7063da8a0e",
+  "active": "29e39caf2236b62b",
   "lastOpenFiles": [
     "GIT Mind Map.canvas",
+    "08.5.4 TBL - Doug's Discomfort (Clinical).md",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
     "MD1.2.md",
     "05.1.6 GIT coordination (Physiology).md",
     "08.4.7 Seminar Radiology- Radiology of the Abdomen (Clinical).md",
+    "Gynecomastia.md",
+    "System/Templates/Condition (template).md",
+    "Acute appendicitis.md",
     "05.1.3 Abdominal wall (Anatomy).md",
     "05.1.4 Histological Patterns of the GIT (Anatomy).md",
     "The Gut Tube.md",
@@ -347,8 +366,6 @@
     "05.1.7 Gastric Secretion (Physiology).md",
     "Oesophagus.md",
     "08.4.3 Managing outbreaks and infectious disease emergencies (Population Health).md",
-    "Acute appendicitis.md",
-    "System/Templates/Condition (template).md",
     "05.4.2 Overview of GIT pathology (Pathology).md",
     "08.4.2 Seminar - Altered Bowel habit - (Clinical).md",
     "05.2.5 Foregut Development (Anatomy).md",
@@ -358,8 +375,6 @@
     "06.2.2 Abdominal cavity (Anatomy).md",
     "06.3.3 Small bowel disease (Pathology).md",
     "06.3.4 Stomach (Pathology).md",
-    "Obstructive vs Restrictive Lung Disease (Clipping).md",
-    "Respiratory Block Summary.md",
     "MD1/Sem2/System Blocks",
     "MD1/Sem2/Course Sessions",
     "Aorta to Circle of Willis.canvas",
