@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "08.5.4 TBL - Doug's Discomfort (Clinical)",
-      "path": "08.5.4 TBL - Doug's Discomfort (Clinical).md"
-    },
-    {
       "basename": "GIT Mind Map",
       "path": "GIT Mind Map.canvas"
     },
     {
-      "basename": "GIT Block (MD1.2)",
-      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
+      "basename": "Pancreas",
+      "path": "Pancreas.md"
     },
     {
       "basename": "MD1.2",
       "path": "MD1.2.md"
+    },
+    {
+      "basename": "05.3.2 Digestion (Physiology)",
+      "path": "05.3.2 Digestion (Physiology).md"
+    },
+    {
+      "basename": "05.3.3 Absorption (Physiology)",
+      "path": "05.3.3 Absorption (Physiology).md"
+    },
+    {
+      "basename": "08.5.4 TBL - Doug's Discomfort (Clinical)",
+      "path": "08.5.4 TBL - Doug's Discomfort (Clinical).md"
+    },
+    {
+      "basename": "GIT Block (MD1.2)",
+      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
     },
     {
       "basename": "05.1.6 GIT coordination (Physiology)",
@@ -51,14 +63,6 @@
     {
       "basename": "GIT MD1.2 Content",
       "path": "GIT MD1.2 Content.canvas"
-    },
-    {
-      "basename": "05.3.3 Absorption (Physiology)",
-      "path": "05.3.3 Absorption (Physiology).md"
-    },
-    {
-      "basename": "05.3.2 Digestion (Physiology)",
-      "path": "05.3.2 Digestion (Physiology).md"
     },
     {
       "basename": "05.1.7 Gastric Secretion (Physiology)",
@@ -195,10 +199,6 @@
     {
       "basename": "04.1.8 - Wrap up of respiratory disease (Pathology)",
       "path": "04.1.8 - Wrap up of respiratory disease (Pathology).md"
-    },
-    {
-      "basename": "Lung Cancer",
-      "path": "Lung Cancer.md"
     }
   ],
   "omittedPaths": [],
