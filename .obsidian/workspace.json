@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT Mind Map.canvas",
+                "file": "MD1.2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GIT Mind Map"
+              "title": "Outline of MD1.2"
             }
           },
           {
@@ -374,28 +374,27 @@
                   "title": "Pancreas"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 1069,
-        "y": 12,
-        "width": 831,
-        "height": 947,
+        "x": 1584,
+        "y": 0,
+        "width": 976,
+        "height": 966,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "0b5f548cdd37a7ad",
+  "active": "816631a89eca11d9",
   "lastOpenFiles": [
-    "Pancreas.md",
     "GIT Mind Map.canvas",
+    "08.5.4 TBL - Doug's Discomfort (Clinical).md",
+    "Pancreas.md",
     "MD1.2.md",
     "05.3.2 Digestion (Physiology).md",
     "05.3.3 Absorption (Physiology).md",
-    "08.5.4 TBL - Doug's Discomfort (Clinical).md",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
     "05.1.6 GIT coordination (Physiology).md",
     "08.4.7 Seminar Radiology- Radiology of the Abdomen (Clinical).md",

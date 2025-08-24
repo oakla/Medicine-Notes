@@ -83,13 +83,5 @@ tags:
 - [[08.5.2 Skills - GIT examination 1 Groups 1-10 (Clinical)]]
 - [[08.5.4 TBL - Doug's Discomfort (Clinical)]]
 ### Week 9 - GIT
-- [[09.2.7 Pharynx & Larynx (Anatomy)]]
-- [[09.3.1 Hepatopancreatobiliary tumours (Pathology)]]
-- [[09.3.2 Viral Hepatitis (Microbiology)]]
-- [[09.3.3 Drugs in liver disease (Pharmacology)]]
-- [[09.4.2 Gall bladder and exocrine pancreas (Pathology)]]
-- [[09.5.2 Skills - GIT examination 2 Groups 1-10 (Clinical)]]
-- [[09.5.4 SGL - GIT 2 (Pathology)]]
+
 ### Week 9 - Renal
-- [[09.4.3 Kidney function 1 (Physiology)]]
-- [[09.4.4 Kidney function 2 (Physiology)]]
