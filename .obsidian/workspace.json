@@ -249,8 +249,7 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-importer:Open format converter": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "floating": {
@@ -329,10 +328,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 593,
+        "x": 592,
         "y": 212,
-        "width": 869,
-        "height": 955,
+        "width": 874,
+        "height": 956,
         "maximize": false,
         "zoom": 0
       }
