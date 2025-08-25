@@ -28,6 +28,16 @@ Tissue and cell types[^1]
 ## Anatomy
 - [[pancreas]]
 - [[liver]]
+
+### Nerves
+
+| Structure   |       |
+| ----------- | ----- |
+| Hard palate | CN.V2 |
+| Soft palate | CN.V2 |
+
+
+
 ### Physiology
 - vago-vagal reflexes[^2]
 
