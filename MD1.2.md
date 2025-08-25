@@ -3,41 +3,6 @@ aliases: [Timeline, MD1.2 Front Page, MD1.2]
 tags: 
 ---
 
----
-aliases: 
-tags:
-  - Class/Literature-Note/Lecture
-  - Topic/-
-  - Context/MD1-2
-  - System-block/GIT
-author(s): 
-key_concepts: 
-presentation-datetime: 
-learning-outcomes:
----
-
-
-# Overview
-## Learning Outcomes
-
-## Outline/Sections
-
-## Key Terms & Concepts
-
-
-# Notes
-
-
-# Questions
-
-## My Questions
-## Revision Questions
-
-
-
-
-
-
 
 # Timeline
 
