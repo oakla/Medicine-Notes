@@ -13,26 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
+                "file": "MD1.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT Block (MD1.2)"
+              "title": "MD1.2"
             }
           },
           {
-            "id": "ecdb19b6f804315f",
+            "id": "922636d0b9f8ad45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clinical Skills (GI Block).md",
+                "file": "06.1.2 GIT Blood and Nerve Supply (Anatomy).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clinical Skills (GI Block)"
+              "title": "06.1.2 GIT Blood and Nerve Supply (Anatomy)"
+            }
+          },
+          {
+            "id": "ae9a8747a4dd3182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy)"
             }
           },
           {
@@ -76,9 +90,37 @@
               "icon": "lucide-file",
               "title": "05.1.7 Gastric Secretion (Physiology)"
             }
+          },
+          {
+            "id": "fda3e921a8ab7760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT Block (MD1.2)"
+            }
+          },
+          {
+            "id": "def001992214299a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pancreas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pancreas"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clinical Skills (GI Block).md",
+                "file": "06.1.2 GIT Blood and Nerve Supply (Anatomy).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Clinical Skills (GI Block)"
+              "title": "Outline of 06.1.2 GIT Blood and Nerve Supply (Anatomy)"
             }
           },
           {
@@ -394,19 +436,20 @@
       }
     ]
   },
-  "active": "ecdb19b6f804315f",
+  "active": "922636d0b9f8ad45",
   "lastOpenFiles": [
+    "MD1.2.md",
+    "06.1.2 GIT Blood and Nerve Supply (Anatomy).md",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
+    "Pancreas.md",
+    "05.1.6 GIT coordination (Physiology).md",
     "Clinical Skills (GI Block).md",
     "05.1.7 Gastric Secretion (Physiology).md",
-    "MD1.2.md",
     "Gynecomastia.md",
     "08.5.4 TBL - Doug's Discomfort (Clinical).md",
     "05.3.3 Absorption (Physiology).md",
     "GIT Mind Map.canvas",
-    "Pancreas.md",
     "05.3.2 Digestion (Physiology).md",
-    "05.1.6 GIT coordination (Physiology).md",
     "08.4.7 Seminar Radiology- Radiology of the Abdomen (Clinical).md",
     "System/Templates/Condition (template).md",
     "Acute appendicitis.md",
@@ -420,7 +463,6 @@
     "08.4.2 Seminar - Altered Bowel habit - (Clinical).md",
     "05.2.5 Foregut Development (Anatomy).md",
     "05.2.6 Midgut and Hindgut Development, Omenta and Sacs (Anatomy).md",
-    "06.1.2 GIT Blood and Nerve Supply (Anatomy).md",
     "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy).md",
     "06.2.2 Abdominal cavity (Anatomy).md",
     "06.3.3 Small bowel disease (Pathology).md",

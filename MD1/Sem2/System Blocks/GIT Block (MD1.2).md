@@ -25,6 +25,9 @@ Tissue and cell types[^1]
 - Immune tissue (MALT, lymph nodes, lymphatics)
 - Connective tissue (fat, fibrous tissue, skeletal muscle)
 
+## Anatomy
+- [[pancreas]]
+- [[liver]]
 ### Physiology
 - vago-vagal reflexes[^2]
 
