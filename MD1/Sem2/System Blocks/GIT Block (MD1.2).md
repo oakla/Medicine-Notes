@@ -8,6 +8,7 @@ tags:
 - [[GIT MD1.2 Content.canvas|GIT MD1.2 Content]]
 - [[The Gut Tube]]
 - [[Etymology (GI)]]
+- [[Clinical Skills (GI Block)]]
 
 ## Random thoughts (to file somewhere later)
 - upper oesophagus and anus have similarities not shared with rest of gut tube
