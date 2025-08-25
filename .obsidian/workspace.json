@@ -294,23 +294,6 @@
                 }
               },
               {
-                "id": "0b5f548cdd37a7ad",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "GIT Mind Map.canvas",
-                    "viewState": {
-                      "x": 1885.0178446112056,
-                      "y": -725.4503818019118,
-                      "zoom": -1.352651448699429
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "GIT Mind Map"
-                }
-              },
-              {
                 "id": "080771de534b5640",
                 "type": "leaf",
                 "state": {
@@ -339,14 +322,50 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 1688,
-        "y": 4,
+        "x": 1042,
+        "y": 16,
         "width": 874,
-        "height": 957,
+        "height": 956,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "2056e304bab48e4b",
+        "type": "window",
+        "children": [
+          {
+            "id": "b54005ca6db6dde7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0b5f548cdd37a7ad",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "GIT Mind Map.canvas",
+                    "viewState": {
+                      "x": -129.2668445430288,
+                      "y": -1510.187542360698,
+                      "zoom": -0.019318115366095845
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "GIT Mind Map"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1425,
+        "y": 0,
+        "width": 1143,
+        "height": 1370,
         "maximize": false,
         "zoom": 0
       }
@@ -354,8 +373,9 @@
   },
   "active": "080771de534b5640",
   "lastOpenFiles": [
-    "MD1.2.md",
+    "GIT Mind Map.canvas",
     "07.3.2 The oral cavity and salivary glands (Anatomy).md",
+    "MD1.2.md",
     "08.1.6 Gross Anatomy of the Pharynx and Swallowing (Anatomy).md",
     "07.3.3 Oral cavity + upper aerodigestive tract (Pathology).md",
     "06.1.2 GIT Blood and Nerve Supply (Anatomy).md",
@@ -367,7 +387,6 @@
     "Gynecomastia.md",
     "08.5.4 TBL - Doug's Discomfort (Clinical).md",
     "05.3.3 Absorption (Physiology).md",
-    "GIT Mind Map.canvas",
     "05.3.2 Digestion (Physiology).md",
     "08.4.7 Seminar Radiology- Radiology of the Abdomen (Clinical).md",
     "System/Templates/Condition (template).md",
@@ -381,7 +400,6 @@
     "05.4.2 Overview of GIT pathology (Pathology).md",
     "08.4.2 Seminar - Altered Bowel habit - (Clinical).md",
     "05.2.5 Foregut Development (Anatomy).md",
-    "05.2.6 Midgut and Hindgut Development, Omenta and Sacs (Anatomy).md",
     "MD1/Sem2/System Blocks",
     "MD1/Sem2/Course Sessions",
     "Aorta to Circle of Willis.canvas",
