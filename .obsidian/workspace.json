@@ -162,19 +162,6 @@
             }
           },
           {
-            "id": "d196954c52456ff4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "cf827df16697fd7c",
             "type": "leaf",
             "state": {
@@ -211,8 +198,26 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "aa66f78dd15e4d7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d196954c52456ff4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -443,7 +448,7 @@
       }
     ]
   },
-  "active": "0844f52d73c75527",
+  "active": "ad5413d907a551f6",
   "lastOpenFiles": [
     "MD1.2.md",
     "05.3.3 Absorption (Physiology).md",
