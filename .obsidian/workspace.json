@@ -61,8 +61,7 @@
               "title": "07.3.2 The oral cavity and salivary glands (Anatomy)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,13 +80,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.3.2 The oral cavity and salivary glands (Anatomy).md",
+                "file": "MD1.2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 07.3.2 The oral cavity and salivary glands (Anatomy)"
+              "title": "Outline of MD1.2"
             }
           },
           {
@@ -150,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -386,20 +384,22 @@
           }
         ],
         "direction": "vertical",
-        "x": 1425,
+        "x": 137,
         "y": 0,
         "width": 1143,
-        "height": 1370,
+        "height": 752,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "080771de534b5640",
+  "active": "c1ba8c17bce77de2",
   "lastOpenFiles": [
-    "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
+    "My first base (temp).base",
+    "Untitled 1.md",
     "MD1.2.md",
     "07.3.2 The oral cavity and salivary glands (Anatomy).md",
+    "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
     "GIT Mind Map.canvas",
     "08.1.6 Gross Anatomy of the Pharynx and Swallowing (Anatomy).md",
     "07.3.3 Oral cavity + upper aerodigestive tract (Pathology).md",
@@ -423,7 +423,6 @@
     "08.4.3 Managing outbreaks and infectious disease emergencies (Population Health).md",
     "05.4.2 Overview of GIT pathology (Pathology).md",
     "08.4.2 Seminar - Altered Bowel habit - (Clinical).md",
-    "05.2.5 Foregut Development (Anatomy).md",
     "MD1/Sem2/System Blocks",
     "MD1/Sem2/Course Sessions",
     "Aorta to Circle of Willis.canvas",
@@ -438,7 +437,6 @@
     "MD1/AI Gen/Quizzes",
     "MD1/AI Gen",
     "MD1/Untitled.canvas",
-    "MD1/Sem1/What to study/Identified intersections",
     "Pasted image 20250514101017.png",
     "Pasted image 20250503124113.png"
   ]
