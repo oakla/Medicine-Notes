@@ -82,8 +82,7 @@
               "title": "Acute appendicitis"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,13 +101,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pathology Museum SLGs (GI Block).md",
+                "file": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pathology Museum SLGs (GI Block)"
+              "title": "Outline of GIT Block (MD1.2)"
             }
           },
           {
@@ -460,13 +459,14 @@
       }
     ]
   },
-  "active": "700b22be4927305b",
+  "active": "fda3e921a8ab7760",
   "lastOpenFiles": [
-    "05.4.2 Overview of GIT pathology (Pathology).md",
-    "Acute appendicitis.md",
+    "Meckel’s Diverticulum.md",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
-    "MD1.2.md",
+    "05.4.2 Overview of GIT pathology (Pathology).md",
     "Pathology Museum SLGs (GI Block).md",
+    "Acute appendicitis.md",
+    "MD1.2.md",
     "08.1.6 Gross Anatomy of the Pharynx and Swallowing (Anatomy).md",
     "GIT Mind Map.canvas",
     "07.3.2 The oral cavity and salivary glands (Anatomy).md",

@@ -23,8 +23,11 @@ tags:
 	- stratified squamous epithelium
 	- skeletal muscle
 
+ - polyps - growth from mucosa into lumen
+	 - benign - adenoma
+	 - malignant - adenocarcinoma
 ### Overview stuff
-Tissue and cell types[^1]
+Tissue and cell types of the GIT[^1]
 - Epithelium (specialised in different areas; protective, secretory, absorption; with mesothelium around the peritonealised component)
 - Smooth muscle (muscularis mucosae, muscularis propria)
 - Nerves and ganglia (submucosal and myenteric plexus)
@@ -49,11 +52,12 @@ Tissue and cell types[^1]
 - Peritonitis
 
 ### Conditions
-| Condition              | Importance (e.g. nSlides) |
-| ---------------------- | ------------------------- |
-| [[Coeliac Disease]]    | 10                        |
-| [[Ascites]]            |                           |
-| [[Acute appendicitis]] | 6                         |
+| Condition                 | Importance (e.g. nSlides) |
+| ------------------------- | ------------------------- |
+| [[Coeliac Disease]]       | 10                        |
+| [[Ascites]]               |                           |
+| [[Acute appendicitis]]    | 6                         |
+| [[Meckel’s Diverticulum]] |                           |
 
 ### Physiology
 - vago-vagal reflexes[^2]
