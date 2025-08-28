@@ -9,6 +9,14 @@ tags:
 - [[The Gut Tube]]
 - [[Etymology (GI)]]
 - [[Clinical Skills (GI Block)]]
+- [[Pathology Museum SLGs (GI Block)]]
+
+### System Organisation
+- **Upper Aerodigestive tract**
+	- Includes mouth and mucosal membranes, tongue, teeth, jaw and supporting structures. 
+	- Nasopharynx, oropharynx
+	- Nasal cavity, nasal sinuses, larynx
+	- Salivary glands
 
 ## Random thoughts (to file somewhere later)
 - upper oesophagus and anus have similarities not shared with rest of gut tube
@@ -36,7 +44,8 @@ Tissue and cell types[^1]
 | Hard palate | CN.V2 |
 | Soft palate | CN.V2 |
 
-
+## Pathology
+- Meckel’s Diverticulum
 
 ### Physiology
 - vago-vagal reflexes[^2]

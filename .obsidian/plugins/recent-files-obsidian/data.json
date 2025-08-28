@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "07.3.2 The oral cavity and salivary glands (Anatomy)",
-      "path": "07.3.2 The oral cavity and salivary glands (Anatomy).md"
+      "basename": "Pathology Museum SLGs (GI Block)",
+      "path": "Pathology Museum SLGs (GI Block).md"
+    },
+    {
+      "basename": "GIT Block (MD1.2)",
+      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
     },
     {
       "basename": "MD1.2",
@@ -13,16 +17,16 @@
       "path": "08.1.6 Gross Anatomy of the Pharynx and Swallowing (Anatomy).md"
     },
     {
-      "basename": "My first base (temp)",
-      "path": "My first base (temp).base"
-    },
-    {
-      "basename": "GIT Block (MD1.2)",
-      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
-    },
-    {
       "basename": "GIT Mind Map",
       "path": "GIT Mind Map.canvas"
+    },
+    {
+      "basename": "07.3.2 The oral cavity and salivary glands (Anatomy)",
+      "path": "07.3.2 The oral cavity and salivary glands (Anatomy).md"
+    },
+    {
+      "basename": "My first base (temp)",
+      "path": "My first base (temp).base"
     },
     {
       "basename": "06.1.2 GIT Blood and Nerve Supply (Anatomy)",
@@ -195,10 +199,6 @@
     {
       "basename": "Interstitial Lung Disease",
       "path": "Interstitial Lung Disease.md"
-    },
-    {
-      "basename": "04.1.6 - Seminar - Respiratory Cases (Clinical)",
-      "path": "04.1.6 - Seminar - Respiratory Cases (Clinical).md"
     }
   ],
   "omittedPaths": [],
