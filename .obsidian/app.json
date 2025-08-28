@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "focusNewTab": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "readableLineLength": true
 }

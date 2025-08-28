@@ -7,8 +7,21 @@ tags:
 lectures:
 ---
 
-[[05.4.2 Overview of GIT pathology (Pathology)]] p32
-> Clinical: Acute appendicitis
+- Pretty rare
+- most of the time we don''t know what causes it
+- caused by blockage that traps bacteria inside where they proliferate a lot
+- Progression:
+	- distension of lumen
+	- inflammation spreads (i.e. neutrophils spread)
+		- eventually leads perotinitis
+
+**Classic pain pattern/presentation**
+- central abdo pain then travels to **right ilac fossa**
+
+Same inflammation elsewhere won't be as painful - Pain is worse because the appendix is small => pressure builds up
+
+[[05.4.2 Overview of GIT pathology (Pathology)]] p27-32
+> **Clinical**: Acute appendicitis
 > • “Classic” presentation:
 > – Onset over hours, constant mid-abdominal pain which shifts later to right lower
 > quadrant, worse on movement

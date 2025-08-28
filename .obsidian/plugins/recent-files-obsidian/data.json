@@ -5,6 +5,14 @@
       "path": "Pathology Museum SLGs (GI Block).md"
     },
     {
+      "basename": "05.4.2 Overview of GIT pathology (Pathology)",
+      "path": "05.4.2 Overview of GIT pathology (Pathology).md"
+    },
+    {
+      "basename": "Acute appendicitis",
+      "path": "Acute appendicitis.md"
+    },
+    {
       "basename": "GIT Block (MD1.2)",
       "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
     },
@@ -73,10 +81,6 @@
       "path": "System/Templates/Condition (template).md"
     },
     {
-      "basename": "Acute appendicitis",
-      "path": "Acute appendicitis.md"
-    },
-    {
       "basename": "05.1.3 Abdominal wall (Anatomy)",
       "path": "05.1.3 Abdominal wall (Anatomy).md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "08.4.3 Managing outbreaks and infectious disease emergencies (Population Health)",
       "path": "08.4.3 Managing outbreaks and infectious disease emergencies (Population Health).md"
-    },
-    {
-      "basename": "05.4.2 Overview of GIT pathology (Pathology)",
-      "path": "05.4.2 Overview of GIT pathology (Pathology).md"
     },
     {
       "basename": "08.4.2 Seminar - Altered Bowel habit - (Clinical)",

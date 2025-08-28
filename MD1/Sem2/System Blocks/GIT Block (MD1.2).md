@@ -46,6 +46,14 @@ Tissue and cell types[^1]
 
 ## Pathology
 - Meckel’s Diverticulum
+- Peritonitis
+
+### Conditions
+| Condition              | Importance (e.g. nSlides) |
+| ---------------------- | ------------------------- |
+| [[Coeliac Disease]]    | 10                        |
+| [[Ascites]]            |                           |
+| [[Acute appendicitis]] | 6                         |
 
 ### Physiology
 - vago-vagal reflexes[^2]
@@ -79,13 +87,8 @@ Describe the clinical features (symptoms and signs) of the following:
 ### Most Focused
 - endoscopy (small bowel/intestine)
 
-## Conditions
 
-| Condition              | Importance (e.g. nSlides) |
-| ---------------------- | ------------------------- |
-| [[Coeliac Disease]]    | 10                        |
-| [[Ascites]]            |                           |
-| [[Acute appendicitis]] |                           |
+
 
 ## Relevant Drugs
 
