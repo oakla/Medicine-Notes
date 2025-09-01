@@ -1,6 +1,8 @@
 ---
-aliases: [GIT Block (MD1.2)]
-tags: 
+aliases:
+  - GIT Block (MD1.2)
+tags:
+  - navigation
 ---
 
 ## Navigation
