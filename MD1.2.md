@@ -100,7 +100,7 @@ tags:
 - [[10.2.4 Integrated Anatomical Radiology Workshop (Anatomy)]]
 - [[10.2.0 Alcohol (Population Health)]]
 - [[10.3.2 Seminar - Surgeon's approach to GIT examination (Clinical)]]
-- [[10.3.4 Summary of GIT & Intro to renal/urinary tract pathology (Pathology)]]
+- [[10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology)]]
 - [[10.3.0 GIT Histology module (Anatomy)]]
 - [[10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology)]]
 - [[10.4.3 Glomerulonephritis (Pathology)]]

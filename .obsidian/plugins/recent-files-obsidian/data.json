@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology)",
+      "path": "10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology).md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
+    },
+    {
+      "basename": "GIT Block (MD1.2)",
+      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
+    },
+    {
       "basename": "10.1.7 Acid base balance (Physiology)",
       "path": "10.1.7 Acid base balance (Physiology).md"
     },
@@ -13,16 +25,8 @@
       "path": "10.1.6 salt and water balance (Physiology).md"
     },
     {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
-    },
-    {
       "basename": "05.4.2 Overview of GIT pathology (Pathology)",
       "path": "05.4.2 Overview of GIT pathology (Pathology).md"
-    },
-    {
-      "basename": "GIT Block (MD1.2)",
-      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
     },
     {
       "basename": "Pathology Museum SLGs (GI Block)",
@@ -195,10 +199,6 @@
     {
       "basename": "Environmental lung disease",
       "path": "Environmental lung disease.md"
-    },
-    {
-      "basename": "Chronic Lung Disease Study Guide",
-      "path": "Chronic Lung Disease Study Guide.md"
     }
   ],
   "omittedPaths": [],
