@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
+      "basename": "10.4.3 Glomerulonephritis (Pathology)",
+      "path": "10.4.3 Glomerulonephritis (Pathology).md"
+    },
+    {
+      "basename": "10.4.4 Tubulointerstitial disease (Pathology)",
+      "path": "10.4.4 Tubulointerstitial disease (Pathology).md"
     },
     {
       "basename": "10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology)",
       "path": "10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology).md"
     },
     {
-      "basename": "Renal system block (MD1.2)",
-      "path": "Renal system block (MD1.2).md"
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
+    },
+    {
+      "basename": "Acute appendicitis",
+      "path": "Acute appendicitis.md"
     },
     {
       "basename": "GIT Block (MD1.2)",
       "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
+    },
+    {
+      "basename": "Renal system block (MD1.2)",
+      "path": "Renal system block (MD1.2).md"
     },
     {
       "basename": "Liver",
@@ -59,10 +71,6 @@
     {
       "basename": "Meckel’s Diverticulum",
       "path": "Meckel’s Diverticulum.md"
-    },
-    {
-      "basename": "Acute appendicitis",
-      "path": "Acute appendicitis.md"
     },
     {
       "basename": "GIT Mind Map",
@@ -191,14 +199,6 @@
     {
       "basename": "lecture (template)",
       "path": "System/Templates/lecture (template).md"
-    },
-    {
-      "basename": "06.4.2 Seminar - Overview of the Gastrointestinal History with an upper GI focus (Clinical)",
-      "path": "06.4.2 Seminar - Overview of the Gastrointestinal History with an upper GI focus (Clinical).md"
-    },
-    {
-      "basename": "06.1.8 Obesity (Pharmacology)",
-      "path": "06.1.8 Obesity (Pharmacology).md"
     }
   ],
   "omittedPaths": [],
