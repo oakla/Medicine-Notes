@@ -132,8 +132,7 @@
               "title": "Release Notes 1.9.10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "97a8958a51cccbe0",
@@ -188,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology).md",
+                "file": "MD1.2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology)"
+              "title": "Outline of MD1.2"
             }
           },
           {
@@ -528,12 +527,12 @@
       }
     ]
   },
-  "active": "728fd1fa61f58476",
+  "active": "c1ba8c17bce77de2",
   "lastOpenFiles": [
+    "10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology).md",
     "Renal system block (MD1.2).md",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
     "MD1.2.md",
-    "10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology).md",
     "Liver.md",
     "10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology).md",
     "Pathology Museum SLGs (GI Block).md",
