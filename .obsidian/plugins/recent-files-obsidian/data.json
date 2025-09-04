@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Diuresis",
+      "path": "Diuresis.md"
+    },
+    {
+      "basename": "Etymology",
+      "path": "Etymology.md"
+    },
+    {
+      "basename": "10.4.4 Tubulointerstitial disease (Pathology)",
+      "path": "10.4.4 Tubulointerstitial disease (Pathology).md"
+    },
+    {
       "basename": "10.4.3 Glomerulonephritis (Pathology)",
       "path": "10.4.3 Glomerulonephritis (Pathology).md"
     },
     {
       "basename": "MD1.2",
       "path": "MD1.2.md"
-    },
-    {
-      "basename": "10.4.4 Tubulointerstitial disease (Pathology)",
-      "path": "10.4.4 Tubulointerstitial disease (Pathology).md"
     },
     {
       "basename": "10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology)",
@@ -51,10 +59,6 @@
     {
       "basename": "Etymology (GI)",
       "path": "Etymology (GI).md"
-    },
-    {
-      "basename": "Etymology",
-      "path": "Etymology.md"
     },
     {
       "basename": "10.1.7 Acid base balance (Physiology)",
@@ -195,10 +199,6 @@
     {
       "basename": "COPD",
       "path": "COPD.md"
-    },
-    {
-      "basename": "lecture (template)",
-      "path": "System/Templates/lecture (template).md"
     }
   ],
   "omittedPaths": [],
