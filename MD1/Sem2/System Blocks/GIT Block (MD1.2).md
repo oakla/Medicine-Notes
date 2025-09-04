@@ -71,6 +71,7 @@ Tissue and cell types of the GIT[^1]
 - Spider naevi
 - Melena/malena
 - Tenesmus
+- Pruritis
 
 #### Conditions
 Describe the clinical features (symptoms and signs) of the following:
