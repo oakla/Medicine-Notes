@@ -40,7 +40,7 @@ Tissue and cell types of the GIT[^1]
 
 ## Anatomy
 - [[pancreas]]
-- [[liver]]
+- [[Liver]]
 
 ### Nerves
 
