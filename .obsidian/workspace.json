@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diuresis.md",
+                "file": "10.4.4 Tubulointerstitial disease (Pathology).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Diuresis"
+              "title": "Outline of 10.4.4 Tubulointerstitial disease (Pathology)"
             }
           },
           {
@@ -555,7 +555,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -568,13 +568,13 @@
       }
     ]
   },
-  "active": "20339c9a46fd98c9",
+  "active": "2cfe58b5663ec9de",
   "lastOpenFiles": [
     "Diuresis.md",
+    "MD1.2.md",
     "Etymology.md",
     "10.4.4 Tubulointerstitial disease (Pathology).md",
     "10.4.3 Glomerulonephritis (Pathology).md",
-    "MD1.2.md",
     "10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology).md",
     "Acute appendicitis.md",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
