@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy)",
+      "path": "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy).md"
+    },
+    {
+      "basename": "08.1.7 Liver (Physiology)",
+      "path": "08.1.7 Liver (Physiology).md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
+    },
+    {
+      "basename": "Liver",
+      "path": "Liver.md"
+    },
+    {
+      "basename": "Renal system block (MD1.2)",
+      "path": "Renal system block (MD1.2).md"
+    },
+    {
+      "basename": "10.1.7 Acid base balance (Physiology)",
+      "path": "10.1.7 Acid base balance (Physiology).md"
+    },
+    {
+      "basename": "10.1.6 salt and water balance (Physiology)",
+      "path": "10.1.6 salt and water balance (Physiology).md"
+    },
+    {
+      "basename": "05.4.2 Overview of GIT pathology (Pathology)",
+      "path": "05.4.2 Overview of GIT pathology (Pathology).md"
+    },
+    {
+      "basename": "10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology)",
+      "path": "10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology).md"
+    },
+    {
       "basename": "10.4.4 Tubulointerstitial disease (Pathology)",
       "path": "10.4.4 Tubulointerstitial disease (Pathology).md"
     },
     {
       "basename": "Diuresis",
       "path": "Diuresis.md"
-    },
-    {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
     },
     {
       "basename": "Etymology",
@@ -21,24 +53,12 @@
       "path": "10.4.3 Glomerulonephritis (Pathology).md"
     },
     {
-      "basename": "10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology)",
-      "path": "10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology).md"
-    },
-    {
       "basename": "Acute appendicitis",
       "path": "Acute appendicitis.md"
     },
     {
       "basename": "GIT Block (MD1.2)",
       "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
-    },
-    {
-      "basename": "Renal system block (MD1.2)",
-      "path": "Renal system block (MD1.2).md"
-    },
-    {
-      "basename": "Liver",
-      "path": "Liver.md"
     },
     {
       "basename": "10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology)",
@@ -59,18 +79,6 @@
     {
       "basename": "Etymology (GI)",
       "path": "Etymology (GI).md"
-    },
-    {
-      "basename": "10.1.7 Acid base balance (Physiology)",
-      "path": "10.1.7 Acid base balance (Physiology).md"
-    },
-    {
-      "basename": "10.1.6 salt and water balance (Physiology)",
-      "path": "10.1.6 salt and water balance (Physiology).md"
-    },
-    {
-      "basename": "05.4.2 Overview of GIT pathology (Pathology)",
-      "path": "05.4.2 Overview of GIT pathology (Pathology).md"
     },
     {
       "basename": "Meckel’s Diverticulum",
@@ -165,10 +173,6 @@
       "path": "05.2.6 Midgut and Hindgut Development, Omenta and Sacs (Anatomy).md"
     },
     {
-      "basename": "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy)",
-      "path": "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy).md"
-    },
-    {
       "basename": "06.3.3 Small bowel disease (Pathology)",
       "path": "06.3.3 Small bowel disease (Pathology).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "06.4.4 Over and undernutrition (Population Health)",
       "path": "06.4.4 Over and undernutrition (Population Health).md"
-    },
-    {
-      "basename": "COPD",
-      "path": "COPD.md"
     }
   ],
   "omittedPaths": [],
