@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 tags:
   - Class/Permanent-Note/Etymology
 ---
@@ -9,4 +9,5 @@ tags:
 | duodeni | Twelves (as in 12 finger breadths) | Duodenum                       |
 | Jejunus | Empty, hungry                      | Jegunum                        |
 | Pylorus | Gate Keeper                        | Pyloric Antrum/Canal/Sphincter |
+|         |                                    |                                |
 

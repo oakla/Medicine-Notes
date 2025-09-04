@@ -3,6 +3,10 @@ aliases: [Timeline, MD1.2 Front Page, MD1.2]
 tags: 
 ---
 
+## Concepts
+unifying and/or important concepts
+- Bilirubin - from the breakdown of RBCs, secreted in bile. Biomarker of liver dsyfunction
+- Albumin
 
 # Timeline
 

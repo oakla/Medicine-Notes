@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "liver",
+      "path": "liver.md"
+    },
+    {
       "basename": "10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology)",
       "path": "10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology).md"
+    },
+    {
+      "basename": "GIT Block (MD1.2)",
+      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
     },
     {
       "basename": "MD1.2",
       "path": "MD1.2.md"
     },
     {
-      "basename": "GIT Block (MD1.2)",
-      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
+      "basename": "Pathology Museum SLGs (GI Block)",
+      "path": "Pathology Museum SLGs (GI Block).md"
+    },
+    {
+      "basename": "07.3.2 The oral cavity and salivary glands (Anatomy)",
+      "path": "07.3.2 The oral cavity and salivary glands (Anatomy).md"
+    },
+    {
+      "basename": "08.1.6 Gross Anatomy of the Pharynx and Swallowing (Anatomy)",
+      "path": "08.1.6 Gross Anatomy of the Pharynx and Swallowing (Anatomy).md"
+    },
+    {
+      "basename": "Etymology (GI)",
+      "path": "Etymology (GI).md"
+    },
+    {
+      "basename": "Etymology",
+      "path": "Etymology.md"
     },
     {
       "basename": "10.1.7 Acid base balance (Physiology)",
@@ -29,10 +53,6 @@
       "path": "05.4.2 Overview of GIT pathology (Pathology).md"
     },
     {
-      "basename": "Pathology Museum SLGs (GI Block)",
-      "path": "Pathology Museum SLGs (GI Block).md"
-    },
-    {
       "basename": "Meckel’s Diverticulum",
       "path": "Meckel’s Diverticulum.md"
     },
@@ -41,16 +61,8 @@
       "path": "Acute appendicitis.md"
     },
     {
-      "basename": "08.1.6 Gross Anatomy of the Pharynx and Swallowing (Anatomy)",
-      "path": "08.1.6 Gross Anatomy of the Pharynx and Swallowing (Anatomy).md"
-    },
-    {
       "basename": "GIT Mind Map",
       "path": "GIT Mind Map.canvas"
-    },
-    {
-      "basename": "07.3.2 The oral cavity and salivary glands (Anatomy)",
-      "path": "07.3.2 The oral cavity and salivary glands (Anatomy).md"
     },
     {
       "basename": "My first base (temp)",
@@ -161,10 +173,6 @@
       "path": "Respiratory Block.md"
     },
     {
-      "basename": "Etymology (GI)",
-      "path": "Etymology (GI).md"
-    },
-    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "06.3.2 Oesophagus (Pathology)",
       "path": "06.3.2 Oesophagus (Pathology).md"
-    },
-    {
-      "basename": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health)",
-      "path": "06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health).md"
-    },
-    {
-      "basename": "Environmental lung disease",
-      "path": "Environmental lung disease.md"
     }
   ],
   "omittedPaths": [],
