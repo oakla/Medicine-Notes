@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "10.5.4 TBL - Zaya is nauseated QE2MDLIB (Clinical)",
+      "path": "10.5.4 TBL - Zaya is nauseated QE2MDLIB (Clinical).md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
+    },
+    {
+      "basename": "GIT Block (MD1.2)",
+      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
+    },
+    {
+      "basename": "GIT MD1.2 Content",
+      "path": "GIT MD1.2 Content.canvas"
+    },
+    {
+      "basename": "10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology)",
+      "path": "10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology).md"
+    },
+    {
       "basename": "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy)",
       "path": "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy).md"
     },
     {
       "basename": "08.1.7 Liver (Physiology)",
       "path": "08.1.7 Liver (Physiology).md"
-    },
-    {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
     },
     {
       "basename": "Liver",
@@ -55,14 +71,6 @@
     {
       "basename": "Acute appendicitis",
       "path": "Acute appendicitis.md"
-    },
-    {
-      "basename": "GIT Block (MD1.2)",
-      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
-    },
-    {
-      "basename": "10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology)",
-      "path": "10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology).md"
     },
     {
       "basename": "Pathology Museum SLGs (GI Block)",
@@ -149,10 +157,6 @@
       "path": "The Gut Tube.md"
     },
     {
-      "basename": "GIT MD1.2 Content",
-      "path": "GIT MD1.2 Content.canvas"
-    },
-    {
       "basename": "Oesophagus",
       "path": "Oesophagus.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "06.4.4 Over and undernutrition (Population Health)",
-      "path": "06.4.4 Over and undernutrition (Population Health).md"
     }
   ],
   "omittedPaths": [],

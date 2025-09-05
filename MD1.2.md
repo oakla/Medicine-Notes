@@ -112,7 +112,7 @@ unifying and/or important concepts
 - [[10.4.0 Seminar Radiology- Imaging of the Kidneys & Retroperitoneum (Clinical)]]
 - [[10.5.0 Pathology online module (Renal)]]
 - [[10.5.2 GIT examination - patients Groups 1-10 (Clinical Skills)]]
-- [[10.5.4 TBL - Zaya is nauseated QE2MDLIB: eLS Groups 1-10 (Clinical)]]
+- [[10.5.4 TBL - Zaya is nauseated QE2MDLIB (Clinical)]]
 ### Week 11
 - [[11.1.6 Traditional medicine & healing (Aboriginal Health)]]
 - [[11.1.8 Seminar - Urology (Clinical)]]
