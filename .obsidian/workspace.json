@@ -342,9 +342,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 1971,
+        "x": 0,
         "y": 0,
-        "width": 874,
+        "width": 1280,
         "height": 752,
         "maximize": false,
         "zoom": 0
@@ -409,10 +409,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1942,
-        "y": 8,
-        "width": 1028,
-        "height": 732,
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 752,
         "maximize": false,
         "zoom": 0
       },
@@ -557,10 +557,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 25,
-        "y": 16,
-        "width": 677,
-        "height": 955,
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 752,
         "maximize": false,
         "zoom": 0
       },
@@ -584,18 +584,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology)"
-                }
-              },
-              {
-                "id": "41dc567c35970c56",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.9.12"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.9.12"
                 }
               },
               {
@@ -654,22 +642,22 @@
                   "title": "Diuresis"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 2420,
-        "y": 29,
-        "width": 750,
-        "height": 714,
+        "x": 640,
+        "y": 0,
+        "width": 640,
+        "height": 752,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "5d0437b14964157e",
+  "active": "728fd1fa61f58476",
   "lastOpenFiles": [
+    "Liver.md",
     "GIT Mind Map.canvas",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
     "GIT MD1.2 Content.canvas",
@@ -679,7 +667,6 @@
     "10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology).md",
     "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy).md",
     "08.1.7 Liver (Physiology).md",
-    "Liver.md",
     "Renal system block (MD1.2).md",
     "10.1.7 Acid base balance (Physiology).md",
     "10.1.6 salt and water balance (Physiology).md",
