@@ -54,12 +54,12 @@ Tissue and cell types of the GIT[^1]
 - Peritonitis
 
 ### Conditions
-| Condition                 | Importance (e.g. nSlides) |
-| ------------------------- | ------------------------- |
-| [[Coeliac Disease]]       | 10                        |
-| [[Ascites]]               |                           |
-| [[Acute appendicitis]]    | 6                         |
-| [[Meckel’s Diverticulum]] |                           |
+| Condition                 | Importance (e.g. nSlides)      |
+| ------------------------- | ------------------------------ |
+| [[Coeliac Disease]]       | 10 (path), 9 (genetic testing) |
+| [[Ascites]]               |                                |
+| [[Acute appendicitis]]    | 6                              |
+| [[Meckel’s Diverticulum]] |                                |
 
 ### Physiology
 - vago-vagal reflexes[^2]
