@@ -6,12 +6,48 @@ tags:
   - Context/MD1-2
 ---
 
-## Key Concepts
-### Conditions
-- [[UTIs]] e.g. [[Pyelonephritis]][^1]
-- 
+# Key Concepts
 
-## Events
+## Core Conditions[^1]
+### 3+ and 2+
+
+| Level | Renal                      | Urology                   |
+| ----- | -------------------------- | ------------------------- |
+| 3+    | Chronic kidney disease<br> |                           |
+|       | Urinary tract infection    | Urinary tract infection   |
+| 2+    | Carcinoma of kidney        |                           |
+| 2+    | Diabetic nephropathy       | Urinary tract obstruction |
+|       | Hypertensive renal disease | Vesico-ureteric reflux    |
+|       | Acute kidney injury        | Urinary retention         |
+### 1+
+- Renal artery stenosis
+- Nephritic syndrome
+- Nephrotic syndrome
+- Glomerulonephritis
+- Congenital malformations of the urogenital tract
+- Wilm's tumour
+- Polycystic kidney disease
+- Renal transplantation
+
+## Teacher Emphasis / Lecture Hints
+
+## Phys
+- what is Glomerular blood hydrostatic pressure[^2]
+- the kidneys filter 36x blood volume per day (i.e. ${ 36 \times 5\ L = 180\ L }$, or ${125\ ml/min}$)
+### Micro - UTIs
+"Easily testable facts"
+- Escherichia coli (specifically, UPEC) most common cause of UTI
+- Staphylococcus saprophyticus (supposedly) a cause of UTI in young adult females ("honeymoon cystitis")
+- Staph aureus and candida spp in urine might indicate bloodstream infection
+- Which common uropathogens produce nitrate reductase (E. coli, Proteus mirabilis, Klebsiella spp), and which do not (Staphylococcus spp, Pseudomonas, Enterococcus faecalis)
+- Standard threshold for bacterial growth reporting in urine is ≥10*8 colony forming units (CFU)/L
+- Some antibiotics (nitrofurantoin, fosfomycin) are good for cystitis, but inappropriate for pyelonephritis etc because they don't reach adequate concentration in kidney tissue/blood
+
+Long Answer Qs
+- Describe the pathophysiology of UTI and how it relates to risk factors for UTI
+- Describe the indications for treatment of asymptomatic bacteriuria, and reasons why
+
+# Events
 ### Week 9 - Renal
 - [[09.4.3 Kidney function 1 (Physiology)]]
 - [[09.4.4 Kidney function 2 (Physiology)]]
@@ -39,4 +75,5 @@ tags:
 - [[11.5.4 TBL - Harry's Passing Blood QE2MDLIB: eLS Groups 1-10 (Clinical)]]
 # Footnotes
 
-[^1]: [[11.3.1 UTIs (Microbiology)]]
+[^1]: [[11.4.2 Seminar: Overview of Renal History (Clinical)]]
+[^2]: [[09.4.3 Kidney function 1 (Physiology)]]
