@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "focusNewTab": false,
   "spellcheck": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "autoConvertHtml": false
 }
