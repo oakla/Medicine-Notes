@@ -83,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.1.6 salt and water balance (Physiology).md",
+                "file": "11.3.3 Genotyping and GIT disorders (Genetics).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10.1.6 salt and water balance (Physiology)"
+              "title": "Outline of 11.3.3 Genotyping and GIT disorders (Genetics)"
             }
           },
           {
@@ -485,8 +485,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 6,
-        "y": 0,
+        "x": 2931,
+        "y": 182,
         "width": 900,
         "height": 752,
         "maximize": false,
@@ -655,8 +655,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1023,
-        "y": 15,
+        "x": 1364,
+        "y": 20,
         "width": 856,
         "height": 712,
         "maximize": false,
@@ -688,19 +688,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 791,
-        "y": 20,
+        "x": 20,
+        "y": 78,
         "width": 718,
-        "height": 903,
+        "height": 904,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "cf703587053f226a",
+  "active": "7193c8cb1fd7f13f",
   "lastOpenFiles": [
-    "MD1.2.md",
     "10.1.6 salt and water balance (Physiology).md",
+    "MD1.2.md",
     "11.4.7 Urolithiasis, cystic kidneys, congenital kidney disease (Pathology).md",
     "11.4.8 Renal tract tumors (Pathology).md",
     "Renal system block (MD1.2).md",
