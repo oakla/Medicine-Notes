@@ -21,7 +21,7 @@ unifying and/or important concepts
 
 
 ## Weeks 5-12
-- [[GIT Block (MD1.2)|GIT Block]] and [[Renal system block (MD1.2)]]
+- [[GIT Block (MD1.2)|GIT Block]] and [[Renal system - Logistics (MD1.2)]]
 - content cover by test 2
 ### Week 5
 - [[05.1.3 Abdominal wall (Anatomy)]]

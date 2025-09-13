@@ -47,7 +47,7 @@ Long Answer Qs
 - Describe the pathophysiology of UTI and how it relates to risk factors for UTI
 - Describe the indications for treatment of asymptomatic bacteriuria, and reasons why
 
-# Events
+# Events (Lectures, Workshops, etc)
 ### Week 9 - Renal
 - [[09.4.3 Kidney function 1 (Physiology)]]
 - [[09.4.4 Kidney function 2 (Physiology)]]
