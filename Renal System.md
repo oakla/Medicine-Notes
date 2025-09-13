@@ -3,7 +3,3 @@ aliases:
 tags: 
 ---
 
-
-
-Physiology
-- 

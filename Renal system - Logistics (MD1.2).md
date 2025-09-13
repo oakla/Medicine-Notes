@@ -48,6 +48,43 @@ Long Answer Qs
 - Describe the indications for treatment of asymptomatic bacteriuria, and reasons why
 
 # Events (Lectures, Workshops, etc)
+## Lectures
+### Physiology
+- [[09.4.3 Kidney function 1 (Physiology)]]
+- [[09.4.4 Kidney function 2 (Physiology)]]
+- [[10.1.6 salt and water balance (Physiology)]]
+- [[10.1.7 Acid base balance (Physiology)]]
+### Anatomy
+- [[10.1.2 Development of the Urinary System (Anatomy)]]
+- [[10.1.3 Urinary Anatomy and Histology (Anatomy)]]
+- [[11.2.7 Urinary System (Anatomy)]]
+### Pathology
+- [[10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology)]]
+- [[10.4.3 Glomerulonephritis (Pathology)]]
+- [[10.4.4 Tubulointerstitial disease (Pathology)]]
+- [[11.4.7 Urolithiasis, cystic kidneys, congenital kidney disease (Pathology)]]
+- [[11.4.8 Renal tract tumors (Pathology)]]
+### Chem Path
+- [[10.4.1 Liver Function Tests (Chemical Pathology)]]
+- [[12.4.2 Chem Path - Blood gas interpretation and acid-base disorders I (Chemical Pathology)]]
+- [[12.4.3 Chem Path - Blood gas interpretation and acid-base disorders II (Chemical Pathology)]]
+### Genetics
+- [[11.3.3 Genotyping and GIT disorders (Genetics)]]
+### Micro
+- [[11.3.1 UTIs (Microbiology)]]
+- [[11.1.0 Revision Guide: Bacterial infections of the renal tract (MicroModule)]]
+### Pharm
+- [[11.3.2 Immunosuppressant Drugs (Pharmacology)]]
+- [[12.3.1 Drugs in kidney disease (Pharmacology)]]
+
+## Clinical Seminars
+- [[10.3.2 Seminar - Surgeon's approach to GIT examination (Clinical)]]
+- [[10.4.0 Seminar Radiology- Imaging of the Kidneys & Retroperitoneum (Clinical)]]
+- [[11.1.0 Seminar - Urology (Clinical)]]
+- [[11.4.2 Seminar: Overview of Renal History (Clinical)]]
+- [[12.1.7 Seminar - Urine abnormalities (Clinical)]]
+- [[12.1.8 Seminar - Kidney Failure (Clinical)]]
+## Timeline
 ### Week 9 - Renal
 - [[09.4.3 Kidney function 1 (Physiology)]]
 - [[09.4.4 Kidney function 2 (Physiology)]]
