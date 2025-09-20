@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Test 2",
+      "path": "Test 2.md"
+    },
+    {
+      "basename": "Test 2 Core Conditions + Presentations",
+      "path": "Test 2 Core Conditions + Presentations.md"
+    },
+    {
+      "basename": "05.1.3 Abdominal wall (Anatomy)",
+      "path": "MD1/Sem2/Content/05.1.3 Abdominal wall (Anatomy).md"
+    },
+    {
+      "basename": "Renal anatomy and physiology MD1",
+      "path": "Renal anatomy and physiology MD1.md"
+    },
+    {
+      "basename": "08.3.3 Medical conditions of bowel (Pathology)",
+      "path": "08.3.3 Medical conditions of bowel (Pathology).md"
+    },
+    {
+      "basename": "GIT Block (MD1.2)",
+      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
+    },
+    {
+      "basename": "12.4.2 Chem Path - Blood gas interpretation and acid-base disorders I (Chemical Pathology)",
+      "path": "12.4.2 Chem Path - Blood gas interpretation and acid-base disorders I (Chemical Pathology).md"
+    },
+    {
+      "basename": "12.1.7 Seminar - Urine abnormalities (Clinical)",
+      "path": "12.1.7 Seminar - Urine abnormalities (Clinical).md"
+    },
+    {
+      "basename": "Inflammatory Bowel Disease",
+      "path": "Inflammatory Bowel Disease.md"
+    },
+    {
       "basename": "2025-09-20",
       "path": "Journalling/Daily-notes/2025-09-20.md"
     },
@@ -13,10 +49,6 @@
       "path": "Renal system - Logistics (MD1.2).md"
     },
     {
-      "basename": "GIT Block (MD1.2)",
-      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
-    },
-    {
       "basename": "MAFLD",
       "path": "MAFLD.md"
     },
@@ -25,20 +57,8 @@
       "path": "Liver Diseases, Conditions.md"
     },
     {
-      "basename": "12.4.2 Chem Path - Blood gas interpretation and acid-base disorders I (Chemical Pathology)",
-      "path": "12.4.2 Chem Path - Blood gas interpretation and acid-base disorders I (Chemical Pathology).md"
-    },
-    {
       "basename": "random inbox",
       "path": "random inbox.md"
-    },
-    {
-      "basename": "Test 2",
-      "path": "Test 2.md"
-    },
-    {
-      "basename": "Inflammatory Bowel Disease",
-      "path": "Inflammatory Bowel Disease.md"
     },
     {
       "basename": "Liver Pathology",
@@ -57,24 +77,8 @@
       "path": "MD1.2.md"
     },
     {
-      "basename": "08.3.3 Medical conditions of bowel (Pathology)",
-      "path": "08.3.3 Medical conditions of bowel (Pathology).md"
-    },
-    {
-      "basename": "Test 2 Core Conditions + Presentations",
-      "path": "Test 2 Core Conditions + Presentations.md"
-    },
-    {
       "basename": "Renal other topic summaries",
       "path": "Renal other topic summaries.md"
-    },
-    {
-      "basename": "Renal anatomy and physiology MD1",
-      "path": "Renal anatomy and physiology MD1.md"
-    },
-    {
-      "basename": "12.1.7 Seminar - Urine abnormalities (Clinical)",
-      "path": "12.1.7 Seminar - Urine abnormalities (Clinical).md"
     },
     {
       "basename": "Renal System",
@@ -195,10 +199,6 @@
     {
       "basename": "MD1.2 Content",
       "path": "MD1/Sem2/Content/MD1.2 Content.base"
-    },
-    {
-      "basename": "01.3.1 - URTIs",
-      "path": "MD1/Sem2/Content/01.3.1 - URTIs.md"
     }
   ],
   "omittedPaths": [],
