@@ -514,7 +514,7 @@
         "direction": "vertical",
         "x": -1072,
         "y": 276,
-        "width": 765,
+        "width": 1042,
         "height": 968,
         "maximize": false,
         "zoom": 0
@@ -661,8 +661,10 @@
       }
     ]
   },
-  "active": "f95fc0561c55eb72",
+  "active": "f67f7aaf1011f2ac",
   "lastOpenFiles": [
+    "12.3.1 Drugs in kidney disease (Pharmacology).md",
+    "Renal system - Logistics (MD1.2).md",
     "Journalling/Daily-notes/2025-09-20.md",
     "MAFLD.md",
     "Liver Diseases, Conditions.md",
@@ -680,9 +682,7 @@
     "Renal other topic summaries.md",
     "Renal anatomy and physiology MD1.md",
     "12.1.7 Seminar - Urine abnormalities (Clinical).md",
-    "Renal system - Logistics (MD1.2).md",
     "Renal System.md",
-    "12.3.1 Drugs in kidney disease (Pharmacology).md",
     "MD1/Sem2/Content/11.4.7 Urolithiasis, cystic kidneys, congenital kidney disease (Pathology).md",
     "Renal Failure.md",
     "MD1/Sem2/Content/10.1.7 Acid base balance (Physiology).md",
