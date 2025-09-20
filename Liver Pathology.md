@@ -285,7 +285,3 @@ tags:
 * **Serology set:** Which serologies would you order (virus/autoimmune/iron)?&#x20;
 * **HPB tumour ID:** Primary vs **metastasis**; biliary vs hepatocellular clues.&#x20;
 * **Drug choice tweak:** If **cirrhosis** is present, would you **avoid/swap/reduce**? (e.g., diazepam→lorazepam).&#x20;
-
----
-
-If you’d like, I can turn this into a printable **one-page cram sheet** or generate **Anki cards** from the “Key Concepts Checklist.”
