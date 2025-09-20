@@ -8,7 +8,15 @@ tags:
 
 # Key Concepts
 
+- [[Diuresis]]
+
+## Pathology
+
+- [[Bilateral (kidney) agenesis - Potter's Syndrome]] 
+	- OLIGOHYDRAMNIOS[^4] [^5]
+
 ## Core Conditions[^1]
+[[Test 2 Core Conditions + Presentations]]
 ### 3+ and 2+
 
 | Level | Renal                      | Urology                   |
@@ -18,7 +26,7 @@ tags:
 | 2+    | Carcinoma of kidney        |                           |
 | 2+    | Diabetic nephropathy       | Urinary tract obstruction |
 |       | Hypertensive renal disease | Vesico-ureteric reflux    |
-|       | Acute kidney injury        | Urinary retention         |
+|       | [[Acute kidney injury]]    | Urinary retention         |
 ### 1+
 - Renal artery stenosis
 - Nephritic syndrome
@@ -34,6 +42,8 @@ tags:
 ## Phys
 - what is Glomerular blood hydrostatic pressure[^2]
 - the kidneys filter 36x blood volume per day (i.e. ${ 36 \times 5\ L = 180\ L }$, or ${125\ ml/min}$)
+- what is the main driver of ADH secretion/production[^3]
+- 
 ### Micro - UTIs
 "Easily testable facts"
 - Escherichia coli (specifically, UPEC) most common cause of UTI
@@ -44,8 +54,16 @@ tags:
 - Some antibiotics (nitrofurantoin, fosfomycin) are good for cystitis, but inappropriate for pyelonephritis etc because they don't reach adequate concentration in kidney tissue/blood
 
 Long Answer Qs
-- Describe the pathophysiology of UTI and how it relates to risk factors for UTI
+- Describe the pathophysiologyof UTI and how it relates to risk factors for UTI
 - Describe the indications for treatment of asymptomatic bacteriuria, and reasons why
+
+### My prompts
+
+In the renal tubules
+- where are the aquaporins?
+- where does ADH affect?
+- where ANP affect?
+- where does renin affect?
 
 # Events (Lectures, Workshops, etc)
 ## Lectures
@@ -114,3 +132,6 @@ Long Answer Qs
 
 [^1]: [[11.4.2 Seminar: Overview of Renal History (Clinical)]]
 [^2]: [[09.4.3 Kidney function 1 (Physiology)]]
+[^3]: [[10.1.6 salt and water balance (Physiology)]]
+[^4]: [[10.1.2 Development of the Urinary System (Anatomy)]]
+[^5]: [[11.4.7 Urolithiasis, cystic kidneys, congenital kidney disease (Pathology)]]

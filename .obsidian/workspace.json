@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e6bba9f5c93b32a",
+        "id": "3fb56729327b5bc8",
         "type": "tabs",
-        "dimension": 47.2806381435823,
         "children": [
           {
-            "id": "c1ba8c17bce77de2",
+            "id": "c93e32e4a44d39cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,21 +22,7 @@
             }
           },
           {
-            "id": "4e86f706e741c556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GIT Block (MD1.2)"
-            }
-          },
-          {
-            "id": "30ba3fce0c7b640b",
+            "id": "1f7cad5d3920ba0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,53 +36,133 @@
             }
           },
           {
-            "id": "1f7cad5d3920ba0c",
+            "id": "22f5e8e75b50762b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GIT Block (MD1.2)"
+            }
+          },
+          {
+            "id": "3d5c6431808f4ad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liver Pathology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Liver Pathology"
+            }
+          },
+          {
+            "id": "f64880e530442a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inflammatory Bowel Disease.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inflammatory Bowel Disease"
+            }
+          },
+          {
+            "id": "2642dedde853fc26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test 2 Core Conditions + Presentations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test 2 Core Conditions + Presentations"
+            }
+          },
+          {
+            "id": "b67bfde29893074a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12.1.7 Seminar - Urine abnormalities (Clinical).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.1.7 Seminar - Urine abnormalities (Clinical)"
+            }
+          },
+          {
+            "id": "4d635d86ed548a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12.4.2 Chem Path - Blood gas interpretation and acid-base disorders I (Chemical Pathology).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.4.2 Chem Path - Blood gas interpretation and acid-base disorders I (Chemical Pathology)"
+            }
+          },
+          {
+            "id": "e0702425a6cbe302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12.1.8 Seminar - Kidney Failure (Clinical).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.1.8 Seminar - Kidney Failure (Clinical)"
+            }
+          },
+          {
+            "id": "975ce3f8c3f7bc26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Renal anatomy and physiology MD1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Renal anatomy and physiology MD1"
+            }
+          },
+          {
+            "id": "9143de09807e49db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08.3.3 Medical conditions of bowel (Pathology).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08.3.3 Medical conditions of bowel (Pathology)"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "3fb56729327b5bc8",
-        "type": "tabs",
-        "dimension": 52.71936185641769,
-        "children": [
-          {
-            "id": "4bae63f35d83fc0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Renal System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Renal System"
-            }
-          },
-          {
-            "id": "e30d89a96d5d8030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.1.3 Urinary Anatomy and Histology (Anatomy).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.1.3 Urinary Anatomy and Histology (Anatomy)"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.1.3 Urinary Anatomy and Histology (Anatomy).md",
+                "file": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10.1.3 Urinary Anatomy and Histology (Anatomy)"
+              "title": "Outline of GIT Block (MD1.2)"
             }
           },
           {
@@ -153,7 +218,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "aa66f78dd15e4d7e",
@@ -308,146 +374,268 @@
     "type": "floating",
     "children": [
       {
-        "id": "e9d93ec4f13ba9dc",
+        "id": "aef02bedd8e2962d",
         "type": "window",
         "children": [
           {
-            "id": "e64211b6cbfad3d4",
+            "id": "4a93a6a8c3fd5c74",
             "type": "tabs",
             "children": [
               {
-                "id": "68c14420f9607471",
+                "id": "cee4a44815ed6c26",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "12.3.1 Drugs in kidney disease (Pharmacology).md",
+                    "mode": "source",
+                    "source": false
+                  },
                   "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "12.3.1 Drugs in kidney disease (Pharmacology)"
+                }
+              },
+              {
+                "id": "13d4939cd80c72c3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Renal System.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Renal System"
+                }
+              },
+              {
+                "id": "8439fa3a4ada46cb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Renal other topic summaries.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Renal other topic summaries"
+                }
+              },
+              {
+                "id": "7a6853ee24b7289d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "12.4.2 Chem Path - Blood gas interpretation and acid-base disorders I (Chemical Pathology).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "12.4.2 Chem Path - Blood gas interpretation and acid-base disorders I (Chemical Pathology)"
+                }
+              },
+              {
+                "id": "d3971def7f220711",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "random inbox.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "random inbox"
+                }
+              },
+              {
+                "id": "f67f7aaf1011f2ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Journalling/Daily-notes/2025-09-20.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-09-20"
+                }
+              },
+              {
+                "id": "56374b3bd735fb6c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Liver Diseases, Conditions.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Liver Diseases, Conditions"
+                }
+              },
+              {
+                "id": "a82666b282fb8aaa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MAFLD.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MAFLD"
+                }
+              },
+              {
+                "id": "94b3264deb3ccd2b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Test 2.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Test 2"
                 }
               }
-            ]
-          },
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "vertical",
+        "x": -1072,
+        "y": 276,
+        "width": 765,
+        "height": 968,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "8004c2ef2867768a",
+        "type": "window",
+        "children": [
           {
-            "id": "2afc9c5a740eb071",
+            "id": "a2eaaf1c7a38557b",
             "type": "tabs",
             "children": [
               {
-                "id": "b7060e1c10ee768e",
+                "id": "a602af6b406a8e3f",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "12.3.1 Drugs in kidney disease (Pharmacology).md",
+                    "mode": "source",
+                    "source": false
+                  },
                   "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "12.3.1 Drugs in kidney disease (Pharmacology)"
+                }
+              },
+              {
+                "id": "b5d60cde477eb2c5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Renal Failure.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Renal Failure"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 752,
+        "x": 565,
+        "y": 70,
+        "width": 722,
+        "height": 959,
         "maximize": false,
         "zoom": 0
       },
       {
-        "id": "6adddbe5b3ea7751",
+        "id": "ac71abc53ab2f00f",
         "type": "window",
         "children": [
           {
-            "id": "6b2fe778f91fbf58",
+            "id": "a2d4bc240b2279ad",
+            "type": "split",
+            "children": [
+              {
+                "id": "bf114d56a472c638",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b0e88e5b8b8818f0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MD1/Sem2/Content/11.4.7 Urolithiasis, cystic kidneys, congenital kidney disease (Pathology).md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "11.4.7 Urolithiasis, cystic kidneys, congenital kidney disease (Pathology)"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "12f8915bc3985028",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c589941a27e0a213",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MD1/Sem2/Content/11.4.7 Urolithiasis, cystic kidneys, congenital kidney disease (Pathology).md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "11.4.7 Urolithiasis, cystic kidneys, congenital kidney disease (Pathology)"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical",
+        "x": 1119,
+        "y": 0,
+        "width": 796,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "b0d127af54bc637a",
+        "type": "window",
+        "children": [
+          {
+            "id": "3ec8e52d06e20caf",
             "type": "tabs",
             "children": [
               {
-                "id": "47405c2d14b09d97",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              },
-              {
-                "id": "f3e67013867eb10e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "GIT Block (MD1.2)"
-                }
-              },
-              {
-                "id": "bf867aeaab94315b",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "GIT Mind Map.canvas",
-                    "viewState": {
-                      "x": -1590.3340993670995,
-                      "y": 341.7678963231635,
-                      "zoom": -0.4868068207002125
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "GIT Mind Map"
-                }
-              },
-              {
-                "id": "5d0437b14964157e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Liver.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Liver"
-                }
-              },
-              {
-                "id": "89020d64632b74e4",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "GIT MD1.2 Content.canvas",
-                    "viewState": {
-                      "x": -85,
-                      "y": -17,
-                      "zoom": -0.3312752671466151
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "GIT MD1.2 Content"
-                }
-              },
-              {
-                "id": "51796841d1b45e21",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MD1.2.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "MD1.2"
-                }
-              },
-              {
-                "id": "b337834941596122",
+                "id": "f95fc0561c55eb72",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -459,137 +647,54 @@
                   "icon": "lucide-file",
                   "title": "Renal system - Logistics (MD1.2)"
                 }
-              },
-              {
-                "id": "91dc004f76269323",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 298,
-        "y": 58,
-        "width": 1801,
-        "height": 1505,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "4a01a62da10eb0b1",
-        "type": "window",
-        "children": [
-          {
-            "id": "ec24db29a49e0079",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "34f02dce8febd071",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10.4.3 Glomerulonephritis (Pathology).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "10.4.3 Glomerulonephritis (Pathology)"
-                }
-              },
-              {
-                "id": "2cfe58b5663ec9de",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10.4.4 Tubulointerstitial disease (Pathology).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "10.4.4 Tubulointerstitial disease (Pathology)"
-                }
-              },
-              {
-                "id": "6c8e213ba5200cf9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Etymology.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Etymology"
-                }
-              },
-              {
-                "id": "20339c9a46fd98c9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Diuresis.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Diuresis"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 640,
-        "y": 0,
-        "width": 640,
-        "height": 752,
+        "x": 623,
+        "y": 185,
+        "width": 690,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e30d89a96d5d8030",
+  "active": "f95fc0561c55eb72",
   "lastOpenFiles": [
-    "10.1.3 Urinary Anatomy and Histology (Anatomy).md",
-    "Renal System.md",
-    "Renal system - Logistics (MD1.2).md",
-    "MD1.2.md",
+    "Journalling/Daily-notes/2025-09-20.md",
+    "MAFLD.md",
+    "Liver Diseases, Conditions.md",
+    "12.4.2 Chem Path - Blood gas interpretation and acid-base disorders I (Chemical Pathology).md",
+    "random inbox.md",
+    "Test 2.md",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
+    "Inflammatory Bowel Disease.md",
+    "Liver Pathology.md",
+    "Crohn Disease.md",
+    "Ulcerative Colitis.md",
+    "MD1.2.md",
+    "08.3.3 Medical conditions of bowel (Pathology).md",
+    "Test 2 Core Conditions + Presentations.md",
+    "Renal other topic summaries.md",
+    "Renal anatomy and physiology MD1.md",
+    "12.1.7 Seminar - Urine abnormalities (Clinical).md",
+    "Renal system - Logistics (MD1.2).md",
+    "Renal System.md",
+    "12.3.1 Drugs in kidney disease (Pharmacology).md",
+    "MD1/Sem2/Content/11.4.7 Urolithiasis, cystic kidneys, congenital kidney disease (Pathology).md",
+    "Renal Failure.md",
+    "MD1/Sem2/Content/10.1.7 Acid base balance (Physiology).md",
+    "MD1/Sem2/Content/05.3.2 Digestion (Physiology).md",
+    "temp21.md",
+    "MD1/Sem2/Content/05.3.3 Absorption (Physiology).md",
+    "Untitled.canvas",
+    "Urinary System Histology and Anatomy Mind Map.canvas",
     "MD1/Sem2/Content/MD1.2 Content.base",
-    "MD1/Sem2/Content/Untitled.md",
-    "MD1/Sem2/Content/01.3.1 - URTIs.md",
-    "MD1/Sem2/Content/01.3.2 - LRTI 1.md",
-    "MD1/Sem2/Content/01.2.4 - Respiratory Mechanics (Physiology).md",
-    "MD1/Sem2/Content/01.1.4 - Ventilation & lung volumes (Physiology).md",
     "Untitled 2.base",
-    "🫁 Study Guide - Pulmonary Neoplasia.md",
     "Untitled 1.base",
     "Untitled.base",
-    "10.4.3 Glomerulonephritis (Pathology).md",
-    "MD1/Sem2/Content/10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology).md",
-    "MD1/Sem2/Content/04.1.6 - Seminar - Respiratory Cases (Clinical).md",
-    "MD1/Sem2/Content/02.4.4 - IgE Hypersensitivities (Immunology).md",
-    "MD1/Sem2/Content/05.3.3 Absorption (Physiology).md",
-    "MD1/Sem2/Content/06.1.6 Cultural safety and working with Aboriginal people (Aboriginal Health).md",
-    "MD1/Sem2/Content/06.1.8 Obesity (Pharmacology).md",
-    "MD1/Sem2/Content/06.3.2 Oesophagus (Pathology).md",
-    "MD1/Sem2/Content/06.4.2 Seminar - Overview of the Gastrointestinal History with an upper GI focus (Clinical).md",
-    "MD1/Sem2/Content/06.3.4 Stomach (Pathology).md",
-    "MD1/Sem2/Content/05.1.3 Abdominal wall (Anatomy).md",
-    "MD1/Sem2/Content/06.4.4 Over and undernutrition (Population Health).md",
-    "MD1/Sem2/Content/06.3.3 Small bowel disease (Pathology).md",
-    "MD1/Sem2/Content/08.4.2 Seminar - Altered Bowel habit - (Clinical).md",
-    "MD1/Sem2/Content/08.4.3 Managing outbreaks and infectious disease emergencies (Population Health).md",
     "GIT Mind Map.canvas",
     "GIT MD1.2 Content.canvas",
     "10.3.4 Summary of GIT & Intro to renal",

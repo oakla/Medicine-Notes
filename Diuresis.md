@@ -2,7 +2,7 @@
 aliases:
 tags:
   - Class/Permanent-Note
-  - System-block/-
+  - System-block/Renal
 lectures:
 ---
 
