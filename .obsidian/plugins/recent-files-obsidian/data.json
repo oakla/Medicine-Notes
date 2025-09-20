@@ -5,6 +5,10 @@
       "path": "Test 2.md"
     },
     {
+      "basename": "Inflammatory Bowel Disease",
+      "path": "Inflammatory Bowel Disease.md"
+    },
+    {
       "basename": "Test 2 Core Conditions + Presentations",
       "path": "Test 2 Core Conditions + Presentations.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "12.1.7 Seminar - Urine abnormalities (Clinical)",
       "path": "12.1.7 Seminar - Urine abnormalities (Clinical).md"
-    },
-    {
-      "basename": "Inflammatory Bowel Disease",
-      "path": "Inflammatory Bowel Disease.md"
     },
     {
       "basename": "2025-09-20",

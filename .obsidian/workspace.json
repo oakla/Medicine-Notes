@@ -104,6 +104,20 @@
               "icon": "lucide-file",
               "title": "Test 2"
             }
+          },
+          {
+            "id": "bef527fd3036edc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inflammatory Bowel Disease.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inflammatory Bowel Disease"
+            }
           }
         ],
         "currentTab": 6
@@ -162,7 +176,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "aa66f78dd15e4d7e",
@@ -606,15 +621,15 @@
   },
   "active": "c8539a2a27fdc517",
   "lastOpenFiles": [
-    "Test 2 Core Conditions + Presentations.md",
+    "Inflammatory Bowel Disease.md",
     "Test 2.md",
+    "Test 2 Core Conditions + Presentations.md",
     "MD1/Sem2/Content/05.1.3 Abdominal wall (Anatomy).md",
     "Renal anatomy and physiology MD1.md",
     "08.3.3 Medical conditions of bowel (Pathology).md",
     "MD1/Sem2/System Blocks/GIT Block (MD1.2).md",
     "12.4.2 Chem Path - Blood gas interpretation and acid-base disorders I (Chemical Pathology).md",
     "12.1.7 Seminar - Urine abnormalities (Clinical).md",
-    "Inflammatory Bowel Disease.md",
     "Journalling/Daily-notes/2025-09-20.md",
     "12.3.1 Drugs in kidney disease (Pharmacology).md",
     "Renal system - Logistics (MD1.2).md",
