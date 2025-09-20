@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "06.1.8 Obesity (Pharmacology)",
-      "path": "MD1/Sem2/Content/06.1.8 Obesity (Pharmacology).md"
-    },
-    {
-      "basename": "Renal anatomy and physiology MD1",
-      "path": "Renal anatomy and physiology MD1.md"
-    },
-    {
       "basename": "Liver Pathology",
       "path": "Liver Pathology.md"
+    },
+    {
+      "basename": "Liver",
+      "path": "Liver.md"
     },
     {
       "basename": "Liver Diseases, Conditions",
@@ -19,6 +15,14 @@
     {
       "basename": "Test 2",
       "path": "Test 2.md"
+    },
+    {
+      "basename": "06.1.8 Obesity (Pharmacology)",
+      "path": "MD1/Sem2/Content/06.1.8 Obesity (Pharmacology).md"
+    },
+    {
+      "basename": "Renal anatomy and physiology MD1",
+      "path": "Renal anatomy and physiology MD1.md"
     },
     {
       "basename": "Inflammatory Bowel Disease",
@@ -195,10 +199,6 @@
     {
       "basename": "10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology)",
       "path": "MD1/Sem2/Content/10.3.4 Summary of GIT & Intro to renal+urinary tract pathology (Pathology).md"
-    },
-    {
-      "basename": "Etymology",
-      "path": "Etymology.md"
     }
   ],
   "omittedPaths": [],
