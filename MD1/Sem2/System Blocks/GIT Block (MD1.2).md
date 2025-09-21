@@ -13,6 +13,7 @@ tags:
 - [[Clinical Skills (GI Block)]]
 - [[Pathology Museum SLGs (GI Block)]]
 - [[Liver (some) Pathology - AI Summary]]
+- [[GIT Pathology by body Site]]
 
 ## Body Sites
 - mouth
