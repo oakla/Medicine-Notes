@@ -9,7 +9,12 @@ tags:
 - [[MAFLD]]
 - hepatisis
 - hepatic steatosis
-
+Taxonomy of Liver Disease
+- Medical vs Surgical
+	- Medical
+		- Acute vs Chronic
+		- 3 *main* histological patterns
+			- FIB: Fatty, Inflammation, Bile
 
 
 ## Cirrhosis
