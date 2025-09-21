@@ -5,7 +5,7 @@ tags:
 ---
 
 # Nav
-- [[Liver Pathology]]
+- [[Liver (some) Pathology - AI Summary]]
 - [[Liver Diseases, Conditions]]
 - [[Inflammatory Bowel Disease]]
 

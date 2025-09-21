@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Crohn Disease",
+      "path": "Crohn Disease.md"
+    },
+    {
+      "basename": "Ulcerative Colitis",
+      "path": "Ulcerative Colitis.md"
+    },
+    {
+      "basename": "Inflammatory Bowel Disease",
+      "path": "Inflammatory Bowel Disease.md"
+    },
+    {
+      "basename": "Renal anatomy and physiology MD1",
+      "path": "Renal anatomy and physiology MD1.md"
+    },
+    {
+      "basename": "08.2.0.2 Diarrhoea, constipation, pancreatic insufficiency (Pharmacology)",
+      "path": "08.2.0.2 Diarrhoea, constipation, pancreatic insufficiency (Pharmacology).md"
+    },
+    {
+      "basename": "08.2.0.1 IBD (Pharmacology)",
+      "path": "08.2.0.1 IBD (Pharmacology).md"
+    },
+    {
+      "basename": "12.3.1 Drugs in kidney disease (Pharmacology)",
+      "path": "12.3.1 Drugs in kidney disease (Pharmacology).md"
+    },
+    {
+      "basename": "Renal System",
+      "path": "Renal System.md"
+    },
+    {
+      "basename": "Renal other topic summaries",
+      "path": "Renal other topic summaries.md"
+    },
+    {
+      "basename": "Test 2",
+      "path": "Test 2.md"
+    },
+    {
       "basename": "Liver Diseases, Conditions",
       "path": "Liver Diseases, Conditions.md"
     },
     {
-      "basename": "Liver Pathology",
-      "path": "Liver Pathology.md"
+      "basename": "2025-09-20",
+      "path": "Journalling/Daily-notes/2025-09-20.md"
+    },
+    {
+      "basename": "Liver (some) Pathology - AI Summary",
+      "path": "Liver (some) Pathology - AI Summary.md"
+    },
+    {
+      "basename": "11.4.7 Urolithiasis, cystic kidneys, congenital kidney disease (Pathology)",
+      "path": "MD1/Sem2/Content/11.4.7 Urolithiasis, cystic kidneys, congenital kidney disease (Pathology).md"
     },
     {
       "basename": "Renal system - Logistics (MD1.2)",
@@ -17,28 +65,12 @@
       "path": "MD1/Sem2/Content/06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy).md"
     },
     {
-      "basename": "12.3.1 Drugs in kidney disease (Pharmacology)",
-      "path": "12.3.1 Drugs in kidney disease (Pharmacology).md"
-    },
-    {
-      "basename": "Test 2",
-      "path": "Test 2.md"
-    },
-    {
-      "basename": "Inflammatory Bowel Disease",
-      "path": "Inflammatory Bowel Disease.md"
-    },
-    {
       "basename": "06.1.8 Obesity (Pharmacology)",
       "path": "MD1/Sem2/Content/06.1.8 Obesity (Pharmacology).md"
     },
     {
       "basename": "Liver",
       "path": "Liver.md"
-    },
-    {
-      "basename": "Renal anatomy and physiology MD1",
-      "path": "Renal anatomy and physiology MD1.md"
     },
     {
       "basename": "Test 2 Core Conditions + Presentations",
@@ -65,10 +97,6 @@
       "path": "12.1.7 Seminar - Urine abnormalities (Clinical).md"
     },
     {
-      "basename": "2025-09-20",
-      "path": "Journalling/Daily-notes/2025-09-20.md"
-    },
-    {
       "basename": "MAFLD",
       "path": "MAFLD.md"
     },
@@ -77,28 +105,8 @@
       "path": "random inbox.md"
     },
     {
-      "basename": "Crohn Disease",
-      "path": "Crohn Disease.md"
-    },
-    {
-      "basename": "Ulcerative Colitis",
-      "path": "Ulcerative Colitis.md"
-    },
-    {
       "basename": "MD1.2",
       "path": "MD1.2.md"
-    },
-    {
-      "basename": "Renal other topic summaries",
-      "path": "Renal other topic summaries.md"
-    },
-    {
-      "basename": "Renal System",
-      "path": "Renal System.md"
-    },
-    {
-      "basename": "11.4.7 Urolithiasis, cystic kidneys, congenital kidney disease (Pathology)",
-      "path": "MD1/Sem2/Content/11.4.7 Urolithiasis, cystic kidneys, congenital kidney disease (Pathology).md"
     },
     {
       "basename": "Renal Failure",
@@ -191,14 +199,6 @@
     {
       "basename": "11.4.8 Renal tract tumors (Pathology)",
       "path": "MD1/Sem2/Content/11.4.8 Renal tract tumors (Pathology).md"
-    },
-    {
-      "basename": "11.3.2 Immunosuppressant Drugs (Pharmacology)",
-      "path": "MD1/Sem2/Content/11.3.2 Immunosuppressant Drugs (Pharmacology).md"
-    },
-    {
-      "basename": "10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology)",
-      "path": "MD1/Sem2/Content/10.4.1 Chem Pathology - Liver Function Tests (Chemical Pathology).md"
     }
   ],
   "omittedPaths": [],

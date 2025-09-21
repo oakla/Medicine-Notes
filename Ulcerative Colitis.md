@@ -5,7 +5,7 @@ tags:
   - Class/Permanent-Note
   - System-block/GIT
 lectures:
-  - "[[08.3.1 IBD (Pharmacology)]]"
+  - "[[08.2.0.1 IBD (Pharmacology)]]"
   - "[[08.3.3 Medical conditions of bowel (Pathology)]]"
 ---
 

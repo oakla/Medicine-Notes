@@ -12,7 +12,7 @@ tags:
 - [[Etymology (GI)]]
 - [[Clinical Skills (GI Block)]]
 - [[Pathology Museum SLGs (GI Block)]]
-- [[Liver Pathology]]
+- [[Liver (some) Pathology - AI Summary]]
 
 
 ## What to know
