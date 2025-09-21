@@ -14,6 +14,9 @@ tags:
 - [[Pathology Museum SLGs (GI Block)]]
 - [[Liver (some) Pathology - AI Summary]]
 
+## Body Sites
+- mouth
+- [[Stomach]]
 
 ## What to know
 

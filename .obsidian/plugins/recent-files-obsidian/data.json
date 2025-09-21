@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Stomach",
+      "path": "Stomach.md"
+    },
+    {
+      "basename": "GIT Block (MD1.2)",
+      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
+    },
+    {
       "basename": "Inflammatory Bowel Disease",
       "path": "Inflammatory Bowel Disease.md"
     },
@@ -85,10 +97,6 @@
       "path": "08.3.3 Medical conditions of bowel (Pathology).md"
     },
     {
-      "basename": "GIT Block (MD1.2)",
-      "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
-    },
-    {
       "basename": "12.4.2 Chem Path - Blood gas interpretation and acid-base disorders I (Chemical Pathology)",
       "path": "12.4.2 Chem Path - Blood gas interpretation and acid-base disorders I (Chemical Pathology).md"
     },
@@ -103,10 +111,6 @@
     {
       "basename": "random inbox",
       "path": "random inbox.md"
-    },
-    {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
     },
     {
       "basename": "Renal Failure",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 2",
       "path": "Untitled 2.md"
-    },
-    {
-      "basename": "11.4.8 Renal tract tumors (Pathology)",
-      "path": "MD1/Sem2/Content/11.4.8 Renal tract tumors (Pathology).md"
     }
   ],
   "omittedPaths": [],
