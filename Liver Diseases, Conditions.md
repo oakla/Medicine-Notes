@@ -7,6 +7,7 @@ tags:
 
 
 - [[MAFLD]]
+- hepatisis
 - hepatic steatosis
 
 

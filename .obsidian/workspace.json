@@ -471,10 +471,10 @@
           }
         ],
         "direction": "vertical",
-        "x": -1271,
-        "y": -402,
+        "x": 862,
+        "y": 0,
         "width": 1043,
-        "height": 753,
+        "height": 752,
         "maximize": false,
         "zoom": 0
       },
@@ -533,8 +533,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 425,
-        "y": 53,
+        "x": 565,
+        "y": 70,
         "width": 722,
         "height": 959,
         "maximize": false,
@@ -641,8 +641,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1197,
-        "y": 127,
+        "x": 623,
+        "y": 185,
         "width": 690,
         "height": 800,
         "maximize": false,
