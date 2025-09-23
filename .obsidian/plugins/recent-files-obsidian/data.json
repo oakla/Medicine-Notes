@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "13.2.1 Development of Endocrine Organs (Anatomy)",
+      "path": "13.2.1 Development of Endocrine Organs (Anatomy).md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
+    },
+    {
       "basename": "GIT Block (MD1.2)",
       "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Stomach",
       "path": "Stomach.md"
-    },
-    {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
     },
     {
       "basename": "Inflammatory Bowel Disease",
@@ -195,10 +199,6 @@
     {
       "basename": "Diuresis",
       "path": "Diuresis.md"
-    },
-    {
-      "basename": "10.4.3 Glomerulonephritis (Pathology)",
-      "path": "MD1/Sem2/Content/10.4.3 Glomerulonephritis (Pathology).md"
     }
   ],
   "omittedPaths": [],
