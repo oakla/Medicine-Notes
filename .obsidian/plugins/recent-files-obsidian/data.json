@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "13.2.1 Development of Endocrine Organs (Anatomy)",
-      "path": "13.2.1 Development of Endocrine Organs (Anatomy).md"
+      "basename": "Week 13",
+      "path": "Week 13.md"
     },
     {
       "basename": "MD1.2",
       "path": "MD1.2.md"
+    },
+    {
+      "basename": "13.2.1 Development of Endocrine Organs (Anatomy)",
+      "path": "13.2.1 Development of Endocrine Organs (Anatomy).md"
+    },
+    {
+      "basename": "Inflammatory Bowel Disease",
+      "path": "Inflammatory Bowel Disease.md"
+    },
+    {
+      "basename": "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy)",
+      "path": "MD1/Sem2/Content/06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy).md"
+    },
+    {
+      "basename": "Renal Failure",
+      "path": "Renal Failure.md"
+    },
+    {
+      "basename": "12.3.1 Drugs in kidney disease (Pharmacology)",
+      "path": "12.3.1 Drugs in kidney disease (Pharmacology).md"
     },
     {
       "basename": "GIT Block (MD1.2)",
@@ -23,10 +43,6 @@
     {
       "basename": "Stomach",
       "path": "Stomach.md"
-    },
-    {
-      "basename": "Inflammatory Bowel Disease",
-      "path": "Inflammatory Bowel Disease.md"
     },
     {
       "basename": "Test 2",
@@ -47,10 +63,6 @@
     {
       "basename": "08.2.0.1 IBD (Pharmacology)",
       "path": "08.2.0.1 IBD (Pharmacology).md"
-    },
-    {
-      "basename": "12.3.1 Drugs in kidney disease (Pharmacology)",
-      "path": "12.3.1 Drugs in kidney disease (Pharmacology).md"
     },
     {
       "basename": "Renal System",
@@ -79,10 +91,6 @@
     {
       "basename": "Renal system - Logistics (MD1.2)",
       "path": "Renal system - Logistics (MD1.2).md"
-    },
-    {
-      "basename": "06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy)",
-      "path": "MD1/Sem2/Content/06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy).md"
     },
     {
       "basename": "06.1.8 Obesity (Pharmacology)",
@@ -119,10 +127,6 @@
     {
       "basename": "random inbox",
       "path": "random inbox.md"
-    },
-    {
-      "basename": "Renal Failure",
-      "path": "Renal Failure.md"
     },
     {
       "basename": "10.1.7 Acid base balance (Physiology)",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 3",
       "path": "Untitled 3.md"
-    },
-    {
-      "basename": "Diuresis",
-      "path": "Diuresis.md"
     }
   ],
   "omittedPaths": [],
