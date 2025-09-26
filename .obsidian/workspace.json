@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "21be0416f3a420a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 13"
-            }
-          },
-          {
             "id": "a0c4ebf7e0565b65",
             "type": "leaf",
             "state": {
@@ -51,6 +37,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "a1b02cc54bbb6a84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21be0416f3a420a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 13"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
