@@ -19,6 +19,11 @@ Pancreas
 - Inferior parathyroid gland is from the 3rd pharyngeal pouch
 - Superior parathyroid gland is from the 4th pharyngeal pouch
 - C-cells of the thyroid gland are from the 4th pharyngeal pouch
+- 4 endocrine organs from ectoderm 
+	- two from NT ectoderm
+	- one from surface ectoderm
+	- one from neural crest cells
+- 
 
 
 ### Revision
