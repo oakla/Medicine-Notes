@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "13.2.5 Endocrine Control Systems 1 (Physiology)",
-      "path": "13.2.5 Endocrine Control Systems 1 (Physiology).md"
+      "basename": "13.5.0 Biochem - Feeding + fasting (Biochemistry)",
+      "path": "13.5.0 Biochem - Feeding + fasting (Biochemistry).md"
+    },
+    {
+      "basename": "13.5.0 Biochem - Glucose Homeostasis (Biochemistry)",
+      "path": "13.5.0 Biochem - Glucose Homeostasis (Biochemistry).md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
     },
     {
       "basename": "Week 13",
@@ -13,16 +21,16 @@
       "path": "13.2.1 Development of Endocrine Organs (Anatomy).md"
     },
     {
+      "basename": "13.2.5 Endocrine Control Systems 1 (Physiology)",
+      "path": "13.2.5 Endocrine Control Systems 1 (Physiology).md"
+    },
+    {
       "basename": "lecture (template)",
       "path": "System/Templates/lecture (template).md"
     },
     {
       "basename": "13.2.6 Endocrine Control Systems 2 (Physiology)",
       "path": "13.2.6 Endocrine Control Systems 2 (Physiology).md"
-    },
-    {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
     },
     {
       "basename": "Inflammatory Bowel Disease",
@@ -191,14 +199,6 @@
     {
       "basename": "09.4.3 Kidney function 1 (Physiology)",
       "path": "09.4.3 Kidney function 1 (Physiology).md"
-    },
-    {
-      "basename": "09.4.4 Kidney function 2 (Physiology)",
-      "path": "09.4.4 Kidney function 2 (Physiology).md"
-    },
-    {
-      "basename": "10.1.3 Urinary Anatomy and Histology (Anatomy)",
-      "path": "MD1/Sem2/Content/10.1.3 Urinary Anatomy and Histology (Anatomy).md"
     }
   ],
   "omittedPaths": [],

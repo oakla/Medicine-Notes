@@ -138,6 +138,8 @@ unifying and/or important concepts
 - [[12.5.4 SGL - Renal (Pathology)]]
 
 ### [[Week 13]]
+- [[13.5.0 Biochem - Glucose Homeostasis (Biochemistry)]]
+- [[13.5.0 Biochem - Feeding + fasting (Biochemistry)]]
 - [[13.2.1 Development of Endocrine Organs (Anatomy)]]
 - [[13.2.2 Endocrine Anatomy and Histology (Anatomy)]]
 - [[13.2.5 Endocrine Control Systems 1 (Physiology)]]
@@ -151,5 +153,3 @@ unifying and/or important concepts
 - [[13.4.8 Chem Path - Ca/Mg/PO4 + Bone Markers (Chemical Pathology)]]
 - [[13.5.6 Thyroid drugs (Pharmacology)]]
 - [[13.5.7 Endocrinology (Immunology)]]
-- [[13.5.0 Biochem - Glucose Homeostasis (Biochemistry)]]
-- [[13.5.0 Biochem - Feeding + fasting (Biochemistry)]]
