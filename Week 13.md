@@ -15,7 +15,7 @@ Pancreas
 
 ## Fast Facts
 
-- Thymus is from the 3rd pharyngeal pouch
+- The thymus originates from the 3rd pharyngeal pouch
 - Inferior parathyroid gland is from the 3rd pharyngeal pouch
 - Superior parathyroid gland is from the 4th pharyngeal pouch
 - C-cells of the thyroid gland are from the 4th pharyngeal pouch
