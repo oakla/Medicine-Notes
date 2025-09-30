@@ -339,36 +339,27 @@
                   "icon": "lucide-file",
                   "title": "13.5.0 Biochem - Feeding + fasting (Biochemistry)"
                 }
-              },
-              {
-                "id": "fa77ea9f1513a149",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 2604,
-        "y": 5,
-        "width": 1761,
-        "height": 2139,
+        "x": -1,
+        "y": 15,
+        "width": 753,
+        "height": 816,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e1b0b46047c34f62",
+  "active": "f36457a2bb702389",
   "lastOpenFiles": [
     "13.2.1 Development of Endocrine Organs (Anatomy).md",
-    "MD1.2.md",
     "13.5.0 Biochem - Feeding + fasting (Biochemistry).md",
     "13.5.0 Biochem - Glucose Homeostasis (Biochemistry).md",
+    "MD1.2.md",
     "Week 13.md",
     "13.2.5 Endocrine Control Systems 1 (Physiology).md",
     "System/Templates/lecture (template).md",
