@@ -350,27 +350,26 @@
                   "title": "New tab"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
         "x": 2604,
         "y": 5,
-        "width": 587,
-        "height": 713,
+        "width": 1761,
+        "height": 2139,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "a0c4ebf7e0565b65",
+  "active": "e1b0b46047c34f62",
   "lastOpenFiles": [
+    "13.2.1 Development of Endocrine Organs (Anatomy).md",
     "MD1.2.md",
     "13.5.0 Biochem - Feeding + fasting (Biochemistry).md",
     "13.5.0 Biochem - Glucose Homeostasis (Biochemistry).md",
     "Week 13.md",
-    "13.2.1 Development of Endocrine Organs (Anatomy).md",
     "13.2.5 Endocrine Control Systems 1 (Physiology).md",
     "System/Templates/lecture (template).md",
     "13.2.6 Endocrine Control Systems 2 (Physiology).md",
