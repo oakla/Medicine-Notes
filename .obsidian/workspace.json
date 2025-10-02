@@ -353,42 +353,28 @@
                   "icon": "lucide-file",
                   "title": "Pentose Phosphate Pathway"
                 }
-              },
-              {
-                "id": "0f9af4f283e2ae9b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Untitled 4.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Untitled 4"
-                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 615,
-        "height": 752,
+        "x": 13,
+        "y": 209,
+        "width": 753,
+        "height": 816,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "a0c4ebf7e0565b65",
+  "active": "bfbba92374202cff",
   "lastOpenFiles": [
     "Untitled 4.md",
+    "13.2.1 Development of Endocrine Organs (Anatomy).md",
     "Pentose Phosphate Pathway.md",
     "13.5.0 Biochem - Feeding + fasting (Biochemistry).md",
     "13.5.0 Biochem - Glucose Homeostasis (Biochemistry).md",
-    "13.2.1 Development of Endocrine Organs (Anatomy).md",
     "MD1.2.md",
     "Week 13.md",
     "13.2.5 Endocrine Control Systems 1 (Physiology).md",
