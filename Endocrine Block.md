@@ -1,0 +1,8 @@
+---
+aliases: 
+tags: 
+---
+
+
+
+Pancreas
