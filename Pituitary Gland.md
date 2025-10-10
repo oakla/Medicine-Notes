@@ -3,6 +3,9 @@ aliases:
 tags: 
 ---
 
+## Important Concepts and things to know
+- hypthalamic hypophyseal portal vessels
+- hypothalamic hypophyseal tract
 
 
 ## 
