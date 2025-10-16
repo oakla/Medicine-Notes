@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Abdominal Pain patterns",
+      "path": "Abdominal Pain patterns.md"
+    },
+    {
       "basename": "Surgical Sieve(s)",
       "path": "Surgical Sieve(s).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "05.3.3 Absorption (Physiology)",
       "path": "MD1/Sem2/Content/05.3.3 Absorption (Physiology).md"
-    },
-    {
-      "basename": "12.1.8 Seminar - Kidney Failure (Clinical)",
-      "path": "12.1.8 Seminar - Kidney Failure (Clinical).md"
     }
   ],
   "omittedPaths": [],
