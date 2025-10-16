@@ -4,104 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "d57ed2a35357bfe3",
-        "type": "split",
+        "id": "3fb56729327b5bc8",
+        "type": "tabs",
         "children": [
           {
-            "id": "3fb56729327b5bc8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c93e32e4a44d39cd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MD1.2.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "MD1.2"
-                }
+            "id": "c93e32e4a44d39cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD1.2.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "a76843a0c69a7eaa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Endocrine Block.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Endocrine Block"
-                }
-              },
-              {
-                "id": "639f343ffb126626",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "13.3.3 Endocrine pancreas and diabetes and its complications (Pathology).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "13.3.3 Endocrine pancreas and diabetes and its complications (Pathology)"
-                }
-              },
-              {
-                "id": "21be0416f3a420a4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Week 13.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Week 13"
-                }
-              },
-              {
-                "id": "dbf7546a984a220b",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ],
-            "currentTab": 4
+              "icon": "lucide-file",
+              "title": "MD1.2"
+            }
           },
           {
-            "id": "86f8e5ed4d18987b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c105858e7b13a209",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "13.3.3 Endocrine pancreas and diabetes and its complications (Pathology).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "13.3.3 Endocrine pancreas and diabetes and its complications (Pathology)"
-                }
-              }
-            ]
+            "id": "a76843a0c69a7eaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Endocrine Block.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Endocrine Block"
+            }
+          },
+          {
+            "id": "639f343ffb126626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13.3.3 Endocrine pancreas and diabetes and its complications (Pathology).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13.3.3 Endocrine pancreas and diabetes and its complications (Pathology)"
+            }
+          },
+          {
+            "id": "21be0416f3a420a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 13"
+            }
+          },
+          {
+            "id": "dbf7546a984a220b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD1/Sem2/Content/05.4.2 Overview of GIT pathology (Pathology).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.4.2 Overview of GIT pathology (Pathology)"
+            }
+          },
+          {
+            "id": "a49a123189ae64e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Surgical Sieve(s).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Surgical Sieve(s)"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:System-block/GIT",
+                "query": "vitamin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "aa66f78dd15e4d7e",
@@ -192,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -396,8 +386,19 @@
                   "icon": "lucide-file",
                   "title": "13.2.6 Endocrine Control Systems 2 (Physiology)"
                 }
+              },
+              {
+                "id": "dfe0f3dfb1786461",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -410,17 +411,19 @@
       }
     ]
   },
-  "active": "39ed22344fd57296",
+  "active": "a49a123189ae64e6",
   "lastOpenFiles": [
-    "Pituitary Gland.md",
+    "MD1/Sem2/Content/05.4.2 Overview of GIT pathology (Pathology).md",
+    "Surgical Sieve(s).md",
+    "MD1/Sem2/Content/06.3.2 Oesophagus (Pathology).md",
     "13.2.5 Endocrine Control Systems 1 (Physiology).md",
+    "Pituitary Gland.md",
     "13.2.6 Endocrine Control Systems 2 (Physiology).md",
     "MD1.2.md",
     "Endocrine Block.md",
     "13.3.3 Endocrine pancreas and diabetes and its complications (Pathology).md",
     "13.3.2 Pathology of the adrenal gland (Pathology).md",
     "Week 13.md",
-    "Untitled 4.md",
     "15.2.4 Endocrine Histology (Anatomy).md",
     "13.2.1 Development of Endocrine Organs (Anatomy).md",
     "Pentose Phosphate Pathway.md",
@@ -436,8 +439,6 @@
     "Crohn Disease.md",
     "GIT Pathology by body Site.md",
     "Stomach.md",
-    "Test 2.md",
-    "Ulcerative Colitis.md",
     "Untitled.canvas",
     "Urinary System Histology and Anatomy Mind Map.canvas",
     "MD1/Sem2/Content/MD1.2 Content.base",

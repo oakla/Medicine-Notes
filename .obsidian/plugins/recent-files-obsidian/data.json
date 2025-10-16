@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Surgical Sieve(s)",
+      "path": "Surgical Sieve(s).md"
+    },
+    {
+      "basename": "05.4.2 Overview of GIT pathology (Pathology)",
+      "path": "MD1/Sem2/Content/05.4.2 Overview of GIT pathology (Pathology).md"
+    },
+    {
+      "basename": "06.3.2 Oesophagus (Pathology)",
+      "path": "MD1/Sem2/Content/06.3.2 Oesophagus (Pathology).md"
+    },
+    {
       "basename": "13.2.5 Endocrine Control Systems 1 (Physiology)",
       "path": "13.2.5 Endocrine Control Systems 1 (Physiology).md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "12.1.8 Seminar - Kidney Failure (Clinical)",
       "path": "12.1.8 Seminar - Kidney Failure (Clinical).md"
-    },
-    {
-      "basename": "gastrocnemius",
-      "path": "gastrocnemius.md"
-    },
-    {
-      "basename": "Augmented Renal Clearance",
-      "path": "Augmented Renal Clearance.md"
-    },
-    {
-      "basename": "Acute kidney injury",
-      "path": "Acute kidney injury.md"
     }
   ],
   "omittedPaths": [],
