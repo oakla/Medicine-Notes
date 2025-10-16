@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Abdominal Pain patterns",
-      "path": "Abdominal Pain patterns.md"
+      "basename": "Cardiovascular system",
+      "path": "Cardiovascular system.md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
     },
     {
       "basename": "Surgical Sieve(s)",
       "path": "Surgical Sieve(s).md"
+    },
+    {
+      "basename": "Abdominal Pain patterns",
+      "path": "Abdominal Pain patterns.md"
     },
     {
       "basename": "05.4.2 Overview of GIT pathology (Pathology)",
@@ -27,10 +35,6 @@
     {
       "basename": "13.2.6 Endocrine Control Systems 2 (Physiology)",
       "path": "13.2.6 Endocrine Control Systems 2 (Physiology).md"
-    },
-    {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
     },
     {
       "basename": "Endocrine Block",
@@ -195,10 +199,6 @@
     {
       "basename": "05.3.2 Digestion (Physiology)",
       "path": "MD1/Sem2/Content/05.3.2 Digestion (Physiology).md"
-    },
-    {
-      "basename": "05.3.3 Absorption (Physiology)",
-      "path": "MD1/Sem2/Content/05.3.3 Absorption (Physiology).md"
     }
   ],
   "omittedPaths": [],
