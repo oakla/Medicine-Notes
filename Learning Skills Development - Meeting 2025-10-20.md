@@ -5,7 +5,8 @@ tags:
 
 
 
-- don't go to charlies for surg!
+- don't go to charlies for surg or Gen Med!
+	- 
 	- RPH or Fiona Stanley is good for surg (Fiona Stanley is really good)
 - internal med at charlies is good (entro, cardio)
 - neuro good at FSH
