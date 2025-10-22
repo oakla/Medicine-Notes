@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "639f343ffb126626",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13.3.3 Endocrine pancreas and diabetes and its complications (Pathology).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13.3.3 Endocrine pancreas and diabetes and its complications (Pathology)"
-            }
-          },
-          {
             "id": "21be0416f3a420a4",
             "type": "leaf",
             "state": {
@@ -64,20 +50,6 @@
             }
           },
           {
-            "id": "dbf7546a984a220b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD1/Sem2/Content/05.4.2 Overview of GIT pathology (Pathology).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05.4.2 Overview of GIT pathology (Pathology)"
-            }
-          },
-          {
             "id": "a49a123189ae64e6",
             "type": "leaf",
             "state": {
@@ -89,34 +61,6 @@
               },
               "icon": "lucide-file",
               "title": "Surgical Sieve(s)"
-            }
-          },
-          {
-            "id": "141602bf3e024347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD1.2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MD1.2"
-            }
-          },
-          {
-            "id": "2d5a65bdf8af3a9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cardiovascular system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cardiovascular system"
             }
           }
         ]
@@ -465,7 +409,7 @@
               {
                 "id": "58660c10749d3dc0",
                 "type": "tabs",
-                "dimension": 34.88843813387424,
+                "dimension": 34.27991886409736,
                 "children": [
                   {
                     "id": "ff3d89526bbcd927",
@@ -482,45 +426,17 @@
                     }
                   },
                   {
-                    "id": "6c03afd3db85fdb8",
+                    "id": "79d2c12382a0f846",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "17.3.2 Malignant breast disease (Pathology).md",
+                        "file": "16.1.1 Reproductive Tract Histology (Anatomy).md",
                         "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "17.3.2 Malignant breast disease (Pathology)"
-                    }
-                  },
-                  {
-                    "id": "1963cce630e023c8",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "17.3.1 Benign breast disease (Pathology).md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "17.3.1 Benign breast disease (Pathology)"
-                    }
-                  },
-                  {
-                    "id": "690dc721364c4de2",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "17.3.2 Malignant breast disease (Pathology).md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "17.3.2 Malignant breast disease (Pathology)"
+                      "title": "16.1.1 Reproductive Tract Histology (Anatomy)"
                     }
                   },
                   {
@@ -538,26 +454,22 @@
                     }
                   },
                   {
-                    "id": "fff366da7cf7a1e9",
+                    "id": "95295491c5d5c68f",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Paget’s Disease.md",
-                        "mode": "source",
-                        "source": false
-                      },
+                      "type": "empty",
+                      "state": {},
                       "icon": "lucide-file",
-                      "title": "Paget’s Disease"
+                      "title": "New tab"
                     }
                   }
                 ],
-                "currentTab": 3
+                "currentTab": 1
               },
               {
                 "id": "daf7c4e969373ff8",
                 "type": "tabs",
-                "dimension": 65.11156186612575,
+                "dimension": 65.72008113590265,
                 "children": [
                   {
                     "id": "6268fa07c8fe03d6",
@@ -572,8 +484,23 @@
                       "icon": "lucide-file",
                       "title": "17.3.2 Malignant breast disease (Pathology)"
                     }
+                  },
+                  {
+                    "id": "6e5cc46e79b294cc",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "16.1.1 Reproductive Tract Histology (Anatomy).md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "16.1.1 Reproductive Tract Histology (Anatomy)"
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "horizontal"
@@ -582,41 +509,41 @@
         "direction": "vertical",
         "x": 136,
         "y": 20,
-        "width": 681,
+        "width": 951,
         "height": 986,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "6268fa07c8fe03d6",
+  "active": "6e5cc46e79b294cc",
   "lastOpenFiles": [
+    "Repro Block.md",
+    "16.1.1 Reproductive Tract Histology (Anatomy).md",
+    "15.1.4 Development of Reproductive Tracts (Anatomy).md",
+    "MD1.2.md",
+    "13.2.0 Biochem - Feeding + fasting (Biochemistry).md",
+    "Endocrine Block.md",
+    "Cardiovascular system.md",
+    "13.3.3 Endocrine pancreas and diabetes and its complications (Pathology).md",
+    "Week 13.md",
+    "13.2.0 Biochem - Glucose Homeostasis (Biochemistry).md",
     "17.1.6 Pathology of the testis, epididymis & penis (Pathology).md",
     "Paget’s Disease.md",
-    "Repro Block.md",
     "17.3.2 Malignant breast disease (Pathology).md",
     "17.3.1 Benign breast disease (Pathology).md",
     "Learning Skills Development - Meeting 2025-10-20.md",
     "Pituitary Gland.md",
     "15.2.4 Endocrine Histology (Anatomy).md",
-    "MD1.2.md",
     "Abdominal Pain patterns.md",
     "Renal System.md",
-    "Cardiovascular system.md",
     "Surgical Sieve(s).md",
     "MD1/Sem2/Content/05.4.2 Overview of GIT pathology (Pathology).md",
     "MD1/Sem2/Content/06.3.2 Oesophagus (Pathology).md",
     "13.2.5 Endocrine Control Systems 1 (Physiology).md",
     "13.2.6 Endocrine Control Systems 2 (Physiology).md",
-    "Endocrine Block.md",
-    "13.3.3 Endocrine pancreas and diabetes and its complications (Pathology).md",
     "13.3.2 Pathology of the adrenal gland (Pathology).md",
-    "Week 13.md",
     "13.2.1 Development of Endocrine Organs (Anatomy).md",
-    "Pentose Phosphate Pathway.md",
-    "13.5.0 Biochem - Feeding + fasting (Biochemistry).md",
-    "13.5.0 Biochem - Glucose Homeostasis (Biochemistry).md",
-    "System/Templates/lecture (template).md",
     "Untitled.canvas",
     "Urinary System Histology and Anatomy Mind Map.canvas",
     "MD1/Sem2/Content/MD1.2 Content.base",
