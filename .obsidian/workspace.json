@@ -463,7 +463,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "b74536879a01c512",
+                "id": "ff3d89526bbcd927",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -475,26 +475,101 @@
                   "icon": "lucide-file",
                   "title": "Repro Block"
                 }
+              },
+              {
+                "id": "6c03afd3db85fdb8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "17.3.2 Malignant breast disease (Pathology).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "17.3.2 Malignant breast disease (Pathology)"
+                }
+              },
+              {
+                "id": "1963cce630e023c8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "17.3.1 Benign breast disease (Pathology).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "17.3.1 Benign breast disease (Pathology)"
+                }
+              },
+              {
+                "id": "690dc721364c4de2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "17.3.2 Malignant breast disease (Pathology).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "17.3.2 Malignant breast disease (Pathology)"
+                }
+              },
+              {
+                "id": "b74536879a01c512",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "17.1.6 Pathology of the testis, epididymis & penis (Pathology).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "17.1.6 Pathology of the testis, epididymis & penis (Pathology)"
+                }
+              },
+              {
+                "id": "fff366da7cf7a1e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Paget’s Disease.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Paget’s Disease"
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
-        "x": 340,
-        "y": 76,
-        "width": 600,
-        "height": 600,
+        "x": 590,
+        "y": 40,
+        "width": 682,
+        "height": 601,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d2553f789ed557f4",
+  "active": "690dc721364c4de2",
   "lastOpenFiles": [
-    "Pituitary Gland.md",
-    "Learning Skills Development - Meeting 2025-10-20.md",
-    "15.2.4 Endocrine Histology (Anatomy).md",
+    "17.1.6 Pathology of the testis, epididymis & penis (Pathology).md",
+    "Paget’s Disease.md",
     "Repro Block.md",
+    "17.3.2 Malignant breast disease (Pathology).md",
+    "17.3.1 Benign breast disease (Pathology).md",
+    "Learning Skills Development - Meeting 2025-10-20.md",
+    "Pituitary Gland.md",
+    "15.2.4 Endocrine Histology (Anatomy).md",
     "MD1.2.md",
     "Abdominal Pain patterns.md",
     "Renal System.md",
@@ -513,10 +588,6 @@
     "13.5.0 Biochem - Feeding + fasting (Biochemistry).md",
     "13.5.0 Biochem - Glucose Homeostasis (Biochemistry).md",
     "System/Templates/lecture (template).md",
-    "13.2.2 Endocrine Anatomy and Histology (Anatomy).md",
-    "Inflammatory Bowel Disease.md",
-    "MD1/Sem2/Content/06.1.3 Anatomy and Histology of the Exocrine Foregut (Anatomy).md",
-    "Renal Failure.md",
     "Untitled.canvas",
     "Urinary System Histology and Anatomy Mind Map.canvas",
     "MD1/Sem2/Content/MD1.2 Content.base",
