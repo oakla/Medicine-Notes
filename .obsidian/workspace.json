@@ -440,10 +440,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 802,
-        "y": 340,
-        "width": 955,
-        "height": 941,
+        "x": 326,
+        "y": 0,
+        "width": 954,
+        "height": 752,
         "maximize": false,
         "zoom": 0
       }
@@ -451,8 +451,9 @@
   },
   "active": "aacbfc8857ecad60",
   "lastOpenFiles": [
-    "MD1.2.md",
     "16.1.1 Reproductive Tract Histology (Anatomy).md",
+    "12.3.1 Drugs in kidney disease (Pharmacology).md",
+    "MD1.2.md",
     "Pituitary Gland.md",
     "15.2.4 Endocrine Histology (Anatomy).md",
     "Learning Skills Development - Meeting 2025-10-20.md",
@@ -476,7 +477,6 @@
     "MD1/Sem2/Content/05.4.2 Overview of GIT pathology (Pathology).md",
     "MD1/Sem2/Content/06.3.2 Oesophagus (Pathology).md",
     "13.3.2 Pathology of the adrenal gland (Pathology).md",
-    "13.2.1 Development of Endocrine Organs (Anatomy).md",
     "Untitled.canvas",
     "Urinary System Histology and Anatomy Mind Map.canvas",
     "MD1/Sem2/Content/MD1.2 Content.base",
