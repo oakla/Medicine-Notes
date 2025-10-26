@@ -2,6 +2,9 @@
 aliases:
   - DHEA
 tags:
+Mentioned in:
+  - "[[13.2.2 Endocrine Anatomy and Histology (Anatomy)]]"
+  - "[[13.2.6 Endocrine Control Systems 2 (Physiology)]]"
 ---
 
 
