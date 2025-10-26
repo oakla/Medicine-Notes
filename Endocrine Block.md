@@ -4,7 +4,7 @@ tags:
 ---
 
 ## Secretions
-
+- [[Dehydroepiandrosterone|DHEA]]
 
 ## Glands
 Pancreas
