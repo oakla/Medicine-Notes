@@ -58,6 +58,7 @@ tags:
 - [[17.4.8 Seminar - Sexual Health - History Taking (Clinical)]]
 - [[17.5.2 Sexual history taking Groups 1-10 (Clinical Skills)]]
 - [[17.5.4 SGL - Repro (Pathology)]]
+Week 18
 - [[18.1.0 15.0 Introduction to herpes viruses (MM)]]
 - [[18.1.2 Maternal Physiological Changes in Pregnancy (Clinical)]]
 - [[18.1.3 Labour and Birth - intrapartum care (Clinical)]]
