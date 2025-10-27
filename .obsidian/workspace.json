@@ -405,10 +405,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 632,
+        "x": 2552,
         "y": 0,
-        "width": 648,
-        "height": 752,
+        "width": 1944,
+        "height": 2256,
         "maximize": false,
         "zoom": 0
       },
@@ -481,16 +481,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 625,
+        "x": 2545,
         "y": 0,
-        "width": 650,
-        "height": 752,
+        "width": 1965,
+        "height": 2256,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "c93e32e4a44d39cd",
+  "active": "669d71d747a81dcf",
   "lastOpenFiles": [
     "Repro Block.md",
     "MD1.2.md",
