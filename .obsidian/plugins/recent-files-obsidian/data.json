@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Repro Block",
+      "path": "Repro Block.md"
+    },
+    {
+      "basename": "Week 13",
+      "path": "Week 13.md"
+    },
+    {
       "basename": "16.1.1 Reproductive Tract Histology (Anatomy)",
       "path": "16.1.1 Reproductive Tract Histology (Anatomy).md"
     },
     {
       "basename": "18.1.6 Fetal development and growth (Clinical)",
       "path": "18.1.6 Fetal development and growth (Clinical).md"
-    },
-    {
-      "basename": "Week 13",
-      "path": "Week 13.md"
     },
     {
       "basename": "17.3.2 Malignant breast disease (Pathology)",
@@ -43,10 +47,6 @@
     {
       "basename": "lecture (template)",
       "path": "System/Templates/lecture (template).md"
-    },
-    {
-      "basename": "Repro Block",
-      "path": "Repro Block.md"
     },
     {
       "basename": "Endocrine Block",

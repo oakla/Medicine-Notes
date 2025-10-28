@@ -395,24 +395,24 @@
                   "title": "16.1.1 Reproductive Tract Histology (Anatomy)"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 452,
-        "y": 0,
-        "width": 727,
-        "height": 752,
+        "x": 2608,
+        "y": 100,
+        "width": 1305,
+        "height": 2157,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e441ce1cdade1fea",
+  "active": "ff3d89526bbcd927",
   "lastOpenFiles": [
-    "18.1.6 Fetal development and growth (Clinical).md",
     "Week 13.md",
+    "16.1.1 Reproductive Tract Histology (Anatomy).md",
+    "18.1.6 Fetal development and growth (Clinical).md",
     "17.3.2 Malignant breast disease (Pathology).md",
     "15.1.4 Development of Reproductive Tracts (Anatomy).md",
     "MD1.2.md",
@@ -422,7 +422,6 @@
     "Surgical Sieve(s).md",
     "System/Templates/lecture (template).md",
     "Repro Block.md",
-    "16.1.1 Reproductive Tract Histology (Anatomy).md",
     "Endocrine Block.md",
     "13.2.5 Endocrine Control Systems 1 (Physiology).md",
     "Hormone Types.md",
