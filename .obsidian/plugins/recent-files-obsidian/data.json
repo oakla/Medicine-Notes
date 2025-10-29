@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Intra-amniotic infection",
+      "path": "Intra-amniotic infection.md"
+    },
+    {
+      "basename": "18.3.3 Postnatal infections (Microbiology)",
+      "path": "18.3.3 Postnatal infections (Microbiology).md"
+    },
+    {
+      "basename": "16.1.1 Reproductive Tract Histology (Anatomy)",
+      "path": "16.1.1 Reproductive Tract Histology (Anatomy).md"
+    },
+    {
+      "basename": "Repro Block",
+      "path": "Repro Block.md"
+    },
+    {
+      "basename": "Post-partum infection",
+      "path": "Post-partum infection.md"
+    },
+    {
       "basename": "13.2.6 Endocrine Control Systems 2 (Physiology)",
       "path": "13.2.6 Endocrine Control Systems 2 (Physiology).md"
     },
     {
       "basename": "Endocrine Block",
       "path": "Endocrine Block.md"
-    },
-    {
-      "basename": "16.1.1 Reproductive Tract Histology (Anatomy)",
-      "path": "16.1.1 Reproductive Tract Histology (Anatomy).md"
     },
     {
       "basename": "Week 13",
@@ -23,10 +39,6 @@
     {
       "basename": "17.1.6 Pathology of the testis, epididymis & penis (Pathology)",
       "path": "17.1.6 Pathology of the testis, epididymis & penis (Pathology).md"
-    },
-    {
-      "basename": "Repro Block",
-      "path": "Repro Block.md"
     },
     {
       "basename": "18.1.6 Fetal development and growth (Clinical)",
@@ -187,18 +199,6 @@
     {
       "basename": "Renal other topic summaries",
       "path": "Renal other topic summaries.md"
-    },
-    {
-      "basename": "Liver Diseases, Conditions",
-      "path": "Liver Diseases, Conditions.md"
-    },
-    {
-      "basename": "2025-09-20",
-      "path": "Journalling/Daily-notes/2025-09-20.md"
-    },
-    {
-      "basename": "Liver (some) Pathology - AI Summary",
-      "path": "Liver (some) Pathology - AI Summary.md"
     }
   ],
   "omittedPaths": [],

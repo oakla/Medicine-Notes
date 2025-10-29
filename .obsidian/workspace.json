@@ -324,16 +324,58 @@
                   "icon": "lucide-file",
                   "title": "16.1.1 Reproductive Tract Histology (Anatomy)"
                 }
+              },
+              {
+                "id": "9d78d30e3adc0240",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "18.3.3 Postnatal infections (Microbiology).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "18.3.3 Postnatal infections (Microbiology)"
+                }
+              },
+              {
+                "id": "cefb50384c924160",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Intra-amniotic infection.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Intra-amniotic infection"
+                }
+              },
+              {
+                "id": "5809943d40af144d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Post-partum infection.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Post-partum infection"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
-        "x": 2442,
-        "y": -88,
+        "x": 11,
+        "y": 6,
         "width": 751,
-        "height": 732,
+        "height": 731,
         "maximize": false,
         "zoom": 0
       },
@@ -372,15 +414,18 @@
       }
     ]
   },
-  "active": "5c0f1131250b5dba",
+  "active": "cefb50384c924160",
   "lastOpenFiles": [
-    "Endocrine Block.md",
-    "13.2.6 Endocrine Control Systems 2 (Physiology).md",
+    "18.3.3 Postnatal infections (Microbiology).md",
     "16.1.1 Reproductive Tract Histology (Anatomy).md",
+    "Intra-amniotic infection.md",
+    "Repro Block.md",
+    "Post-partum infection.md",
+    "13.2.6 Endocrine Control Systems 2 (Physiology).md",
+    "Endocrine Block.md",
     "Week 13.md",
     "Journalling/Daily-notes/2025-10-27.md",
     "17.1.6 Pathology of the testis, epididymis & penis (Pathology).md",
-    "Repro Block.md",
     "18.1.6 Fetal development and growth (Clinical).md",
     "17.3.2 Malignant breast disease (Pathology).md",
     "15.1.4 Development of Reproductive Tracts (Anatomy).md",
@@ -397,9 +442,6 @@
     "Pituitary Gland.md",
     "15.2.4 Endocrine Histology (Anatomy).md",
     "Abdominal Pain patterns.md",
-    "13.2.0 Biochem - Feeding + fasting (Biochemistry).md",
-    "Cardiovascular system.md",
-    "13.3.3 Endocrine pancreas and diabetes and its complications (Pathology).md",
     "Untitled.canvas",
     "Urinary System Histology and Anatomy Mind Map.canvas",
     "MD1/Sem2/Content/MD1.2 Content.base",
