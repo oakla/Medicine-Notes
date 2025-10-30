@@ -271,10 +271,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry).md"
+                "file": "13.2.6 Endocrine Control Systems 2 (Physiology).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry)"
+              "title": "File properties for 13.2.6 Endocrine Control Systems 2 (Physiology)"
             }
           }
         ],
@@ -385,9 +385,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 11,
-        "y": 6,
-        "width": 751,
+        "x": 18,
+        "y": 10,
+        "width": 750,
         "height": 731,
         "maximize": false,
         "zoom": 0
@@ -407,7 +407,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "13.2.6 Endocrine Control Systems 2 (Physiology).md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -451,7 +451,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 128,
+        "x": 2048,
         "y": 0,
         "width": 692,
         "height": 752,
@@ -460,12 +460,12 @@
       }
     ]
   },
-  "active": "af7bc2ea4ce63a3c",
+  "active": "5c0f1131250b5dba",
   "lastOpenFiles": [
-    "13.2.0 Biochem - Glucose Homeostasis (Biochemistry).md",
-    "13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry).md",
-    "Endocrine Block.md",
     "Intra-amniotic infection.md",
+    "13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry).md",
+    "13.2.0 Biochem - Glucose Homeostasis (Biochemistry).md",
+    "Endocrine Block.md",
     "18.3.3 Postnatal infections (Microbiology).md",
     "16.1.1 Reproductive Tract Histology (Anatomy).md",
     "Repro Block.md",
