@@ -150,7 +150,7 @@ unifying and/or important concepts
 ## Week 13+ Post Test 2: [[Endocrine Block]]
 ### [[Week 13]]
 - [[13.2.0 Biochem - Glucose Homeostasis (Biochemistry)]]
-- [[13.2.0 Biochem - Feeding + fasting (Biochemistry)]]
+- [[13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry)]]
 - [[13.2.1 Development of Endocrine Organs (Anatomy)]]
 - [[13.2.2 Endocrine Anatomy and Histology (Anatomy)]]
 - [[13.2.5 Endocrine Control Systems 1 (Physiology)]]

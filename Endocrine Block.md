@@ -17,7 +17,7 @@ Pancreas
 - [[13.2.5 Endocrine Control Systems 1 (Physiology)]]
 - [[13.2.6 Endocrine Control Systems 2 (Physiology)]]
 - [[13.2.0 Biochem - Glucose Homeostasis (Biochemistry)]]
-- [[13.2.0 Biochem - Feeding + fasting (Biochemistry)]]
+- [[13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry)]]
 - [[13.3.1 Pituitary pathology (Pathology)]]
 - [[13.3.2 Pathology of the adrenal gland (Pathology)]]
 - [[13.3.3 Endocrine pancreas and diabetes and its complications (Pathology)]]

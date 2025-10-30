@@ -64,6 +64,34 @@
             }
           },
           {
+            "id": "cab592ddd8a9a411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry)"
+            }
+          },
+          {
+            "id": "e29c20b146397d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13.2.0 Biochem - Glucose Homeostasis (Biochemistry).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13.2.0 Biochem - Glucose Homeostasis (Biochemistry)"
+            }
+          },
+          {
             "id": "21be0416f3a420a4",
             "type": "leaf",
             "state": {
@@ -78,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -257,19 +285,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Respiratory Block.md"
+                "file": "13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Respiratory Block"
+              "title": "File properties for 13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -372,8 +399,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 11,
-        "y": 6,
+        "x": 2571,
+        "y": 188,
         "width": 751,
         "height": 731,
         "maximize": false,
@@ -414,15 +441,17 @@
       }
     ]
   },
-  "active": "cefb50384c924160",
+  "active": "a05ccadfe040ac3a",
   "lastOpenFiles": [
+    "13.2.0 Biochem - Glucose Homeostasis (Biochemistry).md",
+    "13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry).md",
+    "Endocrine Block.md",
+    "Intra-amniotic infection.md",
     "18.3.3 Postnatal infections (Microbiology).md",
     "16.1.1 Reproductive Tract Histology (Anatomy).md",
-    "Intra-amniotic infection.md",
     "Repro Block.md",
     "Post-partum infection.md",
     "13.2.6 Endocrine Control Systems 2 (Physiology).md",
-    "Endocrine Block.md",
     "Week 13.md",
     "Journalling/Daily-notes/2025-10-27.md",
     "17.1.6 Pathology of the testis, epididymis & penis (Pathology).md",
@@ -440,8 +469,6 @@
     "Learning Skills Development - Meeting 2025-10-20.md",
     "12.3.1 Drugs in kidney disease (Pharmacology).md",
     "Pituitary Gland.md",
-    "15.2.4 Endocrine Histology (Anatomy).md",
-    "Abdominal Pain patterns.md",
     "Untitled.canvas",
     "Urinary System Histology and Anatomy Mind Map.canvas",
     "MD1/Sem2/Content/MD1.2 Content.base",
