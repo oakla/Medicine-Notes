@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Endocrine Block",
+      "path": "Endocrine Block.md"
+    },
+    {
+      "basename": "15.1.8 Drugs in diabetes 2 (Pharmacology)",
+      "path": "15.1.8 Drugs in diabetes 2 (Pharmacology).md"
+    },
+    {
       "basename": "18.4.9 Drug treatment in pregnancy and lactation (Pharmacology)",
       "path": "18.4.9 Drug treatment in pregnancy and lactation (Pharmacology).md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry)",
       "path": "13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry).md"
-    },
-    {
-      "basename": "Endocrine Block",
-      "path": "Endocrine Block.md"
     },
     {
       "basename": "18.3.3 Postnatal infections (Microbiology)",
@@ -195,10 +199,6 @@
     {
       "basename": "Renal anatomy and physiology MD1",
       "path": "Renal anatomy and physiology MD1.md"
-    },
-    {
-      "basename": "08.2.0.2 Diarrhoea, constipation, pancreatic insufficiency (Pharmacology)",
-      "path": "08.2.0.2 Diarrhoea, constipation, pancreatic insufficiency (Pharmacology).md"
     }
   ],
   "omittedPaths": [],

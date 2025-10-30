@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -225,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "6030ddf6a3a5d80c",
@@ -313,10 +314,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "18.4.9 Drug treatment in pregnancy and lactation (Pharmacology).md"
+                "file": "Endocrine Block.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 18.4.9 Drug treatment in pregnancy and lactation (Pharmacology)"
+              "title": "File properties for Endocrine Block"
             }
           }
         ],
@@ -502,17 +503,18 @@
       }
     ]
   },
-  "active": "467017ff7619dac2",
+  "active": "a76843a0c69a7eaa",
   "lastOpenFiles": [
-    "Repro Block.md",
+    "15.1.8 Drugs in diabetes 2 (Pharmacology).md",
+    "Endocrine Block.md",
     "18.4.9 Drug treatment in pregnancy and lactation (Pharmacology).md",
+    "Repro Block.md",
     "MD1.2.md",
     "Respiratory Block.md",
     "13.2.0 Biochem - Glucose Homeostasis (Biochemistry).md",
     "13.2.6 Endocrine Control Systems 2 (Physiology).md",
     "Intra-amniotic infection.md",
     "13.2.0 Biochem - Feeding + fasting & Glucose Homeostasis (Biochemistry).md",
-    "Endocrine Block.md",
     "18.3.3 Postnatal infections (Microbiology).md",
     "16.1.1 Reproductive Tract Histology (Anatomy).md",
     "Post-partum infection.md",
@@ -529,7 +531,6 @@
     "Hormone Types.md",
     "Dehydroepiandrosterone.md",
     "13.2.2 Endocrine Anatomy and Histology (Anatomy).md",
-    "Learning Skills Development - Meeting 2025-10-20.md",
     "Untitled.canvas",
     "Urinary System Histology and Anatomy Mind Map.canvas",
     "MD1/Sem2/Content/MD1.2 Content.base",
