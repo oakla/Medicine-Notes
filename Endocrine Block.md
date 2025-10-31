@@ -10,6 +10,9 @@ tags:
 Pancreas
 
 
+## Conditions
+- [[Diabetes]]
+
 # Events
 ## [[Week 13]]
 - [[13.2.1 Development of Endocrine Organs (Anatomy)]]

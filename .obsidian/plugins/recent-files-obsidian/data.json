@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Diabetes",
+      "path": "Diabetes.md"
+    },
+    {
+      "basename": "13.2.0 Biochem - Glucose Homeostasis (Biochemistry)",
+      "path": "13.2.0 Biochem - Glucose Homeostasis (Biochemistry).md"
+    },
+    {
       "basename": "Endocrine Block",
       "path": "Endocrine Block.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Respiratory Block",
       "path": "Respiratory Block.md"
-    },
-    {
-      "basename": "13.2.0 Biochem - Glucose Homeostasis (Biochemistry)",
-      "path": "13.2.0 Biochem - Glucose Homeostasis (Biochemistry).md"
     },
     {
       "basename": "13.2.6 Endocrine Control Systems 2 (Physiology)",
@@ -195,10 +199,6 @@
     {
       "basename": "Ulcerative Colitis",
       "path": "Ulcerative Colitis.md"
-    },
-    {
-      "basename": "Renal anatomy and physiology MD1",
-      "path": "Renal anatomy and physiology MD1.md"
     }
   ],
   "omittedPaths": [],
