@@ -5,6 +5,11 @@ tags:
 
 Diabetes mellitus is characterised by sustained hyperglycaemia
 
+Types
+- Type 1 Diabetes
+- Type 2 Diabetes
+- Gestational Diabetes
+
 # Type 1 Diabetes
 Treatment for T1D 
 - lifelong insulin
