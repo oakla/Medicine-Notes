@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "10.1.2 Development of the Urinary System (Anatomy)",
+      "path": "10.1.2 Development of the Urinary System (Anatomy).md"
+    },
+    {
+      "basename": "10.1.3 Urinary Anatomy and Histology (Anatomy)",
+      "path": "MD1/Sem2/Content/10.1.3 Urinary Anatomy and Histology (Anatomy).md"
+    },
+    {
+      "basename": "17.3.2 Malignant breast disease (Pathology)",
+      "path": "17.3.2 Malignant breast disease (Pathology).md"
+    },
+    {
+      "basename": "18.1.7 Immunodeficiency Disorders (Immunology)",
+      "path": "18.1.7 Immunodeficiency Disorders (Immunology).md"
+    },
+    {
+      "basename": "Diabetes",
+      "path": "Diabetes.md"
+    },
+    {
+      "basename": "MD1.2",
+      "path": "MD1.2.md"
+    },
+    {
       "basename": "16.1.3 Male repro physiology (Physiology)",
       "path": "16.1.3 Male repro physiology (Physiology).md"
     },
@@ -13,14 +37,6 @@
       "path": "18.4.9 Drug treatment in pregnancy and lactation (Pharmacology).md"
     },
     {
-      "basename": "Diabetes",
-      "path": "Diabetes.md"
-    },
-    {
-      "basename": "18.1.7 Immunodeficiency Disorders (Immunology)",
-      "path": "18.1.7 Immunodeficiency Disorders (Immunology).md"
-    },
-    {
       "basename": "Endocrine Block",
       "path": "Endocrine Block.md"
     },
@@ -31,10 +47,6 @@
     {
       "basename": "15.1.8 Drugs in diabetes 2 (Pharmacology)",
       "path": "15.1.8 Drugs in diabetes 2 (Pharmacology).md"
-    },
-    {
-      "basename": "MD1.2",
-      "path": "MD1.2.md"
     },
     {
       "basename": "Respiratory Block",
@@ -79,10 +91,6 @@
     {
       "basename": "18.1.6 Fetal development and growth (Clinical)",
       "path": "18.1.6 Fetal development and growth (Clinical).md"
-    },
-    {
-      "basename": "17.3.2 Malignant breast disease (Pathology)",
-      "path": "17.3.2 Malignant breast disease (Pathology).md"
     },
     {
       "basename": "15.1.4 Development of Reproductive Tracts (Anatomy)",
@@ -191,14 +199,6 @@
     {
       "basename": "GIT Pathology by body Site",
       "path": "GIT Pathology by body Site.md"
-    },
-    {
-      "basename": "Stomach",
-      "path": "Stomach.md"
-    },
-    {
-      "basename": "Test 2",
-      "path": "Test 2.md"
     }
   ],
   "omittedPaths": [],
