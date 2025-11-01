@@ -9,6 +9,8 @@ tags:
 # Key Concepts
 
 - [[Diuresis]]
+## Anatomy
+- [[Mesonephric Duct]]
 
 ## Pathology
 
@@ -37,7 +39,7 @@ tags:
 - Polycystic kidney disease
 - Renal transplantation
 
-## Teacher Emphasis / Lecture Hints
+# Teacher Emphasis / Lecture Hints
 
 ## Phys
 - what is Glomerular blood hydrostatic pressure[^2]
@@ -57,7 +59,7 @@ Long Answer Qs
 - Describe the pathophysiologyof UTI and how it relates to risk factors for UTI
 - Describe the indications for treatment of asymptomatic bacteriuria, and reasons why
 
-### My prompts
+## My prompts
 
 In the renal tubules
 - where are the aquaporins?

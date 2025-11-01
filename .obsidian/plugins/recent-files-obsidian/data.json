@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "15.1.4 Development of Reproductive Tracts (Anatomy)",
-      "path": "15.1.4 Development of Reproductive Tracts (Anatomy).md"
+      "basename": "18.4.9 Drug treatment in pregnancy and lactation (Pharmacology)",
+      "path": "18.4.9 Drug treatment in pregnancy and lactation (Pharmacology).md"
     },
     {
       "basename": "MD1.2",
       "path": "MD1.2.md"
-    },
-    {
-      "basename": "Mesonephric Duct",
-      "path": "Mesonephric Duct.md"
-    },
-    {
-      "basename": "Repro Block",
-      "path": "Repro Block.md"
     },
     {
       "basename": "10.1.2 Development of the Urinary System (Anatomy)",
@@ -23,6 +15,22 @@
     {
       "basename": "10.1.3 Urinary Anatomy and Histology (Anatomy)",
       "path": "MD1/Sem2/Content/10.1.3 Urinary Anatomy and Histology (Anatomy).md"
+    },
+    {
+      "basename": "15.1.4 Development of Reproductive Tracts (Anatomy)",
+      "path": "15.1.4 Development of Reproductive Tracts (Anatomy).md"
+    },
+    {
+      "basename": "Repro Block",
+      "path": "Repro Block.md"
+    },
+    {
+      "basename": "Renal system - Logistics (MD1.2)",
+      "path": "Renal system - Logistics (MD1.2).md"
+    },
+    {
+      "basename": "Mesonephric Duct",
+      "path": "Mesonephric Duct.md"
     },
     {
       "basename": "17.3.2 Malignant breast disease (Pathology)",
@@ -39,10 +47,6 @@
     {
       "basename": "16.1.3 Male repro physiology (Physiology)",
       "path": "16.1.3 Male repro physiology (Physiology).md"
-    },
-    {
-      "basename": "18.4.9 Drug treatment in pregnancy and lactation (Pharmacology)",
-      "path": "18.4.9 Drug treatment in pregnancy and lactation (Pharmacology).md"
     },
     {
       "basename": "Endocrine Block",
@@ -195,10 +199,6 @@
     {
       "basename": "GIT Block (MD1.2)",
       "path": "MD1/Sem2/System Blocks/GIT Block (MD1.2).md"
-    },
-    {
-      "basename": "Crohn Disease",
-      "path": "Crohn Disease.md"
     }
   ],
   "omittedPaths": [],
